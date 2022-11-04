@@ -77,6 +77,12 @@ mappings = {
     'j': "drum-samples/hihat-open.wav",
     'a': "drum-samples/tambourine.wav",
     'z': "drum-samples/shaker.wav",
+    'u': "drum-samples/tom-high.wav",
+    'w': "drum-samples/tom-high.wav",
+    'x': "drum-samples/tom-low.wav",
+    'q': "drum-samples/tom-low-mid.wav",
+    't': "drum-samples/tom-mid.wav",
+    'v': "drum-samples/vibraslap.wav",
 }
 
 replacements = {
@@ -86,4 +92,5 @@ replacements = {
 
 replacement_chars = {
     "p": "y", # splash cymbal to cymbal
+    'd': 'r', # ride bell to ride
 }

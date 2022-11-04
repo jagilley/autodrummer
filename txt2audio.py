@@ -45,6 +45,7 @@ def text_to_audio(text, bpm):
             elif char == "n":
                 to_add = AudioSegment.silent(duration=buffer_length)
             else: # everything else is a clap
+                print('could not find mapping for ' + char)
                 to_add = AudioSegment.from_wav(mappings["l"])
 
         if len(to_add) < buffer_length:
@@ -70,8 +71,8 @@ if __name__=="__main__":
     #     audio = text_to_audio(row["note_text"], row["bpm"])
     #     audio.export(output_path, format="wav")
 
-    # test_text = "yrk n kr n hrs n hr s hr sh kr n hrs n hr s hrk n hkr n hsr n hr s hr s khr k shr n hr"
-    test_text = "kh n h k sh n h k h k kl n sh n h n k n h k ks n h k h k kl n shj n h n"
+    test_text = "yrk n kr n hrs n hr s hr sh kr n hrs n hr s hrk n hkr n hsr n hr s hr s khr k shr n hr"
+    # test_text = "kl n kh k ks k kl n h h l n ksh h kl n kh h kl k ksh kh kl n kh h l n ksh h kl n"
     audio = text_to_audio(test_text, 135)
     play(audio)
 

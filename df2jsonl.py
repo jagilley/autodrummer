@@ -72,16 +72,13 @@ meta['prompt'] = meta.progress_apply(lambda row: prompt(row['style'], row['kit_n
 df = meta[['prompt', 'completion']]
 
 # append '###' to the end of each completion
-# df['completion'] = df['completion'].apply(lambda x: " " + x + " ###")
+df['completion'] = df['completion'].apply(lambda x: " " + x + " ###")
 
 # append -> to the end of each prompt
-# df['prompt'] = df['prompt'].apply(lambda x: x + " ->")
+df['prompt'] = df['prompt'].apply(lambda x: x + " ->")
 
 # group by duplicate completions and print the number of unique prompts for each completion
 # print(df.groupby('completion')['prompt'].nunique().sort_values(ascending=False))
-
-# print all prompts that have completion ' k n r n s n r s r s k k s n r n k n r n s n r s r s k n s n r ###'
-# print(df[df['completion'] == ' k n r n s n r s r s k k s n r n k n r n s n r s r s k n s n r ###']['prompt'].unique())
 
 # deduplicate based on completions
 df = df.drop_duplicates(subset=['completion'])
@@ -92,4 +89,4 @@ df.to_csv('final-egmd.csv', index=False)
 df.to_json('drums.jsonl', orient='records', lines=True)
 
 # openai tools fine_tunes.prepare_data -f drums.jsonl
-# openai api fine_tunes.create -t drums.jsonl -m davinci --n_epochs 2 --suffix "autodrummer-v4"
+# openai api fine_tunes.create -t drums.jsonl -m davinci --n_epochs 2 --suffix "autodrummer-v5"

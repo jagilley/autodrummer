@@ -7,7 +7,7 @@ import os
 import openai
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
-finetune = "davinci:ft-personal:autodrummer-v4-2022-11-01-22-44-58"
+finetune = "davinci:ft-personal:autodrummer-v5-2022-11-04-22-34-07"
 
 def get_note_text(prompt):
     prompt = prompt + " ->"
@@ -15,8 +15,8 @@ def get_note_text(prompt):
     response = openai.Completion.create(
         engine=finetune,
         prompt=prompt,
-        temperature=0.7,
-        max_tokens=100,
+        temperature=0.4,
+        max_tokens=200,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0,
@@ -24,20 +24,21 @@ def get_note_text(prompt):
     )
     return response.choices[0].text.strip()
 
-prompt = "rock hard"
+prompt = "disco dance funk"
 
 test_text = get_note_text(prompt)
 
 # test_text = "kick none kick none snr none hh snr hh snr kick none snr none hh snr kick none kick none snr none hh snr hh snr kick kick snr none hh"
 
 print(test_text)
+print(len(test_text.split(" ")))
 
 audio = text_to_audio(test_text, 135)
 play(audio)
 # save audio
 audio.export(f"model-outs/{prompt}-{test_text.replace(' ', '')}.wav", format="wav")
 
-meta = pd.read_csv("e-gmd-q/info-matrix-text.csv")
+meta = pd.read_csv("e-gmd-q/info-matrix-text-multiple.csv")
 
 # filter rows where note_text is not of type str
 meta = meta[meta['note_text'].apply(lambda x: type(x) == str)]
