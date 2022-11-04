@@ -3,7 +3,7 @@ from tqdm import tqdm
 
 tqdm.pandas()
 
-meta = pd.read_csv('e-gmd-q/info-matrix-text.csv')
+meta = pd.read_csv('e-gmd-q/info-matrix-text-multiple.csv')
 
 # filter rows where note_text is not of type str
 meta = meta[meta['note_text'].apply(lambda x: type(x) == str)]
@@ -24,6 +24,12 @@ meta = meta[meta['note_text'].apply(lambda x: len(set(x.split(" ")[:4])) > 1)]
 meta = meta[meta['time_signature'] == '4-4']
 # filter values from meta where beat_type is not beat
 meta = meta[meta['beat_type'] == 'beat']
+
+# remove rows such that note_text.split(" ") < 30
+meta = meta[meta['note_text'].apply(lambda x: len(x.split(" ")) > 30)]
+
+# remove rows such that note_text.split(" ") is not divisible by 4
+meta = meta[meta['note_text'].apply(lambda x: len(x.split(" ")) % 4 == 0)]
 
 # count the number of rows in meta such that 'none' makes up the majority of the 'note_text' column
 # print(meta[meta['note_text'].str.count('none') > 16].shape[0])

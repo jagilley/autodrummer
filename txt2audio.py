@@ -71,7 +71,7 @@ if __name__=="__main__":
     #     audio.export(output_path, format="wav")
 
     # test_text = "yrk n kr n hrs n hr s hr sh kr n hrs n hr s hrk n hkr n hsr n hr s hr s khr k shr n hr"
-    test_text = "ka n az n sa n a s ka n az n sa n a n ka n az n sa s a s sa n ka n sa s ka"
+    test_text = "kh n h k sh n h k h k kl n sh n h n k n h k ks n h k h k kl n shj n h n"
     audio = text_to_audio(test_text, 135)
     play(audio)
 

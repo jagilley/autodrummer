@@ -47,7 +47,7 @@ def matrix_to_text(matrix, truncate=32):
     notes_reduce = ["".join(sorted(note, key=lambda x: order_list.index(x))) for note in notes_reduce]
 
 
-    notes_reduce_string = " ".join(notes_reduce[:(truncate-1)])
+    notes_reduce_string = " ".join(notes_reduce[:(truncate)])
     for old, new in replacement_chars.items():
         notes_reduce_string = notes_reduce_string.replace(old, new)
 
