@@ -1,0 +1,84 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.4
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.10.7
+    start_time: 1667259333.255931
+    t:
+      1:
+      - 55
+      2:
+      - 55
+      3:
+      - 2
+      - 13
+      - 14
+      - 16
+      - 23
+      4: 3.10.7
+      5: 0.13.4
+      8:
+      - 5
+created_at:
+  desc: null
+  value: '2022-05-14T17:20:34'
+fine_tuned_model:
+  desc: null
+  value: babbage:ft-personal-2022-05-15-00-32-38
+hyperparams:
+  desc: null
+  value:
+    batch_size: 1
+    learning_rate_multiplier: 0.1
+    n_epochs: 4
+    prompt_loss_weight: 0.1
+id:
+  desc: null
+  value: ft-DFa1L50BUNY0QYYZwA0kDWVj
+model:
+  desc: null
+  value: babbage
+n_train:
+  desc: null
+  value: 973
+object:
+  desc: null
+  value: fine-tune
+organization_id:
+  desc: null
+  value: org-TYqZWSDRo9AkLmlNmJh6F5x0
+result_files:
+  desc: null
+  value:
+    bytes: 225282
+    created_at: 1652574761
+    filename: compiled_results.csv
+    id: file-LFczAwCrYzsy1zhSF8W0JNbX
+    object: file
+    purpose: fine-tune-results
+    status: processed
+    status_details: null
+status:
+  desc: null
+  value: succeeded
+training_files:
+  desc: null
+  value:
+    bytes: 913094
+    created_at: 1652574034
+    filename: jsonl/records.jsonl
+    id: file-1KfraQXIPssfrvcNRBWePEwF
+    object: file
+    purpose: fine-tune
+    status: processed
+    status_details: null
+updated_at:
+  desc: null
+  value: 1652574764
+validation_files:
+  desc: null
+  value: []

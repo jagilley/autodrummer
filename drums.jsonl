@@ -1,0 +1,469 @@
+{"prompt":"funk groove acoustic kit ->","completion":" k n k n s n h s h s k n s n h s k n k n s n h s h s k k s n h ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" k n k n s n r s r s k n s n r s k n k n s n r s r s k k s n r ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k n h n s s h n h n k n s s h k k n h n s n h n h n k n k n h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k n a n s s a n a n k n s s a k k n a n s n a n a n k n s n a ###"}
+{"prompt":"funk groove acoustic kit ->","completion":" k n h k k n h k h k l n k n k s k s h k k n k k h k l n s n k ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" k n a k s n a k a k k n s n s s k s a k s n a k a k k n s n a ###"}
+{"prompt":"funk groove deep daft ->","completion":" k n h k k n h k h k k n k n k s k s h k k n k k h k k n s n k ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k h k k s h k s h k k h s k h s k s s k z h k s h k k h s k h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k a a k s a a s a k k a s k a s k s s k z a a s a k k a s k a ###"}
+{"prompt":"soul groove 808 simple ->","completion":" k h k k s h k s h k k h s k h s k s s k s h k s h k k h s k h ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k n k n k n h h k h k n k n h h k n k n s n h h k h k n s n l ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k n a n s n a a k a a n s n a a k n a n s n a a k a a n s n a ###"}
+{"prompt":"soul groove deep daft ->","completion":" k n k n k n h h k h k n k n h h k n k n s n h h k h k n s n a ###"}
+{"prompt":"hiphop groove acoustic kit ->","completion":" k h k k k h k k k k k h k k k k k k k k k s h k k k k n k n k ###"}
+{"prompt":"hiphop groove dark hybrid ->","completion":" k a a k s a a k a k k a s k a k k a a k s s a k a k k n k n k ###"}
+{"prompt":"rock groove acoustic kit ->","completion":" k n k n k n k k k n k n k n k n k n k n k n k k k n k s s l n ###"}
+{"prompt":"rock groove dark hybrid ->","completion":" k n a n s n a k k n a n s n a n k n a n s n a k k n a s s k n ###"}
+{"prompt":"rock groove deep daft ->","completion":" k n k n k n k k k n k n k n k n k n k n k n k k k n k s s k n ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k n h n s n h n h k h n s n h n k n h n s n h n h k k n s n h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k n a n s n a n a k a n s n a n k n a n s n a n a k k n s n a ###"}
+{"prompt":"punk acoustic kit ->","completion":" k n k n h k k n k n k n k n k n k n k n s k k n k n k n k n k ###"}
+{"prompt":"punk dark hybrid ->","completion":" k n s n a k z n k n z n k n z n k n s n s k s n k n s n k n z ###"}
+{"prompt":"rock acoustic kit ->","completion":" k s s s n s s n t0 t0 n t3 t3 n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n z k n s p k n s k n s ###"}
+{"prompt":"rock 808 simple ->","completion":" k n s k n s p k n s k n s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r n s n r s r s k k s n k n k n r n s n r s r s k k s n r ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n s s k n s n k n s s k n s n k n s s k n s n k n s s k n s ###"}
+{"prompt":"funk groove acoustic kit ->","completion":" k n k k s n r s h s k k s n r s k s k n s n r s h s k k s n r ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" k n k k s n r s r s k k s n r s k s k n s n r s r s k k s n r ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k s k n k n k n k s k n l n h k l s s n k n k n k n k n k s k ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k s s n s n s n s s k n s n a k k s s n s n a n a n k n s s a ###"}
+{"prompt":"soul groove deep daft ->","completion":" k s k n k n k n k s k n s n h k k s s n k n k n k n k n k s k ###"}
+{"prompt":"funk groove acoustic kit ->","completion":" k n k n k n k k k k k n k n k n k s k n l n k k k k k n l n h ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" k n s n s n a k s k k n s n a n k s s n s n a k s k k n s n a ###"}
+{"prompt":"funk groove deep daft ->","completion":" k n k n k n k k k k k n k n k n k s k n s n k k k k k n s n h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k a s k s a a k a k k s s k a k k s a k z a a k a k k a s k s ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k n k n s n k k k k k n s n l l k n k n z n k k k k k n s n k ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k n a n s n a a k a s n s n a a k n a n z n a a k a a n s n a ###"}
+{"prompt":"soul groove 808 simple ->","completion":" k n k n s n k k k k k n s n l l k n k n s n k k k k k n s n k ###"}
+{"prompt":"soul groove deep daft ->","completion":" k n k n s n k k k k k n s n a a k n k n z n k k k k k n s n k ###"}
+{"prompt":"hiphop groove acoustic kit ->","completion":" k n k n k n k k k k k n k k k k k n k n k k k n k n k n k n k ###"}
+{"prompt":"hiphop groove dark hybrid ->","completion":" k n a n s n a k a k k n s k a k k n k n s k a n k n k n k n k ###"}
+{"prompt":"pop groove acoustic kit ->","completion":" k n k n k n h s k n z n k n k n k n z n k s k s l n k n k s k ###"}
+{"prompt":"pop groove dark hybrid ->","completion":" k n z n s n a s k n z n s n a n k n z n s s a s s n k n s s k ###"}
+{"prompt":"pop groove 808 simple ->","completion":" k n k n k n h s k n s n k n k n k n s n k s k s l n k n k s k ###"}
+{"prompt":"pop groove deep daft ->","completion":" k n k n k n h s k n z n k n k n k n z n k s k s s n k n k s k ###"}
+{"prompt":"rock groove acoustic kit ->","completion":" k n k n k n k k k n k n k s k n k n k n k s k k k n h s s l n ###"}
+{"prompt":"rock groove dark hybrid ->","completion":" k n a n s n a k k n a n s s a n k n s n s s a k k n a s s k n ###"}
+{"prompt":"rock groove deep daft ->","completion":" k n k n k n k k k n k n k s k n k n k n k s k k k n h s s k n ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k n k n k n k n k n k n k n k k k n k n k n k n k s k n k n h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k n a n s n a n a n k n s n a k k n a n s n a n a s k n s n a ###"}
+{"prompt":"latin brazilian-sambareggae acoustic kit ->","completion":" k s s s k s h s k s s z k t2 t2 t2 k s s s k s h s k s s s k t2 t2 ###"}
+{"prompt":"latin brazilian-sambareggae dark hybrid ->","completion":" k s s s k s t3 s k s s z k t2 t2 t2 k s s s k s t3 s k s s s k t2 t2 ###"}
+{"prompt":"latin brazilian-sambareggae 808 simple ->","completion":" k s s s k s h s k s s s k t2 t2 t2 k s s s k s h s k s s s k t2 t2 ###"}
+{"prompt":"latin brazilian-maracatu acoustic kit ->","completion":" k s s s s s s s s k s s s k s k k s s s k s k s s t0 s t0 s s h ###"}
+{"prompt":"latin brazilian-maracatu dark hybrid ->","completion":" k s s s s s s s s k s s s k s k k s s s k s k s s t0 s t0 s s t3 ###"}
+{"prompt":"funk groove acoustic kit ->","completion":" k n k n s n r s r s k k s n r s k n k n s n r s r s k k s n r ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k k h n k n k s h s k n k n k n k k h n k n k s k s k n k n k ###"}
+{"prompt":"funk groove acoustic kit ->","completion":" k n h k s n h k h k k n s n h n k n h k s n h k h k h1 n s n h ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" k n a k s n a k a k k n s n a n k n a k s n a k a k a n s n a ###"}
+{"prompt":"funk groove deep daft ->","completion":" k n h k s n h k h k k n s n h n k n h k s n h k h k a n s n h ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k h h k k h h s k k k h k k h k k h s k k h h s h k k s k k h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k a a k s a a s a k k a s k a k k a s k s a a s a k k s s k a ###"}
+{"prompt":"hiphop groove acoustic kit ->","completion":" k n n n k h k k k k k h k k k k k h k k k h k k k k k n k n k ###"}
+{"prompt":"hiphop groove dark hybrid ->","completion":" k n n n s a a k a k k a s k a k k a a k s a a k a k k n k n k ###"}
+{"prompt":"pop groove acoustic kit ->","completion":" k n n n s n h n k n h n k n h n k n h n k n h n h n k n s n h ###"}
+{"prompt":"pop groove dark hybrid ->","completion":" k n n n s n a n k n a n k n a n k n a n s n a n a n k n s n a ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k n h n s n h n k n k n s n h k k n h n s n h n k n k n s n h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k n a n s n a n a n k n s n a k k n a n s n a n a n k n s n a ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n k h k h k h k h h k k s h k k k k h k k k s s s s s s t0 t2 ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n k a a a k a k a a k s s a k a k k a a a a s s s s s s t0 t2 ###"}
+{"prompt":"jazz fusion acoustic kit ->","completion":" k h n h h h h h h h h h h h h h k h h h k h n h k h h h k h h ###"}
+{"prompt":"jazz fusion dark hybrid ->","completion":" k a n a a a a a a a a a a a a a k a a a a a n a a a a a a a a ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k a a k s a k a a k a k s n a a k a a k s a k a a k k a s a a ###"}
+{"prompt":"soul acoustic kit ->","completion":" k n k n k n k h k s k n z n k s k n k h k s h k n s s h n n n ###"}
+{"prompt":"soul dark hybrid ->","completion":" k n a n k n a a k s k n z n a s k n a a k s a k n s s a n n n ###"}
+{"prompt":"soul 808 simple ->","completion":" k n k n k n k h k s k n s n k s k n k h k s h k n s s h n n n ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k h h k s n k h k k k h k k h k k h h k k h k h k k k h k k k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k a a k s n k a a k k a s k a k k a a k s a k a a k k a s k a ###"}
+{"prompt":"funk groove acoustic kit ->","completion":" k n k n s n h s h s k k s n h s k n k n s n s s h s k k k n h ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" k n k n s n a s a s k k s n a s k n k n s n s s a s k k s n a ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k k h n s n h n s s k n s n k n k k h n s n h s s s k n s n k ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k k a n s n a n s s k n s n k n k k a n s n a s s s k n s n k ###"}
+{"prompt":"funk groove acoustic kit ->","completion":" k n h k s n h k h k l n s n h n k n h k k n h k h k l n s n h ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" k n a k s n a k a k k n s n a n k n a k s n a k a k k n s n a ###"}
+{"prompt":"funk groove deep daft ->","completion":" k n h k s n h k h k k n s n h n k n h k k n h k h k k n s n h ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k h h k s h h s h k k h s k h k k h h k s h h s h k k h s k h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" k a a k s a a s a k k a s k a k k a a k s a a s a k k a s k a ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k n h n s n h h k h h n s n h h k n h n s n h h k h h n s n h ###"}
+{"prompt":"funk groove acoustic kit ->","completion":" k n n s h n k n h s s n s s s s k h h k s h h s h h k h s k h ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" k n n s a n s n a s s n s s s s k a a k s a a s a a k a s k a ###"}
+{"prompt":"hiphop groove acoustic kit ->","completion":" k k n n k h h k h k k h s k h k k h h k s h h k h k k n k n k ###"}
+{"prompt":"hiphop groove dark hybrid ->","completion":" k k n n k a a k a k k a s k a k k a a k s a a k a k k n k n k ###"}
+{"prompt":"pop groove acoustic kit ->","completion":" k n h n s n h n k n h n k n n n k n h n s n h n h n k n s n h ###"}
+{"prompt":"pop groove dark hybrid ->","completion":" k n a n s n a n k n a n k n n n k n a n s n a n a n k n s n a ###"}
+{"prompt":"rock groove acoustic kit ->","completion":" k n h n s n h k k n h n s n h n k n h n s n h k k n h s s l n ###"}
+{"prompt":"rock groove deep daft ->","completion":" k n h n s n h k k n h n s n h n k n h n s n h k k n h s s k n ###"}
+{"prompt":"soul groove acoustic kit ->","completion":" k n h n s n h n h n k n s n h k k n h n s n h n h n k n s n h ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n n n k n k s k s k s h n k s s s l n k s h s k s l n k n k ###"}
+{"prompt":"funk dark hybrid ->","completion":" k n n n s n a s a s k s a n s s s s k n s s a s s s k n s n s ###"}
+{"prompt":"funk deep daft ->","completion":" k n n n k n k s k s k s h n k s s s k n k s h s k s k n k n k ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n k n k n k k k n l n s n k n k n k n k n k k k n l n s n k ###"}
+{"prompt":"funk dark hybrid ->","completion":" k n a n k n a k k n a n s n a n k n a n k n a k k n a n s n a ###"}
+{"prompt":"funk deep daft ->","completion":" k n k n k n k k k n a n s n k n k n k n k n k k k n a n s n k ###"}
+{"prompt":"dance disco acoustic kit ->","completion":" k n l n k s k s k n k n k n h s k n h n k n h n k n h n k n h ###"}
+{"prompt":"dance disco dark hybrid ->","completion":" k n k n k s a s k n s n k n a s k n a n k n a n k n a n k n a ###"}
+{"prompt":"dance disco deep daft ->","completion":" k n k n k s k s k n k n k n h s k n h n k n h n k n h n k n h ###"}
+{"prompt":"afrocuban acoustic kit ->","completion":" k n k h h h h h h h h h h h h h h h h h h h h h k h h h h h h ###"}
+{"prompt":"afrocuban dark hybrid ->","completion":" k n a a a a a a a a a a a a a a a a a a a a a a a a a a a a a ###"}
+{"prompt":"dance breakbeat acoustic kit ->","completion":" k h k h s h h h k k s h h h h h k k k h s k h h k h s k h h h ###"}
+{"prompt":"dance breakbeat dark hybrid ->","completion":" k a a a s a a a k a s a a a a a k a a a s a a a k a s a a a a ###"}
+{"prompt":"country acoustic kit ->","completion":" k s s s k s s s k s s s k s s s k s s s k s s s k s s s k s s ###"}
+{"prompt":"punk acoustic kit ->","completion":" k n s n k k s n k n s k r k s n k n s n k k s n k n s k r k s ###"}
+{"prompt":"punk acoustic kit ->","completion":" k n k n k k l s h z s s s s s ###"}
+{"prompt":"punk dark hybrid ->","completion":" k n s n k k s s a z s s s s s ###"}
+{"prompt":"punk 808 simple ->","completion":" k n k n k k l s h s s s s s s ###"}
+{"prompt":"punk deep daft ->","completion":" k n k n k k s s h z s s s s s ###"}
+{"prompt":"jazz swing acoustic kit ->","completion":" k n n h k n l n l n n h k n l k l n h t3 s n k p n n n h k n n ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" k n n a s n a n k n n a s n a k a n a t3 s n k p n n n a s n n ###"}
+{"prompt":"jazz swing deep daft ->","completion":" k n n h k n a n k n n h k n a k a n h t3 s n k p n n n h k n n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k n h k s n h k n h n z n h n k n h k s n k n k n k n s n k ###"}
+{"prompt":"rock 808 simple ->","completion":" k k n h k s n h k n h n s n h n k n h k s n k n k n k n s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n s s k n s s k s s s k s s s k n s s k n s s k s s s k s s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k h n s n h n h n k n s n h n k n h n s n h n h n k n s n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k k a n s n a n a n k n s n a n k n a n s n a n a n k n s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h k s n k n h n k n s n k n k k h k k n h n h n k n z n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a k s n k n a n k n s n k n k k a k k n a n a n k n z n k ###"}
+{"prompt":"rock 808 simple ->","completion":" k n h k s n k n h n k n s n k n k k h k k n h n h n k n s n k ###"}
+{"prompt":"jazz acoustic kit ->","completion":" k n n t0 n t0 t0 n n t0 n t0 t0 n t0 t0 k n n t0 n t0 t0 n n t0 n t0 t1 t0 t0 ###"}
+{"prompt":"jazz big room layered ->","completion":" k n n t0 n t0 t0 n n t0 n t0 t0 n t0 t0 k n n t0 n t0 t0 n n t0 n t0 l t0 t0 ###"}
+{"prompt":"jazz nu rnb ->","completion":" k n n t0 n t0 t0 n n t0 n t0 t0 n t0 t0 k n n t0 n t0 t0 n n t0 n t0 z t0 t0 ###"}
+{"prompt":"jazz acoustic kit ->","completion":" k t0 t0 t0 k t0 t0 t0 k t0 t0 t0 k t0 t0 t0 k t0 t0 t0 k t0 t0 t0 k t0 t0 t0 k n t0 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k s s s s s s s n s s s s t1 ###"}
+{"prompt":"rock big room layered ->","completion":" k s s s s s s s n s s s s l ###"}
+{"prompt":"rock nu rnb ->","completion":" k s s s s s s s n s s s s z ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h k z n k n h n k n s n k n k n h k z n k n h n k n s n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a k z n k n a n k n s n k n k n a k z n k n a n k n s n k ###"}
+{"prompt":"rock 808 simple ->","completion":" k n h k s n k n h n k n s n k n k n h k s n k n h n k n s n k ###"}
+{"prompt":"jazz acoustic kit ->","completion":" k t2 n t2 k t2 n t2 k t2 n t2 k t2 n t2 k t2 n t2 k t2 n t2 k t2 n t2 k n n ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a a n k a a n k a a a k a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k h n k h k n k k n h k h k n k h1 n h k h k n k k n h k h k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a a n k a a n k a n a k a a n k a n a k a a n k a n a k a a ###"}
+{"prompt":"rock deep daft ->","completion":" k k h n k h k n k k n h k h k n k a n h k h k n k k n h k h k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r k s n r n r n k k s n k n k n r k k n r n r s r k s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k p s p k s s n k n n n n n n n k n s k n s k n s n k n s k n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n n s k k n s k n n s k n n s k n n s k n n s k n s p k k n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n n s k n n s k n n s k n n s k n n s n n s s s s t0 n t3 n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n n s k n n s k n n s k n n n k n n n s s s n s t0 t1 n t3 t3 ###"}
+{"prompt":"rock big room layered ->","completion":" k n n s k n n s k n n s k n n n k n n n s s s n s t0 l n t3 t3 ###"}
+{"prompt":"rock nu rnb ->","completion":" k n n s k n n s k n n s k n n n k n n n s s s n s t0 z n t3 t3 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k s s s s s k s s s s s k s s s k z s s k z s s k s s s k s s ###"}
+{"prompt":"rock 808 simple ->","completion":" k s s s s s k s s s s s k s s s k s s s k s s s k s s s k s s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n t3 t3 s n t3 t3 k n t3 t3 k n t3 t3 k n t3 t3 k n t3 t3 k n t3 t3 k n t3 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r n s n r s n s z s t0 t0 t3 n k n r n s n r s r s k k s n r ###"}
+{"prompt":"rock 808 simple ->","completion":" k n r n s n r s n s s s t0 t0 t3 n k n r n s n r s r s k k s n r ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r n s n r s r s k k s n r n k n r n s n r s r s k n s n r ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r n s n r s r s k k s n r n k n r n s n r s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n n n s n r s r s k n s n r n k n r n s n r s r s k n s n r ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h n k n h n k n h n k n h n k n h n k n h n k n h k s n h ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n k n a n k n a n k n a n k n a n k n a n k n a k s n a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h k k n h k k n h k k n h k k n h k k n h k k n k n k n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a a k n a a k n a a k n a a k n a a k n a a k n k n s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h k k n h k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a a k n a a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h n s h h k k n h n s n h n k h h n s h k n k h h n s h k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n s a a k k n a n s n a n k a a n s a k n k a a n s a k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n n k s n h k k h n k s h k h k h k h s h k n k h k n s h s ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n n k s n a k k a n k s a k a k a k a s a k n k a k n s a s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k r n k s n r k k r n k s n n k k r n k s r n k k r n k s r n ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n h n s n h n h n k n s n k n k n h n s n h n h n k n s k h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n a n s n a n a n k n s n k n k n a n s n a n a n k n s k a ###"}
+{"prompt":"jazz acoustic kit ->","completion":" k r n r s r n r r r r n s r r n r r r n r r r r r r r r r r n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n n n t0 t0 n t0 t3 t3 t3 n t2 t2 n t2 k n n n r n r r r r n r r r n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h n k h n h k h h n z h n k k n h h k h n k k h n l z h n ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n z a n a k a a n z a n k k n a a z a n k k a n k z a n ###"}
+{"prompt":"rock 808 simple ->","completion":" k n h n k h n h k h h n s h n k k n h h k h n k k h n l s h n ###"}
+{"prompt":"rock deep daft ->","completion":" k n h n k h n h k h h n z h n k k n h h k h n k k h n k z h n ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k h h k s k h h h k l n s k h k k n h h s h h h h k l n s h k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k a a a s a a a a a k n s a a a k n a a s a a a a a k n s a a ###"}
+{"prompt":"hiphop deep daft ->","completion":" k h h k s k h h h k k n s k h k k n h h s h h h h k k n s h k ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n k n h n h n h h h k h k k k l n k n k n h n h h h k h k s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n k n a n a n a a a a a a a a k n k n s n a n a a a a a a s ###"}
+{"prompt":"hiphop deep daft ->","completion":" k n k n h n h n h h h k h k k k k n k n k n h n h h h k h k s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n a n s n a n a a a a s a a a k n k n s n a n a a a a s a n ###"}
+{"prompt":"hiphop deep daft ->","completion":" k n h n k n h n h h h k s k k k k n k n k n h n k h h h s h n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k r n s n n n k n s s r n s n k n s s k n s n k n s s k n s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n s s k n s n k n s s k n s n k n s s r s s s s s t0 t0 t3 t3 t2 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n s s r n s n k n s s k n n n k n s s s k s n k s s t0 t3 t2 t2 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k h n h s h n k k h n h s h n k k h n h s h n k k h h n s n n ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a n a s a n k k a n a s a n k k a n a s a n k k a a n s n n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n t0 t0 k n t0 t0 k n t0 t0 k n t0 t0 k n t0 t0 k n t0 t0 k n t0 t0 k n t0 ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n h k h k s n h k h k h n h n k n h k h k s n h k h k s n k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n a k a k s n a k a k a n a n k n a k a k s n a k a k s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r n s n k n k n r n s n r n r n k n s n k n k n r n s n r ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h k s n h n k n h n k n h n k n h k s n h n k n k n s n h ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a k s n a n k n a n k n a n k n a k s n a n k n k n s n a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k h k s n h n k n h n s n h n k h h k s n h n k n h n k n ###"}
+{"prompt":"rock dark hybrid ->","completion":" k k a k s n a n k n a n s n a n k a a k s n a n k n a n s n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h k s n h n k n k n s n h n k k h h s n h n k n n n k n h ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a k s n a n k n k n s n a n k k a a s n a n k n n n s n a ###"}
+{"prompt":"latin brazilian acoustic kit ->","completion":" k k n k n k n k n k z n k n k n k n s s k n s n k s s s k s s ###"}
+{"prompt":"latin brazilian big room layered ->","completion":" k k n k n k n k n k k n k n k n k n s s k n s n k s s s k s s ###"}
+{"prompt":"latin brazilian 808 simple ->","completion":" k k n k n k n k n k s n k n k n k n s s k n s n k s s s k s s ###"}
+{"prompt":"latin brazilian nu rnb ->","completion":" k k n k n k n k n k l n k n k n k n s s k n s n k s s s k s s ###"}
+{"prompt":"blues shuffle acoustic kit ->","completion":" k n n k s n n k k n d k s n s k s n k n s n k s k n k n s n k ###"}
+{"prompt":"blues shuffle big room layered ->","completion":" k n n k k n n k k n d k s n s k s n k n s n k s k n k n s n k ###"}
+{"prompt":"latin merengue acoustic kit ->","completion":" k n n s k n s k s n s n k t0 t0 k t4 n n s k n s k s n s k t0 n t0 ###"}
+{"prompt":"latin merengue jinglestacks 2nd hi-hat ->","completion":" k n n s k n s k s n s n k t0 t0 k h n n s k n s k s n s k t0 n t0 ###"}
+{"prompt":"latin merengue jazz funk ->","completion":" k n n s k n s k s n s n k t0 t0 k b n n s k n s k s n s k t0 n t0 ###"}
+{"prompt":"latin merengue big room layered ->","completion":" k n n s k n s k s n s n k t0 t0 k l n n s k n s k s n s k l n t0 ###"}
+{"prompt":"latin merengue super boom layered ->","completion":" k n n s k n s k s n s n k t0 t0 k l n n s k n s k s n s k t0 n t0 ###"}
+{"prompt":"latin merengue nu rnb ->","completion":" k n n s k n s k s n s n k t0 t0 k s n n s k n s k s n s k z n t0 ###"}
+{"prompt":"latin merengue ele-drum ->","completion":" k n n s k n s k s n s n k t0 t0 k l n n s k n s k s n s k z n t0 ###"}
+{"prompt":"latin merengue compact lite w\/ tambourine hh ->","completion":" k n n s k n s k s n s n k t0 t0 k a n n s k n s k s n s k t0 n t0 ###"}
+{"prompt":"latin brazilian-bossa acoustic kit ->","completion":" k n h n l n k n k k k n k n k n k n k n k n k n k n l n k n k ###"}
+{"prompt":"latin brazilian-bossa dark hybrid ->","completion":" k n a n z n k n k k s n a n k n k n z n a n k n k n z n a n k ###"}
+{"prompt":"latin brazilian-bossa deep daft ->","completion":" k n h n z n k n k k k n k n k n k n k n k n k n k n z n k n k ###"}
+{"prompt":"afrocuban calypso acoustic kit ->","completion":" k s n s k n z n k z h s k n z n k s h s k n s n k s h s k n z ###"}
+{"prompt":"afrocuban calypso dark hybrid ->","completion":" k s n s k n z n k z a s k n z n k s r s k n s n k s a s k n z ###"}
+{"prompt":"afrocuban calypso 808 simple ->","completion":" k s n s k n s n k s h s k n s n k s h s k n s n k s h s k n s ###"}
+{"prompt":"latin brazilian-songo dark hybrid ->","completion":" k k a k a n k n a s a k a s k z a s a k a s k s a z a k a s k ###"}
+{"prompt":"latin brazilian-songo deep daft ->","completion":" k k h k k n k n k s k k k s k z a s k k k s k s k z k k k s k ###"}
+{"prompt":"funk acoustic kit ->","completion":" k k k n l n k n l n k n l n h k k s h n k n k n l s k k l s k ###"}
+{"prompt":"funk dark hybrid ->","completion":" k k a n s n a n a n k n s n a k k s a n s n a n a s k k z s a ###"}
+{"prompt":"funk deep daft ->","completion":" k k k n s n k n h n k n s n h k k s h n k n k n h s k k z s k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k n n s n r s k n k n s n r s k n r n s n k k h s k n s n s ###"}
+{"prompt":"rock dark hybrid ->","completion":" k k n n s n r s k n k n s n r s k n r n s n k k r s k n s n s ###"}
+{"prompt":"middleeastern dark hybrid ->","completion":" k n s n a n k z k n a n z n a s k n z n a n k n k n a n z n a ###"}
+{"prompt":"middleeastern deep daft ->","completion":" k n k n k n k z k n h n z n k s k n k n k n k n k n h n k n h ###"}
+{"prompt":"latin brazilian-bossa acoustic kit ->","completion":" k n k n l n k n k n k s k k k h k n k n k n k n k n k n k n k ###"}
+{"prompt":"latin brazilian-bossa deep daft ->","completion":" k n k n h n k n k n k s k k k h k n k n k n k n k n k n k n k ###"}
+{"prompt":"latin brazilian-baiao acoustic kit ->","completion":" k k h k s r s n k r h k s r s n k r h k k r s n k k h k z s h ###"}
+{"prompt":"latin brazilian-baiao dark hybrid ->","completion":" k k r k s r s n k r r k s r s n k r r k k r s n k k r k z s r ###"}
+{"prompt":"latin brazilian-baiao 808 simple ->","completion":" k k h k s r s n k r h k s r s n k r h k k r s n k k h k s s h ###"}
+{"prompt":"latin brazilian-samba acoustic kit ->","completion":" k s s k k s s k k s s k k s s k k s s k k s s k k s s k k s s ###"}
+{"prompt":"latin brazilian-samba acoustic kit ->","completion":" k s s k k n s k k s s k k s s k k s s k k s s k k s s k k s s ###"}
+{"prompt":"latin dominican-merengue acoustic kit ->","completion":" k n h s k n s n k n s n k t1 h t0 k n h s k n s s k n s n k t0 h ###"}
+{"prompt":"latin dominican-merengue dark hybrid ->","completion":" k n a s k n s n k n s n k t1 t0 t0 k n a s k n s s k n s n k t0 t0 ###"}
+{"prompt":"latin dominican-merengue big room layered ->","completion":" k n h s k n s n k n s n k l h t0 k n h s k n s s k n s n k t0 h ###"}
+{"prompt":"latin dominican-merengue nu rnb ->","completion":" k n h s k n s n k n s n k z h t0 k n h s k n s s k n s n k t0 h ###"}
+{"prompt":"latin venezuelan-sangueo dark hybrid ->","completion":" k k a k s k a k a k a k z n a s k k a k s s a s k k s k z n a ###"}
+{"prompt":"neworleans funk acoustic kit ->","completion":" k n k n k n l s k n k n k s k s k s k n k n k s k n k n k k k ###"}
+{"prompt":"neworleans funk dark hybrid ->","completion":" k n a n s n a s k n k n s s a s k s a n s n a s k n k n a a a ###"}
+{"prompt":"neworleans funk deep daft ->","completion":" k n k n k n h s k n k n k s k s k s k n k n k s k n k n k k k ###"}
+{"prompt":"soul acoustic kit ->","completion":" k s k n k n k n k s s n k n k k k n k n k n k n k n k n k n k ###"}
+{"prompt":"soul dark hybrid ->","completion":" k s a n s n a n a s s n s n a k k n a n z n a n a n k n s n a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k s n k n k s k n k k k n h k k s h n k n l s k s k n k s k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k k s n s n a s a n k k s n a k k s a n s n k s a s k n s s a ###"}
+{"prompt":"rock deep daft ->","completion":" k k s n k n k s k n k k k n h k k s h n k n k s k s k n k s k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k n k n n k k s n k k k k n h k k n k k k n k k n n s n n l ###"}
+{"prompt":"rock dark hybrid ->","completion":" k k n a n n a a s n a a a a n a k a n k a a n a a n n s n n a ###"}
+{"prompt":"rock deep daft ->","completion":" k k n k n n k k s n k k k k n h k k n k k k n k k n n s n n a ###"}
+{"prompt":"latin brazilian acoustic kit ->","completion":" k s h s k s l n k s k s k k h s k s k s k n k n k n h s k k h ###"}
+{"prompt":"latin brazilian deep daft ->","completion":" k s h s k s k n k s k s k k h s k s k s k n k n k n h s k k h ###"}
+{"prompt":"latin brazilian-ijexa acoustic kit ->","completion":" k k h z k k k n k k h s k k s s k k h s k s k k k l h s k k h ###"}
+{"prompt":"latin brazilian-ijexa 808 simple ->","completion":" k k h s k k k n k k h s k k s s k k h s k s k k k l h s k k h ###"}
+{"prompt":"latin brazilian-ijexa deep daft ->","completion":" k k h z k k k n k k h s k k s s k k h s k s k k k s h s k k h ###"}
+{"prompt":"latin brazilian-ijexa acoustic kit ->","completion":" k k h s k k h s k k h s k s k n k s h s k k h s h s h s k s k ###"}
+{"prompt":"latin brazilian-songo acoustic kit ->","completion":" k s h k z s z z s s n k z s s s s s n k s s s s s z s k z s s ###"}
+{"prompt":"latin brazilian-songo dark hybrid ->","completion":" k s a k z s z z s s n k z s s s s s n k s s s s s z s k z s s ###"}
+{"prompt":"latin brazilian-songo 808 simple ->","completion":" k s h k s s s s s s n k s s s s s s n k s s s s s s s k s s s ###"}
+{"prompt":"latin brazilian-songo acoustic kit ->","completion":" k s s s s s s s s s s s z n n s k s s k s s s s s z s k s s k ###"}
+{"prompt":"latin brazilian-songo 808 simple ->","completion":" k s s s s s s s s s s s s n n s k s s k s s s s s s s k s s k ###"}
+{"prompt":"reggae dark hybrid ->","completion":" k n a n k n a n k n a n k n z n k n s n k s a n k n a n k n a ###"}
+{"prompt":"reggae deep daft ->","completion":" k n k n k n k n k n k n k n z n k n k n k s k n k n k n k n k ###"}
+{"prompt":"neworleans secondline acoustic kit ->","completion":" k s s z s z z s s z z s z s s z k s z s k s s s k s s z k s s ###"}
+{"prompt":"neworleans secondline 808 simple ->","completion":" k s s s s s s s s s s s s s s s k s s s k s s s k s s s k s s ###"}
+{"prompt":"neworleans secondline acoustic kit ->","completion":" k s n n h n s s s s k n z s s s k s s n s n z n s s k n z s s ###"}
+{"prompt":"neworleans secondline dark hybrid ->","completion":" k s n n a n s s s s k n z s s s k s s n s n z n s s k n z s s ###"}
+{"prompt":"neworleans secondline 808 simple ->","completion":" k s n n h n s s s s k n s s s s k s s n s n s n s s k n s s s ###"}
+{"prompt":"neworleans shuffle acoustic kit ->","completion":" k k s k s s k s k k s k s s k s k s z k s s k s k s s k s s k ###"}
+{"prompt":"neworleans shuffle 808 simple ->","completion":" k k s k s s k s k k s k s s k s k s s k s s k s k s s k s s k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k t1 t2 k s n t2 t4 k t4 t2 k s n t2 t0 k t0 t2 k s n t2 t4 k t4 t2 k s n t2 ###"}
+{"prompt":"rock jinglestacks 2nd hi-hat ->","completion":" k t1 t2 k s n t2 h k h t2 k s n t2 t0 k t0 t2 k s n t2 h k h t2 k s n t2 ###"}
+{"prompt":"rock jazz funk ->","completion":" k t1 t2 k s n t2 b k b t2 k s n t2 t0 k t0 t2 k s n t2 b k b t2 k s n t2 ###"}
+{"prompt":"rock big room layered ->","completion":" k l t2 k s n t2 l k l t2 k s n t2 t0 k t0 t2 k s n t2 l k l t2 k s n t2 ###"}
+{"prompt":"rock super boom layered ->","completion":" k t1 t2 k s n t2 l k l t2 k s n t2 t0 k t0 t2 k s n t2 l k l t2 k s n t2 ###"}
+{"prompt":"rock nu rnb ->","completion":" k z t2 k s n t2 s k s t2 k s n t2 t0 k t0 t2 k s n t2 s k s t2 k s n t2 ###"}
+{"prompt":"rock ele-drum ->","completion":" k z t2 k s n t2 l k l t2 k s n t2 t0 k t0 t2 k s n t2 l k l t2 k s n t2 ###"}
+{"prompt":"rock compact lite w\/ tambourine hh ->","completion":" k t1 t2 k s n t2 a k a t2 k s n t2 t0 k t0 t2 k s n t2 a k a t2 k s n t2 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n s n k n t2 n k n s n t2 n k n k n s n k n t2 n k n t2 n k ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k k k h k h k h k k h k k s h k k h k h k h k h k k h k k s h ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k h k h k h k h k k k k k s h k k h k h k k h k k k k k k s h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k a k a a a k a k a a k k s a a a a k a a k a a k a a k s s a ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k s k s k k h k k s h n z s k s h s k s h k k k k s k n s s k ###"}
+{"prompt":"hiphop 808 simple ->","completion":" k s k s k k h k k s h n s s k s h s k s h k k k k s k n s s k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h k k h h h k n h k k h h h k h n h k h h h k h h h k h n ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a a a a a a a n a a a a a a k a n a a a a a a a a a k a n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k s h s k n k k k s n n k n k n k n n n k n k n k n n ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n k n s s a s a n k k s s n n k n k n s n n n a n k n s n n ###"}
+{"prompt":"soul motown acoustic kit ->","completion":" k n r r s n k n k n r n h n t0 n k n r n s n r n n n t2 n t2 n k ###"}
+{"prompt":"soul motown dark hybrid ->","completion":" k n r r s n k n k n r n t0 n t0 n k n r n s n r n n n t2 n t2 n k ###"}
+{"prompt":"jazz fusion acoustic kit ->","completion":" k s r s h s r s h s r d z s r r k s r s h s k s h s r r z s r ###"}
+{"prompt":"jazz fusion dark hybrid ->","completion":" k s r s r s r s r s r d z s r r k s r s d s k s r s r r z s r ###"}
+{"prompt":"jazz fusion 808 simple ->","completion":" k s r s h s r s h s r d s s r r k s r s h s k s h s r r s s r ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n h n k s k n k n n n k n h n k n k n k n h n k n k n k h k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n a n a s k n s n n n k n a n a n k n k n a n s n k n a a k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k h h s k n k k h h h k k h h k k h h s k k k k h n h k k h ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k k n k n k n n s n k n k n k n s k h n k n n n s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n n n k n k n k s ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n k n a n n n k n k n s s ###"}
+{"prompt":"soul motown acoustic kit ->","completion":" k n k n k n k n k n k n k n k n k n h n k n k n k n k n k n k ###"}
+{"prompt":"soul motown dark hybrid ->","completion":" k n a n s n k n s n k n s n k n s n a n s n a n s n k n s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n k n k n k n k s k n k n k n k n k s t1 s s t0 t3 s t2 ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n k n s n k n a n k n s s k n k n s n s n k s t1 s s t0 t3 s t2 ###"}
+{"prompt":"rock big room layered ->","completion":" k n k n k n k n k n k n k s k n k n k n k n k s l s s t0 t3 s t2 ###"}
+{"prompt":"rock nu rnb ->","completion":" k n k n k n k n k n k n k s k n k n k n k n k s z s s t0 t3 s t2 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n k s k n k n k n k n k n k n k n k n k n h n k n h ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n s n k s a n a n s n k n a n k n s n k n k n a n s n a ###"}
+{"prompt":"funk acoustic kit ->","completion":" k s l n k s h k h s l n k s k s k s l n k s h s k s l n k s h ###"}
+{"prompt":"funk dark hybrid ->","completion":" k s k n s s a s a s k n s s a s k s k n s s a s a s k n s s a ###"}
+{"prompt":"funk deep daft ->","completion":" k s k n k s h k h s k n k s k s k s k n k s h s k s k n k s h ###"}
+{"prompt":"funk acoustic kit ->","completion":" k s l n k s k k k s k k l n k s k s k n k n k s k s k n k s n ###"}
+{"prompt":"funk deep daft ->","completion":" k s k n k s k k k s k k s n k s k s k n k n k s k s k n k s n ###"}
+{"prompt":"funk acoustic kit ->","completion":" k s k n k n s s k s k n k s h s k s k n k s h s h s k n k s h ###"}
+{"prompt":"funk dark hybrid ->","completion":" k s k n s n s s a s k n s s a s k s k n s s a s a s k n s s a ###"}
+{"prompt":"country acoustic kit ->","completion":" k s k n s n k s n s k n s n k s k s k n s n k s n s k n s n k ###"}
+{"prompt":"country dark hybrid ->","completion":" k s a n s n a s n s a n s n a s k s a n s n a s n s a n s n a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k h h k z h h h h k k h s k h k k h h k s h h h h k k h s k h ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a a k z a a a a k k a s k a k k a a k s a a a a k k a s k a ###"}
+{"prompt":"rock 808 simple ->","completion":" k h h k s h h h h k k h s k h k k h h k s h h h h k k h s k h ###"}
+{"prompt":"rock acoustic kit ->","completion":" k h h k k k k k h k h k s h h k k h h k s h k k h k k h k h h ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a a k s k a k a k a k s a a k k a a k s a a k a k k a z a a ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k a a k s a k a a k k a s k a k k a a k s a k a a k k a k s k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k s k k s n k n h s k n s h k k k h k k s n k s h s k s s t0 t2 ###"}
+{"prompt":"rock dark hybrid ->","completion":" k s a k s n k n a s k n s a a a k a a k s n k s a s a s s t0 t2 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k h h k s h k h h h k h s h k h k h k k s h k h h h k h s h l ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a a k s a k a a a k a s a a a k a a k s a k a a a k a s a a ###"}
+{"prompt":"rock deep daft ->","completion":" k h h k s h k h h h k h s h k h k h k k s h k h h h k h s h a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r k r h k h d k r r s s r h k h r k r h k h d k r d s r s ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n r k r a k a d a r r s s r a k a r k r a k a d a r d s r s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k k r k r h k h d k r r s s r h k h r k d h k h d k r r s s r ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a r a r a k a d a r r s s r a k a r k d a k a d a r r s s r ###"}
+{"prompt":"soul acoustic kit ->","completion":" k n h1 n k s h k k s k n k s k s k s k h k n h k n l n z k n h ###"}
+{"prompt":"soul dark hybrid ->","completion":" k n a n z s a k a s k n s s a s k s k a s n a s n k n z a n a ###"}
+{"prompt":"soul 808 simple ->","completion":" k n h1 n k s h k k s k n k s k s k s k h k n h k n l n s k n h ###"}
+{"prompt":"soul deep daft ->","completion":" k n a n k s h k k s k n k s k s k s k h k n h k n k n z k n h ###"}
+{"prompt":"soul acoustic kit ->","completion":" k n l n k n h s k s l n k n k s k s l h s n k s n n n n h s s ###"}
+{"prompt":"soul dark hybrid ->","completion":" k n a n k n a s k s a n k n a s k s k a s n k s n n n n a s s ###"}
+{"prompt":"soul deep daft ->","completion":" k n a n k n h s k s a n k n k s k s k h s n k s n n n n h s s ###"}
+{"prompt":"rock indie acoustic kit ->","completion":" k h h k z k h k k h h k s h h k k h h k s k h k h k k h s k k ###"}
+{"prompt":"rock indie dark hybrid ->","completion":" k a a k z k a k k a a k s a a k k a a k s k a k a k k a s k k ###"}
+{"prompt":"rock indie 808 simple ->","completion":" k h h k s k h k k h h k s h h k k h h k s k h k h k k h s k k ###"}
+{"prompt":"rock indie acoustic kit ->","completion":" k r r k s r h n h k k r s k h k k r h k s r h r h k k r s k h ###"}
+{"prompt":"rock indie dark hybrid ->","completion":" k r r k s r r n r k k r s k r k k r r k s r r r r k k r s k r ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n k n s n h s h s k n s n h s k n k n z n h s h s k n s n h ###"}
+{"prompt":"funk dark hybrid ->","completion":" k n k n s n a s a s k n s n a s k n k n z n a s a s k n s n a ###"}
+{"prompt":"funk 808 simple ->","completion":" k n k n s n h s h s k n s n h s k n k n s n h s h s k n s n h ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n h n k n h s k n k n h n s n h s k n k n h s k s k s s s s ###"}
+{"prompt":"funk dark hybrid ->","completion":" k n a n s n a s s n k n a n s n a s k n s n a s a s k s s s s ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n k n s n h s h s k n s n h s k n k n k n h s h s k n s n h ###"}
+{"prompt":"funk dark hybrid ->","completion":" k n k n s n a s a s k n s n a s k n k n s n a s a s k n s n a ###"}
+{"prompt":"neworleans funk acoustic kit ->","completion":" k n s s k s s s k s s k s s k n k n s s k s s k s s s k s s s ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n h n k n h n k n l n s n h n k n h k k k h k k n h1 n k n k ###"}
+{"prompt":"funk dark hybrid ->","completion":" k n a n s n a n k n a n s n a n k n a k s k a k k n a n s n a ###"}
+{"prompt":"funk deep daft ->","completion":" k n h n k n h n k n a n s n h n k n h k k k h k k n a n k n k ###"}
+{"prompt":"neworleans funk acoustic kit ->","completion":" k h k k k k k k k s k k l n l n l h k k k k k k k s k k k s l ###"}
+{"prompt":"neworleans funk dark hybrid ->","completion":" k a a k a k s k k s a k s n a n k a a k a k s k k s a k k s a ###"}
+{"prompt":"neworleans funk deep daft ->","completion":" k h k k k k k k k s k k s n a n k h k k k k k k k s k k k s a ###"}
+{"prompt":"latin acoustic kit ->","completion":" k n r n z r t3 n s r z n h r t2 n k s n z s r n t3 n s r z h n r ###"}
+{"prompt":"latin dark hybrid ->","completion":" k n r n z r t3 n s r z n r r t2 n k s n z s r n t3 n s r z r n r ###"}
+{"prompt":"latin 808 simple ->","completion":" k n r n s r t3 n s r s n h r t2 n k s n s s r n t3 n s r s h n r ###"}
+{"prompt":"latin acoustic kit ->","completion":" k n n r z r n t3 n r n z h r t2 n k n r n z r t3 n n r z n h n t2 ###"}
+{"prompt":"latin dark hybrid ->","completion":" k n n r z r n t3 n r n z r r t2 n k n r n z r t3 n n r z n r n t2 ###"}
+{"prompt":"latin 808 simple ->","completion":" k n n r s r n t3 n r n s h r t2 n k n r n s r t3 n n r s n h n t2 ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n h n k n k s k s k n h n k n k n k n k n n s k s h s k s h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n a n s n s s a s k n a n s n a n k n s n n s k s a s k s a ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n h n s n s s k s k n h n k n k n k n k n k s k s h n k s h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n a n s n s s k s k n a n s n a n k n s n s s k s a n k s a ###"}
+{"prompt":"afrobeat acoustic kit ->","completion":" k n h s l n k n k k k s l n k n k n h s l n k n k k k n l n k ###"}
+{"prompt":"afrobeat dark hybrid ->","completion":" k n a s k n s n k k a s k n s n k n a s k n s n k k s n k n s ###"}
+{"prompt":"afrobeat deep daft ->","completion":" k n h s k n k n k k k s k n k n k n h s k n k n k k k n k n k ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n h n k n k n k n l n k n h n k n k k k k k k k n l n k n k ###"}
+{"prompt":"funk deep daft ->","completion":" k n h n k n k n k n a n k n h n k n k k k k k k k n a n k n k ###"}
+{"prompt":"rock shuffle acoustic kit ->","completion":" k n n k k h k n k k n n k n n l k n h n k h k n k h n s l n n ###"}
+{"prompt":"rock shuffle dark hybrid ->","completion":" k n n a k a a n k a n n k n n a k n a n k a a n k a n s k n n ###"}
+{"prompt":"rock shuffle deep daft ->","completion":" k n n k k h k n k k n n k n n a k n h n k h k n k h n s k n n ###"}
+{"prompt":"rock shuffle acoustic kit ->","completion":" k n h n k n h n k h s n l n s h k n h n k h k n k h s n l n n ###"}
+{"prompt":"rock shuffle dark hybrid ->","completion":" k n a n k n a n k a s n k n s a k n a n k a a n k a s n k n n ###"}
+{"prompt":"rock shuffle deep daft ->","completion":" k n h n k n h n k h s n k n s h k n h n k h k n k h s n k n n ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n h n k n k n h n k n h n k n n s k n k n n s k s k n k k s ###"}
+{"prompt":"funk dark hybrid ->","completion":" k n a n a n s n a n k n a n s n n s k n s n n s k s k n s k s ###"}
+{"prompt":"funk latin acoustic kit ->","completion":" k n h n k k h k k n h n k n h n k n k n k k k k k n h n k n k ###"}
+{"prompt":"funk latin dark hybrid ->","completion":" k n a n k k a k a n a n s n a n k n k n s k a k a n a n s n a ###"}
+{"prompt":"funk latin acoustic kit ->","completion":" k n h n k k h k k n h n k n h n k n k n k k k k k n k n k n n ###"}
+{"prompt":"funk latin dark hybrid ->","completion":" k n a n s k a k a n a n s n a n k n k n s k a k a n a n s n n ###"}
+{"prompt":"afrobeat acoustic kit ->","completion":" k n s k r s s s k r s s k k s k k n s k s s s s k r s s k k s ###"}
+{"prompt":"latin acoustic kit ->","completion":" k n z t0 k z h z k t2 z t3 k z t2 z k t0 z t0 k z h z k t2 z t3 k z t2 ###"}
+{"prompt":"latin dark hybrid ->","completion":" k n z t0 k z t0 z k t2 z t3 k z t2 z k t0 z t0 k z t0 z k t2 z t3 k z t2 ###"}
+{"prompt":"latin 808 simple ->","completion":" k n s t0 k s h s k t2 s t3 k s t2 s k t0 s t0 k s h s k t2 s t3 k s t2 ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h n k n h n k n h n k n h n k n h n k n h n k n h n k n l ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n k n a n k n a n k n a n k n a n k n a n k n a n k n a ###"}
+{"prompt":"rock deep daft ->","completion":" k n h n k n h n k n h n k n h n k n h n k n h n k n h n k n a ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n k k z k k n a a a n s a k n k a k k s k k n a a a n s a k ###"}
+{"prompt":"hiphop deep daft ->","completion":" k n k k k k k n h h a n k h k n k h k k k k k n k h a n k h k ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n k k k k l n h h l n k n l n k h l k k k l n k h l n k h l ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n k k s k k n a a a n s n k n k a k k s k k n a a a n s a k ###"}
+{"prompt":"hiphop deep daft ->","completion":" k n k k k k k n h h a n k n k n k h k k k k k n k h a n k h k ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k n k k k k l n l k l n k k l n k k l k k k l n l h l n k h l ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k n k k s k k n a a a n s a k n k a k k s k k n a a a n s a k ###"}
+{"prompt":"hiphop deep daft ->","completion":" k n k k k k k n h k a n k k k n k k k k k k k n h h a n k h k ###"}
+{"prompt":"funk acoustic kit ->","completion":" k h k h k h k s k k k s k k l n k h k h k h k s k k k s k k l ###"}
+{"prompt":"funk dark hybrid ->","completion":" k a a a s a a s a k k s a k s n k a k a s a a s a k k s a k s ###"}
+{"prompt":"funk deep daft ->","completion":" k h k h k h k s k k k s k k s n k h k h k h k s k k k s k k s ###"}
+{"prompt":"funk acoustic kit ->","completion":" k h k h k k k k k k k k k k l n k h k h k n k k k k k s k k l ###"}
+{"prompt":"funk dark hybrid ->","completion":" k a k a s a a s a k k s a k s n k a k a s n a s a k k s a k s ###"}
+{"prompt":"funk deep daft ->","completion":" k h k h k k k k k k k k k k s n k h k h k n k k k k k s k k s ###"}
+{"prompt":"funk acoustic kit ->","completion":" k n k n k n k n k n k n s n k n k n k n k n k k k n k n s n k ###"}
+{"prompt":"funk dark hybrid ->","completion":" k n a n k n a n k n a n s n a n k n a n k n a k k n a n s n a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n k n k n k n l n k n k n k k k n k n l n k n k n l ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n s n a n a n k n s n k n k n a a s n a n a n k n s n a ###"}
+{"prompt":"rock deep daft ->","completion":" k n k n k n k n k n k n s n k n k n k k k n k n h n k n k n a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n h n s n k s k s r k s n k n k n h n s n h s k s k n s n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n r n s n k s k s r k s n k n k n r n s n r s k s k n s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n l n k n k n k n l n k n k k k n k n k n k n k n s ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n s n k n s n k n s n k n s n k n s a k n s n k n s n k n s ###"}
+{"prompt":"rock deep daft ->","completion":" k n k n k n s n k n k n k n s n k n k k k n k n k n k n k n s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k h k n l s k n k n l n k n k n k n k n k n k n k n k n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a a s n a s k n k n s n k n k n a n s n a n a n k n s n k ###"}
+{"prompt":"rock deep daft ->","completion":" k n k h k n h s k n k n s n k n k n k n k n k n k n k n k n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n k n k n k n k n k n l n l n k n k n k k k k k n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n s n a n k n k n s n k n k n a n s n k n a k a k s n k ###"}
+{"prompt":"rock deep daft ->","completion":" k n k n k n k n k n k n k n k n k n h n k n k n k k k k k n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r n s n h s k s k n s n k n k s r k s s k s s s s s z s s ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n r n s n r s k s k n s n k n k s r k s s k s s s s s z s s ###"}
+{"prompt":"rock 808 simple ->","completion":" k n r n s n h s k s k n s n k n k s r k s s k s s s s s s s s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n s n r r k n s r r n s r k n s r k n s r k n s r k n s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n s r k n k r k n k r k s k s k n k r k r k r k r k r k s k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a a a s a a a k a k a s a a a k a k a s a a a k a k a s a a ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n s n h s k n k n s n k n h n k n s n k n k n r n s n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n k n s n r s k n k n s n k n r n k n s n k n k n r n s n k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n r n s n r n k r h r s n k n k r h n s r h n k r h n s r ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n r n s n r n k r r r s n k n k r r n s r r n k r r n s r ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n k k l n l s s s t0 t0 k n k k k n k s k s k k k k k ###"}
+{"prompt":"rock deep daft ->","completion":" k n k n k n k k s n k s s s t0 t0 k n k k k n k s k s k k k k k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n k n k n k n k n k n k n k n k n k s k n k n k k k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n s n a n k n k n s n k n k n a n s n a s k n k n s k a ###"}
+{"prompt":"latin brazilian-baiao acoustic kit ->","completion":" k n h k h n l n k h k k h h k n k h k k h h k s k z k k h h l ###"}
+{"prompt":"latin brazilian-baiao dark hybrid ->","completion":" k n a k a n z n k a a k a a z n k a a k a a z s k z a k a a z ###"}
+{"prompt":"latin brazilian-baiao 808 simple ->","completion":" k n h k h n l n k h k k h h k n k h k k h h k s k s k k h h l ###"}
+{"prompt":"latin brazilian-baiao deep daft ->","completion":" k n h k h n z n k h k k h h k n k h k k h h k s k z k k h h z ###"}
+{"prompt":"latin samba acoustic kit ->","completion":" k r h k k r h k k r h k k r h k k s s k k r h k k s h k k r k ###"}
+{"prompt":"latin samba dark hybrid ->","completion":" k r r k k r r k k r r k k r r k k s s k k r r k k s r k k r k ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n t2 n k n t2 n k n t2 n k n t2 n k n t2 n k n t2 n k n t2 n k n t2 ###"}
+{"prompt":"hiphop acoustic kit ->","completion":" k h h k s h h n h n k n s k h n k n h h s n h n h n l n h s n ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" k a a k s a a n a n k n s k a n k n a a s n a n a n k n a s n ###"}
+{"prompt":"hiphop deep daft ->","completion":" k h h k s h h n h n k n s k h n k n h h s n h n h n k n h s n ###"}
+{"prompt":"latin brazilian-sambareggae acoustic kit ->","completion":" k s s s k s h s k s s z k t2 t2 t2 k s s s k s t2 s k s s s k t2 t2 ###"}
+{"prompt":"latin brazilian-sambareggae dark hybrid ->","completion":" k s s s k s t3 s k s s z k t2 t2 t2 k s s s k s t2 s k s s s k t2 t2 ###"}
+{"prompt":"latin brazilian-sambareggae 808 simple ->","completion":" k s s s k s h s k s s s k t2 t2 t2 k s s s k s t2 s k s s s k t2 t2 ###"}
+{"prompt":"latin brazilian-samba acoustic kit ->","completion":" k s s k s s k s k s s k t2 s s s k s s k s z s s k s s k t2 s s ###"}
+{"prompt":"latin brazilian-samba 808 simple ->","completion":" k s s k s s k s k s s k t2 s s s k s s k s s s s k s s k t2 s s ###"}
+{"prompt":"latin venezuelan-joropo dark hybrid ->","completion":" k a a k k a a k k a a k k a a k k a a k k a k a k a k a k a k ###"}
+{"prompt":"latin brazilian-frevo acoustic kit ->","completion":" k k s s k s s s k s s h k s s s k n s s k s s s k s s s k s s ###"}
+{"prompt":"latin brazilian-frevo dark hybrid ->","completion":" k k s s k s s s k s s a k s s s k n s s k s s s k s s s k s s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n n n k n n s k s k k k n n s k n k n k n s n k s k k k s n ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n n n s n n s a s k k s n n s k n k n a n s n a s k k s s n ###"}
+{"prompt":"rock acoustic kit ->","completion":" k h h h k h h k k h h h s k h k k h h h k n k k k h h h k h h ###"}
+{"prompt":"rock dark hybrid ->","completion":" k a a a s a a k k a a a s a a k k a a a s n a k k a a a s a a ###"}
+{"prompt":"pop soft acoustic kit ->","completion":" k n h n z n k n h n h n z n h n k n n n z n k n h n h n z n h1 ###"}
+{"prompt":"pop soft dark hybrid ->","completion":" k n a n z n k n a n a n z n a n k n n n z n k n a n a n z n a ###"}
+{"prompt":"pop soft 808 simple ->","completion":" k n h n s n k n h n h n s n h n k n n n s n k n h n h n s n h1 ###"}
+{"prompt":"pop soft deep daft ->","completion":" k n h n z n k n h n h n z n h n k n n n z n k n h n h n z n a ###"}
+{"prompt":"afrobeat acoustic kit ->","completion":" k n n s l n s n k k h s l n s n k n h s l n s n k k s n l n s ###"}
+{"prompt":"afrobeat dark hybrid ->","completion":" k n n s k n s n k k a s k n s n k n a s k n s n k k s n k n s ###"}
+{"prompt":"afrobeat deep daft ->","completion":" k n n s k n s n k k h s k n s n k n h s k n s n k k s n k n s ###"}
+{"prompt":"rock acoustic kit ->","completion":" k n k n k n k n k n k n k n l n k n k n k n k s k n k n k n k ###"}
+{"prompt":"rock dark hybrid ->","completion":" k n a n s n a n k n k n s n k n a n k n s n a s k n k n s n k ###"}
+{"prompt":"rock deep daft ->","completion":" k n k n k n k n k n k n k n k n k n k n k n k s k n k n k n k ###"}

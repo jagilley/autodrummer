@@ -1,0 +1,57 @@
+2022-10-31 16:35:33,228 INFO    MainThread:55850 [wandb_setup.py:_flush():68] Configure stats pid to 55850
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_setup.py:_flush():68] Loading settings from /Users/jaspergilley/.config/wandb/settings
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_setup.py:_flush():68] Loading settings from /Users/jaspergilley/Code/autodrummer/wandb/settings
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2022-10-31 16:35:33,229 WARNING MainThread:55850 [wandb_setup.py:_flush():68] Could not save program above cwd: /Users/jaspergilley/venv10/bin/openai
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/Users/jaspergilley/venv10/bin/openai'}
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_setup.py:_flush():68] Applying login settings: {'api_key': '***REDACTED***'}
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_init.py:_log_setup():476] Logging user logs to /Users/jaspergilley/Code/autodrummer/wandb/run-20221031_163533-ft-DFa1L50BUNY0QYYZwA0kDWVj/logs/debug.log
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_init.py:_log_setup():477] Logging internal logs to /Users/jaspergilley/Code/autodrummer/wandb/run-20221031_163533-ft-DFa1L50BUNY0QYYZwA0kDWVj/logs/debug-internal.log
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_init.py:init():516] calling init triggers
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {'object': 'fine-tune', 'id': 'ft-DFa1L50BUNY0QYYZwA0kDWVj', 'hyperparams': <OpenAIObject at 0x11fcf6520> JSON: {
+  "batch_size": 1,
+  "learning_rate_multiplier": 0.1,
+  "n_epochs": 4,
+  "prompt_loss_weight": 0.1
+}, 'organization_id': 'org-TYqZWSDRo9AkLmlNmJh6F5x0', 'model': 'babbage', 'training_files': <File file id=file-1KfraQXIPssfrvcNRBWePEwF at 0x11fcf65c0> JSON: {
+  "bytes": 913094,
+  "created_at": 1652574034,
+  "filename": "jsonl/records.jsonl",
+  "id": "file-1KfraQXIPssfrvcNRBWePEwF",
+  "object": "file",
+  "purpose": "fine-tune",
+  "status": "processed",
+  "status_details": null
+}, 'validation_files': [], 'result_files': <File file id=file-LFczAwCrYzsy1zhSF8W0JNbX at 0x11fcf6660> JSON: {
+  "bytes": 225282,
+  "created_at": 1652574761,
+  "filename": "compiled_results.csv",
+  "id": "file-LFczAwCrYzsy1zhSF8W0JNbX",
+  "object": "file",
+  "purpose": "fine-tune-results",
+  "status": "processed",
+  "status_details": null
+}, 'created_at': datetime.datetime(2022, 5, 14, 17, 20, 34), 'updated_at': 1652574764, 'status': 'succeeded', 'fine_tuned_model': 'babbage:ft-personal-2022-05-15-00-32-38'}
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_init.py:init():569] starting backend
+2022-10-31 16:35:33,229 INFO    MainThread:55850 [wandb_init.py:init():573] setting up manager
+2022-10-31 16:35:33,242 INFO    MainThread:55850 [backend.py:_multiprocessing_setup():102] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2022-10-31 16:35:33,255 INFO    MainThread:55850 [wandb_init.py:init():580] backend started and connected
+2022-10-31 16:35:33,260 INFO    MainThread:55850 [wandb_init.py:init():658] updated telemetry
+2022-10-31 16:35:33,261 INFO    MainThread:55850 [wandb_init.py:init():693] communicating run to backend with 60 second timeout
+2022-10-31 16:35:33,639 INFO    MainThread:55850 [wandb_run.py:_on_init():2000] communicating current version
+2022-10-31 16:35:33,758 INFO    MainThread:55850 [wandb_run.py:_on_init():2004] got version response 
+2022-10-31 16:35:33,758 INFO    MainThread:55850 [wandb_init.py:init():728] starting run threads in backend
+2022-10-31 16:35:33,913 INFO    MainThread:55850 [wandb_run.py:_console_start():1980] atexit reg
+2022-10-31 16:35:33,913 INFO    MainThread:55850 [wandb_run.py:_redirect():1838] redirect: SettingsConsole.WRAP_RAW
+2022-10-31 16:35:33,913 INFO    MainThread:55850 [wandb_run.py:_redirect():1903] Wrapping output streams.
+2022-10-31 16:35:33,914 INFO    MainThread:55850 [wandb_run.py:_redirect():1925] Redirects installed.
+2022-10-31 16:35:33,914 INFO    MainThread:55850 [wandb_init.py:init():765] run started, returning control to user process
+2022-10-31 16:35:37,590 INFO    MainThread:55850 [wandb_run.py:_config_callback():1160] config_cb None None {'n_train': 973}
+2022-10-31 16:35:45,454 INFO    MainThread:55850 [wandb_run.py:_finish():1746] finishing run jaspr/GPT-3/ft-DFa1L50BUNY0QYYZwA0kDWVj
+2022-10-31 16:35:45,454 INFO    MainThread:55850 [wandb_run.py:_atexit_cleanup():1949] got exitcode: 0
+2022-10-31 16:35:45,454 INFO    MainThread:55850 [wandb_run.py:_restore():1932] restore
+2022-10-31 16:35:45,454 INFO    MainThread:55850 [wandb_run.py:_restore():1938] restore done
+2022-10-31 16:35:51,848 INFO    MainThread:55850 [wandb_run.py:_footer_history_summary_info():3377] rendering history
+2022-10-31 16:35:51,849 INFO    MainThread:55850 [wandb_run.py:_footer_history_summary_info():3409] rendering summary
+2022-10-31 16:35:51,852 INFO    MainThread:55850 [wandb_run.py:_footer_sync_info():3333] logging synced files

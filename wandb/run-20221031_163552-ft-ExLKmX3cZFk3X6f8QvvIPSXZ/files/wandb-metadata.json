@@ -1,0 +1,18 @@
+{
+    "os": "macOS-12.6-x86_64-i386-64bit",
+    "python": "3.10.7",
+    "heartbeatAt": "2022-10-31T23:35:53.429882",
+    "startedAt": "2022-10-31T23:35:52.742921",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "wandb",
+        "sync"
+    ],
+    "state": "running",
+    "program": "/Users/jaspergilley/venv10/bin/openai",
+    "host": "Jaspers-MacBook-Pro.local",
+    "username": "jaspergilley",
+    "executable": "/Users/jaspergilley/venv10/bin/python3.10"
+}
