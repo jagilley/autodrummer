@@ -1,1 +1,0 @@
-{"elapsed_tokens": 1636512.0, "elapsed_examples": 9952.0, "training_loss": 0.1130363596244136, "training_sequence_accuracy": 0.5, "training_token_accuracy": 0.9820359281437124, "_timestamp": 1667259356.101818, "_runtime": 3.3532180786132812, "_step": 2488, "fine_tuned_model": "curie:ft-personal-2022-05-15-21-36-28", "status": "succeeded", "_wandb": {"runtime": 10}}

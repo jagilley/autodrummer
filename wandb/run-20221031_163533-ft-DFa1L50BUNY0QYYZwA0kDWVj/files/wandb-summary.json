@@ -1,1 +1,0 @@
-{"elapsed_tokens": 1236509.0, "elapsed_examples": 3893.0, "training_loss": 0.759216035763567, "training_sequence_accuracy": 0.0, "training_token_accuracy": 0.80078125, "_timestamp": 1667259336.223422, "_runtime": 2.9674911499023438, "_step": 3893, "fine_tuned_model": "babbage:ft-personal-2022-05-15-00-32-38", "status": "succeeded", "_wandb": {"runtime": 11}}
