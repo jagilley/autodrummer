@@ -86,7 +86,7 @@ df = df.drop_duplicates(subset=['completion'])
 df.to_csv('final-egmd.csv', index=False)
 
 # write to jsonl file
-df.to_json('drums.jsonl', orient='records', lines=True)
+df.to_json('jsonl/drums.jsonl', orient='records', lines=True)
 
 # openai tools fine_tunes.prepare_data -f drums.jsonl
 # openai api fine_tunes.create -t drums.jsonl -m davinci --n_epochs 2 --suffix "autodrummer-v5"

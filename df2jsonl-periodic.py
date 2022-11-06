@@ -42,7 +42,7 @@ df = df.drop_duplicates(subset=['completion'])
 df.to_csv('final-egmd-periodic.csv', index=False)
 
 # write to jsonl file
-df.to_json('drums-periodic.jsonl', orient='records', lines=True)
+df.to_json('jsonl/drums-periodic.jsonl', orient='records', lines=True)
 
 # openai tools fine_tunes.prepare_data -f drums-periodic.jsonl
 # openai api fine_tunes.create -t drums-periodic.jsonl -m davinci --n_epochs 2 --suffix "autodrummer-v6"
