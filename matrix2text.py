@@ -187,7 +187,7 @@ if __name__=="__main__":
     # deduplicate by note_text column
     matrix_df = matrix_df.drop_duplicates(subset=['note_text'])
 
-    matrix_df.to_csv('e-gmd-q/info-matrix-text-periodic.csv', index=False)
+    matrix_df.to_csv('e-gmd-q/info-matrix-text-multiple.csv', index=False)
 
     # period_text = """None
     #     0:r

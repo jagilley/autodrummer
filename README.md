@@ -9,9 +9,12 @@ autodrummer is a GPT-3 finetune created by converting the MIDI data from Google 
 2. `git clone https://github.com/angelfaraldo/pymidifile` _within this repo_ and replace its `quantize.py` with this repo's version of `quantize.py`. _you have to run quantize.py from the autodrummer repo directory, not the pymidifile repo directory, or else you'll get import errors._
 3. run `pip install -r requirements.txt`
 
-## current workflow
+## current workflow (to prepare data for your own finetune)
 1. `pymidifile/quantize.py`: quantize the MIDI data in the e-gmd dataset and convert it to matrices representing `(drum_code, hit_time)` pairs
 2. `matrix2text.py`: convert said matrices into plaintext which can be fed to LLMs like GPT-3
 3. `df2jsonl.py`: convert dataframe of plaintext to `jsonl` file which can be passed to the OpenAI API (or comparable LLM)
 4. *train model here*
 5. `txt2audio.py` **or** `evaluator.py`: convert back from plaintext to audio
+
+## contact
+[Jasper on Twitter](https://twitter.com/0xjasper)
