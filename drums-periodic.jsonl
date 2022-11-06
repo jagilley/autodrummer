@@ -1,0 +1,1171 @@
+{"prompt":"funk groove acoustic ->","completion":" None\n0:r\nNone\n2:k,4:h,6:h,7:s\n0:k,4:s,8:h,9:s\n0:y,9:h,12:s,16:h,18:h,26:h,27:k,28:s,31:s ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\n0:r\nNone\n2:k,4:a,6:a,7:s\n0:k,4:s,8:a,9:s\n0:y,9:a,12:s,16:a,18:a,26:a,27:k,28:s,31:s ###"}
+{"prompt":"funk groove big room layered ->","completion":" None\n0:r\nNone\n2:k,4:h,4:s,6:h,7:s\n0:k,8:h,9:s\n0:y,9:h,16:h,18:h,26:h,27:k,31:s ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\n2:h\n4:s\n0:k,4:h,8:h,10:k,15:k\n0:k,5:s,12:h,13:s,16:h,28:k ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\n0:a\nNone\n4:s\n0:k,10:k,15:k\n5:s,13:s ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\nNone\n4:s\n0:k,2:h,3:k,4:k,7:k,8:h,9:k,10:l,10:k,12:h,12:s,14:k,15:s\n0:k,6:h,12:k,14:s,16:h,16:s,17:s,22:k,23:s,28:h,31:s ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\n0:a\nNone\n4:s\n0:k,3:k,7:k,9:k,10:k,12:a,12:s,15:s\n14:s,16:s,17:s,23:s,31:s ###"}
+{"prompt":"funk groove deep daft ->","completion":" None\nNone\nNone\n4:s\n0:k,2:h,3:k,4:k,7:k,8:h,9:k,10:k,10:a,12:h,12:s,14:k,15:s\n0:k,6:h,12:k,14:s,16:h,16:s,17:s,22:k,23:s,28:h,31:s ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\n1:h\n0:h\n7:s\n0:k,3:k,6:k,9:k,9:s,10:h,10:k,12:s,13:k,14:h\n0:s,2:k,4:s,9:s,13:s,17:s,18:h,18:s,20:z ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" 0:a\nNone\nNone\n7:s\n0:k,3:k,9:k,9:s,10:k,12:s,13:k\n0:s,4:s,9:s,13:s,17:s,18:s,20:z ###"}
+{"prompt":"soul groove 808 simple ->","completion":" None\n1:h\n0:h\n4:s,7:s\n0:k,3:k,6:k,9:k,9:s,10:h,10:k,13:k,14:h\n0:s,2:k,9:s,13:s,17:s,18:h,18:s ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\nNone\n0:k,2:k\n4:s,6:h,7:h,9:h\n0:h,4:k,12:s,12:k,14:h,15:h,16:k,20:h,28:s,28:h,30:l ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\nNone\n2:a\n0:k,4:a\n0:a,4:s,7:a,9:a\n12:s,15:a,28:s ###"}
+{"prompt":"soul groove big room layered ->","completion":" None\nNone\nNone\n0:k,2:k,4:s\n6:h,7:h,9:h\n0:h,4:k,12:k,14:h,15:h,16:k,20:h,28:h,30:l ###"}
+{"prompt":"soul groove deep daft ->","completion":" None\nNone\nNone\n0:k,2:k\n4:s,6:h,7:h,9:h\n0:h,4:k,12:s,12:k,14:h,15:h,16:k,20:h,28:s,28:h,30:a ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:h,1:k,2:h,3:h,3:k,4:h,4:z,5:h,6:k,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:k,1:a,2:a,3:k,3:a,4:z,4:a,5:a,6:a,7:a,7:s,8:a,9:a,9:s,10:k,10:a,11:a,12:a,12:s,13:k,13:a,14:a,15:s,15:a ###"}
+{"prompt":"funk groove 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:h,1:k,2:h,3:h,3:k,4:s,4:h,5:h,6:k,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"}
+{"prompt":"hiphop groove acoustic ->","completion":" None\nNone\nNone\n2:k\n0:k,3:h,3:k,4:s,4:k,5:h,7:h,7:k,8:k,9:h,9:k,10:k\n0:h,1:h,6:k,11:h,12:s,12:k,13:h,13:k,14:k,15:h,15:k,16:k,17:k,21:s,22:h,28:k,30:k ###"}
+{"prompt":"hiphop groove dark hybrid ->","completion":" None\nNone\nNone\n0:a,1:a,2:a\n0:k,3:k,3:a,4:s,4:a,5:a,6:a,7:k,7:a,9:k,10:k\n11:a,12:s,12:a,13:k,13:a,14:a,15:k,15:a,21:s,28:k,30:k ###"}
+{"prompt":"pop groove acoustic ->","completion":" None\nNone\nNone\nNone\n0:h,2:h,4:h,4:k,6:h\n0:k,4:z,8:h,8:k,10:h,12:h,12:s,14:h,17:k,20:s ###"}
+{"prompt":"pop groove dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:a,2:a,4:k,4:a,6:a\n0:k,4:z,8:k,8:a,10:a,12:a,12:s,14:a,17:k,20:s ###"}
+{"prompt":"pop groove 808 simple ->","completion":" None\nNone\nNone\nNone\n0:h,2:h,4:s,4:h,4:k,6:h\n0:k,8:h,8:k,10:h,12:h,12:s,14:h,17:k ###"}
+{"prompt":"rock groove acoustic ->","completion":" None\nNone\nNone\n0:k,2:k,4:s\n4:k,6:k,7:k,8:k\n0:h,0:k,12:k,14:k,16:h,27:s,29:l,29:k ###"}
+{"prompt":"rock groove dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a,2:a,4:s\n4:a,6:a,7:k\n0:a,12:a,14:a,27:s,29:k,29:a ###"}
+{"prompt":"rock groove deep daft ->","completion":" None\nNone\nNone\n0:k,2:k,4:s\n4:k,6:k,7:k,8:k\n0:h,0:k,12:k,14:k,16:h,27:s,29:k,29:a ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\n0:h\nNone\nNone\n0:k,4:s,9:k\n12:s,26:k,28:s ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\n0:a\nNone\nNone\n0:k,4:s,9:k\n12:s,26:k,28:s ###"}
+{"prompt":"soul groove big room layered ->","completion":" None\n0:h\nNone\n4:s\n0:k,9:k\n26:k ###"}
+{"prompt":"funk purdieshuffle acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:l,1:k,3:s,4:s,5:h,5:h,6:s,7:h,7:k,9:s,9:k,11:h,13:k,14:s,15:h,15:k,15:s ###"}
+{"prompt":"funk purdieshuffle dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:k,1:a,3:s,4:s,5:a,6:s,7:k,7:a,9:s,9:a,11:a,13:a,14:s,15:a,15:k,15:s ###"}
+{"prompt":"funk purdieshuffle deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:k,1:a,3:s,4:s,5:h,5:h,6:s,7:h,7:k,9:s,9:k,11:h,13:k,14:s,15:h,15:k,15:s ###"}
+{"prompt":"latin samba acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:z,1:r,2:r,2:h,2:k,3:z,4:r,4:k,4:z,5:r,6:r,6:h,7:k,7:z,8:r,8:k,8:z,9:r,10:r,10:h,11:k,11:z,12:r,12:k,13:r,14:r,14:h,15:k,15:z ###"}
+{"prompt":"latin samba dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:z,1:r,2:r,2:k,2:a,3:z,4:r,4:k,4:z,5:r,6:r,6:a,7:k,7:z,8:r,8:k,8:z,9:r,10:r,10:a,11:k,11:z,12:r,12:k,13:r,14:r,14:a,15:k,15:z ###"}
+{"prompt":"latin samba 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:s,0:r,0:k,1:r,2:r,2:h,2:k,3:s,4:s,4:r,4:k,5:r,6:r,6:h,7:s,7:k,8:s,8:r,8:k,9:r,10:r,10:h,11:s,11:k,12:r,12:k,13:r,14:r,14:h,15:s,15:k ###"}
+{"prompt":"jazz funk acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:y,2:r,2:h,3:k,4:r,4:s,5:s,6:r,6:h,7:r,7:s,8:r,9:s,10:r,10:h,10:s,10:k,11:r,11:k,12:r,12:z,13:s,14:r,14:h,15:r,15:s ###"}
+{"prompt":"jazz funk dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:y,2:r,2:a,3:k,4:r,4:s,5:s,6:r,6:a,7:r,7:s,8:r,9:s,10:s,10:r,10:k,10:a,11:r,11:k,12:r,12:z,13:s,14:r,14:a,15:r,15:s ###"}
+{"prompt":"jazz funk big room layered ->","completion":" None\nNone\nNone\nNone\n2:h\n0:k,4:r,4:k,4:y,6:r,6:h,7:k,8:r,8:s,9:s,10:r,10:h,11:r,11:s,12:r,13:s,14:r,14:h,14:s,14:k,15:r,15:k,16:r,16:z,17:s,18:r,19:r,19:s ###"}
+{"prompt":"jazz funk 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:y,2:r,2:h,3:k,4:r,4:s,5:s,6:r,6:h,7:r,7:s,8:r,9:s,10:r,10:h,10:s,10:k,11:r,11:k,12:s,12:r,13:s,14:r,14:h,15:r,15:s ###"}
+{"prompt":"rock prog acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,2:h,3:h,5:k,6:k,8:s,9:h,11:h,12:k,14:k,15:h,15:k ###"}
+{"prompt":"rock prog dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,2:a,3:a,5:a,6:k,8:s,9:a,11:a,12:a,14:a,15:k,15:a ###"}
+{"prompt":"punk acoustic ->","completion":" None\nNone\n2:k\n0:k,4:h\n0:s,2:s,5:k,8:h,12:k,12:s,14:z\n0:k,6:z,10:z,16:h,20:s,22:s,24:s,26:s ###"}
+{"prompt":"punk dark hybrid ->","completion":" None\n0:a\nNone\n0:k\n0:s,2:s,5:k,12:k,12:s,14:z\n6:z,10:z,20:s,22:s,24:s,26:s ###"}
+{"prompt":"punk 808 simple ->","completion":" None\nNone\n2:k\n0:k,4:h\n0:s,2:s,5:k,8:h,10:s,12:k,12:s,14:s\n0:k,6:s,16:h,20:s,22:s,24:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:r,0:k,2:r,2:s,4:r,4:k\n6:r,6:k,8:r,10:r,10:s,12:r,14:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n8:h\n16:h,20:h,28:s,30:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n8:a\n16:a,20:a,28:s,30:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,2:s,3:s,5:s,6:s,8:t,9:t,11:x,12:x\nNone ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\n2:s\n0:s,1:s\n3:s,12:s,15:s\n5:s,7:s,20:s,22:s,27:s,29:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:y,2:z,3:k,3:y,5:s,6:y,7:k,9:s,10:k,10:y,12:s\nNone ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k,0:y,2:s,3:k,3:y,5:s,6:y,7:k,9:s,10:k,10:y,12:s\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,12:h,12:k,13:h,14:h,15:k,16:h,16:s,18:h,20:h,20:k,22:h,24:s,24:k,26:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,12:k,12:a,13:a,14:a,15:k,16:a,16:s,18:a,20:k,20:a,22:a,24:a,24:s,26:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:r\nNone\n4:s\n0:k,7:s,9:s,10:k,11:k\n14:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:r\n0:k,2:s\n3:s\nNone\nNone ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\n0:r\n0:h\n2:k,4:s,7:s\n0:k,9:s,11:k\n3:k,17:s ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\n0:r\n0:a\n2:k,4:s,7:s\n0:k,9:s,11:k\n3:k,17:s ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\nNone\n4:s\n0:k,1:s,2:s,4:k,6:k,8:k,10:k,15:k\n2:k,6:s,8:s,9:s,10:h,10:s,12:l,14:h,16:l,18:h,26:k,28:k,29:s,30:k,31:s ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\nNone\n2:a\n4:s,4:a\n0:k,1:s,2:s,8:a,10:k,15:k\n6:s,8:s,9:s,10:s,16:a,29:s,31:s ###"}
+{"prompt":"soul groove deep daft ->","completion":" None\nNone\nNone\n4:s\n0:k,1:s,2:s,4:k,6:k,8:k,10:k,15:k\n2:k,6:s,8:s,9:s,10:h,10:s,12:a,14:h,16:a,18:h,26:k,28:k,29:s,30:k,31:s ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\nNone\n0:k,2:s,2:k\n0:k,4:s,6:k,7:k,8:s,9:k,10:k\n2:s,4:k,12:s,12:k,14:k,16:s,17:s,20:l,24:s,26:s,28:l,28:s,30:h,30:h,31:s ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\n0:a\nNone\n2:s\n0:k,4:s,7:k,8:s,9:k,10:k\n2:s,12:s,16:s,17:s,24:s,26:s,28:s,30:a,31:s ###"}
+{"prompt":"funk groove big room layered ->","completion":" None\nNone\nNone\n0:k,2:s,2:k,4:s\n0:k,6:k,7:k,8:s,9:k,10:k\n2:s,4:k,12:k,14:k,16:s,17:s,20:l,24:s,26:s,28:l,30:h,30:h,31:s ###"}
+{"prompt":"funk groove deep daft ->","completion":" None\nNone\nNone\n0:k,2:s,2:k\n0:k,4:s,6:k,7:k,8:s,9:k,10:k\n2:s,4:k,12:s,12:k,14:k,16:s,17:s,20:a,24:s,26:s,28:s,28:a,30:h,30:h,31:s ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\n1:k,2:k\n3:k,4:k,7:k\n0:k,0:k,3:k,7:k,9:k,10:k,12:s,13:k\n2:s,4:s,8:k,10:s,11:s,15:h,17:s,20:z,24:l,26:k,30:s,31:k ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" 0:a\nNone\nNone\n7:k\n0:k,3:k,9:k,10:k,12:s,13:k\n2:s,4:s,10:s,11:s,17:s,20:z,26:k,30:s ###"}
+{"prompt":"soul groove 808 simple ->","completion":" None\nNone\n1:k,2:k\n3:k,4:k,7:k\n0:k,0:k,3:k,7:k,9:k,10:k,12:s,13:k\n2:s,4:s,8:k,10:s,11:s,15:h,17:s,20:s,24:l,26:k,30:s,31:k ###"}
+{"prompt":"soul groove deep daft ->","completion":" None\nNone\n1:k,2:k\n3:k,4:k,7:k\n0:k,0:k,3:k,7:k,9:k,10:k,12:s,13:k\n2:s,4:s,8:k,10:s,11:s,15:h,17:s,20:z,24:a,26:k,30:s,31:k ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\nNone\n0:k,2:k\n6:k,7:k,9:k,15:l\n4:s,10:s,12:s,14:l,16:h,20:z,28:s,30:k ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\nNone\n2:a\n0:k,7:a\n9:a\n4:s,10:s,12:s,16:a,20:z,28:s ###"}
+{"prompt":"soul groove big room layered ->","completion":" None\nNone\nNone\n0:k,2:k\n6:k,7:k,9:k,12:s,15:l\n4:s,10:s,14:l,16:h,20:z,30:k ###"}
+{"prompt":"soul groove 808 simple ->","completion":" None\nNone\nNone\n0:k,2:k\n4:s,6:k,7:k,9:k,15:l\n10:s,12:s,14:l,16:h,28:s,30:k ###"}
+{"prompt":"soul groove deep daft ->","completion":" None\nNone\nNone\n0:k,2:k\n6:k,7:k,9:k,15:a\n4:s,10:s,12:s,14:a,16:h,20:z,28:s,30:k ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,0:k,1:s,1:k,2:k,3:h,3:k,4:s,4:s,4:k,5:k,6:k,7:l,7:k,8:l,9:k,10:k,10:k,11:k,12:s,12:l,12:h,12:s,13:k,13:k,14:k,15:k ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:s,1:a,2:a,3:k,3:a,4:s,4:s,4:a,5:a,6:a,7:k,7:a,8:a,9:a,10:k,10:a,11:a,12:s,12:s,12:a,13:k,13:a,14:a,15:a ###"}
+{"prompt":"funk groove big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,0:k,1:s,1:k,2:k,3:h,3:k,4:s,4:k,5:k,6:k,7:l,7:k,8:l,9:k,10:k,10:k,11:k,12:l,12:h,12:s,13:k,13:k,14:k,15:k ###"}
+{"prompt":"funk groove deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,0:k,1:s,1:k,2:k,3:h,3:k,4:s,4:s,4:k,5:k,6:k,7:k,7:a,8:a,9:k,10:k,10:k,11:k,12:s,12:s,12:h,12:a,13:k,13:k,14:k,15:k ###"}
+{"prompt":"hiphop groove acoustic ->","completion":" None\n0:k\nNone\nNone\n0:k,10:k\n4:s,7:k,9:k,12:s,13:k,15:k,18:k,18:s,20:s,21:k,24:k,28:k,30:k ###"}
+{"prompt":"hiphop groove dark hybrid ->","completion":" None\n0:a\nNone\nNone\n0:k,10:k\n4:s,7:k,9:k,12:s,13:k,15:k,18:k,18:s,20:s,21:k,24:k,28:k,30:k ###"}
+{"prompt":"hiphop groove big room layered ->","completion":" None\n0:k\nNone\nNone\n0:k,4:s,10:k\n7:k,9:k,12:s,13:k,15:k,18:k,18:s,21:k,24:k,28:k,30:k ###"}
+{"prompt":"pop groove acoustic ->","completion":" None\nNone\nNone\n4:s,4:k\n0:k,0:k,2:z,7:s,10:h,14:k\n2:k,4:h,6:h,8:k,8:k,10:z,18:h,21:s,22:k,24:l,24:s,26:k,29:s,30:k,31:s ###"}
+{"prompt":"pop groove dark hybrid ->","completion":" None\n0:a\nNone\n4:s\n0:k,2:z,7:s\n4:a,8:k,10:z,21:s,24:s,26:k,29:s,30:k,31:s ###"}
+{"prompt":"pop groove 808 simple ->","completion":" None\nNone\nNone\n4:s,4:k\n0:k,0:k,2:s,7:s,10:h,14:k\n2:k,4:h,6:h,8:k,8:k,10:s,18:h,21:s,22:k,24:l,24:s,26:k,29:s,30:k,31:s ###"}
+{"prompt":"pop groove deep daft ->","completion":" None\nNone\nNone\n4:s,4:k\n0:k,0:k,2:z,7:s,10:h,14:k\n2:k,4:h,6:h,8:k,8:k,10:z,18:h,21:s,22:k,24:a,24:s,26:k,29:s,30:k,31:s ###"}
+{"prompt":"rock groove acoustic ->","completion":" None\nNone\nNone\n0:k,0:k,4:s\n2:k,4:k,6:k,7:k,8:k\n0:k,4:s,10:k,12:s,12:k,13:s,14:k,18:s,20:s,21:s,26:h,27:s,29:l,29:k,29:j ###"}
+{"prompt":"rock groove dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a,2:a,4:s\n4:a,6:a,7:k,8:k\n0:k,4:s,12:s,12:a,13:s,14:a,18:s,20:s,21:s,27:s,29:k,29:a ###"}
+{"prompt":"rock groove big room layered ->","completion":" None\nNone\nNone\n0:k,0:k,4:s\n2:k,4:s,4:k,6:k,7:k,8:k\n0:k,10:k,12:s,12:k,13:s,14:k,18:s,21:s,26:h,27:s,29:l,29:k,29:j ###"}
+{"prompt":"rock groove deep daft ->","completion":" None\nNone\nNone\n0:k,0:k,4:s\n2:k,4:k,6:k,7:k,8:k\n0:k,4:s,10:k,12:s,12:k,13:s,14:k,18:s,20:s,21:s,26:h,27:s,29:k,29:a ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\n0:k\nNone\n0:k,2:k,6:k,10:h,10:k,12:s,15:k\n4:s,14:k,20:s,25:s,30:h ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\n0:a\nNone\nNone\n0:k,10:k,12:s,15:k\n4:s,20:s,25:s ###"}
+{"prompt":"soul groove big room layered ->","completion":" None\nNone\n0:k\n4:s\n0:k,2:k,6:k,10:h,10:k,15:k\n14:k,25:s,30:h ###"}
+{"prompt":"latin brazilian-sambareggae acoustic ->","completion":" None\nNone\n0:k,2:h\n0:t,1:s,2:s\n3:s,4:x,5:s,6:x,7:s,12:u,13:u,14:u,15:u\n11:z,27:s ###"}
+{"prompt":"latin brazilian-sambareggae dark hybrid ->","completion":" None\nNone\n0:k,2:a\n0:t,1:s,2:s\n3:s,4:x,5:s,6:x,7:s,12:u,13:u,14:u,15:u\n11:z,27:s ###"}
+{"prompt":"latin brazilian-sambareggae 808 simple ->","completion":" None\nNone\n0:k,2:h\n0:t,1:s,2:s\n3:s,4:x,5:s,6:x,7:s,12:u,13:u,14:u,15:u\n11:s,27:s ###"}
+{"prompt":"latin brazilian-maracatu acoustic ->","completion":" None\nNone\n0:s,2:h\n2:s,5:s,7:s\n0:k,1:s,3:s,5:s,6:s,17:s\n2:s,6:s,9:k,9:s,11:s,13:k,13:s,14:s,15:k,20:k,21:s,22:k,25:t,27:t,30:x ###"}
+{"prompt":"latin brazilian-maracatu dark hybrid ->","completion":" None\nNone\n0:s,2:a\n2:s,5:s,7:s\n0:k,1:s,3:s,5:s,6:s,17:s\n2:s,6:s,9:k,9:s,11:s,13:k,13:s,14:s,15:k,20:k,21:s,22:k,25:t,27:t,30:x ###"}
+{"prompt":"reggae acoustic ->","completion":" None\nNone\nNone\n0:k\n4:k\n2:h,4:l,6:h,7:s,10:s,12:l,15:k,16:h,19:s,19:k,20:k,23:h,27:z ###"}
+{"prompt":"reggae dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,4:a\n2:a,3:s,6:s,8:a,11:a,12:a,15:a,15:s,19:a,23:z ###"}
+{"prompt":"reggae 808 simple ->","completion":" None\nNone\nNone\n0:k\n4:k\n2:h,4:l,6:h,7:s,10:s,12:l,15:k,16:h,19:s,19:k,20:k,23:h,27:s ###"}
+{"prompt":"reggae deep daft ->","completion":" None\nNone\nNone\n0:k\n4:k\n2:h,4:a,6:h,7:s,10:s,12:a,15:k,16:h,19:s,19:k,20:k,23:h,27:z ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\n0:r\nNone\n2:k,7:s\n0:k,9:s,11:k,12:s\n4:s,20:s ###"}
+{"prompt":"funk groove big room layered ->","completion":" None\n0:r\nNone\n2:k,4:s,7:s\n0:k,9:s,11:k\nNone ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\nNone\n2:h,4:s,4:k,6:k\n0:k,1:k,7:s,9:s,10:k\n8:h,16:k,24:k ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\nNone\n1:a\n3:s,3:a\n0:k,6:s,7:a,8:s,9:k\n15:k,15:a ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\nNone\n0:h,4:s,6:h\n0:k,2:h,3:k,4:h,7:k,9:k,10:j,12:h\n10:k,12:h,25:k,28:j ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\n0:a\nNone\n4:s\n0:k,3:k,7:k,9:k,12:a\n10:k,25:k ###"}
+{"prompt":"funk groove deep daft ->","completion":" None\nNone\nNone\n0:h,4:s,6:h\n0:k,2:h,3:k,4:h,7:k,9:k,10:a,12:h\n10:k,12:h,25:k,28:a ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\n1:h\n2:h\n4:k\n0:k,3:k,7:s,9:k,10:k,12:s,13:k,15:k\n0:k,4:s,8:k,16:h,18:s,20:s,24:h,27:s ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" 0:a\nNone\nNone\nNone\n0:k,3:k,7:s,9:k,10:k,12:s,13:k,15:k\n4:s,18:s,20:s,27:s ###"}
+{"prompt":"soul groove big room layered ->","completion":" None\n1:h\n2:h\n4:s,4:k\n0:k,3:k,7:s,9:k,10:k,13:k,15:k\n0:k,8:k,16:h,18:s,24:h,27:s ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,1:h,4:s\n2:k,6:h,7:h,8:h,8:k,10:h,12:s,14:h,15:h,18:h,22:j ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,1:a,2:a,4:s,6:a\n7:a,8:k,8:a,10:a,12:s,14:a,15:a ###"}
+{"prompt":"soul groove deep daft ->","completion":" None\nNone\nNone\nNone\n0:k,1:h,4:s\n2:k,6:h,7:h,8:h,8:k,10:h,12:s,14:h,15:h,18:h,22:a ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:h,2:h,3:h,3:k,4:h,4:s,5:h,6:h,7:h,7:s,8:h,9:h,10:h,10:k,10:s,11:h,12:h,12:s,13:h,13:k,14:h,15:h ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:a,3:k,3:a,4:a,4:s,5:a,6:a,7:s,7:a,8:a,9:a,10:s,10:k,10:a,11:a,12:a,12:s,13:k,13:a,14:a,15:a ###"}
+{"prompt":"hiphop groove acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,4:k,5:h,6:k,7:h,7:k,8:k,9:h,9:k,10:k,10:k\n4:s,11:h,12:s,12:k,13:h,13:k,14:k,15:h,15:k,16:k,17:h,18:k,19:h,19:k,20:s,28:k,30:k ###"}
+{"prompt":"hiphop groove dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,4:a,5:a,6:a,7:k,7:a,8:a,9:k,9:a,10:k,10:a\n4:s,11:a,12:a,12:s,13:k,13:a,14:a,15:k,15:a,16:a,17:a,18:a,19:k,19:a,20:s,28:k,30:k ###"}
+{"prompt":"hiphop groove big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,4:s,4:k,5:h,6:k,7:h,7:k,8:k,9:h,9:k,10:k,10:k\n11:h,12:s,12:k,13:h,13:k,14:k,15:h,15:k,16:k,17:h,18:k,19:h,19:k,28:k,30:k ###"}
+{"prompt":"pop groove acoustic ->","completion":" None\nNone\nNone\n6:h\n0:k,8:h,10:h,12:h\n0:k,4:h,4:s,8:k,12:k,12:s,16:h,18:h,20:s,20:k,26:k,28:s ###"}
+{"prompt":"pop groove dark hybrid ->","completion":" None\nNone\n0:a\n6:a\n0:k,10:a\n4:s,8:k,12:k,12:s,18:a,20:s,26:k,28:s ###"}
+{"prompt":"pop groove big room layered ->","completion":" None\nNone\nNone\n4:s,6:h\n0:k,8:h,10:h,12:h\n0:k,4:h,8:k,12:k,16:h,18:h,20:k,26:k ###"}
+{"prompt":"rock groove acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:h,4:k,5:k,6:h,6:k,10:s\n2:s,4:s,8:k,10:h,12:k,14:h,14:k,18:s,24:h,25:s,27:l ###"}
+{"prompt":"rock groove dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,1:k,1:a,3:a,5:s\n5:a,7:a,9:k,9:a,11:a,13:a,13:s,15:a,20:s,22:a ###"}
+{"prompt":"rock groove big room layered ->","completion":" None\nNone\nNone\n2:s\n0:k,2:h,4:k,5:k,6:h,6:k\n4:s,8:k,10:h,12:k,14:h,14:k,24:h,25:s,27:l ###"}
+{"prompt":"rock groove deep daft ->","completion":" None\nNone\nNone\nNone\n0:k,2:h,4:k,5:k,6:h,6:k,10:s\n2:s,4:s,8:k,10:h,12:k,14:h,14:k,18:s,24:h,25:s,27:a ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\n2:h\n0:k,4:h,4:s\n0:k,10:k,15:k\nNone ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\n0:a\nNone\n4:s\n0:k,10:k,15:k\nNone ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\nNone\n2:h,2:k,3:h,4:k,15:k\n0:k,0:y,5:h,6:h,6:k,7:h,8:k,8:k,9:h,10:h,11:k,12:s,12:k,13:s,14:h,15:k,16:k,17:h,17:k,21:k,22:k,23:s,24:s,24:s,25:h,25:s,26:s,27:s,28:s,29:t,30:u,31:h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\nNone\nNone\n2:k,2:a,3:a,4:a,5:a,6:a,9:a,15:k,15:a\n0:k,0:y,6:k,7:a,8:k,8:a,10:a,11:k,12:a,12:s,13:s,14:a,16:a,17:k,17:a,23:s,24:s,24:s,25:s,26:s,27:s,28:s,29:t,30:u ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\nNone\nNone\n2:h,2:k,3:h,4:k,12:s,15:k\n0:k,0:y,5:h,6:h,6:k,7:h,8:k,8:k,9:h,10:h,11:k,12:k,13:s,14:h,15:k,16:k,17:h,17:k,21:k,22:k,23:s,24:s,25:h,25:s,26:s,27:s,29:t,30:u,31:h ###"}
+{"prompt":"jazz fusion acoustic ->","completion":" None\n1:h\nNone\nNone\n0:h,0:k,10:h,14:h\n4:h,6:h,8:h,12:h,18:h,20:k,24:k,28:k ###"}
+{"prompt":"jazz fusion dark hybrid ->","completion":" None\n1:a\n0:a\nNone\n0:k,10:a,14:a\n6:a,18:a ###"}
+{"prompt":"jazz fusion acoustic ->","completion":" None\nNone\nNone\nNone\n0:h,2:k\n0:h,0:k,3:k,4:s,5:s,7:s,8:t,8:s,9:s,11:z,12:t,13:u,14:k,14:k,15:k,15:y,17:k,19:h,20:h,21:k,22:h,23:h,24:k,25:h,26:k,27:s,28:s,29:k,30:h ###"}
+{"prompt":"jazz fusion dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:a\n0:k,1:k,1:y,2:a,3:a,4:a,5:a,6:a,7:a,8:a,9:a,10:a,11:a,12:a,13:s,14:s,15:a ###"}
+{"prompt":"jazz fusion 808 simple ->","completion":" None\nNone\nNone\nNone\n0:h,2:k,11:s\n0:h,0:k,3:k,4:s,5:s,7:s,8:t,8:s,9:s,12:t,13:u,14:k,14:k,15:k,15:y,17:k,19:h,20:h,21:k,22:h,23:h,24:k,25:h,26:k,28:s,29:k,30:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:u,0:k,2:x,4:u,6:u,6:h,6:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:u,0:k,2:x,4:u,6:s,6:u,6:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n2:h,2:s,4:k,5:s,6:r,6:k,8:k,12:r\n0:r,0:k,4:r,8:r,9:h,10:s,12:k,14:y,14:s,14:k,18:k,18:y,24:r,26:s,26:h,29:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n2:s,2:a,4:k,5:s,6:r,6:k,8:k,12:r\n0:r,0:k,4:r,8:r,9:a,10:s,12:k,14:y,14:s,14:k,18:k,18:y,24:r,26:s,26:a,29:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n2:s\n2:h,4:k,5:s,6:r,6:k,8:k,12:r\n0:r,0:k,4:r,8:r,9:h,12:k,14:y,14:s,14:k,18:k,18:y,24:r,26:h,29:s ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\n0:k\n3:h\n1:h\n0:k,3:k,4:s,5:h,6:k,9:k\n1:h,1:k,6:h,7:k,11:k,11:s,12:s,14:h,15:h,16:k,26:k,28:s,29:h,30:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\n0:a\n3:a\n1:a\n0:k,3:k,4:s,5:a,6:k,9:k,14:a\n1:a,6:a,7:a,11:k,11:s,12:s,15:a,16:a,26:k,28:s,29:a ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\n0:k\n3:h\n1:h,4:s\n0:k,3:k,5:h,6:k,9:k\n1:h,1:k,6:h,7:k,11:k,11:s,14:h,15:h,16:k,26:k,29:h,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,1:h,2:k,3:h,4:s,5:h,6:k,6:k,7:h,8:h,9:k,9:j,10:k,10:k,11:h,12:s,13:h,14:k,15:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:a,3:a,4:s,5:a,6:k,6:a,7:a,8:a,9:k,9:a,10:k,10:a,11:a,12:s,13:a,14:a,15:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,1:h,2:k,3:h,4:s,5:h,6:k,6:k,7:h,8:h,9:k,9:a,10:k,10:k,11:h,12:s,13:h,14:k,15:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n5:s,7:s\n0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,10:q,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"}
+{"prompt":"rock jinglestacks 2nd hi-hat ->","completion":" None\nNone\nNone\nNone\n5:s,7:s\n0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,10:h,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"}
+{"prompt":"rock jazz funk ->","completion":" None\nNone\nNone\nNone\n5:s,7:s\n0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,10:b,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,2:a,3:k,4:s,6:k,6:a,7:s,8:a,9:s,10:k,10:a,12:s,13:a,14:a,15:a ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n5:s,7:s\n0:k,2:l,4:h,4:s,6:s,8:s,9:t,10:l,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"}
+{"prompt":"rock super boom layered ->","completion":" None\nNone\nNone\nNone\n5:s,7:s\n0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,10:l,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\nNone\n5:s,7:s,10:s\n0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,27:h,28:k,29:k ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\nNone\n5:s,7:s\n0:k,2:a,4:h,4:s,6:s,6:s,8:s,9:t,10:l,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:k,24:a,26:s,27:h,28:k,29:k ###"}
+{"prompt":"soul acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:k,4:k,9:s\n4:s,6:k,7:h,8:h,8:k,10:k,10:k,12:z,14:k,15:h,15:s,16:k,19:h,20:z,21:s,22:h,23:j,23:k,23:k,25:s,25:s,26:s,27:h ###"}
+{"prompt":"soul dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,2:a,4:k,6:a,7:a,9:s\n4:s,8:k,8:a,10:k,10:a,12:z,14:a,15:a,15:s,16:a,19:a,20:z,21:s,23:k,23:a,25:s,25:s,26:s,27:a ###"}
+{"prompt":"soul big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,2:k,4:k,9:s\n4:s,6:k,7:h,8:h,8:k,10:k,10:k,12:z,14:k,15:h,15:s,16:k,19:h,20:z,21:s,22:h,23:j,23:k,23:k,25:s,26:s,27:h ###"}
+{"prompt":"soul 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k,2:k,4:s,4:k,9:s\n6:k,7:h,8:h,8:k,10:k,10:k,12:s,14:k,15:h,15:s,16:k,19:h,21:s,22:h,23:j,23:k,23:k,25:s,25:s,26:s,27:h ###"}
+{"prompt":"soul deep daft ->","completion":" None\nNone\nNone\nNone\n0:k,2:k,4:k,9:s\n4:s,6:k,7:h,8:h,8:k,10:k,10:k,12:z,14:k,15:h,15:s,16:k,19:h,20:z,21:s,22:h,23:a,23:k,23:k,25:s,25:s,26:s,27:h ###"}
+{"prompt":"soul acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,4:s,4:h,4:k,6:s,6:k,7:h,8:k,9:s,10:l,11:h,12:k,12:s,14:s,14:k,15:k ###"}
+{"prompt":"soul dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:s,2:a,4:s,4:k,4:a,6:a,6:s,7:a,8:k,9:s,10:a,11:a,12:k,12:s,14:a,14:s,15:a ###"}
+{"prompt":"soul big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,4:h,4:s,4:k,6:s,6:k,7:h,8:k,9:s,10:l,11:h,12:k,12:s,14:s,14:k,15:k ###"}
+{"prompt":"soul deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,4:s,4:h,4:k,6:s,6:k,7:h,8:k,9:s,10:a,11:h,12:k,12:s,14:s,14:k,15:k ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\n3:h\n1:h\n0:k,2:h,3:k,4:s,6:k,8:k,9:k,10:k,12:k,13:h,13:k,15:k\n0:h,4:h,6:k,10:h,12:s,14:h,16:k,20:k,21:h,22:h,25:h,26:k,28:s,30:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\n0:a\n3:a\n1:a\n0:k,3:k,4:s,6:k,9:k,10:k,13:k,13:a,15:k\n12:s,21:a,25:a,28:s ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\n3:h\n1:h,4:s\n0:k,2:h,3:k,6:k,8:k,9:k,10:k,12:k,13:h,13:k,15:k\n0:h,4:h,6:k,10:h,14:h,16:k,20:k,21:h,22:h,25:h,26:k,30:k ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\n2:h\n0:h,2:k,4:s,7:s\n0:k,4:h,9:s,11:k\n12:h,22:s,28:k ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\n0:a\nNone\n2:k,4:s,7:s\n0:k,9:s,11:k\n22:s ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\n0:h\nNone\nNone\n0:k,1:k,4:s,8:s,9:s,10:k,14:k\n9:s,10:s,12:s,23:s,24:s,28:s ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\n0:a\nNone\nNone\n0:k,1:k,4:s,8:s,9:s,10:k,14:k\n9:s,10:s,12:s,23:s,24:s,28:s ###"}
+{"prompt":"soul groove big room layered ->","completion":" None\n0:h\nNone\n4:s\n0:k,1:k,8:s,9:s,10:k,14:k\n9:s,10:s,23:s,24:s ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\nNone\n6:h\n0:k,2:h,3:k,7:k,8:h,9:k,10:l,10:k,12:h\n0:h,4:s,4:h,12:s,16:k,20:s,20:k,28:s,28:j ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\n0:a\nNone\nNone\n0:k,3:k,7:k,9:k,10:k\n4:s,12:s,20:s,28:s,28:a ###"}
+{"prompt":"funk groove big room layered ->","completion":" None\nNone\nNone\n4:s,6:h\n0:k,2:h,3:k,7:k,8:h,9:k,10:l,10:k,12:h\n0:h,4:h,16:k,20:k,28:j ###"}
+{"prompt":"funk groove deep daft ->","completion":" None\nNone\nNone\n6:h\n0:k,2:h,3:k,7:k,8:h,9:k,10:k,10:a,12:h\n0:h,4:s,4:h,12:s,16:k,20:s,20:k,28:s,28:a ###"}
+{"prompt":"soul groove acoustic ->","completion":" 0:h\nNone\nNone\nNone\n0:k,3:k,4:s,7:s,9:k,10:k,12:s,13:k,15:k\nNone ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" 0:a\nNone\nNone\nNone\n0:k,3:k,4:s,7:s,9:k,10:k,12:s,13:k,15:k\nNone ###"}
+{"prompt":"soul groove big room layered ->","completion":" 0:h\nNone\nNone\n4:s\n0:k,3:k,7:s,9:k,10:k,13:k,15:k\nNone ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\nNone\n2:h\n0:k,4:h,4:s,7:h\n0:h,9:h\nNone ###"}
+{"prompt":"soul groove dark hybrid ->","completion":" None\nNone\n2:a\n0:k,4:s,4:a,7:a\n0:a,9:a\nNone ###"}
+{"prompt":"funk groove acoustic ->","completion":" None\nNone\nNone\nNone\n0:h,0:k,3:h,12:s\n0:s,3:s,4:h,6:s,6:k,8:h,9:s,10:s,10:h,12:h,13:s,14:s,14:h,15:s,17:h,18:h,19:k,20:s,20:h,21:h,22:h,23:s,23:h,24:h,25:h,26:h,26:k,27:h,28:h,29:h,29:k,30:h,31:h ###"}
+{"prompt":"funk groove dark hybrid ->","completion":" None\nNone\n0:a\n6:a\n0:k,3:a,10:a,12:s\n0:s,3:s,6:s,9:s,10:s,13:s,14:s,15:s,17:a,18:a,19:k,20:s,21:a,23:s,23:a,25:a,26:k,27:a,29:k,29:a,31:a ###"}
+{"prompt":"funk groove big room layered ->","completion":" None\nNone\nNone\nNone\n0:h,0:k,3:h,12:s\n0:s,3:s,4:h,6:s,6:k,8:h,9:s,10:h,10:s,12:h,13:s,14:h,14:s,15:s,17:h,18:h,19:k,20:h,20:s,21:h,22:h,23:h,23:s,24:h,25:h,26:h,26:k,27:h,28:h,29:h,29:k,30:h,31:h ###"}
+{"prompt":"hiphop groove acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,4:h,5:h,6:h,7:h,7:k,8:h,9:k,10:k\n1:k,4:k,4:s,9:h,10:h,11:h,12:s,12:h,13:h,13:k,14:h,15:h,15:k,16:h,17:h,18:h,19:h,19:k,20:s,28:w,28:k,28:s,30:w,30:k ###"}
+{"prompt":"hiphop groove dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,4:a,5:a,6:a,7:k,7:a,8:a,9:k,10:k\n1:k,4:k,4:s,9:a,10:a,11:a,12:s,12:a,13:k,13:a,14:a,15:k,15:a,16:a,17:a,18:a,19:k,19:a,20:s,28:w,28:k,28:s,30:w,30:k ###"}
+{"prompt":"hiphop groove big room layered ->","completion":" None\nNone\nNone\n4:s\n0:k,4:h,5:h,6:h,7:h,7:k,8:h,9:k,10:k\n1:k,4:k,9:h,10:h,11:h,12:h,13:h,13:k,14:h,15:h,15:k,16:h,17:h,18:h,19:h,19:k,28:k,28:l,30:k,30:l ###"}
+{"prompt":"hiphop groove nu rnb ->","completion":" None\nNone\nNone\nNone\n0:k,4:h,5:h,6:h,7:h,7:k,8:h,9:k,10:k\n1:k,4:k,4:s,9:h,10:h,11:h,12:s,12:h,13:h,13:k,14:h,15:h,15:k,16:h,17:h,18:h,19:h,19:k,20:s,28:k,28:z,28:s,30:k,30:z ###"}
+{"prompt":"pop groove acoustic ->","completion":" None\nNone\n0:h\n2:h,4:s\n0:k,6:h\n8:k,12:k,26:k,30:h ###"}
+{"prompt":"pop groove dark hybrid ->","completion":" None\nNone\n0:a\n2:a,4:s\n0:k,6:a\n8:k,12:k,26:k,30:a ###"}
+{"prompt":"rock groove acoustic ->","completion":" None\nNone\nNone\n0:h,0:k,2:h,4:s\n4:h,6:h,7:k\n12:h,14:h,27:s,29:l,29:k ###"}
+{"prompt":"rock groove dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a,2:a,4:s\n4:a,6:a,7:k\n12:a,14:a,27:s,29:k,29:a ###"}
+{"prompt":"rock groove deep daft ->","completion":" None\nNone\nNone\n0:h,0:k,2:h,4:s\n4:h,6:h,7:k\n12:h,14:h,27:s,29:k,29:a ###"}
+{"prompt":"soul groove acoustic ->","completion":" None\n0:h\nNone\n4:s\n0:k,10:k,15:k\nNone ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n7:s\n4:k,7:h,8:k,9:s,10:k,12:h,14:s,14:k,15:s\n0:k,0:k,4:s,6:k,10:k,11:s,16:s,17:s,18:l,18:k,20:s,20:h,21:s,22:h,23:s,24:s,26:l,28:s,28:k ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\n4:a,6:a,7:s\n7:a,8:a,9:s,10:k,10:a,14:s,15:s\n0:k,0:a,4:s,11:s,16:s,17:s,18:k,18:a,20:s,20:a,21:s,23:s,24:s,28:a,28:s ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\nNone\n7:s\n4:s,4:k,7:h,8:k,9:s,10:k,12:h,14:s,14:k,15:s\n0:k,0:k,6:k,10:k,11:s,16:s,17:s,18:l,18:k,20:h,21:s,22:h,23:s,24:s,26:l,28:s,28:k ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n7:s\n4:k,7:h,8:k,9:s,10:k,12:h,14:s,14:k,15:s\n0:k,0:k,4:s,6:k,10:k,11:s,16:s,17:s,18:k,18:a,20:s,20:h,21:s,22:h,23:s,24:s,26:a,28:s,28:k ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n0:k,6:k\n2:k,4:k,7:k,10:l,12:s,12:h\n4:y,16:y,24:y ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\n2:a\n0:k\n4:k,7:k,12:s,12:a\n4:y,16:y,24:y ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\nNone\n0:k,6:k\n2:k,4:k,7:k,10:l,12:h,12:s\n4:y,16:y,24:y ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n0:k,6:k\n2:k,4:k,7:k,10:a,12:s,12:h\n4:y,16:y,24:y ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:y,12:h\n10:s,11:s,13:t,14:x,20:r,20:s,22:r,22:h,23:s,24:r,24:k,26:r,26:k,28:r,28:s,30:r,30:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:y,12:a\n10:s,11:s,13:t,14:x,20:r,20:s,22:r,22:a,23:s,24:r,24:k,26:r,26:k,28:r,28:s,30:r,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,2:r,4:r,4:s,6:r,7:s,8:h,8:s,9:t,9:z,10:t,11:t,12:h,12:x,13:x,14:x,15:x ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,2:r,4:r,4:s,6:r,7:s,8:a,8:s,9:t,9:z,10:t,11:t,12:x,12:a,13:x,14:x,15:x ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,2:r,4:r,4:s,6:r,7:s,8:h,8:s,9:s,9:t,10:t,11:t,12:h,12:x,13:x,14:x,15:x ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:l\n0:k,4:s\n2:k,6:k\n10:k,14:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n0:k,4:s\n2:k,6:k\n10:k,14:k ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:j,1:h,2:h,2:k,3:h,4:h,4:s,5:h,5:k,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,11:s,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:k,2:a,3:a,4:s,4:a,5:k,5:a,6:a,7:a,7:s,8:a,9:s,9:a,10:k,10:a,11:s,11:a,12:a,12:s,13:k,13:a,14:a,15:a,15:s ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:h,2:h,2:k,3:h,4:h,4:s,5:h,5:k,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,11:s,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"}
+{"prompt":"dance disco acoustic ->","completion":" None\nNone\n0:k\n4:h\n8:h,14:h,15:s\n0:h,0:y,2:l,2:k,4:s,4:h,5:s,6:k,7:s,10:s,10:k,12:s,16:h,18:h,20:s,22:h,26:h,28:z,31:h ###"}
+{"prompt":"dance disco dark hybrid ->","completion":" None\n0:a\n0:k\nNone\n15:s\n0:y,2:k,4:s,4:a,5:s,7:s,10:s,12:s,20:s,28:z,31:a ###"}
+{"prompt":"dance disco big room layered ->","completion":" None\nNone\n0:k\n4:h\n4:s,8:h,14:h,15:s\n0:h,0:y,2:l,2:k,4:h,5:s,6:k,7:s,10:s,10:k,12:s,16:h,18:h,22:h,26:h,28:z,31:h ###"}
+{"prompt":"dance disco 808 simple ->","completion":" None\nNone\n0:k\n4:h\n8:h,14:h,15:s\n0:h,0:y,2:l,2:k,4:s,4:h,5:s,6:k,7:s,10:s,10:k,12:s,16:h,18:h,20:s,22:h,26:h,28:s,31:h ###"}
+{"prompt":"dance disco deep daft ->","completion":" None\nNone\n0:k\n4:h\n8:h,14:h,15:s\n0:h,0:y,2:k,2:a,4:s,4:h,5:s,6:k,7:s,10:s,10:k,12:s,16:h,18:h,20:s,22:h,26:h,28:z,31:h ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,1:s,2:h,2:s,3:h,3:k,4:k,5:s,6:h,7:h,8:k,9:s,10:h,10:k,10:s,11:h,11:k,12:l,12:z,13:s,14:h,14:h,15:h ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:s,2:s,2:a,3:k,3:a,4:a,5:s,6:a,7:a,8:a,9:s,10:s,10:k,10:a,11:k,11:a,12:z,12:a,13:s,14:a,15:a ###"}
+{"prompt":"funk 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,1:s,2:h,2:s,3:h,3:k,4:k,5:s,6:h,7:h,8:k,9:s,10:h,10:k,10:s,11:h,11:k,12:s,12:l,13:s,14:h,14:h,15:h ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,1:s,2:h,2:s,3:h,3:k,4:k,5:s,6:h,7:h,8:k,9:s,10:h,10:k,10:s,11:h,11:k,12:z,12:a,13:s,14:h,14:h,15:h ###"}
+{"prompt":"latin brazilian-baiao acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,3:k,4:h,6:s,6:j,7:s,8:h,8:h,8:k,9:h,10:h,11:k,12:h,13:h,14:h,14:z ###"}
+{"prompt":"latin brazilian-baiao dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:s,2:a,3:k,4:a,6:s,6:a,7:s,8:k,8:a,9:a,10:a,11:k,12:a,13:a,14:z,14:a ###"}
+{"prompt":"latin brazilian-baiao big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,3:k,4:h,6:j,6:s,7:s,8:h,8:h,8:k,9:h,10:h,11:k,12:h,13:h,14:h,14:z ###"}
+{"prompt":"latin brazilian-baiao 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,3:k,4:h,6:s,6:j,7:s,8:h,8:h,8:k,9:h,10:h,11:k,12:h,13:h,14:s,14:h ###"}
+{"prompt":"latin brazilian-baiao deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,3:k,4:h,6:s,6:a,7:s,8:h,8:h,8:k,9:h,10:h,11:k,12:h,13:h,14:h,14:z ###"}
+{"prompt":"afrocuban acoustic ->","completion":" None\nNone\n3:h\n4:h,5:h,6:h\n0:h,9:h,10:h\n0:h,0:k,2:k,8:h,17:h,18:h,24:k ###"}
+{"prompt":"afrocuban dark hybrid ->","completion":" None\n0:a\n3:a\n5:a\n9:a\n0:k,0:a,17:a ###"}
+{"prompt":"afrocuban acoustic ->","completion":" None\nNone\nNone\n0:k,1:h,1:r,3:r,3:k,3:h,4:r,4:s\n0:s,2:s,5:h,5:r,6:s,7:r,7:h,7:s,8:r\n10:s,13:h,13:r,15:r,15:h,15:s,26:z ###"}
+{"prompt":"afrocuban dark hybrid ->","completion":" None\nNone\nNone\n0:k,1:r,1:a,3:r,3:k,3:a,4:r,4:s\n0:s,2:s,5:r,5:a,6:s,7:a,7:r,7:s,8:r\n10:s,13:r,13:a,15:s,15:r,15:a,26:z ###"}
+{"prompt":"afrocuban 808 simple ->","completion":" None\nNone\nNone\n0:k,1:h,1:r,3:r,3:k,3:h,4:r,4:s\n0:s,2:s,5:h,5:r,6:s,7:r,7:h,7:s,8:r\n10:s,13:h,13:r,15:r,15:h,15:s,26:s ###"}
+{"prompt":"reggae acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:h,2:k,2:z,4:h,6:h,6:z,8:h,9:z,10:h,10:k,12:l,12:z ###"}
+{"prompt":"reggae dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:z,0:a,2:a,4:z,4:a,6:a,7:z,8:k,8:a,10:z,10:a ###"}
+{"prompt":"reggae 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:s,2:h,2:k,4:h,6:s,6:h,8:h,9:s,10:h,10:k,12:s,12:l ###"}
+{"prompt":"reggae deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:h,2:k,2:z,4:h,6:h,6:z,8:h,9:z,10:h,10:k,12:z,12:a ###"}
+{"prompt":"reggae slow acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:h,2:h,2:k,3:h,4:k,5:h,6:h,6:z,7:h,8:h,9:h,9:z,10:k,11:h,12:h,12:z,13:h,13:z ###"}
+{"prompt":"reggae slow dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:a,3:a,4:z,4:a,5:a,6:a,7:z,7:a,8:k,9:a,10:z,10:a,11:z,11:a ###"}
+{"prompt":"reggae slow 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:h,2:h,2:k,3:h,4:k,5:h,6:s,6:h,7:h,8:h,9:s,9:h,10:k,11:h,12:s,12:h,13:s,13:h ###"}
+{"prompt":"rock halftime acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,2:h,4:h,6:h,8:s,8:h,10:h,12:k,14:h,14:k ###"}
+{"prompt":"rock halftime dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,2:a,4:a,6:a,8:s,8:a,10:a,12:a,14:k,14:a ###"}
+{"prompt":"rock halftime big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,2:h,4:h,6:h,8:h,8:s,10:h,12:k,14:h,14:k ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:h,2:k,3:r,3:k,3:y,5:h,6:h,7:h,7:z,8:k,9:h,9:k,10:h,10:s,11:h,11:k,12:h,12:s,13:h,13:k,13:s,14:h,14:k,15:l,15:z,16:s,17:l,18:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\nNone\n1:a\n0:k,2:k,3:r,3:k,3:y,5:a,6:a,7:z,7:a,8:a,9:a,10:a,10:s,11:a,12:a,12:s,13:a,13:k,13:s,14:k,14:a,15:z,15:a,16:s,18:s ###"}
+{"prompt":"funk 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:h,2:k,3:r,3:k,3:y,5:h,6:h,7:s,7:h,8:k,9:h,9:k,10:h,10:s,11:h,11:k,12:h,12:s,13:h,13:k,13:s,14:h,14:k,15:s,15:l,16:s,17:l,18:s ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:h,2:k,3:r,3:k,3:y,5:h,6:h,7:h,7:z,8:k,9:h,9:k,10:h,10:s,11:h,11:k,12:h,12:s,13:h,13:k,13:s,14:h,14:k,15:z,15:a,16:s,17:a,18:s ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:r,2:k,2:y,6:r,6:h,9:r,10:r,14:r,14:h,17:r ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:r,2:k,2:y,6:r,6:a,9:r,10:r,14:r,14:a,17:r ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,1:k,1:y,5:h,6:r,9:r,10:r,14:r,14:h ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,1:k,1:y,5:a,6:r,9:r,10:r,14:r,14:a ###"}
+{"prompt":"jazz funk acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n22:h,24:s,26:h,27:u,28:u,29:h ###"}
+{"prompt":"jazz funk dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n22:a,24:s,26:a,27:u,28:u,29:a ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\n4:h\n4:h,7:j,8:j\n0:l,12:h,15:h,16:j,27:h,31:j ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\n0:a\n7:a\n4:a\n12:a,27:a ###"}
+{"prompt":"jazz deep daft ->","completion":" None\nNone\nNone\n0:a,4:h\n4:h,7:a\n12:h,15:h,27:h,31:a ###"}
+{"prompt":"rock shuffle acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:r,1:k,1:y,5:s,5:r,5:h,5:k,8:r,8:s,9:r,9:k,12:s,13:r,13:h,13:s,13:k,16:r,16:s ###"}
+{"prompt":"rock shuffle dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:r,1:k,1:y,5:s,5:r,5:k,5:a,8:r,8:s,9:r,9:k,12:s,13:a,13:r,13:k,13:s,16:r,16:s ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\n0:r\n4:h,7:r\nNone\n0:k,0:y,16:h ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\n0:r\n4:a,7:r\nNone\n0:k,0:y,16:a ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\nNone\n0:h\n0:k,3:k,7:s,8:h,9:s,10:s,11:s,13:s,14:k,17:k,19:u ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:a\n0:k,3:k,7:s,8:a,9:s,10:s,11:s,13:s,14:k,17:k,19:u ###"}
+{"prompt":"jazz mediumfast acoustic ->","completion":" None\nNone\nNone\n4:r,4:h\n2:s,6:r,7:s,8:r\n3:s,14:r,16:r,27:s,28:s,31:r ###"}
+{"prompt":"jazz mediumfast dark hybrid ->","completion":" None\nNone\nNone\n4:r,4:a\n2:s,6:r,7:s,8:r\n3:s,14:r,16:r,27:s,28:s,31:r ###"}
+{"prompt":"jazz mediumfast acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:r,1:s,5:r,5:h,9:r,13:r,13:h ###"}
+{"prompt":"jazz mediumfast dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:r,1:s,5:r,5:a,9:r,13:r,13:a ###"}
+{"prompt":"jazz fast acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:y ###"}
+{"prompt":"latin reggaeton acoustic ->","completion":" None\nNone\nNone\nNone\n0:k\n2:z,4:k,4:k,5:s,6:h,7:s,8:h,8:k,10:h,10:k,10:s,12:h,12:k,14:h,15:s,16:h,18:h,18:s ###"}
+{"prompt":"latin reggaeton dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k\n2:z,4:k,4:a,5:s,6:a,7:s,8:k,8:a,10:a,10:k,10:s,12:k,12:a,14:a,15:s,16:a,18:a,18:s ###"}
+{"prompt":"latin reggaeton 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k\n2:s,4:k,4:k,5:s,6:h,7:s,8:h,8:k,10:h,10:k,10:s,12:h,12:k,14:h,15:s,16:h,18:h,18:s ###"}
+{"prompt":"dance breakbeat acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,0:s,2:h,4:h,4:s,6:h,7:s,8:h,8:k,9:k,10:h,10:s,12:h,14:h,15:s ###"}
+{"prompt":"dance breakbeat dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:a,0:k,0:s,2:a,4:s,4:a,6:a,7:s,8:k,8:a,9:k,10:a,10:s,12:a,14:a,15:s ###"}
+{"prompt":"dance breakbeat acoustic ->","completion":" None\nNone\nNone\n0:k,6:h,7:h\n0:h,2:k,3:h,4:s,10:s,12:h,13:h\n1:h,5:h,8:h,9:k,11:h,17:k,21:k,24:k,25:h,27:k ###"}
+{"prompt":"dance breakbeat dark hybrid ->","completion":" None\n1:a\nNone\n0:k,0:a,6:a\n2:a,4:s,10:s,12:a\nNone ###"}
+{"prompt":"neworleans funk acoustic ->","completion":" None\nNone\nNone\nNone\n4:h\n0:l,0:k,3:s,4:s,5:k,6:k,6:y,7:k,8:k,9:k,10:s,11:k,13:k,14:k,15:k,16:h,17:k,18:s,20:s,21:h ###"}
+{"prompt":"neworleans funk dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:a,4:a\n0:k,3:s,4:s,5:k,6:k,6:y,7:a,8:a,9:k,10:s,11:k,13:a,14:k,15:a,17:k,18:s,20:s,21:a ###"}
+{"prompt":"neworleans funk big room layered ->","completion":" None\nNone\nNone\nNone\n4:h,4:s\n0:l,0:k,3:s,5:k,6:k,6:y,7:k,8:k,9:k,10:s,11:k,13:k,14:k,15:k,16:h,17:k,18:s,21:h ###"}
+{"prompt":"neworleans funk deep daft ->","completion":" None\nNone\nNone\nNone\n4:h\n0:k,0:a,3:s,4:s,5:k,6:k,6:y,7:k,8:k,9:k,10:s,11:k,13:k,14:k,15:k,16:h,17:k,18:s,20:s,21:h ###"}
+{"prompt":"country acoustic ->","completion":" 0:s\nNone\n0:k\nNone\nNone\nNone ###"}
+{"prompt":"afrocuban bembe acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n11:s,12:s,16:r,16:h,18:r,21:r,22:r,24:h,25:r,28:r,31:r ###"}
+{"prompt":"afrocuban bembe dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n11:s,12:s,16:r,16:a,18:r,21:r,22:r,24:a,25:r,28:r,31:r ###"}
+{"prompt":"afrocuban rhumba acoustic ->","completion":" None\nNone\n0:z\n5:z,7:z\n1:z,3:z,10:z\nNone ###"}
+{"prompt":"afrocuban rhumba 808 simple ->","completion":" None\nNone\n0:s\n5:s,7:s\n1:s,3:s,10:s\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:y,1:k,3:h,4:s,4:h,5:h,7:h,8:h,8:k,9:h,11:h,12:s,12:h,13:h,15:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:y,1:a,3:a,4:s,4:a,5:a,7:a,8:k,8:a,9:a,11:a,12:s,12:a,13:a,15:a ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:y,1:k,3:h,4:h,4:s,5:h,7:h,8:h,8:k,9:h,11:h,12:h,12:s,13:h,15:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:s,2:s,4:l,5:h,5:k,6:k,8:k,9:s,9:h,9:k,12:h,12:k,13:k,14:k,15:k,17:s,17:k,17:k,19:k,20:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n4:a\n0:k,1:s,2:s,5:k,5:a,6:a,8:k,9:s,9:k,9:a,12:k,12:a,13:k,14:a,15:k,17:s,17:k,17:a,19:k ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n1:s\n0:k,2:s,4:l,5:h,5:k,6:k,8:k,9:h,9:k,9:s,12:h,12:k,13:k,14:k,15:k,17:k,17:k,19:k,20:h ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:s,2:s,4:a,5:h,5:k,6:k,8:k,9:s,9:h,9:k,12:h,12:k,13:k,14:k,15:k,17:s,17:k,17:k,19:k,20:h ###"}
+{"prompt":"latin chacarera acoustic ->","completion":" None\nNone\nNone\nNone\n4:h,4:z,5:h,5:k,8:h,8:z,9:h,11:h,11:k\n0:s,0:k,2:h,2:k,6:h,12:h,12:z,13:h,13:k,15:h,16:h,16:z,17:h,19:h,19:k,23:h ###"}
+{"prompt":"latin chacarera dark hybrid ->","completion":" None\nNone\nNone\nNone\n2:z,2:a,3:k,3:a,6:z,6:a,7:a,9:k,9:a\n0:k,0:a,4:a,10:z,10:a,11:k,11:a,13:a,14:z,14:a,15:a,17:k,17:a,21:a ###"}
+{"prompt":"latin chacarera 808 simple ->","completion":" None\nNone\nNone\n0:s\n4:s,4:h,5:h,5:k,8:h,9:h,11:h,11:k\n0:k,2:h,2:k,6:h,12:s,12:h,13:h,13:k,15:h,16:h,17:h,19:h,19:k,23:h ###"}
+{"prompt":"latin chacarera acoustic ->","completion":" None\nNone\nNone\nNone\n2:h,2:z,3:k\n0:h,0:k,3:h,5:h,6:h,6:z,7:h,8:k,9:h,10:h,10:z,11:h,11:k,12:h,14:h,14:z,15:h,17:h,17:k,19:k,22:t,22:h,23:t,24:t,25:t,25:h ###"}
+{"prompt":"latin chacarera dark hybrid ->","completion":" None\nNone\nNone\nNone\n2:z,2:a,3:k,3:a,6:a,9:a\n0:k,0:a,5:a,6:z,7:a,8:k,10:z,10:a,11:k,11:a,12:a,14:z,14:a,15:a,17:k,17:a,22:t,23:t,24:t,25:t ###"}
+{"prompt":"latin chacarera 808 simple ->","completion":" None\nNone\nNone\nNone\n2:s,2:h,3:k\n0:h,0:k,3:h,5:h,6:s,6:h,7:h,8:k,9:h,10:s,10:h,11:h,11:k,12:h,14:s,14:h,15:h,17:h,17:k,19:k,22:t,22:h,23:t,24:t,25:t,25:h ###"}
+{"prompt":"punk acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,4:k\n5:u,6:u,7:u,8:u,9:u,10:u,12:k,14:s,16:s,18:s,20:s,22:z,24:k,25:k,26:s ###"}
+{"prompt":"punk 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k,4:k\n5:u,6:u,7:u,8:u,9:u,10:u,12:k,14:s,16:s,18:s,20:s,22:s,24:k,25:k,26:s ###"}
+{"prompt":"punk acoustic ->","completion":" None\nNone\n0:k\n1:u,2:k\n1:z,3:u,5:u,6:k,7:u\n5:t,9:z,11:u,13:t,13:u,14:k,15:u,21:w,29:s,29:r ###"}
+{"prompt":"punk big room layered ->","completion":" None\nNone\n0:k\n1:u,2:k\n1:z,3:u,5:u,6:k,7:u\n5:t,9:z,11:u,13:t,13:u,14:k,15:u,21:l,29:r,29:s ###"}
+{"prompt":"punk 808 simple ->","completion":" None\nNone\n0:k\n1:u,2:k\n1:s,3:u,5:u,6:k,7:u\n5:t,9:s,11:u,13:t,13:u,14:k,15:u,21:w,29:s,29:r ###"}
+{"prompt":"punk nu rnb ->","completion":" None\nNone\n0:k\n1:u,2:k\n1:s,3:u,5:u,6:k,7:u\n5:t,9:s,11:u,13:t,13:u,14:k,15:u,21:z,29:s,29:r ###"}
+{"prompt":"punk acoustic ->","completion":" None\n0:k\nNone\n1:r,3:r\n5:u,7:r\n1:z,5:r,9:s,13:r,13:s,15:r,17:s,21:z,25:s,29:u,29:z ###"}
+{"prompt":"punk big room layered ->","completion":" None\n0:k\nNone\n1:r,3:r\n5:u,7:r,9:s\n1:z,5:r,13:r,13:s,15:r,17:s,21:z,29:u,29:z ###"}
+{"prompt":"punk 808 simple ->","completion":" None\n0:k\nNone\n1:r,3:r\n1:s,5:u,7:r\n5:r,9:s,13:r,13:s,15:r,21:s,25:s,29:s,29:u ###"}
+{"prompt":"punk acoustic ->","completion":" None\n0:r\n2:s\n0:k,5:k\n4:k,11:k\n31:s ###"}
+{"prompt":"punk acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:k,2:s,2:k,4:k,4:k,5:k,6:l,6:s,7:s,8:h,9:z,10:s,11:s,12:s,13:s,14:s\nNone ###"}
+{"prompt":"punk dark hybrid ->","completion":" None\nNone\nNone\n0:a\n0:k,2:s,2:a,4:k,4:a,5:k,6:a,6:s,7:s,9:z,10:s,11:s,12:s,13:s,14:s\nNone ###"}
+{"prompt":"punk big room layered ->","completion":" None\nNone\n2:s\nNone\n0:k,0:k,2:k,4:k,4:k,5:k,6:l,7:s,8:h,9:z,11:s,12:s,13:s\nNone ###"}
+{"prompt":"punk 808 simple ->","completion":" None\nNone\nNone\n9:s\n0:k,0:k,2:k,4:k,4:k,5:k,6:l,6:s,7:s,8:h,10:s,11:s,12:s,13:s,14:s\nNone ###"}
+{"prompt":"punk deep daft ->","completion":" None\nNone\nNone\nNone\n0:k,0:k,2:s,2:k,4:k,4:k,5:k,6:a,6:s,7:s,8:h,9:z,10:s,11:s,12:s,13:s,14:s\nNone ###"}
+{"prompt":"jazz march acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:s,4:s,5:s,6:s,7:s\n4:s,8:k,11:s,12:k ###"}
+{"prompt":"jazz march acoustic ->","completion":" None\n0:s\n3:s\nNone\n0:s,13:s\n20:s,24:s ###"}
+{"prompt":"funk rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k\n1:s,2:k,2:k,3:s,4:k,4:k,5:s,6:s,7:s,8:s,9:k,10:y,11:s,12:k,12:k,14:s,14:k,17:z ###"}
+{"prompt":"funk rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:s,2:k,2:a,3:s,4:s,5:s,6:s,7:k,8:y,9:s,10:k,10:a,12:s,12:a,14:a,15:z ###"}
+{"prompt":"funk rock 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k,1:s\n2:k,2:k,3:s,4:k,4:k,5:s,6:s,7:s,8:s,9:k,10:y,11:s,12:k,12:k,14:s,14:k ###"}
+{"prompt":"rock prog acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:t,0:h,0:k,1:h,1:s,2:t,3:t,4:s,4:h,5:t,5:h,6:t,7:s,8:t,8:h,9:h,9:s,10:t,11:t,12:s,12:h,13:t,13:h,14:t,15:s ###"}
+{"prompt":"rock prog dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:t,0:k,0:a,1:a,1:s,2:t,3:t,4:s,4:a,5:t,5:a,6:t,7:s,8:t,8:a,9:a,9:s,10:t,11:t,12:s,12:a,13:t,13:a,14:t,15:s ###"}
+{"prompt":"rock prog big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:t,0:h,0:k,1:h,1:s,2:t,3:t,4:h,4:s,5:t,5:h,6:t,7:s,8:t,8:h,9:h,9:s,10:t,11:t,12:h,12:s,13:t,13:h,14:t,15:s ###"}
+{"prompt":"rock folk acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:j,2:s,3:h,4:h,5:s,6:h,7:k,8:k,12:h,12:s,13:s,14:s,15:s ###"}
+{"prompt":"rock folk dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:s,3:a,4:a,5:s,6:a,7:k,8:k,12:a,12:s,13:s,14:s,15:s ###"}
+{"prompt":"rock folk deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:a,2:s,3:h,4:h,5:s,6:h,7:k,8:k,12:h,12:s,13:s,14:s,15:s ###"}
+{"prompt":"afrobeat acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:z,0:k,1:z,2:h,2:k,3:k,4:z,4:k,5:z,6:h,7:h,8:h,8:z,9:z,10:h,10:k,11:h,12:z,12:k,13:z ###"}
+{"prompt":"afrobeat dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:z,2:a,3:z,4:a,5:a,6:z,6:a,7:z,8:k,8:a,9:a,10:z,10:a,11:z ###"}
+{"prompt":"afrobeat 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:s,0:k,1:s,2:h,2:k,3:k,4:s,4:k,5:s,6:h,7:h,8:s,8:h,9:s,10:h,10:k,11:h,12:s,12:k,13:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,2:k,4:s,12:s\nNone\nNone ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\n1:h,2:h,3:h\n0:k,4:h,5:h,6:h,7:k,8:h,9:h,10:h,11:h,12:h,13:h,14:h,15:h,16:h ###"}
+{"prompt":"funk dark hybrid ->","completion":" 0:a\nNone\nNone\nNone\nNone\nNone ###"}
+{"prompt":"afrocuban calypso acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,3:s,4:h,4:k,5:h,6:l,7:s,8:s,8:h,8:h,8:k,9:h,10:k,11:z,12:h,12:k,13:h,14:l,14:z,15:s ###"}
+{"prompt":"afrocuban calypso dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:s,2:a,3:s,4:k,4:a,5:a,6:a,7:s,8:s,8:k,8:a,9:a,10:a,11:z,12:k,12:a,13:a,14:z,14:a,15:s ###"}
+{"prompt":"afrocuban calypso 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,3:s,4:h,4:k,5:h,6:l,7:s,8:s,8:h,8:h,8:k,9:h,10:k,11:s,12:h,12:k,13:h,14:s,14:l,15:s ###"}
+{"prompt":"afrocuban calypso deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,2:k,3:s,4:h,4:k,5:h,6:a,7:s,8:s,8:h,8:h,8:k,9:h,10:k,11:z,12:h,12:k,13:h,14:z,14:a,15:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:k,4:s,5:s,6:k,8:k,10:k,12:s,12:s,13:s,14:k ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:k,4:s,5:s,6:k,8:k,10:k,12:s,13:s,14:k ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:u,0:k,4:u,4:h,6:u,8:u,8:k,10:u,12:u,12:h ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:u,0:k,4:u,4:a,6:u,8:u,8:k,10:u,12:u,12:a ###"}
+{"prompt":"rock rockabilly acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,3:k,4:s,7:s,8:s,10:s,12:s,14:s ###"}
+{"prompt":"jazz linear acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:r,1:k,2:h,3:r,5:r,7:r,7:h,9:r,10:r,11:r,11:h,13:r,13:h,15:r,15:h,16:r ###"}
+{"prompt":"jazz linear dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:r,1:k,2:a,3:r,5:r,7:r,7:a,9:r,10:r,11:r,11:a,13:r,13:a,15:r,15:a,16:r ###"}
+{"prompt":"dance disco acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:h,0:k,2:h,4:s,4:k,6:h,7:k,8:h,8:k,9:h,10:k,11:h,12:k,12:s,13:h,14:h,14:k,15:h ###"}
+{"prompt":"dance disco dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,2:a,4:s,4:k,6:a,7:a,8:k,8:a,9:a,10:a,11:a,12:k,12:s,13:a,14:k,14:a,15:a ###"}
+{"prompt":"dance disco big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:h,0:k,2:h,4:k,4:s,6:h,7:k,8:h,8:k,9:h,10:k,11:h,12:k,12:s,13:h,14:h,14:k,15:h ###"}
+{"prompt":"dance disco acoustic ->","completion":" None\nNone\nNone\n0:k\n4:k\n7:s,8:s,12:h,12:k,13:h,14:j,15:h,16:h,17:h,18:h,19:h,20:h,21:h,22:h,23:h,24:h,25:h,26:k,27:h ###"}
+{"prompt":"dance disco dark hybrid ->","completion":" None\nNone\nNone\n0:k\n4:k\n7:s,8:s,12:k,12:a,13:a,14:a,15:a,16:a,17:a,18:a,19:a,20:a,21:a,22:a,23:a,24:a,25:a,26:a,27:a ###"}
+{"prompt":"dance disco deep daft ->","completion":" None\nNone\nNone\n0:k\n4:k\n7:s,8:s,12:h,12:k,13:h,14:a,15:h,16:h,17:h,18:h,19:h,20:h,21:h,22:h,23:h,24:h,25:h,26:k,27:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,1:k,2:k,3:h,4:k,4:s,5:h,6:k,7:k,8:k,8:k,9:k,10:h,11:h,12:s,13:k,14:k,15:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:a,3:a,4:k,4:s,5:a,6:a,7:a,8:k,8:a,9:a,10:a,11:a,12:s,13:a,14:a,15:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:h,2:h,3:h,4:k,4:s,5:h,6:h,7:h,8:h,8:k,9:h,10:k,10:k,11:h,12:k,12:s,13:h,14:k,15:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:a,3:a,4:k,4:s,5:a,6:a,7:a,8:k,8:a,9:a,10:k,10:a,11:a,12:k,12:s,13:a,14:a,15:a ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\n0:k\n4:l\n0:h,3:k,8:h,10:h,12:l,15:h,18:h,23:h,27:h ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\n4:a\n8:a\n1:a,4:a,7:a,12:a,14:a,16:a,19:a,22:a,27:a,31:a ###"}
+{"prompt":"jazz swing deep daft ->","completion":" None\nNone\nNone\n0:k\n4:a\n0:h,3:k,8:h,10:h,12:a,15:h,18:h,23:h,27:h ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\n0:k\nNone\nNone ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\n7:r\n12:r,12:h\n3:r,3:h,6:r,16:r,20:r,20:h,24:r ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\n7:r\n12:r,12:a\n3:r,3:a,6:r,16:r,20:r,20:a,24:r ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\n0:h,1:s\n1:k,5:l,5:k,9:k\n0:k,4:k,9:k,12:l,13:l,13:k,17:k,20:l,24:s,27:l ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\n0:a,1:s\n1:a,4:a,5:k,5:a,9:k\n0:k,9:a,12:a,13:k,13:a,17:k,24:s,27:a ###"}
+{"prompt":"jazz swing deep daft ->","completion":" None\nNone\nNone\n0:h,1:s\n1:k,5:k,5:a,9:k\n0:k,4:k,9:k,12:a,13:k,13:a,17:k,20:a,24:s,27:a ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\n4:s\n11:h,12:k\n0:k,3:h,4:k,6:l,8:l,8:k,14:l,15:k,16:l,18:h,19:x,22:k,23:y,31:l ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\n4:s\n11:a,12:a\n0:k,3:a,4:a,6:a,8:k,8:a,14:a,15:k,16:a,18:a,19:x,22:k,23:y,31:a ###"}
+{"prompt":"jazz swing deep daft ->","completion":" None\nNone\nNone\n4:s\n11:h,12:k\n0:k,3:h,4:k,6:a,8:k,8:a,14:a,15:k,16:a,18:h,19:x,22:k,23:y,31:a ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,2:s\n0:k,3:h,4:s,6:s,8:k,8:s,10:s,11:h,12:s,14:s,15:k,18:h,19:s,21:s,23:s ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:s,2:s\n0:k,3:a,4:s,6:s,8:k,8:s,10:s,11:a,12:s,14:s,15:k,18:a,19:s,21:s,23:s ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\n0:k\n4:h,4:s,4:k\n10:k,12:k,15:k,27:k ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:a,5:k,6:a,10:s,10:a,14:a,17:k ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\nNone\n0:l,0:k,4:l,4:s\n2:k,7:k,8:l,12:l,12:s,19:k ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,4:s,4:a\n2:k,7:k,8:a,12:a,12:s,19:k ###"}
+{"prompt":"jazz swing acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:k,4:s,6:k\n0:s,0:y,1:s,3:k,5:k,8:k,8:k,10:k,12:s,12:k,14:k ###"}
+{"prompt":"jazz swing dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,2:a,4:s,6:a\n0:s,0:y,1:s,3:k,5:a,8:k,8:a,10:a,12:a,12:s,14:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,8:h,8:k,10:h,12:h,14:h\n1:k,3:h,4:k,5:h,5:s,7:h,12:z,16:k,18:h,19:k,20:h,20:s,22:h,22:k,26:k,28:s,30:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n7:k,7:a,9:a,11:a,13:a\n0:k,2:a,3:k,4:a,4:s,6:a,11:z,15:k,15:a,17:a,18:k,19:a,19:s,21:k,21:a,25:k,27:s,29:k ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k,8:h,8:k,10:h,12:h,14:h\n1:k,3:h,4:k,5:h,5:s,7:h,12:s,16:k,18:h,19:k,20:h,20:s,22:h,22:k,26:k,28:s,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k,2:s,3:s\nNone\n4:s,8:s,9:s,13:s\n16:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:r,0:k,2:r,4:r,4:k\n2:s,6:r,6:k,8:r,10:r,10:s,12:r,14:r,18:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:h\nNone\n4:s\n0:k,10:k\n1:k,30:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\nNone\n4:s\n0:k,10:k\n1:k,30:k ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\n0:k,4:h\n7:h\n15:h,30:h ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\n0:a\nNone\n7:a\n15:a,30:a ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\n2:s\n0:k,1:s,4:s\nNone\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:r,0:k,2:r,2:k,4:r,4:s,6:r\n8:r,8:k,12:r,12:s,22:k ###"}
+{"prompt":"jazz acoustic ->","completion":" None\n1:s\n0:s\n2:s\n14:s\n22:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:h\n4:h\n0:k,3:k,4:s,8:h,10:k,14:k\n0:k,6:k,12:s,16:h,17:k,20:k,28:z ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\nNone\nNone\n0:k,3:k,4:s,10:k,14:k\n6:k,12:s,17:k,20:k,28:z ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\n2:h\n4:h\n0:k,3:k,4:s,8:h,10:k,14:k\n0:k,6:k,12:s,16:h,17:k,20:k,28:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:y\n2:s,4:k,4:y,7:s,8:k,8:y,11:s,12:k,12:y,15:s ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,2:t,3:t,5:t,6:w,9:t,11:t,12:w,13:t,14:t ###"}
+{"prompt":"jazz big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,2:t,3:t,5:t,6:l,9:t,11:t,12:l,13:t,14:t ###"}
+{"prompt":"jazz nu rnb ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,2:t,3:t,5:t,6:z,9:t,11:t,12:z,13:t,14:t ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\n3:t,6:t\n0:r,0:k,5:t,9:t\n12:t,15:t,28:w,29:t ###"}
+{"prompt":"jazz big room layered ->","completion":" None\nNone\nNone\n3:t,6:t\n0:r,0:k,5:t,9:t\n12:t,15:t,28:l,29:t ###"}
+{"prompt":"jazz nu rnb ->","completion":" None\nNone\nNone\n3:t,6:t\n0:r,0:k,5:t,9:t\n12:t,15:t,28:z,29:t ###"}
+{"prompt":"jazz acoustic ->","completion":" None\n0:t\n0:k\n1:t,3:t\n5:t,7:t\n13:t,15:t ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n4:s\n0:j,4:j\n8:h,12:j,24:j,28:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:k,0:a\n4:s\nNone\nNone ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\n0:k\n4:s,4:a\n0:a\n8:h,24:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:s,1:s\n3:s,5:s,6:s,11:t,12:w,13:x,14:x\nNone ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n0:s,1:s\n3:s,5:s,6:s,11:t,12:l,13:x,14:x\nNone ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\n0:s,1:s\n3:s,5:s,6:s,11:t,12:z,13:x,14:x\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n3:s,12:s\nNone\n0:k,4:s,5:s,9:s,13:w\nNone ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n3:s,12:s\nNone\n0:k,4:s,5:s,9:s,13:l\nNone ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\n3:s,12:s\nNone\n0:k,4:s,5:s,9:s,13:z\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n1:s,3:s,5:s,7:s,8:z\nNone ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\n1:s,3:s,5:s,7:s,8:s\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:s,3:t,5:t,7:t,8:x,10:x,11:x,12:u,13:u,14:u\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:h\nNone\n6:k\n0:k,3:k,4:z,10:k,12:s\nNone ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\nNone\n6:k\n0:k,3:k,4:z,10:k,12:s\nNone ###"}
+{"prompt":"rock 808 simple ->","completion":" None\n0:h\nNone\n6:k\n0:k,3:k,4:s,10:k,12:s\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:s,3:s,4:t,5:t,6:t,7:t,8:x,9:x,10:x,11:x,12:u,13:u,14:u\nNone ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\n0:s,1:s,2:s,30:s\n3:s,5:s,12:s\n6:s,14:s,22:z ###"}
+{"prompt":"jazz 808 simple ->","completion":" None\nNone\nNone\n0:s,1:s,2:s,30:s\n3:s,5:s,12:s\n6:s,14:s,22:s ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\n0:u,0:k,3:u\n1:u\n5:u\n13:u,28:s,31:z ###"}
+{"prompt":"jazz 808 simple ->","completion":" None\nNone\n0:u,0:k,3:u\n1:u\n5:u\n13:u,28:s,31:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n2:j,5:j,6:l\n1:l,4:l,8:j,9:j,11:l\nNone ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:k,1:a,2:a\nNone\n4:a,8:a,11:a\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n4:k,5:h,6:k\n8:h,9:k,11:h\n0:k,1:k,2:h,12:k,16:h,17:j,19:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:k,0:a,1:a\n6:a\n11:a\n2:a,12:k,19:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\n0:k\n4:k,5:h,6:k\n8:h,9:k,11:h\n0:k,1:k,2:h,12:k,16:h,17:a,19:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:s,10:s\n1:s,3:s,8:s\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:s,3:s,4:t,6:x,7:x,9:u,11:u\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:r\nNone\n3:k\n0:k,4:s,14:k\n10:k,12:s,20:k,25:s,28:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\n0:r\nNone\n3:k,4:s\n0:k,14:k\n10:k,20:k,25:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:s,3:s,4:t,5:t,6:t,7:t,8:x,9:x,10:x,12:u\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:s,3:y,5:s,6:y,16:y,19:k\n6:s,8:k,22:k,24:s,26:k,26:y,28:s,29:k,29:y ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n0:y\n3:s,4:y,7:s\n5:k,11:s,12:y,15:s,26:s,27:y,28:s,29:k,29:y ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k,0:y\nNone\n3:s,7:s\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\n1:s\nNone\nNone\nNone\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n17:s\n0:k,0:y,4:k,4:y,7:s,8:k,8:y,13:s,15:s,16:s,19:w,22:x,24:u,27:u ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n17:s\n0:k,0:y,4:k,4:y,7:s,8:k,8:y,13:s,15:s,16:s,19:l,22:x,24:u,27:u ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\nNone\n17:s\n0:k,0:y,4:k,4:y,7:s,8:k,8:y,13:s,15:s,16:s,19:z,22:x,24:u,27:u ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n25:s\n0:k,0:y,7:s\n4:k,4:y,8:k,8:y,12:k,12:y,15:s,22:s,24:s,26:t,28:x ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n1:s\n4:s,6:s,7:s\n0:s,2:s,3:s\n7:s,9:s,24:s,26:s,27:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:y,21:s\n3:s,4:k,4:y,8:k,8:y,11:s,12:k,12:y,20:s,22:s,24:s,25:t,26:w,28:x,29:x ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,0:y,21:s\n3:s,4:k,4:y,8:k,8:y,11:s,12:k,12:y,20:s,22:s,24:s,25:t,26:l,28:x,29:x ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\nNone\n0:k,0:y,21:s\n3:s,4:k,4:y,8:k,8:y,11:s,12:k,12:y,20:s,22:s,24:s,25:t,26:z,28:x,29:x ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:s\n3:s\nNone\n0:k,9:s,12:k,13:s\n1:s,5:s,6:k,17:z,20:k,21:z,24:k ###"}
+{"prompt":"rock 808 simple ->","completion":" None\n0:s\n3:s\nNone\n0:k,9:s,12:k,13:s\n1:s,5:s,6:k,17:s,20:k,21:s,24:k ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\n1:r,3:r\n2:r,6:r,7:r,13:r\n0:r,0:k,4:r,4:z,6:r,8:r,15:r,21:r,26:r,30:r ###"}
+{"prompt":"jazz 808 simple ->","completion":" None\nNone\nNone\n1:r,3:r\n2:r,6:r,7:r,13:r\n0:r,0:k,4:s,4:r,6:r,8:r,15:r,21:r,26:r,30:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,2:r,4:r,4:s,6:r,8:r,10:r,10:k,12:r,12:s,14:r,14:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:x\n3:x\n0:k,4:s\n12:k\n20:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:r,4:r,4:s,6:r,7:s,9:s\n0:r,10:z,11:s,12:t,13:t,14:x,16:y,16:r,24:r,26:r,26:k,27:k,28:r,28:s,30:r ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k,2:r,4:r,4:s,6:r,7:s,9:s\n0:r,10:s,11:s,12:t,13:t,14:x,16:y,16:r,24:r,26:r,26:k,27:k,28:r,28:s,30:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:r\nNone\n4:s\n0:h,0:k,7:s,9:s,10:k\n11:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:r\nNone\n4:s\n0:k,0:a,7:s,9:s,10:k\n11:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:r\nNone\n4:s\n0:k,7:s\n9:s,10:k,11:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n4:r,4:s,6:r\n0:k,7:s,8:r,9:s,10:r,10:k\n0:y,16:r,18:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:s,4:r\n0:r,2:r,6:k,6:r,8:r,10:r,10:s,12:r,13:s,14:r,15:s,16:r,16:s,18:r,20:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:h\nNone\n0:k\n4:k,12:s\n12:k,27:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\nNone\n0:k\n4:k,12:s\n12:k,27:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:h,0:k,4:s,6:h\n2:h,3:k,4:k,7:k\n10:h,11:k,12:k,15:k,26:k,26:j,28:h,28:k,30:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n2:a\n0:k,0:a,4:s\n3:a,4:k,7:a\n11:a,12:k,15:a,26:k,28:a,30:k ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n0:h,0:k,4:s,6:h\n2:h,3:k,4:k,7:k\n10:h,11:k,12:k,15:k,26:k,26:a,28:h,28:k,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k,2:h,3:k\n0:h,4:s\nNone\nNone ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:k,2:a,3:a\n0:a,4:s\nNone\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:x,2:x,3:x,4:k,4:x,4:s,6:x,7:x,8:k,8:x,10:x,11:x,12:k,12:x,12:s,14:x,15:x ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:h\n0:k,2:h,4:s\n5:h,6:h\n2:h,7:k,14:h,17:h,22:k,25:h,29:h,30:k,31:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n0:k,2:a,4:s\n5:a,6:a\n2:a,7:k,14:a,17:a,22:k,25:a,29:a,30:k,31:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:h,0:k\n1:h,1:k,4:h,5:h,5:s,6:h\n3:h,9:h,9:k,10:h,12:h,12:k,13:h,13:s,14:h,18:h,20:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a\n1:k,1:a,4:a,5:s,5:a,6:a\n3:a,9:k,9:a,10:a,12:k,12:a,13:s,13:a,14:a,18:a,20:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,4:h,4:s\n3:h,6:h,8:h,9:h,13:h\n0:h,3:k,7:h,7:k,11:h,11:k,14:k,15:h,16:k,17:h,18:k,21:h,22:k,26:h,26:k,30:h,30:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n0:k,4:s\n3:a,6:a,9:a,13:a\n3:k,7:k,7:a,11:k,11:a,14:k,15:a,17:a,18:k,21:a,22:k,26:k,26:a,30:a,30:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:r,3:k\n1:r,3:r,4:s\n7:r,8:k,21:r\n15:r,16:k,29:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,0:y,1:r,3:r,3:k,4:r,4:s,5:r,7:r,7:k,8:r,8:k,11:r,11:k,12:r,12:s,14:r,15:r,15:k ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n4:h,4:s,6:h\n0:k,2:h,8:h,10:k\n0:y,10:j,12:h,14:k,16:h,26:h,29:k,31:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n2:a\n4:s,4:a\n0:k,8:a,10:k\n0:y,12:a,14:k,16:a,29:k,31:k ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\n4:h,4:s,6:h\n0:k,2:h,8:h,10:k\n0:y,10:a,12:h,14:k,16:h,26:h,29:k,31:k ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\n1:r\n4:r,10:r\n7:r,8:r\n0:r,0:k,4:s,12:s,14:r,16:r,22:r,27:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n4:x,9:u,12:u\n0:t,2:t,3:t,5:x,7:x,8:t,8:u,11:u,12:x,13:u,14:u,16:r,16:y,17:r,20:r,21:r,22:r,24:r,25:r,26:r,28:r,29:r,30:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:r,0:k\n4:t,5:t,7:t,8:x,9:x,10:x,12:u,13:u,15:u,16:y,20:r,22:r,23:r,24:r,25:r,27:r,28:r,29:r,31:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,4:z,5:h,7:h\n0:h,2:h,4:k,8:k,9:h,12:w,12:h,15:k\n0:z,2:h,4:z,10:h,19:h,20:w,23:k,27:l,27:k,28:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n0:k,4:z,5:a,7:a\n2:a,9:a,12:w,15:k\n0:z,2:a,4:z,10:a,19:a,20:w,23:k,27:k,27:a,28:a ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n0:k,4:z,5:h,7:h\n0:h,2:h,4:k,8:k,9:h,12:h,12:l,15:k\n0:z,2:h,4:z,10:h,19:h,20:l,23:k,27:l,27:k,28:h ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\n0:k,4:s,5:h,7:h\n0:h,2:h,4:k,8:k,9:h,12:w,12:h,15:k\n0:s,2:h,4:s,10:h,19:h,20:w,23:k,27:l,27:k,28:h ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\n0:k,4:s,5:h,7:h\n0:h,2:h,4:k,8:k,9:h,12:h,12:z,15:k\n0:s,2:h,4:s,10:h,19:h,20:z,23:k,27:l,27:k,28:h ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n0:k,4:z,5:h,7:h\n0:h,2:h,4:k,8:k,9:h,12:w,12:h,15:k\n0:z,2:h,4:z,10:h,19:h,20:w,23:k,27:k,27:a,28:h ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n4:s\n0:k,2:h,6:h,7:h,8:h,9:k,10:l,10:k,12:h,15:k\n0:h,1:h,3:k,5:k,13:k,14:h,16:y,19:h,21:h,29:h,30:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n2:a\n4:s,5:a,7:a\n0:k,3:a,8:a,9:a,10:k,12:a\n0:a,1:a,16:y ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\n4:s\n0:k,2:h,6:h,7:h,8:h,9:k,10:k,10:a,12:h,15:k\n0:h,1:h,3:k,5:k,13:k,14:h,16:y,19:h,21:h,29:h,30:k ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:h,2:k,6:h,8:h,9:h,10:h,11:k,12:h,13:k,15:k\n0:k,2:h,4:h,14:k,16:l,18:j,20:s,20:k,30:s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n0:a\n2:a\n0:k,2:k,2:a,6:a,9:a,11:a,13:a,15:a\n14:a,20:s,30:s ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\nNone\n0:k,2:h,2:k,6:h,8:h,9:h,10:h,11:k,12:h,13:k,15:k\n0:k,2:h,4:h,14:k,16:a,18:a,20:s,20:k,30:s ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n4:s\n0:l,0:k,2:h,4:k,6:h,9:h,10:h\n8:h,11:k,13:k,14:k,15:k,18:k,18:y,24:k,27:h,29:h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n25:a\n0:a,4:s\n0:k,4:a,11:a\n9:a,13:a,15:a,18:k,18:y,26:a ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\n4:s\n0:k,0:a,2:h,4:k,6:h,9:h,10:h\n8:h,11:k,13:k,14:k,15:k,18:k,18:y,24:k,27:h,29:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:r\n0:k,2:r\n10:s,11:s,14:r,14:s\n1:k,4:s,18:s,19:s,20:k,22:r,22:s,28:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n25:s\n0:r,0:k,2:r,3:s,4:r,6:s\n4:k,6:r,8:r,8:k,10:r,11:s,12:r,12:k,14:r,14:s,21:s,23:s,24:s,26:t,27:t,28:x,29:x,30:u ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,2:s\n0:r,3:s,6:s\n0:y,2:r,4:r,6:r,8:r,10:r,11:s,12:r,12:k,18:s,20:s,21:k,25:s,27:t,28:x,29:u,30:u ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,1:h,4:s\n3:h,4:h,5:h,7:h,7:k,8:h\n0:y,11:h,12:h,13:h,15:h,15:k,16:h,26:h,28:j ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:k,1:a,4:a,4:s\n3:a,5:a,7:k,7:a,8:a\n0:y,11:a,13:a,15:k,15:a,16:a,26:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n0:k,1:h,4:s\n3:h,4:h,5:h,7:h,7:k,8:h\n0:y,11:h,12:h,13:h,15:h,15:k,16:h,26:h,28:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:t\n0:k,3:t\n4:s\nNone\n11:y ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\n0:h\n2:h,3:k\n0:k,5:k,6:h,6:s,9:k\n14:h,28:s,30:k,30:j ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\n0:a\nNone\n3:k\n0:k,5:k,6:s,9:k\n28:s,30:k ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\n0:h\n2:h,3:k\n0:k,5:k,6:h,6:s,9:k\n14:h,28:s,30:k,30:a ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\n1:h\nNone\n0:k\n3:h,11:h,15:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n0:a\nNone\n6:a,11:a\n2:a,14:a,26:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k\nNone\n1:h,3:k,4:h,5:k,7:h,10:h,11:h,12:h,13:h,15:h,17:k,19:h,20:k,21:h,23:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n1:a\n5:a,7:a,11:a\n2:a,14:a,15:a,19:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:s,2:s,4:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:r\n4:r,4:s\n6:k,8:r,8:k\n0:k,0:y,0:y,16:r,18:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:r\n0:k,2:r,2:k,4:r,6:r,6:s\n10:r,12:r,12:s,14:r,24:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:u,0:k,2:u,3:u,4:u,4:k,4:s,6:u,7:u,8:u,8:k,10:u,11:u,12:u,12:k,12:s,14:u,15:u ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,4:h,4:s,6:h\n2:h,3:k,8:h\n0:k,10:h,12:k,16:h,26:k,26:j,28:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\nNone\n0:k,4:s\n3:k\n12:k,26:k,28:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n0:k,4:h,4:s,6:h\n2:h,3:k,8:h\n0:k,10:h,12:k,16:h,26:k,26:a,28:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:h\n0:k,4:s\n3:k,4:h,8:h\n1:k,12:h,16:k,17:h,28:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\nNone\n0:k,4:s\n3:k\n1:k,17:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,4:s,6:h\n0:h,2:h,4:h\n2:h,3:k,8:k,10:h,10:k,12:h,12:h,17:k,19:h,24:h,28:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n0:k,4:s,6:a\n2:a\n2:a,3:k,10:k,10:a,12:a,17:k,19:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n4:k\n0:k,1:k,2:k,8:k,10:h,10:s\n2:s,6:k,8:k,10:k,14:s,14:k,15:h,15:k,19:k,20:s,21:k,22:l,22:k,22:s,24:l,24:h,26:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n1:a,3:a\n0:k,5:a,7:k,7:a,9:s,9:a\n1:s,13:s,13:a,14:k,14:a,15:a,18:k,19:s,20:k,21:k,21:s,23:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n4:k\n0:k,1:k,2:k,8:k,10:h,10:s\n2:s,6:k,8:k,10:k,14:s,14:k,15:h,15:k,19:k,20:s,21:k,22:a,22:k,22:s,24:h,24:a,26:a ###"}
+{"prompt":"jazz klezmer acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,0:k,0:y,4:k,6:k,6:s,6:q,10:k,12:s\n12:k,12:q,27:k,28:x,31:s,31:k ###"}
+{"prompt":"jazz klezmer jinglestacks 2nd hi-hat ->","completion":" None\nNone\nNone\nNone\n0:s,0:k,0:y,4:k,6:h,6:k,6:s,10:k,12:s\n12:h,12:k,27:k,28:x,31:s,31:k ###"}
+{"prompt":"jazz klezmer jazz funk ->","completion":" None\nNone\nNone\nNone\n0:s,0:k,0:y,4:k,6:b,6:k,6:s,10:k,12:s\n12:b,12:k,27:k,28:x,31:s,31:k ###"}
+{"prompt":"jazz klezmer big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,0:s,0:y,4:k,6:k,6:s,6:l,10:k,12:s\n12:k,12:l,27:k,28:x,31:k,31:s ###"}
+{"prompt":"jazz klezmer super boom layered ->","completion":" None\nNone\nNone\nNone\n0:s,0:k,0:y,4:k,6:k,6:s,6:l,10:k,12:s\n12:k,12:l,27:k,28:x,31:s,31:k ###"}
+{"prompt":"jazz klezmer nu rnb ->","completion":" None\nNone\nNone\nNone\n0:s,0:k,0:y,4:k,6:k,6:s,10:k,12:s,22:s\n12:k,12:s,27:k,28:x,31:s,31:k ###"}
+{"prompt":"jazz klezmer compact lite w\/ tambourine hh ->","completion":" None\nNone\nNone\nNone\n0:s,0:k,0:y,4:k,6:s,6:k,6:a,10:k,12:s\n12:k,12:a,27:k,28:x,31:s,31:k ###"}
+{"prompt":"latin brazilian acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:k,16:q,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian jinglestacks 2nd hi-hat ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:h,16:k,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian jazz funk ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:b,16:k,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:k,16:q,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:s,25:a,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s,16:k\n0:s,1:k,1:s,3:u,3:k,5:k,5:s,7:k,7:s,9:u,9:k,10:k,10:z,12:u,14:u,14:k,16:l,18:s,20:k,20:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian super boom layered ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:k,16:l,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian west coast funk ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:b,0:s,1:b,1:s,1:k,3:u,3:k,5:b,5:s,5:k,7:b,7:s,7:k,9:u,9:k,10:b,10:z,12:u,14:u,14:k,16:h,16:k,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:s,10:v,12:u,14:u,14:k,16:k,16:q,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian nu rnb ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:s,0:l,1:s,1:k,1:l,3:u,3:k,5:s,5:k,5:l,7:s,7:k,7:l,9:u,9:k,10:s,10:l,12:u,14:u,14:k,16:k,16:s,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian ele-drum ->","completion":" None\nNone\nNone\nNone\n0:k,0:l,3:s,9:s,12:k,12:s,14:s\n0:s,1:s,1:k,1:l,3:u,3:k,5:s,5:k,5:l,7:s,7:k,7:l,9:u,9:k,10:s,10:l,12:u,14:u,14:k,16:k,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"latin brazilian compact lite w\/ tambourine hh ->","completion":" None\nNone\nNone\nNone\n0:k,3:s,9:s,12:k,12:s,14:s\n0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:k,16:a,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:s,25:a,26:s,27:s,29:s,30:s,31:s ###"}
+{"prompt":"blues shuffle acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,3:k,4:s,4:y,7:k,7:s,8:k,8:r,8:s,10:k,11:r,12:s,12:r,14:k,14:s,14:y,15:s ###"}
+{"prompt":"blues shuffle big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,3:k,4:s,4:y,7:k,7:s,8:k,8:r,8:s,10:k,11:r,12:r,12:s,14:k,14:s,14:y,15:s ###"}
+{"prompt":"blues shuffle acoustic ->","completion":" None\nNone\nNone\n4:r,4:s,7:s\n8:r,8:k,8:s,14:s,15:s,24:s\n0:k,3:k,4:v,4:s,7:k,7:r,8:s,10:r,11:k,14:y,15:k,15:s,16:s,18:r,18:k,18:s,22:r,22:k,22:s,23:s,24:s,26:r,26:k,30:r,30:k ###"}
+{"prompt":"blues shuffle big room layered ->","completion":" None\nNone\nNone\n4:r,4:s,7:s\n8:r,8:k,8:s,14:s,15:s,24:s\n0:k,3:k,4:k,4:s,7:k,7:r,8:s,10:r,11:k,14:y,15:k,15:s,16:s,18:r,18:k,18:s,22:r,22:k,22:s,23:s,24:s,26:r,26:k,30:r,30:k ###"}
+{"prompt":"blues shuffle west coast funk ->","completion":" None\nNone\nNone\n4:r,4:s,7:s\n8:r,8:k,8:s,14:s,15:s,24:s\n0:k,3:k,4:b,4:s,7:k,7:r,8:s,10:r,11:k,14:y,15:k,15:s,16:s,18:r,18:k,18:s,22:r,22:k,22:s,23:s,24:s,26:r,26:k,30:r,30:k ###"}
+{"prompt":"blues shuffle nu rnb ->","completion":" None\nNone\nNone\n4:r,4:s,7:s\n8:r,8:k,8:s,14:s,15:s,24:s\n0:k,3:k,4:s,4:l,7:k,7:r,8:s,10:r,11:k,14:y,15:k,15:s,16:s,18:r,18:k,18:s,22:r,22:k,22:s,23:s,24:s,26:r,26:k,30:r,30:k ###"}
+{"prompt":"blues shuffle acoustic ->","completion":" None\nNone\nNone\n0:s,3:s\n7:k,7:s,9:s\n0:u,0:k,1:k,2:u,2:s,3:u,3:k,4:u,4:k,4:s,5:u,5:k,5:s,7:u,8:u,8:k,9:u,10:k,11:u,11:k,12:u,12:s,13:u,13:k,13:s,15:y,15:s,15:k,18:k,19:y,22:s,23:r,24:s,25:r,25:k,27:r,30:r ###"}
+{"prompt":"latin merengue acoustic ->","completion":" None\nNone\nNone\n7:k\n3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t\n0:k,4:s,12:k,13:t,15:t,16:q,19:s,27:k,28:t,30:t,31:q ###"}
+{"prompt":"latin merengue jinglestacks 2nd hi-hat ->","completion":" None\nNone\nNone\n7:k\n3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t\n0:k,4:s,12:k,13:t,15:t,16:h,19:s,27:k,28:t,30:t,31:h ###"}
+{"prompt":"latin merengue jazz funk ->","completion":" None\nNone\nNone\n7:k\n3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t\n0:k,4:s,12:k,13:t,15:t,16:b,19:s,27:k,28:t,30:t,31:b ###"}
+{"prompt":"latin merengue big room layered ->","completion":" None\nNone\nNone\n7:k\n3:s,4:k,6:s,7:s,8:s,10:s,12:l,14:t\n0:k,4:s,12:k,13:t,15:t,16:l,19:s,27:k,28:t,30:t,31:l ###"}
+{"prompt":"latin merengue super boom layered ->","completion":" None\nNone\nNone\n7:k\n3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t\n0:k,4:s,12:k,13:t,15:t,16:l,19:s,27:k,28:t,30:t,31:l ###"}
+{"prompt":"latin merengue nu rnb ->","completion":" None\nNone\nNone\n7:k\n3:s,4:k,6:s,7:s,8:s,10:s,12:z,14:t\n0:k,4:s,12:k,13:t,15:t,16:s,19:s,27:k,28:t,30:t,31:s ###"}
+{"prompt":"latin merengue ele-drum ->","completion":" None\nNone\nNone\n7:k\n3:s,4:k,6:s,7:s,8:s,10:s,12:z,14:t\n0:k,4:s,12:k,13:t,15:t,16:l,19:s,27:k,28:t,30:t,31:l ###"}
+{"prompt":"latin merengue compact lite w\/ tambourine hh ->","completion":" None\nNone\nNone\n7:k\n3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t\n0:k,4:s,12:k,13:t,15:t,16:a,19:s,27:k,28:t,30:t,31:a ###"}
+{"prompt":"latin brazilian-bossa acoustic ->","completion":" None\nNone\nNone\n0:k,4:h,6:k,6:k\n8:k,12:k\n2:h,4:l,4:z,4:s,6:k,9:k,10:k,10:s,10:q,16:k,18:z,18:k,20:k,26:l,26:z ###"}
+{"prompt":"latin brazilian-bossa jinglestacks 2nd hi-hat ->","completion":" None\nNone\nNone\n0:k,4:h,6:k,6:k\n8:k,12:k\n2:h,4:l,4:z,4:s,6:k,9:k,10:h,10:s,10:k,16:k,18:z,18:k,20:k,26:l,26:z ###"}
+{"prompt":"latin brazilian-bossa jazz funk ->","completion":" None\nNone\nNone\n0:k,4:h,6:k,6:k\n8:k,12:k\n2:h,4:l,4:z,4:s,6:k,9:k,10:b,10:s,10:k,16:k,18:z,18:k,20:k,26:l,26:z ###"}
+{"prompt":"latin brazilian-bossa dark hybrid ->","completion":" None\nNone\n2:a\n0:k,4:a,6:k,12:a\n8:a\n4:z,4:s,6:k,9:k,10:s,10:q,16:a,18:z,26:z ###"}
+{"prompt":"latin brazilian-bossa big room layered ->","completion":" None\nNone\nNone\n0:k,4:h,6:k,6:k\n8:k,12:k\n2:h,4:l,4:z,4:s,6:k,9:k,10:k,10:s,10:l,16:k,18:z,18:k,20:k,26:l,26:z ###"}
+{"prompt":"latin brazilian-bossa 808 simple ->","completion":" None\nNone\nNone\n0:k,4:h,6:k,6:k\n8:k,12:k\n2:h,4:s,4:l,4:s,6:k,9:k,10:k,10:s,10:q,16:k,18:s,18:k,20:k,26:s,26:l ###"}
+{"prompt":"latin brazilian-bossa nu rnb ->","completion":" None\nNone\nNone\n0:k,4:h,6:k,6:k\n8:k,12:k\n2:h,4:s,4:l,4:s,6:k,9:k,10:s,10:k,16:k,18:s,18:k,20:k,26:s,26:l ###"}
+{"prompt":"latin brazilian-bossa ele-drum ->","completion":" None\nNone\nNone\n0:k,4:h,6:k,6:k\n8:k,12:k\n2:h,4:s,4:l,4:s,6:k,9:k,10:k,10:s,10:l,16:k,18:s,18:k,20:k,26:s,26:l ###"}
+{"prompt":"latin brazilian-bossa compact lite w\/ tambourine hh ->","completion":" None\nNone\n2:a\n0:k,4:a,6:k,12:a\n8:a\n4:z,4:s,6:k,9:k,10:a,10:s,16:a,18:z,26:z ###"}
+{"prompt":"latin brazilian-bossa deep daft ->","completion":" None\nNone\nNone\n0:k,4:h,6:k,6:k\n8:k,12:k\n2:h,4:a,4:z,4:s,6:k,9:k,10:k,10:s,10:l,16:k,18:z,18:k,20:k,26:z,26:a ###"}
+{"prompt":"latin brazilian-sambareggae acoustic ->","completion":" None\nNone\nNone\n0:k,2:h\n3:s,4:t,4:k,5:s,6:h,6:s,8:u,8:k,9:u,10:u,11:u,20:k\n0:k,0:x,1:s,2:x,7:s,12:t,12:k,14:h,14:s,16:u,18:u,23:z ###"}
+{"prompt":"latin brazilian-sambareggae dark hybrid ->","completion":" None\nNone\nNone\n0:k,2:a\n3:s,4:t,4:k,5:s,6:s,6:a,8:u,8:k,9:u,10:u,11:u,20:k\n0:k,0:x,1:s,2:x,7:s,12:t,12:k,14:s,14:a,16:u,18:u,23:z ###"}
+{"prompt":"latin brazilian-sambareggae 808 simple ->","completion":" None\nNone\nNone\n0:k,2:h\n3:s,4:t,4:k,5:s,6:h,6:s,8:u,8:k,9:u,10:u,11:u,20:k\n0:k,0:x,1:s,2:x,7:s,12:t,12:k,14:h,14:s,16:u,18:u,23:s ###"}
+{"prompt":"afrocuban calypso acoustic ->","completion":" None\nNone\n0:k\n3:s,6:h\n0:r,1:s,4:r,4:k,10:h,14:z\n0:s,6:z,8:r,9:z,12:r,18:r,18:h,22:s,24:k,25:s,26:h,28:k ###"}
+{"prompt":"afrocuban calypso dark hybrid ->","completion":" None\nNone\n0:k\n3:s,6:a\n0:r,1:s,4:r,4:k,10:a,14:z\n0:s,6:z,8:r,9:z,12:r,18:r,18:a,22:s,24:a,25:s,26:a,28:a ###"}
+{"prompt":"afrocuban calypso 808 simple ->","completion":" None\nNone\n0:k\n3:s,6:s,6:h\n0:r,1:s,4:r,4:k,10:h\n0:s,8:r,9:s,12:r,18:r,18:h,24:k,25:s,26:h,28:k ###"}
+{"prompt":"latin brazilian-songo acoustic ->","completion":" None\nNone\nNone\n3:k,3:s,4:k,6:k\n0:l,6:k,8:k,10:k,13:s,15:z\n0:h,0:k,1:k,2:h,9:s,12:h,14:k,17:s,18:h,18:k,21:s,23:s,25:z,30:h ###"}
+{"prompt":"latin brazilian-songo dark hybrid ->","completion":" None\n0:a\nNone\n3:k,3:s,6:k\n13:s,15:z\n0:k,0:a,1:k,9:s,12:a,17:s,18:a,21:s,23:s,25:z ###"}
+{"prompt":"latin brazilian-songo 808 simple ->","completion":" None\nNone\nNone\n3:k,3:s,4:k,6:k\n0:l,6:k,8:k,10:k,13:s,15:s\n0:h,0:k,1:k,2:h,9:s,12:h,14:k,17:s,18:h,18:k,21:s,23:s,25:s,30:h ###"}
+{"prompt":"latin brazilian-songo deep daft ->","completion":" None\nNone\nNone\n3:k,3:s,4:k,6:k\n0:a,6:k,8:k,10:k,13:s,15:z\n0:h,0:k,1:k,2:h,9:s,12:h,14:k,17:s,18:h,18:k,21:s,23:s,25:z,30:h ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,4:s,6:k,8:l,8:h,10:h,10:k,10:s,12:l,12:h,15:k\n1:k,1:z,2:k,4:l,4:h,4:s,12:s,14:h,16:k,17:s,18:h,20:k,25:s,27:k,28:z,29:s,30:k ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\n2:a\n4:a\n0:k,4:s,8:a,10:k,10:s,12:a,15:k,24:a\n1:k,1:z,4:s,4:a,12:s,16:a,17:s,25:s,27:k,28:z,29:s ###"}
+{"prompt":"funk 808 simple ->","completion":" None\nNone\nNone\nNone\n0:k,4:s,6:k,8:l,8:h,10:h,10:k,10:s,12:l,12:h,15:k\n1:s,1:k,2:k,4:l,4:h,4:s,12:s,14:h,16:k,17:s,18:h,20:k,25:s,27:k,28:s,29:s,30:k ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\nNone\n0:k,4:s,6:k,8:h,8:a,10:h,10:k,10:s,12:h,12:a,15:k\n1:k,1:z,2:k,4:s,4:h,4:a,12:s,14:h,16:k,17:s,18:h,20:k,25:s,27:k,28:z,29:s,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n4:r,4:h\n0:k,6:r,8:r,8:h,10:r,10:k,12:s\n0:y,1:k,4:s,7:s,8:k,14:r,15:s,16:r,16:h,16:k,18:r,20:s,22:k,23:k,25:s,26:k,30:s,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n4:r,4:a\n0:k,6:r,8:r,8:a,10:r,10:k,12:s\n0:y,1:k,4:s,7:s,8:k,14:r,15:s,16:r,16:k,16:a,18:r,20:s,22:k,23:k,25:s,26:k,30:s,31:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n4:r,4:h,4:s\n0:k,6:r,8:r,8:h,10:r,10:k,15:s\n0:y,1:k,7:s,8:k,14:r,16:r,16:h,16:k,18:r,22:k,23:k,25:s,26:k,30:s ###"}
+{"prompt":"blues shuffle acoustic ->","completion":" None\nNone\nNone\n0:k,3:k,6:k\n2:k,4:k,6:k,7:k,10:h,10:k\n1:s,3:s,7:l,7:s,9:s,11:s,12:k,14:k,15:k,15:k,19:z,22:s,23:k,26:s,27:s,28:h,28:k,29:k ###"}
+{"prompt":"blues shuffle dark hybrid ->","completion":" None\nNone\nNone\n0:a\n0:k,1:k,1:a,2:a,4:k,4:a,5:a,6:a\n1:s,3:s,5:s,8:k,9:k,9:a,10:a,12:a,13:z,13:a,14:a,16:s,20:s,21:s,22:k,23:k ###"}
+{"prompt":"blues shuffle big room layered ->","completion":" None\nNone\nNone\n0:k,3:k,6:k\n2:k,4:k,6:k,7:k,10:h,10:k,11:s\n1:s,3:s,7:l,7:s,9:s,12:k,14:k,15:k,15:k,19:z,22:s,23:k,26:s,28:h,28:k,29:k ###"}
+{"prompt":"blues shuffle 808 simple ->","completion":" None\nNone\nNone\n0:k,3:k,6:k\n2:k,4:k,6:k,7:k,10:h,10:k\n1:s,3:s,7:l,7:s,9:s,11:s,12:k,14:k,15:k,15:k,19:s,22:s,23:k,26:s,27:s,28:h,28:k,29:k ###"}
+{"prompt":"blues shuffle deep daft ->","completion":" None\nNone\nNone\n0:k,3:k,6:k\n2:k,4:k,6:k,7:k,10:h,10:k\n1:s,3:s,7:a,7:s,9:s,11:s,12:k,14:k,15:k,15:k,19:z,22:s,23:k,26:s,27:s,28:h,28:k,29:k ###"}
+{"prompt":"afrocuban acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:q ###"}
+{"prompt":"afrocuban jinglestacks 2nd hi-hat ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:h ###"}
+{"prompt":"afrocuban jazz funk ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:b ###"}
+{"prompt":"afrocuban dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:a,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:q ###"}
+{"prompt":"afrocuban big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:k,27:l ###"}
+{"prompt":"afrocuban super boom layered ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:l ###"}
+{"prompt":"afrocuban west coast funk ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:b,27:h ###"}
+{"prompt":"afrocuban nu rnb ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:l,27:s ###"}
+{"prompt":"afrocuban ele-drum ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:l,27:l ###"}
+{"prompt":"afrocuban compact lite w\/ tambourine hh ->","completion":" None\nNone\nNone\nNone\n0:k,1:s,5:s,7:s,10:s\n0:r,2:r,2:s,4:r,6:r,9:t,9:a,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:a ###"}
+{"prompt":"middleeastern acoustic ->","completion":" None\nNone\nNone\n0:k\n2:k,4:k,6:k,8:k,10:h,12:z\n0:l,2:s,6:h,7:z,12:l,12:h,14:k,15:s,16:k,18:z,22:k,28:s,28:k,30:h ###"}
+{"prompt":"middleeastern dark hybrid ->","completion":" None\n0:a\nNone\n0:k\n6:k,12:z\n2:s,7:z,12:a,15:s,18:z,28:s ###"}
+{"prompt":"middleeastern 808 simple ->","completion":" None\nNone\nNone\n0:k\n2:k,4:k,6:k,8:k,10:h,12:s\n0:l,2:s,6:h,7:s,12:l,12:h,14:k,15:s,16:k,18:s,22:k,28:s,28:k,30:h ###"}
+{"prompt":"middleeastern deep daft ->","completion":" None\nNone\nNone\n0:k\n2:k,4:k,6:k,8:k,10:h,12:z\n0:a,2:s,6:h,7:z,12:h,12:a,14:k,15:s,16:k,18:z,22:k,28:s,28:k,30:h ###"}
+{"prompt":"latin brazilian-bossa acoustic ->","completion":" None\nNone\nNone\n2:k,6:k\n0:k,4:h,6:k,8:k,10:s,12:k,14:k,24:k\n4:l,8:h,10:s,11:h,11:s,12:s,13:s,13:k,14:s,15:h,16:k,18:s,20:k,22:k,24:k,28:h,30:k ###"}
+{"prompt":"latin brazilian-bossa dark hybrid ->","completion":" None\nNone\nNone\n0:k\n0:a,2:k,2:a,4:a,4:s,6:a,8:k,18:k\n4:s,5:a,5:s,6:s,7:a,7:s,8:s,9:a,10:k,10:a,12:s,12:a,14:a,16:k,22:a,24:a ###"}
+{"prompt":"latin brazilian-bossa deep daft ->","completion":" None\nNone\nNone\n2:k,6:k\n0:k,4:h,6:k,8:k,10:s,12:k,14:k,24:k\n4:a,8:h,10:s,11:h,11:s,12:s,13:s,13:k,14:s,15:h,16:k,18:s,20:k,22:k,24:k,28:h,30:k ###"}
+{"prompt":"latin brazilian-baiao acoustic ->","completion":" None\n0:r\n2:h\n0:k,3:k,5:r\n0:k,1:r,4:s,6:s\n1:k,3:s,4:s,8:s,9:r,11:s,12:s,14:s,20:k,25:k,25:z,28:z,29:s,31:z ###"}
+{"prompt":"latin brazilian-baiao dark hybrid ->","completion":" None\n0:r\n2:a\n0:k,3:k,5:r\n0:k,1:r,4:s,6:s\n1:k,3:s,4:s,8:s,9:r,11:s,12:s,14:s,20:k,25:k,25:z,28:z,29:s,31:z ###"}
+{"prompt":"latin brazilian-baiao 808 simple ->","completion":" None\n0:r\n2:h\n0:k,3:k,5:r\n0:k,1:r,4:s,6:s\n1:k,3:s,4:s,8:s,9:r,11:s,12:s,14:s,20:k,25:s,25:k,28:s,29:s,31:s ###"}
+{"prompt":"latin brazilian-samba acoustic ->","completion":" None\nNone\n0:k,1:s,2:h,2:s,3:k\n3:s,4:u\n0:s,1:s,7:s,16:s,17:s\n2:s,15:s,24:s,27:k,31:z ###"}
+{"prompt":"latin brazilian-samba dark hybrid ->","completion":" None\nNone\n0:k,1:s,2:s,2:a,3:k\n3:s,4:u\n0:s,1:s,7:s,16:s,17:s\n2:s,15:s,24:s,27:k,31:z ###"}
+{"prompt":"latin brazilian-samba 808 simple ->","completion":" None\nNone\n0:k,1:s,2:h,2:s,3:k\n3:s,4:u\n0:s,1:s,7:s,16:s,17:s\n2:s,15:s,24:s,27:k,31:s ###"}
+{"prompt":"latin brazilian-samba acoustic ->","completion":" None\nNone\n0:k,2:h,2:s,3:k\n0:s,4:u\n1:s,3:s,13:s\n7:s,8:s,9:s,11:s,13:s,15:s,16:s,21:s,23:z,25:s,27:z,31:z ###"}
+{"prompt":"latin brazilian-samba dark hybrid ->","completion":" None\nNone\n0:k,2:s,2:a,3:k\n0:s,4:u\n1:s,3:s,13:s\n7:s,8:s,9:s,11:s,13:s,15:s,16:s,21:s,23:z,25:s,27:z,31:z ###"}
+{"prompt":"latin brazilian-samba big room layered ->","completion":" None\nNone\n0:k,2:h,2:s,3:k\n0:s,1:s,4:u\n3:s,13:s\n7:s,8:s,9:s,11:s,13:s,15:s,16:s,21:s,23:z,27:z,31:z ###"}
+{"prompt":"latin brazilian-samba 808 simple ->","completion":" None\nNone\n0:k,2:h,2:s,3:k\n0:s,4:u\n1:s,3:s,13:s\n7:s,8:s,9:s,11:s,13:s,15:s,16:s,21:s,23:s,25:s,27:s,31:s ###"}
+{"prompt":"latin brazilian-maracatu acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,1:s,1:k,1:h,3:s,4:h,4:z,5:s,6:s,7:s,8:h,8:z,9:k,9:s,10:z,11:k,11:s,12:h,12:z,12:k,13:s,14:s,15:s ###"}
+{"prompt":"latin brazilian-maracatu dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,1:s,1:k,1:a,3:s,4:z,4:a,5:s,6:s,7:s,8:z,8:a,9:k,9:s,10:z,11:k,11:s,12:k,12:z,12:a,13:s,14:s,15:s ###"}
+{"prompt":"latin brazilian-maracatu 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,1:s,1:k,1:h,3:s,4:s,4:h,5:s,6:s,7:s,8:s,8:h,9:k,9:s,10:s,11:k,11:s,12:s,12:h,12:k,13:s,14:s,15:s ###"}
+{"prompt":"latin dominican-merengue acoustic ->","completion":" None\nNone\n0:k,2:h\nNone\n3:s,4:k,6:s,8:k,10:s,14:t,15:t\n13:w,16:t,20:s,23:s,29:t ###"}
+{"prompt":"latin dominican-merengue dark hybrid ->","completion":" None\nNone\n0:k,2:a\nNone\n3:s,4:a,6:s,8:a,10:s,14:t,15:t\n13:w,16:t,20:s,23:s,29:t ###"}
+{"prompt":"latin dominican-merengue big room layered ->","completion":" None\nNone\n0:k,2:h\nNone\n3:s,4:k,6:s,8:k,10:s,14:t,15:t\n13:l,16:t,20:s,23:s,29:t ###"}
+{"prompt":"latin dominican-merengue nu rnb ->","completion":" None\nNone\n0:k,2:h\nNone\n3:s,4:k,6:s,8:k,10:s,14:t,15:t\n13:z,16:t,20:s,23:s,29:t ###"}
+{"prompt":"latin venezuelan-sangueo acoustic ->","completion":" None\nNone\nNone\n1:k,3:k,7:s\n0:l,0:k,1:s,12:z,12:k,14:h\n0:s,2:k,4:s,4:h,4:k,5:k,6:k,7:k,7:h,8:k,10:k,14:l,17:s,18:l,20:s,20:l,21:s,22:l,22:h,24:l,24:k,25:s,26:h,26:s,28:h,30:k,31:h ###"}
+{"prompt":"latin venezuelan-sangueo dark hybrid ->","completion":" None\n0:a\nNone\n1:k,3:k,7:s\n0:k,1:s,12:z,14:a\n0:s,4:s,4:a,5:k,7:k,7:a,17:s,20:s,21:s,22:a,24:k,25:s,26:s,28:a,31:a ###"}
+{"prompt":"latin venezuelan-sangueo big room layered ->","completion":" None\nNone\nNone\n1:k,3:k,7:s\n0:l,0:k,1:s,4:s,12:z,12:k,14:h\n0:s,2:k,4:h,4:k,5:k,6:k,7:k,7:h,8:k,10:k,14:l,17:s,18:l,20:l,21:s,22:l,22:h,24:l,24:k,25:s,26:h,26:s,28:h,30:k,31:h ###"}
+{"prompt":"latin venezuelan-sangueo 808 simple ->","completion":" None\nNone\nNone\n1:k,3:k,7:s\n0:l,0:k,1:s,12:s,12:k,14:h\n0:s,2:k,4:s,4:h,4:k,5:k,6:k,7:k,7:h,8:k,10:k,14:l,17:s,18:l,20:s,20:l,21:s,22:l,22:h,24:l,24:k,25:s,26:h,26:s,28:h,30:k,31:h ###"}
+{"prompt":"latin venezuelan-sangueo deep daft ->","completion":" None\nNone\nNone\n1:k,3:k,7:s\n0:k,0:a,1:s,12:z,12:k,14:h\n0:s,2:k,4:s,4:h,4:k,5:k,6:k,7:k,7:h,8:k,10:k,14:a,17:s,18:a,20:s,20:a,21:s,22:h,22:a,24:k,24:a,25:s,26:h,26:s,28:h,30:k,31:h ###"}
+{"prompt":"neworleans funk acoustic ->","completion":" None\nNone\n0:k\n0:k,2:k\n4:s,6:h,7:s,10:k,14:k\n6:l,12:s,13:s,15:s,17:s,22:k,29:k ###"}
+{"prompt":"neworleans funk dark hybrid ->","completion":" None\n0:a\nNone\n0:k\n4:s,6:a,7:s,10:k\n12:s,13:s,15:s,17:s,29:a ###"}
+{"prompt":"neworleans funk deep daft ->","completion":" None\nNone\n0:k\n0:k,2:k\n4:s,6:h,7:s,10:k,14:k\n6:a,12:s,13:s,15:s,17:s,22:k,29:k ###"}
+{"prompt":"soul acoustic ->","completion":" None\nNone\n0:k\n6:k\n0:k,2:k,12:s,15:k\n0:k,1:s,4:s,9:s,10:h,10:s,20:z,26:k,26:k ###"}
+{"prompt":"soul dark hybrid ->","completion":" None\n0:a\nNone\nNone\n0:k,12:s,15:k\n0:k,1:s,4:s,9:s,10:s,20:z,26:k ###"}
+{"prompt":"soul 808 simple ->","completion":" None\nNone\n0:k\n6:k\n0:k,2:k,4:s,12:s,15:k\n0:k,1:s,9:s,10:h,10:s,26:k,26:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\nNone\n0:k,1:s,7:s,10:k,12:s,12:h\n0:k,1:k,2:s,4:s,6:k,8:h,10:h,11:k,14:h,15:k,16:s,18:h,20:s,22:l,22:k,25:s,26:s,26:k,29:s,30:k,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n6:a\n0:k,1:s,7:s,10:k,10:a,12:s,12:a\n0:k,1:k,2:s,4:s,8:a,11:k,15:k,16:s,18:a,20:s,22:k,25:s,26:s,29:s,31:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n0:k\n4:s\n0:k,1:s,7:s,10:k,12:h\n0:k,1:k,2:s,6:k,8:h,10:h,11:k,14:h,15:k,16:s,18:h,22:l,22:k,25:s,26:s,26:k,29:s,30:k,31:s ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\n0:k\nNone\n0:k,1:s,7:s,10:k,12:s,12:h\n0:k,1:k,2:s,4:s,6:k,8:h,10:h,11:k,14:h,15:k,16:s,18:h,20:s,22:k,22:a,25:s,26:s,26:k,29:s,30:k,31:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k\n10:k\n0:k,2:k,3:l,4:l,6:l,7:h,11:s,12:s,13:h,14:k,14:k,15:k,17:k,18:h,19:k,20:k,22:s,23:k,27:k,28:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:a,2:a\n3:a,4:a,7:a\n0:k,6:a,11:s,12:s,13:a,14:k,14:a,15:a,17:k,22:s,27:a,28:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n0:k\n10:k\n0:k,2:k,3:a,4:a,6:a,7:h,11:s,12:s,13:h,14:k,14:k,15:k,17:k,18:h,19:k,20:k,22:s,23:k,27:k,28:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:k,1:k,3:k,7:k\n0:k,1:k,6:k,8:s,10:k,11:k,12:k,13:k,15:h,19:k,20:k,21:k,24:k,27:s,30:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,1:a,3:a,7:a\n0:k,1:k,6:a,8:s,10:a,11:a,12:a,13:a,15:a,19:k,20:a,21:a,24:a,27:s,30:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\nNone\n0:k,0:k,1:k,3:k,7:k\n0:k,1:k,6:k,8:s,10:k,11:k,12:k,13:k,15:h,19:k,20:k,21:k,24:k,27:s,30:a ###"}
+{"prompt":"latin brazilian-samba acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:v,6:r,6:h,7:k,7:q,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:h,15:k ###"}
+{"prompt":"latin brazilian-samba jinglestacks 2nd hi-hat ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:v,6:r,6:h,7:h,7:k,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:h,15:k ###"}
+{"prompt":"latin brazilian-samba jazz funk ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:v,6:r,6:h,7:b,7:k,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:h,15:k ###"}
+{"prompt":"latin brazilian-samba dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:s,2:r,2:a,3:k,3:r,4:k,4:r,5:v,6:r,6:a,7:k,7:q,8:k,8:r,9:s,10:r,10:a,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:a,15:k ###"}
+{"prompt":"latin brazilian-samba big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:k,6:r,6:h,7:k,7:l,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:k,12:r,14:u,14:r,14:h,15:k ###"}
+{"prompt":"latin brazilian-samba super boom layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:v,6:r,6:h,7:k,7:l,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:h,15:k ###"}
+{"prompt":"latin brazilian-samba west coast funk ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:b,6:r,6:h,7:h,7:k,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:b,12:k,12:r,14:u,14:r,14:h,15:k ###"}
+{"prompt":"latin brazilian-samba nu rnb ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:l,6:r,6:h,7:k,7:s,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:k,12:r,12:l,14:u,14:r,14:h,15:k ###"}
+{"prompt":"latin brazilian-samba ele-drum ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:l,6:r,6:h,7:k,7:l,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:k,12:r,12:l,14:u,14:r,14:h,15:k ###"}
+{"prompt":"latin brazilian-samba compact lite w\/ tambourine hh ->","completion":" None\nNone\nNone\nNone\nNone\n0:x,0:k,0:r,1:k,2:s,2:r,2:a,3:k,3:r,4:k,4:r,5:v,6:r,6:a,7:k,7:a,8:k,8:r,9:s,10:r,10:a,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:a,15:k ###"}
+{"prompt":"latin brazilian-ijexa acoustic ->","completion":" None\nNone\nNone\n0:k,0:h,2:k,2:r\n0:r,4:h,4:r,5:r,7:r,9:r\n12:h,12:r,14:r,18:k ###"}
+{"prompt":"latin brazilian-ijexa dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a,2:k,2:r\n0:r,4:r,4:a,5:r,7:r,9:r\n12:r,12:a,14:r,18:k ###"}
+{"prompt":"latin brazilian acoustic ->","completion":" None\nNone\n0:k\n3:s,4:k\n6:k,12:s,13:s,13:k,14:h,15:s,22:k,29:s\n1:s,2:h,5:s,6:l,8:s,9:s,10:k,12:s,13:k,17:h,17:s,18:k,20:s,22:h,24:z,26:h,28:k,29:s,31:s ###"}
+{"prompt":"latin brazilian dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a,2:a\n2:k,4:a,6:a,7:s,8:s,9:s,9:a,11:s,18:k,25:s\n1:s,4:s,5:s,8:s,9:k,12:a,13:a,13:s,14:a,15:s,16:s,20:z,24:k,25:s,27:s ###"}
+{"prompt":"latin brazilian big room layered ->","completion":" None\nNone\n0:k\n3:s,4:k\n1:s,6:k,12:s,13:s,13:k,14:h,15:s,22:k,29:s\n2:h,5:s,6:l,8:s,9:s,10:k,12:s,13:k,17:h,18:k,20:s,22:h,24:z,26:h,28:k,29:s,31:s ###"}
+{"prompt":"latin brazilian 808 simple ->","completion":" None\nNone\n0:k\n3:s,4:k\n6:k,8:s,12:s,13:s,13:k,14:h,15:s,22:k,29:s\n1:s,2:h,5:s,6:l,9:s,10:k,12:s,13:k,17:h,17:s,18:k,20:s,22:h,26:h,28:k,29:s,31:s ###"}
+{"prompt":"latin brazilian deep daft ->","completion":" None\nNone\n0:k\n3:s,4:k\n6:k,12:s,13:s,13:k,14:h,15:s,22:k,29:s\n1:s,2:h,5:s,6:a,8:s,9:s,10:k,12:s,13:k,17:h,17:s,18:k,20:s,22:h,24:z,26:h,28:k,29:s,31:s ###"}
+{"prompt":"latin brazilian-ijexa acoustic ->","completion":" None\nNone\n0:k\n2:h,4:k,5:s\n1:k,6:k,6:s,6:k,8:s,9:s,11:s,12:s,13:s,13:k,14:h,15:s\n3:z,5:k,9:k,13:k,14:s,16:s,19:s,22:h,23:k,25:l ###"}
+{"prompt":"latin brazilian-ijexa dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a,1:s,2:a\n2:k,2:s,4:s,4:a,5:s,5:a,6:a,7:s,8:s,9:a,9:s,11:s\n1:k,9:k,10:s,12:a,12:s,13:a,14:a,15:s,18:a,19:k ###"}
+{"prompt":"latin brazilian-ijexa 808 simple ->","completion":" None\nNone\n0:k\n2:h,4:k,5:s\n1:k,6:k,6:s,6:k,8:s,9:s,11:s,12:s,13:s,13:k,14:h,15:s\n3:s,5:k,9:k,13:k,14:s,16:s,19:s,22:h,23:k,25:l ###"}
+{"prompt":"latin brazilian-ijexa deep daft ->","completion":" None\nNone\n0:k\n2:h,4:k,5:s\n1:k,6:k,6:s,6:k,8:s,9:s,11:s,12:s,13:s,13:k,14:h,15:s\n3:z,5:k,9:k,13:k,14:s,16:s,19:s,22:h,23:k,25:a ###"}
+{"prompt":"latin brazilian-ijexa acoustic ->","completion":" None\nNone\n1:s\n3:s,4:k,4:k\n0:k,4:k,5:s,5:k,6:h,7:s,10:h,14:k,30:k\n0:z,1:k,2:h,8:k,9:s,9:k,14:h,14:s,16:s,17:j,18:h,24:h,26:h,29:s,30:k,30:k ###"}
+{"prompt":"latin brazilian-ijexa dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a,1:s,2:a\n0:k,1:a,1:s,3:s,4:a,5:s,6:a,7:s,10:k,26:k\n5:s,5:a,10:s,12:s,12:a,13:a,13:s,14:a,15:s,22:a,25:s,26:k ###"}
+{"prompt":"latin brazilian-ijexa 808 simple ->","completion":" None\nNone\n1:s\n3:s,4:k,4:k\n0:s,0:k,4:k,5:s,5:k,6:h,7:s,10:h,14:k,30:k\n1:k,2:h,8:k,9:s,9:k,14:h,14:s,17:j,18:h,24:h,26:h,29:s,30:k,30:k ###"}
+{"prompt":"latin brazilian-ijexa deep daft ->","completion":" None\nNone\n1:s\n3:s,4:k,4:k\n0:k,4:k,5:s,5:k,6:h,7:s,10:h,14:k,30:k\n0:z,1:k,2:h,8:k,9:s,9:k,14:h,14:s,16:s,17:a,18:h,24:h,26:h,29:s,30:k,30:k ###"}
+{"prompt":"latin brazilian-songo acoustic ->","completion":" None\nNone\n0:s\n3:k,3:s,5:s,6:s\n1:s,9:s,12:z,15:s\n0:k,0:z,1:s,2:h,4:z,6:h,6:z,7:z,13:s,20:y,20:h,22:s,23:s,25:z,26:s,27:s,28:h,30:s,31:z ###"}
+{"prompt":"latin brazilian-songo dark hybrid ->","completion":" None\nNone\n0:s\n3:k,3:s,5:s,6:s\n1:s,9:s,12:z,15:s\n0:k,0:z,1:s,2:a,4:z,6:z,6:a,7:z,13:s,20:y,20:a,22:s,23:s,25:z,26:s,27:s,28:a,30:s,31:z ###"}
+{"prompt":"latin brazilian-songo big room layered ->","completion":" None\nNone\n0:s,1:s\n3:k,3:s,6:s\n12:z,15:s\n0:k,0:z,1:s,2:h,4:z,6:h,6:z,7:z,13:s,20:y,20:h,22:s,23:s,25:z,26:s,27:s,28:h,30:s,31:z ###"}
+{"prompt":"latin brazilian-songo 808 simple ->","completion":" None\nNone\n0:s\n3:k,3:s,5:s,6:s,7:s\n1:s,9:s,12:s\n0:s,0:k,1:s,2:h,4:s,6:s,6:h,13:s,20:y,20:h,22:s,25:s,26:s,27:s,28:h,30:s,31:s ###"}
+{"prompt":"latin brazilian-songo acoustic ->","completion":" None\nNone\nNone\n2:s\n0:k,1:s,3:s,4:s,5:s,6:s,7:s,8:s,12:s\n0:k,8:s,9:s,11:s,12:z,12:s,15:s,16:s,18:h,19:k,22:h,25:s,25:z,27:k,27:s,28:h,29:s,30:k,30:s,31:s ###"}
+{"prompt":"latin brazilian-songo dark hybrid ->","completion":" None\nNone\nNone\n2:s\n0:k,1:s,3:s,4:s,5:s,6:s,7:s,8:s,12:s\n0:a,8:s,9:s,11:s,12:z,12:s,15:s,16:s,18:a,19:k,22:a,25:s,25:z,27:k,27:s,28:a,29:s,30:k,30:s,31:s ###"}
+{"prompt":"latin brazilian-songo big room layered ->","completion":" None\nNone\n3:s\n1:s,2:s,4:s\n0:k,5:s,6:s,8:s\n0:k,8:s,12:z,12:s,16:s,18:h,19:k,22:h,25:z,27:k,28:h,29:s,30:k,30:s ###"}
+{"prompt":"latin brazilian-songo 808 simple ->","completion":" None\nNone\nNone\n2:s\n0:k,1:s,3:s,4:s,5:s,6:s,7:s,8:s,12:s\n0:k,8:s,9:s,11:s,12:s,12:s,15:s,16:s,18:h,19:k,22:h,25:s,27:k,27:s,28:h,29:s,30:k,30:s,31:s ###"}
+{"prompt":"latin brazilian acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,1:k,1:s,1:y,2:s,3:s,4:l,4:k,5:k,6:k,6:k,8:s,8:r,8:s,10:r,10:h,11:s,12:r,12:h,12:k,13:k,13:s,14:r ###"}
+{"prompt":"latin brazilian dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:s,1:k,1:s,1:y,2:s,3:s,4:k,4:a,5:k,6:k,6:a,8:s,8:r,8:s,10:r,10:a,11:s,12:r,12:k,12:a,13:k,13:s,14:r ###"}
+{"prompt":"latin brazilian big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:k,1:s,1:y,2:s,3:s,4:l,4:k,5:k,6:k,6:k,8:r,8:s,10:r,10:h,11:s,12:r,12:h,12:k,13:k,13:s,14:r ###"}
+{"prompt":"latin brazilian deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:s,1:k,1:s,1:y,2:s,3:s,4:k,4:a,5:k,6:k,6:k,8:s,8:r,8:s,10:r,10:h,11:s,12:r,12:h,12:k,13:k,13:s,14:r ###"}
+{"prompt":"reggae acoustic ->","completion":" None\nNone\n0:k\n2:k\n6:k,8:k,12:k\n0:l,0:h,4:h,8:z,14:l,14:z,16:k,18:s,20:s,20:k,21:s,30:k,31:z ###"}
+{"prompt":"reggae dark hybrid ->","completion":" None\n0:a\n0:k\nNone\nNone\n0:a,8:z,14:z,18:s,20:s,21:s,31:z ###"}
+{"prompt":"reggae 808 simple ->","completion":" None\nNone\n0:k\n2:k\n6:k,8:k,12:k\n0:l,0:h,4:h,8:s,14:s,14:l,16:k,18:s,20:s,20:k,21:s,30:k,31:s ###"}
+{"prompt":"reggae deep daft ->","completion":" None\nNone\n0:k\n2:k\n6:k,8:k,12:k\n0:h,0:a,4:h,8:z,14:z,14:a,16:k,18:s,20:s,20:k,21:s,30:k,31:z ###"}
+{"prompt":"neworleans secondline acoustic ->","completion":" None\nNone\nNone\n5:s\n0:k,1:s,2:h,4:s,5:s,7:s,8:s,14:h,14:s,17:s\n0:s,2:s,3:z,5:z,5:s,6:z,6:s,9:z,10:z,11:s,12:z,15:z,16:k,16:z,18:z,19:s,20:k,22:s,22:h,24:k,25:s,26:h,26:s,27:z,28:s,28:k,31:s ###"}
+{"prompt":"neworleans secondline dark hybrid ->","completion":" None\nNone\nNone\n5:s\n0:k,1:s,2:a,4:s,5:s,7:s,8:s,14:s,14:a,17:s\n0:s,2:s,3:z,5:z,5:s,6:z,6:s,9:z,10:z,11:s,12:z,15:z,16:k,16:z,18:z,19:s,20:k,22:s,22:a,24:k,25:s,26:s,26:a,27:z,28:s,28:k,31:s ###"}
+{"prompt":"neworleans secondline big room layered ->","completion":" None\nNone\nNone\n5:s,6:s\n0:k,1:s,2:h,4:s,5:s,7:s,8:s,14:h,17:s\n0:s,2:s,3:z,5:z,5:s,6:z,9:z,10:z,11:s,12:z,15:z,16:k,16:z,18:z,19:s,20:k,22:h,24:k,25:s,26:h,26:s,27:z,28:k,28:s,31:s ###"}
+{"prompt":"neworleans secondline 808 simple ->","completion":" None\nNone\nNone\n5:s\n0:k,1:s,2:h,3:s,4:s,5:s,6:s,7:s,8:s,9:s,12:s,14:h,14:s,15:s,17:s\n0:s,2:s,5:s,5:s,6:s,10:s,11:s,16:s,16:k,18:s,20:k,22:h,24:k,26:h,26:s,27:s,28:k ###"}
+{"prompt":"neworleans secondline acoustic ->","completion":" None\nNone\n0:h\n1:s\n0:k,6:s,8:s,9:s,10:k,12:z,12:s,13:s,14:s,15:s,28:s,29:s,30:s,31:s\n0:z,0:s,6:s,7:s,9:s,13:s,14:s,16:s,17:s,18:s,20:s,22:z,24:s,26:k,26:s,28:s,30:s,31:s ###"}
+{"prompt":"neworleans secondline dark hybrid ->","completion":" None\nNone\n0:a\n1:s\n0:k,6:s,8:s,9:s,10:k,12:z,12:s,13:s,14:s,15:s,28:s,29:s,30:s,31:s\n0:z,0:s,6:s,7:s,9:s,13:s,14:s,16:s,17:s,18:s,20:s,22:z,24:s,26:k,26:s,28:s,30:s,31:s ###"}
+{"prompt":"neworleans secondline big room layered ->","completion":" None\nNone\n0:h\n0:s,1:s,6:s\n0:k,9:s,10:k,12:z,12:s,13:s,14:s,15:s,28:s,29:s,30:s,31:s\n0:z,6:s,7:s,9:s,13:s,17:s,18:s,20:s,22:z,24:s,26:k,26:s,28:s,31:s ###"}
+{"prompt":"neworleans secondline 808 simple ->","completion":" None\nNone\n0:h\n1:s\n0:s,0:k,6:s,8:s,9:s,10:k,12:s,12:s,13:s,14:s,15:s,28:s,29:s,30:s,31:s\n0:s,6:s,7:s,9:s,13:s,14:s,17:s,18:s,20:s,22:s,24:s,26:k,26:s,28:s,30:s,31:s ###"}
+{"prompt":"neworleans chacha acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:s,0:k,0:s,4:z,4:k,6:h,8:z,8:k,10:h,12:s,12:k,13:s,14:k,14:j ###"}
+{"prompt":"neworleans chacha dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:s,0:k,0:s,4:z,4:a,6:a,8:z,8:a,10:a,12:a,12:s,13:s,14:k,14:a ###"}
+{"prompt":"neworleans chacha big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,4:z,4:k,6:h,8:z,8:k,10:h,12:s,12:k,13:s,14:k,14:j ###"}
+{"prompt":"neworleans chacha 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:s,0:k,0:s,4:s,4:k,6:h,8:s,8:k,10:h,12:s,12:k,13:s,14:k,14:j ###"}
+{"prompt":"neworleans chacha deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:s,0:k,0:s,4:z,4:k,6:h,8:z,8:k,10:h,12:s,12:k,13:s,14:k,14:a ###"}
+{"prompt":"neworleans shuffle acoustic ->","completion":" None\n1:s\n0:s,2:h\n0:k,3:k,6:k,6:s\n13:s\n1:k,2:s,6:s,9:k,10:s,16:k,17:s,18:z,21:s,24:k,25:s,26:s,31:k ###"}
+{"prompt":"neworleans shuffle dark hybrid ->","completion":" None\n1:s\n0:s,2:a\n0:k,3:k,6:k,6:s\n13:s\n1:k,2:s,6:s,9:k,10:s,16:k,17:s,18:z,21:s,24:k,25:s,26:s,31:k ###"}
+{"prompt":"neworleans shuffle big room layered ->","completion":" None\n1:s\n0:s,2:h\n0:k,3:k,6:k,6:s\n10:s,13:s\n1:k,2:s,6:s,9:k,10:s,16:k,17:s,18:z,21:s,24:k,25:s,31:k ###"}
+{"prompt":"neworleans shuffle 808 simple ->","completion":" None\n1:s\n0:s,2:h\n0:k,3:k,6:k,6:s\n13:s\n1:k,2:s,6:s,9:k,10:s,16:k,17:s,18:s,21:s,24:k,25:s,26:s,31:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,2:k,3:s,4:h,4:s,5:s,6:h,6:k,7:z,8:h,8:k,9:s,10:k,10:k,11:s,12:h,12:s,13:s,14:k,14:s,14:k,15:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,2:a,3:s,4:s,4:a,5:s,6:a,7:z,8:k,8:a,9:s,10:k,10:a,11:s,12:s,12:a,13:s,14:a,14:k,14:s,15:s ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,2:k,3:s,4:h,4:s,5:s,6:h,6:k,7:s,8:h,8:k,9:s,10:k,10:k,11:s,12:h,12:s,13:s,14:k,14:s,14:k,15:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,1:r\n0:k,3:r,3:k,5:r,5:h,5:z,6:r,7:r,9:r,9:h,9:s,10:r,11:r,12:z,13:r,15:r,15:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:s,1:r\n0:k,3:r,3:k,5:r,5:z,5:a,6:r,7:r,9:a,9:r,9:s,10:r,11:r,12:z,13:r,15:r,15:a ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\n0:s,1:r\n0:k,3:r,3:k,5:s,5:r,5:h,6:r,7:r,9:r,9:h,9:s,10:r,11:r,12:s,13:r,15:r,15:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n1:s,17:s\n0:k,0:s,2:l,2:k,3:s,4:k,6:s,6:k,8:l,9:s,10:l,10:h,12:k,14:s,14:k,15:s,16:l,16:j,17:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n1:s,17:s\n0:k,0:s,2:k,2:a,3:s,4:k,6:s,6:a,8:a,9:s,10:a,12:a,14:s,14:a,15:s,16:a,17:s ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\nNone\n1:s,17:s\n0:k,0:s,2:k,2:a,3:s,4:k,6:s,6:k,8:a,9:s,10:h,10:a,12:k,14:s,14:k,15:s,16:a,17:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n2:s\n0:k,6:k,8:l,9:l\n0:h,1:h,3:j,4:l,5:j,6:h,6:j,7:k,11:l,12:l,13:l,14:h,14:k,14:k,15:k,17:k,19:k,20:k,21:h,21:k,22:l,23:j,26:h,27:k,28:k,29:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,1:a,2:a,3:a,4:s,5:a,6:a,7:a\n0:a,8:k,8:a,9:a,10:a,11:a,12:s,13:a,14:a,15:a,20:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n2:s\n0:k,6:k,6:a,8:a,9:a\n0:h,1:h,3:a,4:a,5:a,6:h,7:k,11:a,12:a,13:a,14:h,14:k,14:k,15:k,17:k,19:k,20:k,21:h,21:k,23:a,26:h,27:k,28:k,29:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,2:r,2:k,2:y,6:s,6:u,6:h,8:u,9:t,10:u,10:k,11:t,12:u,13:k,14:s,14:s,16:u,17:t ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,2:r,2:k,2:y,6:s,6:u,6:a,8:u,9:t,10:u,10:k,11:t,12:u,13:k,14:s,14:s,16:u,17:t ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,2:r,2:k,2:y,6:u,6:h,6:s,8:u,9:t,10:u,10:k,11:t,12:u,13:k,14:s,16:u,17:t ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:s\n0:k,0:y,2:j,2:s,4:k,5:s,5:k,6:s,7:l,7:s,8:s,9:l,9:k,9:s,10:k,10:s,12:s,12:l,15:l,15:s,16:l,16:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:s\n0:k,0:y,2:a,2:s,4:k,5:s,5:a,6:s,7:s,7:a,8:s,9:s,9:k,9:a,10:k,10:s,12:s,12:a,15:s,15:a,16:a,16:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n0:s\n0:k,0:y,2:j,2:s,4:k,5:s,5:k,6:s,7:l,7:s,8:s,9:l,9:k,9:s,10:k,10:s,12:l,12:s,15:l,15:s,16:l,16:s ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\nNone\n0:s\n0:k,0:y,2:a,2:s,4:k,5:s,5:k,6:s,7:s,7:a,8:s,9:s,9:k,9:a,10:k,10:s,12:s,12:a,15:s,15:a,16:a,16:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:u\n0:k,3:k,4:s,4:s\n0:u,7:q,9:q,15:t\n1:w,17:t ###"}
+{"prompt":"rock jinglestacks 2nd hi-hat ->","completion":" None\nNone\n2:u\n0:k,3:k,4:s,4:s\n0:u,7:h,9:h,15:t\n1:w,17:t ###"}
+{"prompt":"rock jazz funk ->","completion":" None\nNone\n2:u\n0:k,3:k,4:s,4:s\n0:u,7:b,9:b,15:t\n1:w,17:t ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n2:u\n0:k,3:k,4:s,12:s\n0:u,7:l,9:l,15:t\n1:l,17:t ###"}
+{"prompt":"rock super boom layered ->","completion":" None\nNone\n2:u\n0:k,3:k,4:s,4:s\n0:u,7:l,9:l,15:t\n1:w,17:t ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\n2:u\n0:k,3:k,4:s,4:s\n0:u,7:s,9:s,15:t\n1:z,17:t ###"}
+{"prompt":"rock ele-drum ->","completion":" None\nNone\n2:u\n0:k,3:k,4:s,4:s\n0:u,7:l,9:l,15:t\n1:z,17:t ###"}
+{"prompt":"rock compact lite w\/ tambourine hh ->","completion":" None\nNone\n2:u\n0:k,3:k,4:s,4:s\n0:u,7:a,9:a,15:t\n1:w,17:t ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:r,0:k,2:k,4:r,4:s,6:r,6:k\n2:r,8:r,10:r,10:k,12:r,12:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:u\nNone\n2:k\n0:k,4:s,6:k\n12:s,16:h,20:h,24:h,26:t,28:h,28:x,30:k,30:x ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:u\nNone\n2:k\n0:k,4:s,6:k\n12:s,16:a,20:a,24:a,26:t,28:x,28:a,30:k,30:x ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n4:s,4:k\n0:k,8:k,10:h,10:k\n6:s,16:k,30:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n4:s,4:a\n0:k,8:a,10:k,10:a\n6:s,16:a,30:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n4:s,4:k\n0:k,8:k,10:h,10:k\n6:s,16:k,30:a ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\n4:r,4:h\n4:s,8:r,15:r\n12:t,15:t,16:r,28:u,31:u ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\nNone\n4:r,4:a\n4:s,8:r,15:r\n12:t,15:t,16:r,28:u,31:u ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:k,2:k,3:h,4:k,5:k,6:k,7:t,8:h,9:w,10:k,12:s,14:s,15:s,16:s,17:w,17:s,18:s,19:s,20:t,21:x,22:s,23:u,24:u ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:a,4:a,7:a,8:a,9:a,10:a,11:a,12:a,13:a,14:t,15:a,16:w,17:a,19:s,21:s,22:s,23:s,24:w,24:s,25:s,26:s,27:t,28:x,29:s,30:u,31:u ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:k,2:k,3:h,4:k,5:k,6:k,7:t,8:h,9:l,10:k,12:s,14:s,15:s,16:s,17:s,17:l,18:s,19:s,20:t,21:x,22:s,23:u,24:u ###"}
+{"prompt":"hiphop nu rnb ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:k,2:k,3:h,4:k,5:k,6:k,7:t,8:h,9:z,10:k,12:s,14:s,15:s,16:s,17:z,17:s,18:s,19:s,20:t,21:x,22:s,23:u,24:u ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\n0:k\n6:h\n2:k,3:h,5:h,6:k,7:h,8:k,10:h,11:k,12:s,13:s,15:k\n1:k,2:k,9:h,9:k,17:h,18:h,25:k,31:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n0:a\n2:a,5:a\n0:k,1:a,3:a,4:k,6:k,6:a,7:a,9:k,10:s,11:s\n7:k,14:a,15:a,29:k ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n3:h,4:k,6:h\n1:h,2:k,8:k,8:k,9:k,10:k,11:k,12:s,13:s,15:k\n0:k,0:y,2:k,5:h,6:k,7:h,12:k,16:k,18:h,21:k,21:k,23:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n2:a,3:a\n1:a,4:a\n2:k,5:a,8:k,8:a,11:k,12:s,13:s\n0:k,0:y,6:k,12:k,16:a,21:k ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\nNone\n0:k\n1:k,2:k,3:h,4:h,5:h,6:k,7:h,9:k,10:s,11:s,12:k,13:s,14:h,15:s,17:k,17:s,18:h,19:k,20:k,21:k,21:s,22:h,22:k,23:s,24:s,24:k,25:h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,1:a,2:k,3:a,4:k,4:s,5:k,5:a,6:s,7:s,7:a,8:a ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n1:s\n2:k,3:s,5:k,7:k,8:k,13:s,14:k,15:s\n0:k,2:h,4:k,6:h,7:s,8:k,10:h,12:z,12:s,16:h,18:k,20:h,21:s,22:k,24:h,26:k,28:s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n0:a\nNone\n0:k,1:s,2:a,3:k,5:k,6:k,6:a,7:s,11:s,13:s\n5:s,10:z,10:s,14:a,15:s,19:s,26:s ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\nNone\n1:s\n2:k,3:s,5:k,7:k,8:k,12:s,13:s,14:k,15:s\n0:k,2:h,4:k,6:h,7:s,8:k,10:h,12:z,16:h,18:k,20:h,21:s,22:k,24:h,26:k ###"}
+{"prompt":"hiphop 808 simple ->","completion":" None\nNone\nNone\n1:s\n2:k,3:s,5:k,7:k,8:k,12:s,13:s,14:k,15:s\n0:k,2:h,4:k,6:h,7:s,8:k,10:h,12:s,16:h,18:k,20:h,21:s,22:k,24:h,26:k ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n3:s,5:s\n1:s,10:s,12:k\n0:k,2:k,3:k,4:h,5:k,6:k,7:s,8:k,14:h,15:s,16:k,18:h,20:k,22:s,23:k,24:s,25:s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\nNone\n3:s,4:a,5:s\n1:s,2:a,10:s\n0:k,3:k,5:k,6:k,7:s,8:a,14:a,15:s,16:a,22:s,23:a,24:s,25:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n5:h,7:h\n0:k,6:h,10:h\n2:h,3:k,11:k,14:h,17:h,19:h,25:h,27:h,28:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a,3:a\n5:a\n0:k,6:a,10:a\n2:a,14:a,17:a,25:a,28:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n2:h,2:k\n0:k,4:s\n0:s,5:s,6:h,7:s,11:k,12:s,13:s,28:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n2:k,2:a\n0:k,4:s\n0:s,5:s,6:a,7:s,11:k,12:s,13:s,28:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n0:k\n2:h,2:k,4:s\n0:k\n0:s,5:s,6:h,7:s,11:k,13:s ###"}
+{"prompt":"pop acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:r,2:k,3:r,7:r,11:r ###"}
+{"prompt":"pop dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n4:a,8:a,12:a,16:r,17:a,18:r,19:a,20:r,21:a,22:r,26:r,30:r ###"}
+{"prompt":"pop acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,4:s,4:k\n0:k,2:k,3:k,8:k,8:k,9:k,9:s,9:k,12:s,12:k,14:k,18:k,21:h ###"}
+{"prompt":"pop dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:a,4:s,4:a\n0:k,2:a,3:k,8:k,8:a,9:a,9:k,9:s,12:s,12:a,14:k,18:k,21:a ###"}
+{"prompt":"pop acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:s,2:h,6:s,6:r\n2:k,2:y,6:h,10:h,10:r,10:k,12:k,14:s,14:h,14:r,14:y,18:r,20:k,21:h,24:s ###"}
+{"prompt":"pop dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:s,2:a,6:s,6:r\n2:k,2:y,6:a,10:k,10:r,10:a,12:k,14:s,14:y,14:r,14:a,18:r,20:k,21:a,24:s ###"}
+{"prompt":"pop big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,0:s,2:h,6:r,6:s\n2:k,2:y,6:h,10:h,10:r,10:k,12:k,14:s,14:h,14:r,14:y,18:r,20:k,21:h,24:s ###"}
+{"prompt":"pop acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:h,4:k\n0:k,0:s,6:h,8:k,10:h,12:k,14:h,22:k ###"}
+{"prompt":"pop dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:a,2:a,4:a,6:a\n0:k,0:s,8:a,10:a,12:a,14:a ###"}
+{"prompt":"soul motown acoustic ->","completion":" None\nNone\nNone\n2:r,4:h\n0:r,0:k,4:r,4:s,6:r\n3:r,6:k,8:r,8:k,12:t,12:r,14:t,14:r,26:u,28:r,28:u,30:k ###"}
+{"prompt":"soul motown dark hybrid ->","completion":" None\nNone\nNone\n2:r,4:a\n0:r,0:k,4:r,4:s,6:r\n3:r,6:k,8:r,8:k,12:t,12:r,14:t,14:r,26:u,28:r,28:u,30:k ###"}
+{"prompt":"soul motown acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,4:r,4:h,4:s,6:k,8:r,8:k,10:t,12:t,12:r,12:h ###"}
+{"prompt":"soul motown dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,4:s,4:r,4:a,6:k,8:r,8:k,10:t,12:t,12:r,12:a ###"}
+{"prompt":"jazz fusion acoustic ->","completion":" None\nNone\n0:h,1:s,2:r\nNone\n0:k,3:s,7:s,8:r,12:r,12:z,15:r\n0:r,4:r,11:r,16:r,20:r,22:k,27:r ###"}
+{"prompt":"jazz fusion dark hybrid ->","completion":" None\nNone\n0:a,1:s,2:r\nNone\n0:k,3:s,7:s,8:r,12:r,12:z,15:r\n0:r,4:r,11:r,16:r,20:r,22:k,27:r ###"}
+{"prompt":"jazz fusion 808 simple ->","completion":" None\nNone\n0:h,1:s,2:r\nNone\n0:k,3:s,7:s,8:r,12:s,12:r,15:r\n0:r,4:r,11:r,16:r,20:r,22:k,27:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:s\n0:u,0:k,2:u,3:k,3:s,4:s,5:s,7:k\n4:s,5:s\n5:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n2:s\n0:u,0:k,2:u,3:k,3:s,4:s,5:s,7:a\n4:s,5:s\n5:s ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n0:k\n2:h,6:h,12:k\n0:k,4:k,5:s,6:k,8:s,12:k,14:h,18:k,20:h,20:k,24:s,26:h,26:k,29:h,30:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n0:a\nNone\n2:a,6:a\n0:k,5:s,6:k,8:s,12:k,14:a,18:k,20:k,24:s,26:k,26:a,29:a,30:k ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\nNone\n0:k\n2:h,6:h,8:s,12:k\n0:k,4:k,5:s,6:k,12:k,14:h,18:k,20:h,20:k,26:h,26:k,29:h,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:h\nNone\nNone ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:a\nNone\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n2:h,2:s,2:y\n4:h,4:s,6:h,6:y,8:y,12:y\n12:s,13:s,14:h,14:y,14:k,15:h,16:y,20:y,20:s,21:s,23:h,29:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:k\n2:a,2:y,2:s\n4:a,4:s,6:y,6:a,8:y,12:y\n12:s,13:s,14:y,14:a,14:k,15:a,16:y,20:y,20:s,21:s,23:a,29:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k\n2:h,9:s\n4:s,5:s,6:s,7:s,8:s,10:k,10:y,12:k,14:s,14:h,14:y,16:y,16:s,17:s,18:y,18:s,20:y,20:k,21:h,22:y,22:s,24:y,24:s,25:h,25:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:k\n2:a,9:s\n4:s,5:s,6:s,7:s,8:s,10:k,10:y,12:k,14:s,14:y,14:a,16:y,16:s,17:s,18:y,18:s,20:y,20:k,21:a,22:y,22:s,24:y,24:s,25:a,25:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n0:k\n2:h,6:s,8:s,9:s\n4:s,5:s,7:s,10:k,10:y,12:k,14:h,14:s,14:y,16:y,16:s,17:s,18:y,18:s,20:y,20:k,21:h,22:y,24:y,25:h,25:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:k,1:y,5:s,5:k,6:k,7:h,8:h,8:k,9:k,9:k,10:h,11:h,11:s,12:h,13:s,13:k,14:h,15:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:k,1:y,5:a,5:s,6:a,7:a,8:k,8:a,9:k,9:a,10:a,11:a,11:s,12:a,13:s,13:a,14:a,15:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n8:s,9:s,10:s\n0:k,1:k,2:s,6:w,7:s,8:s,11:t,12:u\n7:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n2:s,8:s,9:s\n0:k,1:k,5:s,6:l,7:s,8:s,11:t,12:u\n7:s ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\n8:s,9:s,10:s\n0:k,1:k,2:s,6:z,7:s,8:s,11:t,12:u\n7:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n5:k,7:h,8:h,8:k\n0:k,1:y,1:k,5:h,5:s,6:h,9:k,9:k,10:k,12:h,13:s,13:k,14:h,15:h,16:h,17:k,18:h,19:h,19:s,20:h,21:s,22:s,23:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n5:a,7:a,8:k,8:a\n0:k,1:y,1:k,5:a,5:s,6:a,9:k,9:a,10:a,12:a,13:s,13:a,14:a,15:a,16:a,17:a,18:a,19:s,19:a,20:a,21:s,22:s,23:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n5:s,5:k,7:h,8:h,8:k\n0:k,1:y,1:k,5:h,6:h,9:k,9:k,10:k,12:h,13:s,13:k,14:h,15:h,16:h,17:k,18:h,19:h,19:s,20:h,22:s,23:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n3:h\n0:k,5:k\n1:k,2:h,7:k,8:k,9:h,12:k,14:h\n4:s,10:h,16:k,20:s,22:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:a\n0:k,1:k,1:a,2:a,4:a,5:a,6:a,7:a\n3:a,9:k,9:a,10:a,11:a,12:a,13:s,14:a,15:a ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n3:h\n0:k,5:k\n1:k,2:h,4:s,7:k,8:k,9:h,12:k,14:h\n10:h,16:k,22:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:k,4:s,5:k,14:k,14:k\n4:k,7:k,9:h,9:k,9:s,12:s,16:k,22:h,24:k,24:k,28:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,9:k,9:a\n2:a,4:a,4:k,4:s,7:s,11:k,11:a,13:a,15:s,17:a,19:k,19:a,23:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n4:s\n0:k,2:k,5:k,14:k,14:k\n4:k,7:k,9:h,9:k,9:s,16:k,22:h,24:k,24:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n8:u,10:u\n0:k,1:k,2:s,3:s,4:t,5:t,6:x,7:x,9:u,11:u,12:k,12:y,16:h,20:u,24:h,24:s,26:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n8:u,10:u\n0:k,1:k,2:s,3:s,4:t,5:t,6:x,7:x,9:u,11:u,12:k,12:y,16:a,20:u,24:s,24:a,26:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,2:s\n4:k,6:k,12:k\n3:k,6:h,9:s,14:k,14:k,16:k,22:k,24:k,28:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n1:a,3:k,3:a,5:a,7:s,9:k\n0:k,6:s,11:k,11:a,13:k,13:a,15:s,21:k,25:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n2:h,4:k\n0:k,6:k,10:u,10:s\n0:u,2:s,4:u,6:t,8:u,8:k,12:t,14:u,18:u,18:s,20:s,22:u,24:t ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n2:a,4:k\n0:k,6:k,10:u,10:s\n0:u,2:s,4:u,6:t,8:u,8:k,12:t,14:u,18:u,18:s,20:s,22:u,24:t ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n2:h,2:s,4:k\n0:k,6:k,10:u\n0:u,4:u,6:t,8:u,8:k,12:t,14:u,18:u,20:s,22:u,24:t ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n0:k,2:k\n10:h,12:s,13:s\nNone ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n0:k,2:k\n10:a,12:s,13:s\nNone ###"}
+{"prompt":"soul motown acoustic ->","completion":" None\nNone\n0:s,0:k\nNone\n6:k,10:h,10:k,14:k\n0:k,2:k,6:k,14:h,18:h ###"}
+{"prompt":"soul motown dark hybrid ->","completion":" None\nNone\n0:s,0:a\n2:a\n6:a,10:k,14:k\n0:k,6:k,14:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,0:k,2:k,4:s,4:k,6:k,13:s\n2:k,8:k,10:k,10:k,12:s,12:k,14:k,14:k,18:s,22:k,23:s,24:w,25:s,26:s,27:t,28:x,30:u,31:k,31:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,2:a,4:s,4:a,6:k,13:s\n2:k,8:a,10:k,10:a,12:a,12:s,14:k,14:a,18:s,22:a,23:s,24:w,25:s,26:s,27:t,28:x,30:u,31:k,31:a ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,0:k,2:k,4:s,4:k,6:k,13:s\n2:k,8:k,10:k,10:k,12:s,12:k,14:k,14:k,18:s,22:k,23:s,24:l,25:s,26:s,27:t,28:x,30:u,31:k,31:k ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\nNone\n0:k,0:k,2:k,4:s,4:k,6:k,13:s\n2:k,8:k,10:k,10:k,12:s,12:k,14:k,14:k,18:s,22:k,23:s,24:z,25:s,26:s,27:t,28:x,30:u,31:k,31:k ###"}
+{"prompt":"soul motown acoustic ->","completion":" None\nNone\nNone\nNone\n11:s\n0:k,2:s,4:k,6:s,8:k,12:h,13:k,14:h,15:s,16:h,17:k,19:s,21:k,23:s,25:k,29:h ###"}
+{"prompt":"soul motown dark hybrid ->","completion":" None\nNone\nNone\nNone\n1:a,12:s,14:a\n3:s,5:a,7:s,9:a,13:a,15:a,16:s,18:a,20:s,22:a,24:s,26:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\nNone\n6:k,12:s,14:h\n0:k,2:k,4:s,6:k,7:s,10:k,14:k,18:h,18:k,20:s,24:k,26:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n2:a\n6:k,12:s,14:a\n0:k,4:s,6:a,7:s,14:k,18:k,20:s,24:k ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n0:k\n4:s\n6:k,14:h\n0:k,2:k,6:k,7:s,10:k,14:k,18:h,18:k,24:k,26:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n4:h,12:u,13:u,14:u\n6:s,7:s,8:t,9:t,10:x,11:x,22:t,23:t,24:x,25:x,26:u,27:u,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n4:a,12:u,13:u,14:u\n6:s,7:s,8:t,9:t,10:x,11:x,22:t,23:t,24:x,25:x,26:u,27:u,31:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\n1:s\n2:l,2:k,4:h,4:k,7:s\n0:k,0:k,6:h,15:h\n4:s,7:k,8:h,12:s,14:k,20:s,23:h,24:k,28:s,30:h ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\n1:s\n2:k,4:a,7:a,7:s\n0:k\n4:s,12:s,20:s,28:s ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\n1:s\n2:l,2:k,4:h,4:s,4:k,7:s\n0:k,0:k,6:h,15:h\n7:k,8:h,14:k,23:h,24:k,30:h ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\n1:s\n2:k,2:a,4:h,4:k,7:s\n0:k,0:k,6:h,15:h\n4:s,7:k,8:h,12:s,14:k,20:s,23:h,24:k,28:s,30:h ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\n2:k\n8:k\n0:k,24:s,26:s,27:s\n0:l,1:j,2:h,2:s,6:s,8:k,9:s,12:k,17:s,18:k,20:s,20:k,22:s,23:k,27:k ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\nNone\nNone\n0:k,24:s,26:s,27:s\n1:a,2:s,2:a,6:s,8:k,9:s,17:s,18:k,20:s,22:s,23:k,27:k ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\n2:k\n6:s,8:k\n0:k,24:s,27:s\n0:l,1:j,2:h,8:k,9:s,12:k,17:s,18:k,20:s,20:k,23:k,26:s,27:k ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\n2:k\n8:k\n0:k,24:s,26:s,27:s\n0:a,1:a,2:h,2:s,6:s,8:k,9:s,12:k,17:s,18:k,20:s,20:k,22:s,23:k,27:k ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n0:k,1:s,7:s\n2:k,4:k,6:k,10:k,12:s\n2:l,4:h,4:s,5:s,7:k,10:k,11:k,12:l,12:h,14:k,15:h,16:k,18:k,20:s,22:s,24:k,28:k,29:s,31:k ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\n0:a,2:a,5:s\n0:k,4:a,6:a,7:s,10:s\n2:a,2:s,3:s,5:a,8:k,9:k,10:a,12:a,13:a,14:k,14:a,15:s,18:s,20:s,22:k,27:s,29:k ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\nNone\n0:k,1:s,4:s,7:s\n2:k,4:k,6:k,10:k\n2:l,4:h,5:s,7:k,10:k,11:k,12:l,12:h,14:k,15:h,16:k,18:k,22:s,24:k,28:k,29:s,31:k ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n0:k,1:s,7:s\n2:k,4:k,6:k,10:k,12:s\n2:a,4:h,4:s,5:s,7:k,10:k,11:k,12:h,12:a,14:k,15:h,16:k,18:k,20:s,22:s,24:k,28:k,29:s,31:k ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\n2:k\nNone\n0:h,0:k,4:s,24:k\n1:s,5:s,7:s,9:k,9:s,11:s,12:h,13:s,15:s,20:k,22:s,24:h,26:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\n2:a\nNone\n0:k,0:a,4:s,24:k\n1:s,5:s,7:s,9:k,9:s,11:s,12:a,13:s,15:s,20:a,22:s,24:a,26:s ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\n2:k\nNone\n0:h,0:k,4:s,22:s,24:k,26:s\n1:s,5:s,7:s,9:k,9:s,12:h,13:s,20:k,24:h ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n1:s,2:k,4:h,4:s,4:k,6:h,7:h,7:s\n0:k,2:j,13:s\n0:k,6:s,8:k,10:k,16:h,21:s,24:h,26:j ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\nNone\n1:s,2:k,4:s,4:a,7:s,7:a\n0:k,13:s\n6:s,21:s ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n1:s,2:k,4:h,4:s,4:k,6:h,7:h,7:s\n0:k,2:a,13:s\n0:k,6:s,8:k,10:k,16:h,21:s,24:h,26:a ###"}
+{"prompt":"country acoustic ->","completion":" None\nNone\n2:k\n1:s,4:s,7:s\n0:k\n15:s ###"}
+{"prompt":"country dark hybrid ->","completion":" None\nNone\n2:a\n1:s,4:s,7:s\n0:k\n15:s ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\n3:h\n5:h,6:h\n3:k,6:k,8:h,9:h,9:k,10:h,10:k,12:h\n0:k,1:k,2:k,4:h,4:s,12:s,16:h,16:k,17:h,18:h,20:s,20:k,28:s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n0:a\n1:a,2:a,3:a\n0:k,3:k,5:a,6:k,6:a,7:k,7:a\n1:s,9:s,13:k,13:a,14:a,15:a,17:s,25:s ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\n3:h\n4:s,5:h,6:h\n3:k,6:k,8:h,9:h,9:k,10:h,10:k,12:h\n0:k,1:k,2:k,4:h,16:h,16:k,17:h,18:h,20:k ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n0:k,1:h,1:k,2:k,3:h\n4:k,5:h,6:h,6:k,7:h,10:s,11:k,21:h\n0:h,2:s,2:k,4:k,7:h,8:h,12:k,13:h,13:k,14:k,14:k,15:h,18:s,20:h,21:h,23:k,28:l,28:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a,1:a,2:a,3:a\n4:a,5:a,6:a,7:a,9:s,10:k,20:a,21:a\n1:s,1:k,3:k,6:a,7:a,12:k,12:a,13:k,13:a,14:a,15:a,17:s,19:a,20:a,22:k,27:k ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\nNone\n0:k,1:h,1:k,2:s,2:k,3:h\n4:k,5:h,6:h,6:k,7:h,11:k,21:h\n0:h,2:k,4:k,7:h,8:h,12:k,13:h,13:k,14:k,14:k,15:h,20:h,21:h,23:k,28:l,28:k ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\n0:k,1:h,1:k,2:k,3:h\n4:k,5:h,6:h,6:k,7:h,10:s,11:k,21:h\n0:h,2:s,2:k,4:k,7:h,8:h,12:k,13:h,13:k,14:k,14:k,15:h,18:s,20:h,21:h,23:k,28:k,28:a ###"}
+{"prompt":"pop acoustic ->","completion":" None\nNone\nNone\nNone\n10:h\n0:k,1:h,2:t,3:k,4:s,6:s,6:s,8:k,8:x,10:u,12:k,14:k,14:y ###"}
+{"prompt":"pop dark hybrid ->","completion":" None\nNone\nNone\nNone\n10:a\n0:k,1:a,2:t,3:k,4:s,6:s,6:s,8:k,8:x,10:u,12:k,14:k,14:y ###"}
+{"prompt":"pop big room layered ->","completion":" None\nNone\nNone\nNone\n10:h\n0:k,1:h,2:t,3:k,4:s,6:s,8:k,8:x,10:u,12:k,14:k,14:y ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:h\n3:h\n1:h\n0:k,3:k,5:h,9:k,10:k,12:s,13:k,15:k\n4:z,13:h,20:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\n3:a\n1:a\n0:k,3:k,5:a,9:k,10:k,12:s,13:k,15:k\n4:z,13:a,20:s ###"}
+{"prompt":"rock 808 simple ->","completion":" None\n0:h\n3:h\n1:h\n0:k,3:k,5:h,9:k,10:k,12:s,13:k,15:k\n4:s,13:h,20:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n1:h\n2:h,3:h\n0:k,3:k,4:s,6:k,7:h,7:k,8:h,9:k,14:h\n0:k,4:k,5:k,11:k,12:s,12:h,15:h,15:k,16:h,20:h,26:k,28:z,28:k,31:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" 0:a\nNone\nNone\nNone\n0:k,3:k,4:s,7:k,9:k\n5:k,11:k,12:s,15:k,26:k,28:z ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n1:h\n2:h,3:h\n0:k,3:k,4:s,6:k,7:h,7:k,8:h,9:k,14:h\n0:k,4:k,5:k,11:k,12:h,12:s,15:h,15:k,16:h,20:h,26:k,28:z,28:k,31:l ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\n1:h\n2:h,3:h\n0:k,3:k,4:s,6:k,7:h,7:k,8:h,9:k,12:s,14:h\n0:k,4:k,5:k,11:k,12:h,15:h,15:k,16:h,20:h,26:k,28:k,31:l ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\n1:h\n2:h,3:h\n0:k,3:k,4:s,6:k,7:h,7:k,8:h,9:k,14:h\n0:k,4:k,5:k,11:k,12:s,12:h,15:h,15:k,16:h,20:h,26:k,28:z,28:k,31:a ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\n0:l\n2:l,3:j\n0:k,3:k,4:s,5:j,6:l,6:k,7:j,9:k,9:j,10:k\n0:h,1:l,12:s,13:k,13:j,14:l,15:l,15:k,17:j,28:k,28:s,29:s,30:k,30:s,30:y,31:s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n0:a\n1:a,2:a,3:a\n0:k,3:k,4:s,5:a,6:k,6:a,7:a,9:k,10:k\n0:a,12:s,13:k,13:a,14:a,15:k,15:a,28:k,28:s,29:s,30:k,30:s,30:y,31:s ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\n0:l\n2:l,3:j,4:s\n0:k,3:k,5:j,6:l,6:k,7:j,9:k,9:j,10:k\n0:h,1:l,13:k,13:j,14:l,15:l,15:k,17:j,28:k,29:s,30:k,30:s,30:y,31:s ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\n0:a\n1:a,2:a,3:a\n0:k,3:k,4:s,5:a,6:k,6:a,7:a,9:k,10:k\n0:h,12:s,13:k,13:a,14:a,15:k,15:a,28:k,28:s,29:s,30:k,30:s,30:y,31:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:h,2:k\n0:k,3:k,6:k,6:k,9:s\n0:h,1:s,4:s,10:k,12:s,13:h,14:k,15:k,17:h,20:s,23:h,23:s,27:s,28:s,28:h,29:t,30:u,31:k,31:y ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:a,2:a\n0:k,3:k,6:k,6:a,9:s\n0:a,1:s,4:s,10:k,12:s,13:a,14:a,15:a,17:a,20:s,23:a,23:s,27:s,28:s,28:a,29:t,30:u,31:k,31:y ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n0:h,2:k,4:s\n0:k,3:k,6:k,6:k,9:s\n0:h,1:s,10:k,13:h,14:k,15:k,17:h,23:h,23:s,27:s,28:h,29:t,30:u,31:k,31:y ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n1:h\n3:h,4:s\n0:k,3:k,6:k,6:k,7:h,8:h,10:k,10:k\n0:k,2:h,14:k,15:h,16:h,18:k,30:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n1:a,2:a\n0:a,3:a,4:s\n0:k,3:k,6:k,7:a,10:k\n15:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\n1:h\n3:h,4:s\n0:k,3:k,6:k,6:k,7:h,8:h,10:k,10:k\n0:k,2:h,14:k,15:h,16:h,18:k,30:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n2:r\n0:k,3:k,3:k,4:r,5:h,6:r,6:k,7:h,8:r,9:k,12:s\n0:r,11:r,12:r,13:s,14:r,15:h,16:r,17:h,27:r,29:r,30:s,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n2:r\n0:k,3:k,3:a,4:r,5:a,6:r,6:k,7:a,8:r,9:a,12:s\n0:r,11:r,12:r,13:s,14:r,15:a,16:r,17:a,27:r,29:r,30:s,31:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:r\n7:h\n0:k,5:h,6:k,8:r,9:k,11:r,12:s,13:s\n0:r,1:k,3:k,4:r,12:r,16:u,16:r,16:z,17:h,19:h,19:k,20:r,28:r ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n2:r\n1:a,7:a\n0:k,3:a,5:a,6:k,8:r,11:r,12:s,13:s\n0:r,4:r,12:r,16:u,16:r,16:z,19:k,20:r,28:r ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\n2:r\n7:h\n0:k,5:h,6:k,8:r,9:k,11:r,12:s,13:s\n0:r,1:k,3:k,4:r,12:r,16:s,16:u,16:r,17:h,19:h,19:k,20:r,28:r ###"}
+{"prompt":"soul acoustic ->","completion":" None\nNone\nNone\n4:k,7:s\n0:k,6:h,9:s,15:h\n0:h,2:j,4:h,4:z,5:s,7:h,7:k,8:k,10:k,10:k,12:s,12:h,13:s,14:k,16:k,17:s,18:k,18:k,19:h,20:s,23:k,25:l,25:k,27:h,27:z,30:h ###"}
+{"prompt":"soul dark hybrid ->","completion":" None\nNone\nNone\n4:a,6:a,7:s,7:a\n0:k,0:a,2:a,9:s\n4:z,4:a,5:s,7:k,8:a,10:k,10:a,12:s,12:a,13:s,17:s,18:k,19:a,20:s,23:a,25:k,25:a,27:z,27:a ###"}
+{"prompt":"soul big room layered ->","completion":" None\nNone\nNone\n4:k,7:s\n0:k,6:h,9:s,15:h\n0:h,2:j,4:h,4:z,5:s,7:h,7:k,8:k,10:k,10:k,12:h,12:s,13:s,14:k,16:k,17:s,18:k,18:k,19:h,20:s,23:k,25:l,25:k,27:h,27:z,30:h ###"}
+{"prompt":"soul 808 simple ->","completion":" None\nNone\nNone\n4:k,7:s\n0:k,6:h,9:s,15:h\n0:h,2:j,4:s,4:h,5:s,7:h,7:k,8:k,10:k,10:k,12:s,12:h,13:s,14:k,16:k,17:s,18:k,18:k,19:h,20:s,23:k,25:l,25:k,27:s,27:h,30:h ###"}
+{"prompt":"soul deep daft ->","completion":" None\nNone\nNone\n4:k,7:s\n0:k,6:h,9:s,15:h\n0:h,2:a,4:h,4:z,5:s,7:h,7:k,8:k,10:k,10:k,12:s,12:h,13:s,14:k,16:k,17:s,18:k,18:k,19:h,20:s,23:k,25:k,25:a,27:h,27:z,30:h ###"}
+{"prompt":"soul acoustic ->","completion":" None\nNone\nNone\n7:s\n0:k,2:l,4:s,12:h\n0:h,0:y,4:h,4:k,6:h,8:h,8:k,9:s,10:l,12:k,12:s,14:k,15:s,16:k,17:s,18:k,19:h,22:k,22:j,23:h,29:s,30:s ###"}
+{"prompt":"soul dark hybrid ->","completion":" None\nNone\nNone\n7:s\n0:k,0:a,2:a,4:s,6:a,12:a\n0:y,4:k,4:a,8:k,8:a,9:s,10:a,12:k,12:s,14:a,15:s,17:s,18:k,19:a,22:k,23:a,29:s,30:s ###"}
+{"prompt":"soul deep daft ->","completion":" None\nNone\nNone\n7:s\n0:k,2:a,4:s,12:h\n0:h,0:y,4:h,4:k,6:h,8:h,8:k,9:s,10:a,12:k,12:s,14:k,15:s,16:k,17:s,18:k,19:h,22:k,22:a,23:h,29:s,30:s ###"}
+{"prompt":"soul acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,1:s,2:l,4:s,4:h,4:k,6:s,6:k,7:h,8:k,8:k,9:s,10:l,12:s,12:h,12:k,14:s,14:k,15:h ###"}
+{"prompt":"soul dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,1:s,2:a,4:s,4:k,4:a,6:s,6:a,7:a,8:k,8:a,9:s,10:a,12:s,12:k,12:a,14:a,14:s,15:a ###"}
+{"prompt":"soul deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,1:s,2:a,4:s,4:h,4:k,6:s,6:k,7:h,8:k,8:k,9:s,10:a,12:s,12:h,12:k,14:s,14:k,15:h ###"}
+{"prompt":"soul acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,2:u,2:r,2:s,4:s,4:h,6:k,7:s,8:k,8:k,9:s,10:k,12:s,12:k,14:k ###"}
+{"prompt":"soul dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,2:u,2:r,2:s,4:s,4:a,6:a,7:s,8:k,8:a,9:s,10:a,12:s,12:k,14:a ###"}
+{"prompt":"soul big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:y,2:u,2:r,2:s,4:h,4:s,6:k,7:s,8:k,8:k,9:s,10:k,12:k,12:s,14:k ###"}
+{"prompt":"pop soft acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:t,2:s,3:s,4:t,5:u,6:r,6:k,10:h,10:s,12:k,12:y,14:h,16:r,16:s,18:s,18:r,18:h,20:r,21:r ###"}
+{"prompt":"pop soft dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:t,2:s,3:s,4:t,5:u,6:r,6:k,10:s,10:a,12:k,12:y,14:a,16:r,16:s,18:s,18:r,18:a,20:r,21:r ###"}
+{"prompt":"pop soft big room layered ->","completion":" None\nNone\nNone\nNone\n2:s\n0:k,1:t,3:s,4:t,5:u,6:r,6:k,10:h,10:s,12:k,12:y,14:h,16:r,16:s,18:r,18:h,20:r,21:r ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:h,0:k,1:h,2:h,3:h,3:k,4:s,4:k,5:h,6:h,6:k,7:h,8:h,9:h,9:k,10:h,10:k,11:h,12:s,12:k,13:h,13:k,14:k,15:h,15:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:a,3:k,3:a,4:a,4:s,5:a,6:k,6:a,7:a,8:a,9:k,9:a,10:k,10:a,11:a,12:s,12:a,13:k,13:a,14:a,15:k,15:a ###"}
+{"prompt":"rock indie acoustic ->","completion":" 0:h\nNone\nNone\nNone\n0:k,3:k,5:k,7:k,12:s\n4:z,8:k,11:k,15:k,20:s,25:k,26:k,29:k,30:k ###"}
+{"prompt":"rock indie dark hybrid ->","completion":" 0:a\nNone\nNone\nNone\n0:k,3:k,5:k,7:k,12:s\n4:z,8:k,11:k,15:k,20:s,25:k,26:k,29:k,30:k ###"}
+{"prompt":"rock indie 808 simple ->","completion":" 0:h\nNone\nNone\nNone\n0:k,3:k,5:k,7:k,12:s\n4:s,8:k,11:k,15:k,20:s,25:k,26:k,29:k,30:k ###"}
+{"prompt":"rock indie acoustic ->","completion":" None\n0:r\n0:h,1:r\n4:s,6:h\n0:k,3:k,9:k,10:h,10:k,11:r,13:k,15:r,15:k\n18:h,19:r,23:r,28:s ###"}
+{"prompt":"rock indie dark hybrid ->","completion":" None\n0:r\n0:a,1:r\n4:s,6:a\n0:k,3:k,9:k,10:k,10:a,11:r,13:k,15:r,15:k\n18:a,19:r,23:r,28:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\n0:h\n2:k,6:h,7:s\n0:k,2:h,9:s,10:j,12:h,12:s\n4:s,20:z ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\nNone\n2:k,7:s\n0:k,9:s,12:s,12:a\n4:s,20:z ###"}
+{"prompt":"funk 808 simple ->","completion":" None\nNone\n0:h\n2:k,6:h,7:s\n0:k,2:h,9:s,10:j,12:h,12:s\n4:s,20:s ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\n0:h\n2:k,6:h,7:s\n0:k,2:h,9:s,10:a,12:h,12:s\n4:s,20:z ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n2:h\n4:s,4:k,6:h,7:s,8:k,10:k,14:s\n0:k,0:k,8:s,12:h,16:h,17:s,18:k,25:s,27:s,28:s,29:s,31:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\n0:a,2:a\n4:s,4:a,6:a,7:s,10:k,14:s\n0:k,8:s,12:a,17:s,18:k,25:s,27:s,28:s,29:s,31:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n0:s,2:h,3:s\n0:k,4:h,5:s,6:k,6:j,8:h,8:h\n12:h,12:k,14:k,14:j,16:h ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,2:a,2:s,4:a,5:s,18:a\n6:k,6:a,8:k,8:a,10:s,10:a,12:a,13:s,14:a,15:s ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n0:s,2:h,3:s\n0:k,4:h,5:s,6:k,6:a,8:h,8:h\n12:h,12:k,14:k,14:a,16:h ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\n0:s\n0:k,1:y,3:k,3:j,5:h,5:h,5:s,6:s,7:h,8:h,8:s,9:h,10:s,11:k,11:j,13:h,13:s,13:k,15:h ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:s\n0:k,1:y,3:k,3:a,5:s,5:a,6:s,7:a,8:s,8:a,9:a,10:s,11:k,11:a,13:s,13:a,15:a ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\nNone\n0:s\n0:k,1:y,3:k,3:a,5:h,5:h,5:s,6:s,7:h,8:h,8:s,9:h,10:s,11:k,11:a,13:h,13:s,13:k,15:h ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n0:h,2:k,4:h,4:s,6:h,7:s\n0:k,2:j,9:s,12:h\n4:h,7:h,10:j,20:k,26:h ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\nNone\n2:k,4:s,4:a,7:s\n0:k,9:s\n7:a ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n0:h,2:k,4:h,4:s,6:h,7:s\n0:k,2:a,9:s,12:h\n4:h,7:h,10:a,20:k,26:h ###"}
+{"prompt":"neworleans funk acoustic ->","completion":" None\nNone\n2:s\n3:s,4:s,5:s,6:h\n0:k,2:h,2:s,4:k,7:s,8:s,9:s,11:k\n8:k,10:h,14:k,16:s,23:k,25:h,30:s,31:s ###"}
+{"prompt":"neworleans funk dark hybrid ->","completion":" None\nNone\n2:s\n3:s,4:s,5:s,6:a\n0:k,2:a,2:s,4:k,7:s,8:s,9:s,11:k\n8:k,10:a,14:k,16:s,23:k,25:a,30:s,31:s ###"}
+{"prompt":"neworleans funk acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:h,2:s,3:s,4:s,6:s,6:h,6:s,6:k,7:s,22:s,23:s\n0:k,0:s,1:s,2:s,3:k,8:k,8:s,9:s,10:s,10:h,10:s,11:s,12:k,12:s,13:h,13:s,14:s,15:k,15:s,18:s,20:k,21:s ###"}
+{"prompt":"neworleans funk dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:s,2:a,3:s,4:s,6:s,6:s,6:k,6:a,7:s,22:s,23:s\n0:k,0:s,1:s,2:s,3:k,8:k,8:s,9:s,10:s,10:s,10:a,11:s,12:k,12:s,13:a,13:s,14:s,15:k,15:s,18:s,20:k,21:s ###"}
+{"prompt":"neworleans funk big room layered ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:h,2:s,3:s,4:s,6:h,6:s,6:k,7:s,18:s,22:s,23:s\n0:k,0:s,1:s,3:k,6:s,8:k,8:s,9:s,10:h,10:s,11:s,12:k,12:s,13:h,13:s,14:s,15:k,15:s,20:k,21:s,22:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n0:k,4:s\n0:h,2:h,4:k,6:h,12:h\n8:k,10:l,12:h,14:h,19:k,21:k,23:k,24:h,26:j,28:k,30:k ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\nNone\n0:k,4:s\n12:a\n19:k,21:k,23:k ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n0:k,4:s\n0:h,2:h,4:k,6:h,10:a,12:h\n8:k,12:h,14:h,19:k,21:k,23:k,24:h,28:k,30:k ###"}
+{"prompt":"neworleans funk acoustic ->","completion":" None\nNone\nNone\n0:k,1:h,2:k,3:k\n0:s,3:h,3:s,4:k,5:h,5:k,6:k,7:k,8:k,9:s,14:l\n0:k,6:s,7:h,12:s,12:l,16:l,16:h,22:s,27:h,28:k,28:k,29:s ###"}
+{"prompt":"neworleans funk dark hybrid ->","completion":" None\n0:a\nNone\n0:k,1:a,3:k\n0:s,3:a,3:s,5:k,5:a,7:k,9:s\n6:s,7:a,12:s,16:a,22:s,27:a,28:k,29:s ###"}
+{"prompt":"neworleans funk big room layered ->","completion":" None\nNone\nNone\n0:k,1:h,2:k,3:k\n0:s,3:h,3:s,4:k,5:h,5:k,6:s,6:k,7:k,8:k,9:s,14:l\n0:k,7:h,12:l,12:s,16:l,16:h,27:h,28:k,28:k,29:s ###"}
+{"prompt":"neworleans funk deep daft ->","completion":" None\nNone\nNone\n0:k,1:h,2:k,3:k\n0:s,3:h,3:s,4:k,5:h,5:k,6:k,7:k,8:k,9:s,14:a\n0:k,6:s,7:h,12:s,12:a,16:h,16:a,22:s,27:h,28:k,28:k,29:s ###"}
+{"prompt":"latin acoustic ->","completion":" None\nNone\nNone\n4:h\n0:r,0:k,5:r,12:r\n2:r,4:z,6:r,6:x,8:s,9:r,10:z,10:s,13:r,14:u,17:s,19:r,19:z,20:s,23:r,23:x,25:s,26:r,27:z,27:s,30:r,31:u ###"}
+{"prompt":"latin dark hybrid ->","completion":" None\nNone\nNone\n4:a\n0:r,0:k,5:r,12:r\n2:r,4:z,6:r,6:x,8:s,9:r,10:z,10:s,13:r,14:u,17:s,19:r,19:z,20:s,23:r,23:x,25:s,26:r,27:z,27:s,30:r,31:u ###"}
+{"prompt":"latin 808 simple ->","completion":" None\nNone\nNone\n4:h\n0:r,0:k,5:r,12:r\n2:r,4:s,6:r,6:x,8:s,9:r,10:s,10:s,13:r,14:u,17:s,19:s,19:r,20:s,23:r,23:x,25:s,26:r,27:s,27:s,30:r,31:u ###"}
+{"prompt":"latin acoustic ->","completion":" None\nNone\nNone\n4:h\n0:r,0:k,4:z,5:r,9:r,12:r,14:u\n3:r,7:r,7:x,11:z,13:r,18:r,22:r,22:x,26:z,30:r ###"}
+{"prompt":"latin dark hybrid ->","completion":" None\nNone\nNone\n4:a\n0:r,0:k,4:z,5:r,9:r,12:r,14:u\n3:r,7:r,7:x,11:z,13:r,18:r,22:r,22:x,26:z,30:r ###"}
+{"prompt":"latin 808 simple ->","completion":" None\nNone\nNone\n4:h\n0:r,0:k,4:s,5:r,9:r,12:r,14:u\n3:r,7:r,7:x,11:s,13:r,18:r,22:r,22:x,26:s,30:r ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n0:k\n4:s,4:k,7:s,9:s\n0:k,2:h,6:s,6:k,7:s,10:k,10:k,12:h,14:s,14:k,18:k,24:k,26:h,27:s,28:k,28:k,29:s,30:h,31:s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\n0:a\nNone\n4:s,7:s,9:s,10:a,14:a\n0:k,2:a,6:a,6:s,7:s,10:k,14:s,18:k,24:k,27:s,28:k,29:s,31:s ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n2:h\n0:k,4:s,6:s,7:s,8:h,8:k,9:s\n0:y,0:k,4:h,6:h,7:s,8:s,10:k,12:h,14:s,14:k,18:k,20:k,22:k,28:k,28:k,29:s,30:h,31:s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\n0:a\nNone\nNone\n4:s,6:s,7:s,8:k,9:s\n0:y,0:k,7:s,8:s,10:k,14:s,18:k,28:k,29:s,31:s ###"}
+{"prompt":"afrobeat acoustic ->","completion":" None\nNone\n0:k\n4:l,6:h,6:k\n0:k,2:h,3:s,6:s,9:k,10:k\n8:k,11:s,14:s,24:h,25:y,26:s,30:s ###"}
+{"prompt":"afrobeat dark hybrid ->","completion":" None\n0:a\n0:k\n6:a\n3:s,6:s,9:k\n11:s,14:s,25:y,26:s,30:s ###"}
+{"prompt":"afrobeat big room layered ->","completion":" None\nNone\n0:k\n4:l,6:h,6:s,6:k\n0:k,2:h,3:s,9:k,10:k\n8:k,11:s,24:h,25:y,26:s ###"}
+{"prompt":"afrobeat deep daft ->","completion":" None\nNone\n0:k\n4:a,6:h,6:k\n0:k,2:h,3:s,6:s,9:k,10:k\n8:k,11:s,14:s,24:h,25:y,26:s,30:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n0:k,4:k\n4:s,6:k,10:l,12:h\n0:k,2:h,8:k,12:s,14:h,16:h,18:k,19:k,21:k,23:k,24:h,28:s,30:k ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\nNone\n0:k\n4:s,12:a\n12:s,19:k,21:k,23:k,28:s ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\nNone\n0:k,4:s,4:k\n6:k,10:l,12:h\n0:k,2:h,8:k,14:h,16:h,18:k,19:k,21:k,23:k,24:h,30:k ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n0:k,4:k\n4:s,6:k,10:a,12:h\n0:k,2:h,8:k,12:s,14:h,16:h,18:k,19:k,21:k,23:k,24:h,28:s,30:k ###"}
+{"prompt":"rock shuffle acoustic ->","completion":" None\nNone\n0:k\nNone\n5:h,6:k,15:l\n0:h,3:k,4:s,9:k,12:s,12:k,16:h,16:k,18:h,20:s,25:h,27:s,28:l ###"}
+{"prompt":"rock shuffle dark hybrid ->","completion":" None\nNone\n0:k\nNone\n0:a,5:a,6:a,9:a,12:a,15:a\n3:a,4:s,12:s,16:a,18:a,20:s,27:s ###"}
+{"prompt":"rock shuffle big room layered ->","completion":" None\nNone\n0:k\nNone\n4:s,5:h,6:k,15:l\n0:h,3:k,9:k,12:s,12:k,16:h,16:k,18:h,25:h,27:s,28:l ###"}
+{"prompt":"rock shuffle deep daft ->","completion":" None\nNone\n0:k\nNone\n5:h,6:k,15:a\n0:h,3:k,4:s,9:k,12:s,12:k,16:h,16:k,18:h,20:s,25:h,27:s,28:a ###"}
+{"prompt":"rock shuffle acoustic ->","completion":" None\nNone\n0:k\nNone\n2:h,4:s,9:h,12:l\n0:y,0:h,6:h,10:s,12:s,14:j,14:s,15:h,16:k,21:h,22:k,26:s,31:l ###"}
+{"prompt":"rock shuffle dark hybrid ->","completion":" None\nNone\n0:k\nNone\n0:a,2:a,4:s,6:a,9:a,12:a,15:a\n0:y,10:s,12:s,14:a,14:s,21:a,26:s ###"}
+{"prompt":"rock shuffle big room layered ->","completion":" None\nNone\n0:k\nNone\n2:h,4:s,9:h,10:s,12:l\n0:y,0:h,6:h,12:s,14:j,14:s,15:h,16:k,21:h,22:k,31:l ###"}
+{"prompt":"rock shuffle deep daft ->","completion":" None\nNone\n0:k\nNone\n2:h,4:s,9:h,12:a\n0:y,0:h,6:h,10:s,12:s,14:a,14:s,15:h,16:k,21:h,22:k,26:s,31:a ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\n4:k,10:k\n0:k,0:k,2:h,6:s,6:k,8:h,10:h,12:h,14:s,14:k,17:s,18:k,18:k,20:s,23:s,24:k,24:k,25:s,26:k,28:s,28:k,29:k,30:s,31:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\n2:a,4:a\n8:a,10:k\n0:k,0:a,6:a,6:s,14:s,14:a,17:s,18:k,20:s,23:s,24:k,25:s,28:s,29:k,30:s,31:s ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\nNone\nNone\n4:k,10:k,14:s\n0:k,0:k,2:h,6:s,6:k,8:h,10:h,12:h,14:k,17:s,18:k,18:k,20:s,23:s,24:k,24:k,25:s,26:k,28:s,28:k,29:k,31:s ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,1:k,3:h,5:s,7:h\n9:y,9:k,11:h,13:s,15:h,15:k,17:y,19:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,1:k,3:a,5:s,7:a\n9:y,9:k,11:a,13:s,15:k,15:a,17:y,19:k ###"}
+{"prompt":"funk latin acoustic ->","completion":" None\nNone\nNone\n2:h,4:s,4:k\n0:h,0:k,5:k,7:k,8:k\n4:k,6:h,14:h,18:k,22:k,30:k ###"}
+{"prompt":"funk latin dark hybrid ->","completion":" None\n0:a\nNone\n4:s\n0:k,5:k,7:k\n4:k,18:k ###"}
+{"prompt":"funk latin acoustic ->","completion":" None\nNone\nNone\n4:s,4:k\n0:k,5:k,7:k,8:k\n0:h,2:h,6:h,10:h,14:h,16:k,18:k,18:k,22:k,26:k ###"}
+{"prompt":"funk latin dark hybrid ->","completion":" None\nNone\n0:a\n2:a,4:s\n0:k,5:k,6:a,7:k\n14:a,18:k ###"}
+{"prompt":"afrobeat acoustic ->","completion":" None\n0:r\n2:h,2:s\n0:k,7:s\n3:k,5:s,6:s,9:r,11:s,12:k,13:r,13:k,15:k,21:s\n0:s,7:s,8:s,11:s,20:s ###"}
+{"prompt":"afrobeat dark hybrid ->","completion":" None\n0:r\n2:a,2:s\n0:k,7:s\n3:k,5:s,6:s,9:r,11:s,12:k,13:r,13:k,15:k,21:s\n0:s,7:s,8:s,11:s,20:s ###"}
+{"prompt":"latin acoustic ->","completion":" None\nNone\n0:k,0:z,2:h\n2:z,5:z,7:z\n3:t,6:t,8:u,9:u,11:x,14:u\n16:t,17:t,18:t ###"}
+{"prompt":"latin dark hybrid ->","completion":" None\nNone\n0:k,0:z,2:a\n2:z,5:z,7:z\n3:t,6:t,8:u,9:u,11:x,14:u\n16:t,17:t,18:t ###"}
+{"prompt":"latin 808 simple ->","completion":" None\nNone\n0:s,0:k,2:h\n2:s,5:s,7:s\n3:t,6:t,8:u,9:u,11:x,14:u\n16:t,17:t,18:t ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\n2:h\n6:h,8:h\n4:s,12:s,14:h,16:h,20:h,20:s,24:y,24:r,28:s,30:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:k,2:a\nNone\n8:a\n4:s,12:s,16:a,20:a,20:s,24:y,24:r,28:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n0:k\n2:h,4:s\n6:h,8:h\n14:h,16:h,20:h,24:y,24:r,30:l ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\n0:k\n2:h\n6:h,8:h\n4:s,12:s,14:h,16:h,20:h,20:s,24:y,24:r,28:s,30:a ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n4:k,6:l,6:k\n0:k,2:k,3:k,5:k,8:h,9:h,10:l,12:h,12:s,13:h\n0:l,2:h,3:k,4:z,5:k,8:h,16:h,16:k,17:h,18:l,20:h,20:s,21:h,24:k ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\n0:a\nNone\n5:a,6:k\n0:k,2:k,3:k,5:k,8:a,9:a,12:s,12:a\n3:a,4:z,16:a,17:a,20:a,20:s ###"}
+{"prompt":"hiphop 808 simple ->","completion":" None\nNone\nNone\n4:k,6:l,6:k\n0:k,2:k,3:k,5:k,8:h,9:h,10:l,12:h,12:s,13:h\n0:l,2:h,3:k,4:s,5:k,8:h,16:h,16:k,17:h,18:l,20:h,20:s,21:h,24:k ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\n4:k,6:k,6:a\n0:k,2:k,3:k,5:k,8:h,9:h,10:a,12:h,12:s,13:h\n0:a,2:h,3:k,4:z,5:k,8:h,16:h,16:k,17:h,18:a,20:h,20:s,21:h,24:k ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n4:k,6:l,6:k\n0:k,0:k,2:k,3:k,4:s,5:k,8:h,9:h,10:l,12:h\n2:k,3:h,12:s,16:h,17:h,18:l,18:h,20:h,21:h,24:k,28:s,29:h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\n0:a\nNone\n6:k\n0:k,2:k,3:k,4:s,5:k,9:a,12:a\n3:a,12:s,16:a,17:a,18:a,20:a,21:a,24:a,28:s,29:a ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\nNone\n4:s,4:k,6:l,6:k\n0:k,0:k,2:k,3:k,5:k,8:h,9:h,10:l,12:h\n2:k,3:h,16:h,17:h,18:l,18:h,20:h,21:h,24:k,29:h ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\n4:k,6:k,6:a\n0:k,0:k,2:k,3:k,4:s,5:k,8:h,9:h,10:a,12:h\n2:k,3:h,12:s,16:h,17:h,18:h,18:a,20:h,21:h,24:k,28:s,29:h ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n4:k,6:l,6:k\n0:k,2:k,3:k,5:k,8:l,8:h,10:l,12:h\n0:h,2:h,3:k,4:s,5:h,9:k,12:s,13:k,16:h,16:k,17:k,18:l,20:s,20:h,21:k,25:h,28:s,29:h ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\n0:a\nNone\n5:a,6:k\n0:k,2:k,3:k,5:k,8:a,9:a,12:a\n3:a,4:s,12:s,16:a,17:a,20:s,20:a,28:s ###"}
+{"prompt":"hiphop big room layered ->","completion":" None\nNone\nNone\n4:s,4:k,6:l,6:k\n0:k,2:k,3:k,5:k,8:l,8:h,10:l,12:h\n0:h,2:h,3:k,5:h,9:k,13:k,16:h,16:k,17:k,18:l,20:h,21:k,25:h,29:h ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\n4:k,6:k,6:a\n0:k,2:k,3:k,5:k,8:h,8:a,10:a,12:h\n0:h,2:h,3:k,4:s,5:h,9:k,12:s,13:k,16:h,16:k,17:k,18:a,20:s,20:h,21:k,25:h,28:s,29:h ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\n1:h\n2:k,3:h,4:k\n0:k,4:s,6:k,7:s,7:h,8:k,9:k,10:k,13:k,14:l,14:s\n0:h,11:s,16:h,16:k,18:k,27:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\n1:a\n3:a\n0:k,4:s,7:s,7:a,9:k,10:k,13:k,14:s\n11:s,16:a,18:k,27:s ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\n1:h\n2:k,3:h,4:k\n0:k,4:s,6:k,7:h,7:s,8:k,9:k,10:k,11:s,13:k,14:l,14:s\n0:h,16:h,16:k,18:k ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\n1:h\n2:k,3:h,4:k\n0:k,4:s,6:k,7:s,7:h,8:k,9:k,10:k,13:k,14:s,14:a\n0:h,11:s,16:h,16:k,18:k,27:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n1:h,2:k,4:k\n0:k,3:h,6:k,7:s,7:k,8:k,9:k,10:k,13:h,13:k,14:s,14:l\n0:h,2:h,4:s,5:k,11:s,11:k,16:h,16:k,18:k,20:s,23:s,27:h,27:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\n0:a\nNone\n1:a,2:k,3:a\n0:k,7:s,7:a,9:k,13:k,13:a,14:s\n4:s,5:a,11:s,16:a,20:s,23:s,27:s ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\nNone\n1:h,2:k,4:k\n0:k,3:h,4:s,6:k,7:s,7:k,8:k,9:k,10:k,11:s,13:h,13:k,14:l,14:s\n0:h,2:h,5:k,11:k,16:h,16:k,18:k,23:s,27:h ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n1:h,2:k,4:k\n0:k,3:h,6:k,7:s,7:k,8:k,9:k,10:k,13:h,13:k,14:s,14:a\n0:h,2:h,4:s,5:k,11:s,11:k,16:h,16:k,18:k,20:s,23:s,27:h,27:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\n2:k\n0:k\n0:y,4:y,4:k\n8:y,12:s,16:r,23:k,28:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\n2:a\n0:k\n0:y,4:y,4:k\n8:y,12:s,16:r,23:k,28:s ###"}
+{"prompt":"funk big room layered ->","completion":" None\nNone\n2:k\n0:k\n0:y,4:y,4:k,12:s\n8:y,16:r,23:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n2:k,4:s\n0:k,4:k,6:k,8:h,10:k\n0:y,8:k,12:l,12:h,14:k,14:k,16:k,19:k,20:h,24:l,28:k,30:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n2:a\n4:s,4:a\n0:k,8:a,10:k,24:a\n0:y,12:a,14:k,16:a,19:a,20:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n2:k,4:s\n0:k,4:k,6:k,8:h,10:k\n0:y,8:k,12:h,12:a,14:k,14:k,16:k,19:k,20:h,24:a,28:k,30:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,2:k\n2:s,8:k,12:k\n0:k,4:k,6:k,10:s,12:k,14:k,14:k,20:l,20:k,22:l,22:h,26:h,26:s,27:s,29:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\n2:a\n2:s,6:a,8:k\n0:k,10:s,12:k,14:k,14:a,20:k,22:a,26:a,26:s,27:s,29:k ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n0:k,2:s,2:k\n8:k,12:k\n0:k,4:k,6:k,12:k,14:k,14:k,20:l,20:k,22:l,22:h,26:h,27:s,29:k ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n0:k,2:k\n2:s,8:k,12:k\n0:k,4:k,6:k,10:s,12:k,14:k,14:k,20:k,20:a,22:h,22:a,26:h,26:s,27:s,29:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n1:r\nNone\n7:r,11:r,11:s\n0:k,1:r,3:s,3:r,4:r,7:k,13:k,15:r,15:k,18:k,19:r,19:s,20:s,22:s,24:k,25:s,26:s,27:k,28:k,30:k ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n1:r\n3:s\n7:r,11:r\n0:k,1:r,3:r,4:r,7:k,13:k,15:r,15:k,18:k,19:r,20:s,22:s,24:k,25:s,26:s,27:k,28:k,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:r\n0:k,4:s\n2:h,4:r,7:s,8:r,9:s,14:k\n0:r,6:k,7:s,9:s,11:k,12:r,16:r,22:h,26:k,28:r,30:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n2:r\n0:k,4:s\n2:a,4:r,7:s,8:r,9:s,14:k\n0:r,6:k,7:s,9:s,11:k,12:r,16:r,22:a,26:k,28:r,30:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k,2:s\n0:k,2:k\n12:k\n4:k,6:l,6:h,14:l,16:h,19:k,22:k,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:k,2:s\n0:a,2:a\n6:a,12:a\n4:a,6:a,14:a,16:a,19:a,31:s ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\n0:k,2:s\n0:k,2:k\n12:k\n4:k,6:h,6:a,14:a,16:h,19:k,22:k,31:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:l,0:k,4:l,4:s,6:j\n8:l,8:k,10:j,12:l,12:s,14:j,15:s,16:s,17:s,18:k,18:j,21:k,23:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,4:a,4:s,6:a\n8:k,8:a,10:a,12:s,12:a,14:a,15:s,16:s,17:s,18:k,18:a,21:k,23:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n1:k\n3:l,3:s\n1:j,7:l,7:s\n0:k,2:k,9:l,10:k,15:s,15:y,20:s,21:l,21:s,22:k,23:s,24:s,25:s,27:s,29:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n1:k\n3:a,3:s\n1:a,7:s,7:a\n0:k,2:k,9:a,10:k,15:s,15:y,20:s,21:a,21:s,22:k,23:s,24:s,25:s,27:s,29:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:x,2:x,3:k,4:u,5:v,6:k,7:s,8:s,9:k,10:t,11:t,12:k,13:x,14:x,15:k,16:u,17:v,18:k,19:s,20:s,21:k,22:t,23:t,24:k,25:x,26:x,27:k,28:u,29:u,30:k ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n5:k\n0:k,1:x,2:x,3:k,4:u,6:k,7:s,8:s,9:k,10:t,11:t,12:k,13:x,14:x,15:k,16:u,17:k,18:k,19:s,20:s,22:t,23:t,24:k,25:x,26:x,27:k,28:u,29:u,30:k ###"}
+{"prompt":"rock west coast funk ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:x,2:x,3:k,4:u,5:b,6:k,7:s,8:s,9:k,10:t,11:t,12:k,13:x,14:x,15:k,16:u,17:b,18:k,19:s,20:s,21:k,22:t,23:t,24:k,25:x,26:x,27:k,28:u,29:u,30:k ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:x,2:x,3:k,4:u,5:l,6:k,7:s,8:s,9:k,10:t,11:t,12:k,13:x,14:x,15:k,16:u,17:l,18:k,19:s,20:s,21:k,22:t,23:t,24:k,25:x,26:x,27:k,28:u,29:u,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:u,0:k,2:u,3:t,4:u,4:k,6:x,8:u,8:k,9:u,10:u,12:t,12:u,12:k,14:u,15:t ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:u,1:k,3:u,4:t,5:u,5:k,7:x,9:u,9:k,10:u,11:u,13:t,13:u,13:k,15:u,16:t ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n6:k,12:r\n0:k,1:t,2:t,3:k,4:x,5:x,7:u,8:u,10:r,10:k,14:r,14:k,18:r,18:s,22:r,24:r,24:k,26:r,26:s,27:k,29:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,2:k,4:s\n0:k,4:k,10:k,12:h,14:k,14:k\n3:h,6:l,6:h,7:s,8:k,12:l,22:k,24:h,28:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\nNone\n4:s\n0:k,10:k,12:a,14:k\n3:a,6:a,7:s,8:k,24:a ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n0:k,2:k,4:s\n0:k,4:k,10:k,12:h,14:k,14:k\n3:h,6:h,6:a,7:s,8:k,12:a,22:k,24:h,28:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,4:r,4:h,4:s,7:r,8:r,8:k,11:r,12:s,12:r,12:k,12:h,15:r ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,4:a,4:r,4:s,7:r,8:r,8:k,11:r,12:s,12:r,12:k,12:a,15:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,1:l\n5:l,12:k,28:k\n1:s,3:k,5:k,9:s,13:l,13:s,15:k,17:s,20:k,21:s,24:k,25:s,26:j ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:k,1:a\n5:a,12:k,28:k\n1:s,3:k,5:k,9:s,13:a,13:s,15:k,17:s,20:k,21:s,24:k,25:s,26:a ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n0:k,1:l,1:s\n5:l,12:k,28:k\n3:k,5:k,13:l,13:s,15:k,20:k,21:s,24:k,26:j ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,2:r,4:r,4:s,6:r,7:k,8:r,10:k,12:r,12:s,14:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:s,0:k\n4:k,4:k\n5:k,10:k,12:k,12:k,14:h,18:h,18:k,22:h,26:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,4:s,4:a\n1:k,6:k,8:k,8:a,10:a,12:a,12:s,14:k,14:a,18:a,22:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n4:k,6:k\n0:k,8:k,10:k,12:s,14:k\n0:y,2:k,4:s,8:k,10:k,16:l,18:l,18:h,20:s,22:k,25:k,27:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n2:a\n4:a\n0:k,8:a,12:s,14:k\n0:y,4:s,8:k,10:k,16:a,18:a,20:s,22:k,25:k,27:k ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n4:s,4:k,6:k\n0:k,8:k,10:k,14:k\n0:y,2:k,8:k,10:k,16:l,18:l,18:h,22:k,25:k,27:k ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n4:k,6:k\n0:k,8:k,10:k,12:s,14:k\n0:y,2:k,4:s,8:k,10:k,16:a,18:h,18:a,20:s,22:k,25:k,27:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:r,0:k,2:r,4:r,6:r,7:s,9:s\n4:h,4:s,6:h,8:r,8:k,10:r,10:k,10:h,12:s,12:r,14:r,14:k,17:s,19:k,20:s,21:s,22:k,23:s,24:r,24:s,25:u,26:s,27:s,28:z,28:s,29:s,30:t,30:s,31:t ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:r,0:k,2:r,4:r,6:r,7:s,9:s\n4:a,4:s,6:a,8:r,8:k,10:r,10:k,10:a,12:s,12:r,14:r,14:k,17:s,19:k,20:s,21:s,22:k,23:s,24:r,24:s,25:u,26:s,27:s,28:z,28:s,29:s,30:t,30:s,31:t ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n4:s\n0:r,0:k,2:r,4:r,6:r,7:s,9:s\n4:h,6:h,8:r,8:k,10:r,10:k,10:h,12:r,14:r,14:k,17:s,19:k,21:s,22:k,23:s,24:r,24:s,25:u,26:s,27:s,28:z,29:s,30:t,30:s,31:t ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\n0:r,0:k,2:r,4:r,6:r,7:s,9:s,12:s\n4:h,4:s,6:h,8:r,8:k,10:r,10:k,10:h,12:r,14:r,14:k,17:s,19:k,20:s,21:s,22:k,23:s,24:r,24:s,25:u,26:s,27:s,28:s,29:s,30:t,30:s,31:t ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n2:s,7:s,8:k\n0:k,2:r,5:k,6:s,6:r,8:r,9:k,10:s,11:k,12:t,13:k,14:y,15:k,18:s,22:s,23:s,24:t,25:t,26:t,26:k,27:x,28:x,29:x ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n2:s,6:s,7:s,8:k\n0:k,2:r,5:k,6:r,8:r,9:k,10:s,11:k,12:t,13:k,14:y,15:k,18:s,22:s,23:s,24:t,25:t,26:t,26:k,27:x,28:x,29:x ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:r\n0:k,4:r,7:r\n8:r,10:h,10:s,11:r,14:h,14:s\n0:r,2:k,4:s,16:r,18:h,18:s,19:r,20:k,22:h,22:s,28:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n2:r\n0:k,4:r,7:r\n8:r,10:s,10:a,11:r,14:s,14:a\n0:r,2:k,4:s,16:r,18:a,18:s,19:r,20:k,22:a,22:s,28:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,1:s,2:h\n2:r,2:k,3:s,3:r,4:r,4:k,6:r,6:k,6:h,7:r\n0:v,1:s,4:v,5:s,6:s,7:s,8:r,8:s,10:r,10:k,11:s,11:r,12:r,12:k,14:s,14:r,14:h,15:r,16:r,18:s,22:s,23:s,24:r,26:s,27:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:k,1:s,2:a\n2:r,2:k,3:s,3:r,4:r,4:k,6:r,6:k,6:a,7:r\n0:v,1:s,4:v,5:s,6:s,7:s,8:r,8:s,10:r,10:k,11:s,11:r,12:r,12:k,14:s,14:r,14:a,15:r,16:r,18:s,22:s,23:s,24:r,26:s,27:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n0:k,1:s,2:h,3:s\n2:r,2:k,3:r,4:r,4:k,6:r,6:k,6:s,6:h,7:r,7:s\n0:k,1:s,4:k,5:s,8:r,8:s,10:r,10:k,11:r,12:r,12:k,14:r,14:h,14:s,15:r,16:r,18:s,24:r,26:s ###"}
+{"prompt":"rock west coast funk ->","completion":" None\nNone\nNone\n0:k,1:s,2:h\n2:r,2:k,3:s,3:r,4:r,4:k,6:r,6:k,6:h,7:r\n0:b,1:s,4:b,5:s,6:s,7:s,8:r,8:s,10:r,10:k,11:s,11:r,12:r,12:k,14:s,14:r,14:h,15:r,16:r,18:s,22:s,23:s,24:r,26:s,27:s ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\n0:k,1:s,2:h\n2:r,2:k,3:s,3:r,4:r,4:k,6:r,6:k,6:h,7:r\n0:l,1:s,4:l,5:s,6:s,7:s,8:r,8:s,10:r,10:k,11:s,11:r,12:r,12:k,14:s,14:r,14:h,15:r,16:r,18:s,22:s,23:s,24:r,26:s,27:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k,2:h,3:r\n0:r,2:r,6:k\n6:s,6:r,10:k,12:r,13:s,14:r\n2:s,4:r,10:s,15:s,18:k,18:s,20:r,21:r,25:r,26:s,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:k,2:a,3:r\n0:r,2:r,6:k\n6:s,6:r,10:k,12:r,13:s,14:r\n2:s,4:r,10:s,15:s,18:k,18:s,20:r,21:r,25:r,26:s,31:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n0:k,2:h,3:r\n0:r,2:r,2:s,6:k\n6:r,6:s,10:k,12:r,13:s,14:r,15:s\n4:r,18:k,20:r,21:r,25:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k,3:k\n0:k,1:k,2:k,4:s\n6:k,10:k\n5:l,12:h,13:l,14:k,18:k,21:k,29:k,30:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" 0:a\nNone\nNone\n0:k,4:s\n10:k\n12:a,18:k ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\n0:k,3:k\n0:k,1:k,2:k,4:s\n6:k,10:k\n5:a,12:h,13:a,14:k,18:k,21:k,29:k,30:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:r\nNone\n4:s\n2:k,4:h,8:k,14:k\n0:k,6:h,7:s,8:s,10:k,16:h,22:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:r\nNone\n4:s\n2:k,4:a,8:k,14:k\n0:k,6:a,7:s,8:s,10:k,16:a,22:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:r\nNone\n0:k,4:s\n9:r,10:h\n11:r,14:k,17:r,18:h,20:h,21:r,22:h,28:h,29:r ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:r\nNone\n0:k,4:s\n9:r,10:a\n11:r,14:k,17:r,18:a,20:a,21:r,22:a,28:a,29:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n4:s\n2:k,4:k,6:k\n0:s,0:k,2:k,4:k,7:k,8:s,8:l,10:l,10:k,11:s,12:h,13:s,14:t,15:t,16:h,16:k,16:y,19:k,22:k,23:s,24:s,24:k,25:s,26:k,27:k,28:k,29:k,30:k,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:a,2:s,2:a\n4:a,6:a\n0:k,2:k,5:k,6:s,8:k,9:s,11:s,12:t,13:t,14:k,14:a,14:y,17:k,20:k,21:s,22:s,23:s,25:k,27:k,28:a,29:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\n4:s\n2:k,4:k,6:k,8:s\n0:s,0:k,2:k,4:k,7:k,8:l,10:l,10:k,11:s,12:h,13:s,14:t,15:t,16:h,16:k,16:y,19:k,22:k,23:s,24:s,24:k,25:s,26:k,27:k,28:k,29:k,30:k,31:s ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n4:s\n2:k,4:k,6:k\n0:s,0:k,2:k,4:k,7:k,8:s,8:a,10:k,10:a,11:s,12:h,13:s,14:t,15:t,16:h,16:k,16:y,19:k,22:k,23:s,24:s,24:k,25:s,26:k,27:k,28:k,29:k,30:k,31:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n2:k\n0:k,4:k\n8:k,10:k\n0:h,0:y,4:s,12:s,14:k,16:k,20:s,23:s,28:s,29:k,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\nNone\n0:k\n10:k\n0:y,4:s,12:s,14:k,20:s,23:s,28:s,29:k,31:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n2:k\n0:k,4:s,4:k\n8:k,10:k\n0:h,0:y,14:k,16:k,23:s,29:k,31:s ###"}
+{"prompt":"funk fast acoustic ->","completion":" None\nNone\nNone\nNone\n2:s,18:s\n0:k,3:l,3:k,3:s,4:s,5:j,5:k,5:s,7:l,7:h,7:k,9:s,10:k,10:j,11:h,11:h,12:s,13:h,13:k,14:h,15:z,16:h,17:h,18:s ###"}
+{"prompt":"funk fast dark hybrid ->","completion":" None\nNone\nNone\nNone\n2:s,18:s\n0:k,3:a,3:k,3:s,4:s,5:a,5:k,5:s,7:k,7:a,9:s,10:k,10:a,11:a,12:s,13:k,13:a,14:a,15:z,16:a,17:a,18:s ###"}
+{"prompt":"funk fast 808 simple ->","completion":" None\nNone\nNone\nNone\n2:s,18:s\n0:k,3:l,3:k,3:s,4:s,5:j,5:k,5:s,7:l,7:h,7:k,9:s,10:k,10:j,11:h,11:h,12:s,13:h,13:k,14:h,15:s,16:h,17:h,18:s ###"}
+{"prompt":"funk fast deep daft ->","completion":" None\nNone\nNone\nNone\n2:s,18:s\n0:k,3:a,3:k,3:s,4:s,5:a,5:k,5:s,7:h,7:a,7:k,9:s,10:k,10:a,11:h,11:h,12:s,13:h,13:k,14:h,15:z,16:h,17:h,18:s ###"}
+{"prompt":"latin brazilian-baiao acoustic ->","completion":" None\nNone\nNone\n0:k,3:k,4:h,6:z\n3:s,8:h,9:h,10:k,13:h,14:s\n2:h,6:l,6:s,8:h,11:s,14:k,16:h,17:h,18:k,21:h,22:z,22:k,23:s,25:z,30:l ###"}
+{"prompt":"latin brazilian-baiao dark hybrid ->","completion":" None\nNone\n2:a\n0:k,3:k,4:a,6:z\n3:s,8:a,9:a,13:a,14:s\n6:s,8:a,11:s,16:a,17:a,21:a,22:z,23:s,25:z ###"}
+{"prompt":"latin brazilian-baiao 808 simple ->","completion":" None\nNone\nNone\n0:k,3:k,4:h,6:s\n3:s,8:h,9:h,10:k,13:h,14:s\n2:h,6:l,6:s,8:h,11:s,14:k,16:h,17:h,18:k,21:h,22:s,22:k,23:s,25:s,30:l ###"}
+{"prompt":"latin brazilian-baiao deep daft ->","completion":" None\nNone\nNone\n0:k,3:k,4:h,6:z\n3:s,8:h,9:h,10:k,13:h,14:s\n2:h,6:s,6:a,8:h,11:s,14:k,16:h,17:h,18:k,21:h,22:z,22:k,23:s,25:z,30:a ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:h,2:h,2:k,3:h,4:h,4:z,5:k,5:j,6:h,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:k,2:a,3:a,4:z,4:a,5:k,5:a,6:a,7:s,7:a,8:a,9:s,9:a,10:k,10:a,11:a,12:a,12:s,13:k,13:a,14:a,15:a,15:s ###"}
+{"prompt":"funk 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:h,2:h,2:k,3:h,4:s,4:h,5:k,5:j,6:h,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:h,0:k,1:h,2:h,2:k,3:h,4:h,4:z,5:k,5:a,6:h,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"}
+{"prompt":"latin samba acoustic ->","completion":" None\n0:r\n0:k,1:r,2:h\n3:k\n7:k,11:s,15:s\n15:k,16:s,17:s,18:s,19:s,23:s,24:s,25:s,30:k ###"}
+{"prompt":"latin samba dark hybrid ->","completion":" None\n0:r\n0:k,1:r,2:a\n3:k\n7:k,11:s,15:s\n15:k,16:s,17:s,18:s,19:s,23:s,24:s,25:s,30:k ###"}
+{"prompt":"gospel acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:l,0:k,2:s,2:h,2:k,3:s,4:h,4:k,6:h,6:z,8:h,8:k,10:h,10:z,12:h,12:k,14:h,14:z ###"}
+{"prompt":"gospel dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,2:s,2:a,3:s,4:k,4:a,6:z,6:a,8:k,8:a,10:z,10:a,12:k,12:a,14:z,14:a ###"}
+{"prompt":"gospel big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:l,0:k,2:h,2:s,2:k,3:s,4:h,4:k,6:h,6:z,8:h,8:k,10:h,10:z,12:h,12:k,14:h,14:z ###"}
+{"prompt":"gospel 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:l,0:k,2:s,2:h,2:k,3:s,4:h,4:k,6:s,6:h,8:h,8:k,10:s,10:h,12:h,12:k,14:s,14:h ###"}
+{"prompt":"gospel deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,2:s,2:h,2:k,3:s,4:h,4:k,6:h,6:z,8:h,8:k,10:h,10:z,12:h,12:k,14:h,14:z ###"}
+{"prompt":"punk acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,4:s,4:u,7:s,8:u,8:k,12:s,12:u ###"}
+{"prompt":"punk big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,4:u,4:s,7:s,8:u,8:k,12:u,12:s ###"}
+{"prompt":"latin bomba acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:z,0:h,1:s,2:z,3:t,3:z,4:h,5:t,5:z,6:t,6:z,8:k,8:z,8:h,10:z,11:t,11:z,12:h,13:t,13:h,13:z,14:t,14:z ###"}
+{"prompt":"latin bomba dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:z,0:a,1:s,2:z,3:t,3:z,4:a,5:t,5:z,6:t,6:z,8:k,8:z,8:a,10:z,11:t,11:z,12:a,13:t,13:z,13:a,14:t,14:z ###"}
+{"prompt":"latin bomba 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:s,0:k,0:h,1:s,2:s,3:t,3:s,4:h,5:s,5:t,6:t,6:s,8:s,8:k,8:h,10:s,11:s,11:t,12:h,13:s,13:t,13:h,14:t,14:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\n0:u\n0:k,2:t\n0:t\n4:w,12:t\nNone ###"}
+{"prompt":"rock big room layered ->","completion":" None\n0:u\n0:k,2:t\n0:t\n4:l,12:t\nNone ###"}
+{"prompt":"rock nu rnb ->","completion":" None\n0:u\n0:k,2:t\n0:t\n4:z,12:t\nNone ###"}
+{"prompt":"funk acoustic ->","completion":" 0:h\nNone\nNone\nNone\nNone\nNone ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\nNone\n0:r,4:r\n6:r,8:r,12:r,15:r,23:r,25:s,26:r,27:r ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,3:z,4:t,6:x,7:x,9:u,10:u\nNone ###"}
+{"prompt":"rock 808 simple ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,3:s,4:t,6:x,7:x,9:u,10:u\nNone ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\n0:s,1:s,6:s\n3:s,5:s,10:s,15:s\n12:s,28:s ###"}
+{"prompt":"jazz big room layered ->","completion":" None\nNone\nNone\n0:s,1:s,6:s\n3:s,5:s,10:s,12:s,15:s\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:s,3:s,4:t,6:t,7:w,9:x,10:x,12:u\nNone ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:s,3:s,4:t,6:t,7:l,9:x,10:x,12:u\nNone ###"}
+{"prompt":"rock nu rnb ->","completion":" None\nNone\nNone\nNone\n0:s,1:s,2:s,3:s,4:t,6:t,7:z,9:x,10:x,12:u\nNone ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n1:s,2:l\n3:j,4:j,5:j,7:j\n0:k,6:l,7:k,8:l,11:l,12:k,13:k,14:j,15:l,16:j,22:j,24:k,27:j,28:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n1:s,2:a,3:a,4:a\n5:a,6:a,7:a\n0:k,7:k,8:a,13:k,14:a,15:a,16:a,24:k ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n1:s,2:a,3:a\n4:a,5:a,6:a,7:a\n0:k,7:k,8:a,12:k,13:k,14:a,15:a,16:a,24:k,28:a ###"}
+{"prompt":"hiphop acoustic ->","completion":" None\nNone\nNone\n0:h\n0:k,2:h,4:s,6:h,10:k\n1:h,3:k,5:h,10:k,12:s,13:k,14:h,19:h,26:l,28:h,29:s ###"}
+{"prompt":"hiphop dark hybrid ->","completion":" None\nNone\nNone\n0:a,2:a\n0:k,4:s,6:a,10:k\n1:a,3:k,5:a,12:s,13:k,14:a,19:a,28:a,29:s ###"}
+{"prompt":"hiphop deep daft ->","completion":" None\nNone\nNone\n0:h\n0:k,2:h,4:s,6:h,10:k\n1:h,3:k,5:h,10:k,12:s,13:k,14:h,19:h,26:a,28:h,29:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:t,0:k,2:t,3:t,4:t,4:k,4:s,6:t,7:t,8:t,8:k,10:t,11:t,12:t,12:k,12:s,14:t,15:t ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:l,0:k,2:h,2:s,4:k,4:k,6:s,8:l,8:k,10:s,11:k,12:l,14:s,15:l,15:k ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,2:s,2:a,4:k,4:a,6:s,8:k,8:a,10:s,11:k,12:a,14:s,15:k,15:a ###"}
+{"prompt":"jazz deep daft ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,2:h,2:s,4:k,4:k,6:s,8:k,8:a,10:s,11:k,12:a,14:s,15:k,15:a ###"}
+{"prompt":"latin brazilian acoustic ->","completion":" None\nNone\nNone\nNone\n0:k\n0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:q,16:t,17:t,18:t,19:t,20:x,22:x ###"}
+{"prompt":"latin brazilian jinglestacks 2nd hi-hat ->","completion":" None\nNone\nNone\nNone\n0:k\n0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:h,16:t,17:t,18:t,19:t,20:x,22:x ###"}
+{"prompt":"latin brazilian jazz funk ->","completion":" None\nNone\nNone\nNone\n0:k\n0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:b,16:t,17:t,18:t,19:t,20:x,22:x ###"}
+{"prompt":"latin brazilian big room layered ->","completion":" None\nNone\nNone\nNone\n0:k\n0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:l,16:t,17:t,18:t,19:t,20:x,22:x ###"}
+{"prompt":"latin brazilian nu rnb ->","completion":" None\nNone\nNone\nNone\n0:k\n0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:s,16:t,17:t,18:t,19:t,20:x,22:x ###"}
+{"prompt":"latin brazilian compact lite w\/ tambourine hh ->","completion":" None\nNone\nNone\nNone\n0:k\n0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:a,16:t,17:t,18:t,19:t,20:x,22:x ###"}
+{"prompt":"latin brazilian-sambareggae acoustic ->","completion":" None\nNone\n0:k,2:h\n0:t,1:s,2:s\n3:s,5:s,7:s,12:u,13:u,14:u\n4:x,6:x,11:z,12:k,15:u,16:k,20:u,22:u,27:s,31:v ###"}
+{"prompt":"latin brazilian-sambareggae dark hybrid ->","completion":" None\nNone\n0:k,2:a\n0:t,1:s,2:s\n3:s,5:s,7:s,12:u,13:u,14:u\n4:x,6:x,11:z,12:k,15:u,16:k,20:u,22:u,27:s,31:v ###"}
+{"prompt":"latin brazilian-sambareggae big room layered ->","completion":" None\nNone\n0:k,2:h\n0:t,1:s,2:s\n3:s,5:s,7:s,12:u,13:u,14:u\n4:x,6:x,11:z,12:k,15:u,16:k,20:u,22:u,27:s,31:k ###"}
+{"prompt":"latin brazilian-sambareggae west coast funk ->","completion":" None\nNone\n0:k,2:h\n0:t,1:s,2:s\n3:s,5:s,7:s,12:u,13:u,14:u\n4:x,6:x,11:z,12:k,15:u,16:k,20:u,22:u,27:s,31:b ###"}
+{"prompt":"latin brazilian-sambareggae 808 simple ->","completion":" None\nNone\n0:k,2:h\n0:t,1:s,2:s\n3:s,5:s,7:s,12:u,13:u,14:u\n4:x,6:x,11:s,12:k,15:u,16:k,20:u,22:u,27:s,31:v ###"}
+{"prompt":"latin brazilian-sambareggae nu rnb ->","completion":" None\nNone\n0:k,2:h\n0:t,1:s,2:s\n3:s,5:s,7:s,12:u,13:u,14:u\n4:x,6:x,11:s,12:k,15:u,16:k,20:u,22:u,27:s,31:l ###"}
+{"prompt":"latin brazilian-samba acoustic ->","completion":" None\nNone\n1:s,2:h,2:s\n0:k,0:s,3:k,7:s\n1:s,4:s,12:u\n3:z,4:s,5:s,6:k,11:s,16:s,19:k,19:s,21:z,27:z,29:s ###"}
+{"prompt":"latin brazilian-samba dark hybrid ->","completion":" None\nNone\n1:s,2:s,2:a\n0:k,0:s,3:k,7:s\n1:s,4:s,12:u\n3:z,4:s,5:s,6:k,11:s,16:s,19:k,19:s,21:z,27:z,29:s ###"}
+{"prompt":"latin brazilian-samba 808 simple ->","completion":" None\nNone\n1:s,2:h,2:s\n0:k,0:s,3:k,7:s\n1:s,4:s,12:u\n3:s,4:s,5:s,6:k,11:s,16:s,19:k,19:s,21:s,27:s,29:s ###"}
+{"prompt":"latin venezuelan-joropo acoustic ->","completion":" None\n0:k\n0:k,1:k\nNone\n0:k,3:k,3:k,7:k,9:k,12:k,13:k,19:k\n1:k,5:k,7:k,7:k,9:k,11:k,11:k,15:k,15:k,17:h,20:k,22:k,22:k,26:h,26:k,27:h,30:k,30:k,31:h ###"}
+{"prompt":"latin venezuelan-joropo dark hybrid ->","completion":" 0:a\nNone\n0:k\n1:a,3:a\n0:k,3:k,12:k,13:a\n5:a,7:k,7:a,9:a,11:k,15:k,15:a,20:a,22:k,22:a,26:k,26:a,27:a,30:k,30:a ###"}
+{"prompt":"latin brazilian-samba acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,1:s,2:h,2:s,3:s,3:k,4:s,5:s,6:h,6:z,7:s,8:s,8:k,9:s,10:h,10:s,11:k,11:z,12:k,12:s,13:s,13:h,13:z,14:s,15:k,15:s ###"}
+{"prompt":"latin brazilian-samba dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,1:s,2:a,2:s,3:s,3:k,4:s,5:s,6:z,6:a,7:s,8:s,8:k,9:s,10:s,10:a,11:k,11:z,12:k,12:s,13:s,13:z,13:a,14:s,15:k,15:s ###"}
+{"prompt":"latin brazilian-samba big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,1:s,2:h,2:s,3:k,3:s,4:s,5:s,6:h,6:z,7:s,8:k,8:s,9:s,10:h,10:s,11:k,11:z,12:k,12:s,13:h,13:z,13:s,14:s,15:k,15:s ###"}
+{"prompt":"latin brazilian-samba 808 simple ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:s,1:s,2:h,2:s,3:s,3:k,4:s,5:s,6:s,6:h,7:s,8:s,8:k,9:s,10:h,10:s,11:s,11:k,12:k,12:s,13:s,13:h,14:s,15:k,15:s ###"}
+{"prompt":"latin brazilian-frevo acoustic ->","completion":" None\nNone\n0:k\n0:s,2:s,5:s,7:s\n2:h,3:s,6:s,9:s,11:h,12:s,13:s,14:h,14:s,15:h,15:s,30:s\n1:k,1:s,4:s,4:h,6:h,8:h,10:h,12:s,16:s,19:h,20:s,21:h,23:h,25:h,27:s,28:s ###"}
+{"prompt":"latin brazilian-frevo dark hybrid ->","completion":" None\nNone\n0:k\n0:s,2:s,5:s,7:s\n2:a,3:s,6:s,9:s,11:a,12:s,13:s,14:s,14:a,15:s,15:a,30:s\n1:k,1:s,4:s,4:a,6:a,8:a,10:a,12:s,16:s,19:a,20:s,21:a,23:a,25:a,27:s,28:s ###"}
+{"prompt":"latin brazilian-frevo big room layered ->","completion":" None\n0:s\n0:k\n5:s,7:s\n2:h,3:s,9:s,11:h,12:s,13:s,14:h,14:s,15:h,15:s\n1:k,1:s,4:h,6:h,8:h,10:h,16:s,19:h,21:h,23:h,25:h,27:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:l,0:k,3:k\n0:s,2:h,4:s,4:k,5:h,6:s,7:l,8:h,9:s,10:k,12:s,12:k,14:l,14:k,14:j,15:s,17:s,18:j,19:s,20:s,20:l,22:j,23:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,2:a,3:k,4:a\n0:s,4:s,5:a,6:s,7:a,8:a,9:s,10:a,12:s,12:a,14:k,14:a,15:s,17:s,19:s,20:s,22:a,23:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n0:l,0:k,3:k,4:s\n0:s,2:h,4:k,5:h,6:s,7:l,8:h,9:s,10:k,12:s,12:k,14:l,14:k,14:j,15:s,17:s,18:j,19:s,20:l,22:j,23:s ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\nNone\n0:k,0:a,3:k\n0:s,2:h,4:s,4:k,5:h,6:s,7:a,8:h,9:s,10:k,12:s,12:k,14:k,14:a,15:s,17:s,18:a,19:s,20:s,20:a,22:a,23:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:s,4:k\n2:s,4:y,6:l,8:k,10:s,10:l,12:l,14:l,14:k,18:l ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,2:s,4:k\n2:s,4:y,6:a,8:k,10:s,10:a,12:a,14:k,14:a,18:a ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,2:s,4:k\n2:s,4:y,6:l,8:k,10:l,10:s,12:l,14:l,14:k,18:l ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\n4:l,8:l,14:k\n0:k,12:s,12:k,14:y,17:l,19:k,20:s,24:k,28:l,28:s,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\n2:k\n0:s,0:k,2:y,5:a,7:k,8:s,8:a,12:k,12:a,16:s,16:a,19:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\nNone\nNone\n4:l,8:l,12:s,14:k\n0:k,12:k,14:y,17:l,19:k,20:s,24:k,28:l,31:s ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\nNone\n4:a,8:a,14:k\n0:k,12:s,12:k,14:y,17:a,19:k,20:s,24:k,28:s,28:a,31:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\nNone\n0:k\n0:k,1:k,2:s,3:k,3:k,4:j,4:k,4:s,5:h,5:s,5:k,6:s,7:h,8:s,8:k,9:k,10:s,11:h,11:k,12:k,12:j,13:h,13:s,13:k,14:s,15:h,16:s ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:a\n0:k,1:a,2:s,3:k,3:a,4:a,4:k,4:s,5:s,5:a,6:s,7:a,8:a,8:s,9:a,10:s,11:k,11:a,12:k,12:a,13:s,13:a,14:s,15:a,16:s ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\nNone\n0:k\n0:k,1:k,2:s,3:k,3:k,4:a,4:k,4:s,5:h,5:s,5:k,6:s,7:h,8:s,8:k,9:k,10:s,11:h,11:k,12:k,12:a,13:h,13:s,13:k,14:s,15:h,16:s ###"}
+{"prompt":"jazz acoustic ->","completion":" None\nNone\nNone\n4:h\n8:r,12:r,15:r,15:s\n16:r,19:s,20:r,26:s ###"}
+{"prompt":"jazz dark hybrid ->","completion":" None\nNone\nNone\n4:a\n8:r,12:r,15:r,15:s\n16:r,19:s,20:r,26:s ###"}
+{"prompt":"pop acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:k,2:u,3:s,4:s,5:s,6:s,7:s,8:s,9:s,10:k,10:y,18:h ###"}
+{"prompt":"pop dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,1:k,2:u,3:s,4:s,5:s,6:s,7:s,8:s,9:s,10:k,10:y,18:a ###"}
+{"prompt":"pop acoustic ->","completion":" None\nNone\nNone\nNone\n0:k,2:k,4:h,6:k,7:k\n0:s,2:k,6:s,7:k,9:s,10:k,11:h,11:k,14:s,14:k,20:k,22:s ###"}
+{"prompt":"pop dark hybrid ->","completion":" None\nNone\nNone\nNone\n0:k,2:a,4:a,6:a,7:a\n0:s,2:k,6:s,7:k,9:s,10:a,11:k,11:a,14:s,14:a,20:k,22:s ###"}
+{"prompt":"pop big room layered ->","completion":" None\nNone\nNone\nNone\n0:k,2:k,4:h,6:s,6:k,7:k\n0:s,2:k,7:k,9:s,10:k,11:h,11:k,14:s,14:k,20:k ###"}
+{"prompt":"jazz fusion acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:k,1:h,2:h,3:s,4:h,5:h,6:h,6:k,7:h,8:k,9:h,10:h,11:h,12:k,13:h,14:s,15:h ###"}
+{"prompt":"jazz fusion dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,1:a,2:a,3:s,4:a,5:a,6:k,6:a,7:a,8:a,9:a,10:a,11:a,12:a,13:a,14:s,15:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:k\nNone\n0:k,9:s,10:k,11:k,12:s,15:s,31:s\n0:k,4:h,4:s,7:s,15:s,18:k,22:s,29:s,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:a\nNone\n0:k,9:s,10:k,11:k,12:s,15:s,31:s\n0:k,4:a,4:s,7:s,15:s,18:k,22:s,29:s,31:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n0:y\nNone\n0:k,4:h,4:s,7:s\n10:k,14:s,18:k,24:k,28:h,28:s,30:k,31:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n0:y\nNone\n0:k,4:a,4:s,7:s\n10:k,14:s,18:k,24:k,28:s,28:a,30:k,31:s ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\n3:h\n0:k,1:h,2:h\n0:k,4:k,7:k,8:h,12:s,14:h\n4:s,5:h,6:h,12:h,13:k,15:k,20:s,22:k,28:k,29:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\n0:a\n3:a\n0:k,1:a\n7:k,12:s,13:a\n4:s,5:a,15:k,20:s ###"}
+{"prompt":"rock big room layered ->","completion":" None\nNone\n3:h\n0:k,1:h,2:h,4:s\n0:k,4:k,7:k,8:h,14:h\n5:h,6:h,12:h,13:k,15:k,22:k,28:k,29:h ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,2:r,2:k,4:r,4:h,4:s,6:r,6:k,8:r,8:h,10:r,10:k,10:s,12:r,12:h,12:s,14:r,14:k,15:h ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:r,0:k,2:r,2:k,4:s,4:r,4:a,6:r,6:k,8:r,8:a,10:r,10:k,10:s,12:s,12:r,12:a,14:r,14:k,15:a ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n0:k,2:k\n1:k,6:k,8:h,10:s\n1:s,5:s,14:k,14:k,16:k,18:s,28:h,29:s ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\nNone\n0:k,2:a\n1:k,6:a,8:a,10:s\n1:s,5:s,14:k,14:a,16:a,18:s,28:a,29:s ###"}
+{"prompt":"pop acoustic ->","completion":" None\nNone\nNone\n3:k,3:k\n7:k,7:k,9:h,13:h\n0:k,15:k,15:k,17:h ###"}
+{"prompt":"pop dark hybrid ->","completion":" None\nNone\nNone\n0:k,0:a\n4:k,4:a,6:a,10:a\n12:k,12:a,14:a ###"}
+{"prompt":"pop soft acoustic ->","completion":" None\nNone\n0:h\n4:z\n0:k,6:k,10:h\n2:h,14:h,22:h,30:j ###"}
+{"prompt":"pop soft dark hybrid ->","completion":" None\nNone\n0:a\n4:z\n0:k,6:k,10:a,14:a\n2:a,22:a ###"}
+{"prompt":"pop soft 808 simple ->","completion":" None\nNone\n0:h\n4:s\n0:k,6:k,10:h\n2:h,14:h,22:h,30:j ###"}
+{"prompt":"pop soft deep daft ->","completion":" None\nNone\n0:h\n4:z\n0:k,6:k,10:h\n2:h,14:h,22:h,30:a ###"}
+{"prompt":"pop soft acoustic ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:r,2:h,4:r,6:s,6:r,6:h ###"}
+{"prompt":"pop soft dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:r,2:a,4:r,6:s,6:r,6:a ###"}
+{"prompt":"pop soft big room layered ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,2:r,2:h,4:r,6:r,6:h,6:s ###"}
+{"prompt":"afrobeat acoustic ->","completion":" None\nNone\n0:k\n4:l,6:h\n3:s,8:h,9:k,14:s\n0:h,6:s,10:h,11:s,16:k,18:h,22:s,26:s ###"}
+{"prompt":"afrobeat dark hybrid ->","completion":" None\nNone\n0:k,0:a\n6:a\n3:s,9:k,14:s\n6:s,10:a,11:s,18:a,22:s,26:s ###"}
+{"prompt":"afrobeat big room layered ->","completion":" None\nNone\n0:k\n4:l,6:h,6:s\n3:s,8:h,9:k\n0:h,10:h,11:s,16:k,18:h,26:s ###"}
+{"prompt":"afrobeat deep daft ->","completion":" None\nNone\n0:k\n4:a,6:h\n3:s,8:h,9:k,14:s\n0:h,6:s,10:h,11:s,16:k,18:h,22:s,26:s ###"}
+{"prompt":"funk acoustic ->","completion":" None\nNone\nNone\n0:k\n4:k\n16:k,20:s,22:h,23:s,25:s,26:l,26:k,28:h,30:s,30:k ###"}
+{"prompt":"funk dark hybrid ->","completion":" None\nNone\nNone\nNone\nNone\n0:k,0:a,4:a,4:s,6:a,7:s,8:a,9:s,10:k,10:a,12:a,14:a,14:s ###"}
+{"prompt":"funk deep daft ->","completion":" None\nNone\nNone\n0:k\n4:k\n16:k,20:s,22:h,23:s,25:s,26:k,26:a,28:h,30:s,30:k ###"}
+{"prompt":"rock acoustic ->","completion":" None\nNone\nNone\n2:k,4:s,4:k\n6:k,8:k,8:k,10:k,14:k\n0:k,0:y,12:h,14:l,16:h,16:k,18:k,23:s,30:k ###"}
+{"prompt":"rock dark hybrid ->","completion":" None\nNone\n2:a\n4:s,4:a\n8:k,8:a,10:k,14:k\n0:k,0:y,12:a,16:a,18:k,23:s ###"}
+{"prompt":"rock deep daft ->","completion":" None\nNone\nNone\n2:k,4:s,4:k\n6:k,8:k,8:k,10:k,14:k\n0:k,0:y,12:h,14:a,16:h,16:k,18:k,23:s,30:k ###"}

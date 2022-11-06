@@ -7,7 +7,8 @@ import os
 import openai
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
-finetune = "davinci:ft-personal:autodrummer-v5-2022-11-04-22-34-07"
+# finetune = "davinci:ft-personal:autodrummer-v5-2022-11-04-22-34-07"
+finetune = "davinci:ft-personal:autodrummer-v6-2022-11-06-19-49-37"
 
 def get_note_text(prompt):
     prompt = prompt + " ->"
@@ -24,7 +25,7 @@ def get_note_text(prompt):
     )
     return response.choices[0].text.strip()
 
-prompt = "disco dance funk"
+prompt = "rock funk hybrid"
 
 test_text = get_note_text(prompt)
 
@@ -33,10 +34,12 @@ test_text = get_note_text(prompt)
 print(test_text)
 print(len(test_text.split(" ")))
 
-audio = text_to_audio(test_text, 135)
+audio = text_to_audio(test_text, 135, periodic=True)
 play(audio)
 # save audio
 audio.export(f"model-outs/{prompt}-{test_text.replace(' ', '')}.wav", format="wav")
+
+exit()
 
 meta = pd.read_csv("e-gmd-q/info-matrix-text-multiple.csv")
 

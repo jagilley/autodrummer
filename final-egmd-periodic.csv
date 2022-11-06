@@ -1,0 +1,7027 @@
+prompt,completion
+funk groove acoustic ->," None
+0:r
+None
+2:k,4:h,6:h,7:s
+0:k,4:s,8:h,9:s
+0:y,9:h,12:s,16:h,18:h,26:h,27:k,28:s,31:s ###"
+funk groove dark hybrid ->," None
+0:r
+None
+2:k,4:a,6:a,7:s
+0:k,4:s,8:a,9:s
+0:y,9:a,12:s,16:a,18:a,26:a,27:k,28:s,31:s ###"
+funk groove big room layered ->," None
+0:r
+None
+2:k,4:h,4:s,6:h,7:s
+0:k,8:h,9:s
+0:y,9:h,16:h,18:h,26:h,27:k,31:s ###"
+soul groove acoustic ->," None
+None
+2:h
+4:s
+0:k,4:h,8:h,10:k,15:k
+0:k,5:s,12:h,13:s,16:h,28:k ###"
+soul groove dark hybrid ->," None
+0:a
+None
+4:s
+0:k,10:k,15:k
+5:s,13:s ###"
+funk groove acoustic ->," None
+None
+None
+4:s
+0:k,2:h,3:k,4:k,7:k,8:h,9:k,10:l,10:k,12:h,12:s,14:k,15:s
+0:k,6:h,12:k,14:s,16:h,16:s,17:s,22:k,23:s,28:h,31:s ###"
+funk groove dark hybrid ->," None
+0:a
+None
+4:s
+0:k,3:k,7:k,9:k,10:k,12:a,12:s,15:s
+14:s,16:s,17:s,23:s,31:s ###"
+funk groove deep daft ->," None
+None
+None
+4:s
+0:k,2:h,3:k,4:k,7:k,8:h,9:k,10:k,10:a,12:h,12:s,14:k,15:s
+0:k,6:h,12:k,14:s,16:h,16:s,17:s,22:k,23:s,28:h,31:s ###"
+soul groove acoustic ->," None
+1:h
+0:h
+7:s
+0:k,3:k,6:k,9:k,9:s,10:h,10:k,12:s,13:k,14:h
+0:s,2:k,4:s,9:s,13:s,17:s,18:h,18:s,20:z ###"
+soul groove dark hybrid ->," 0:a
+None
+None
+7:s
+0:k,3:k,9:k,9:s,10:k,12:s,13:k
+0:s,4:s,9:s,13:s,17:s,18:s,20:z ###"
+soul groove 808 simple ->," None
+1:h
+0:h
+4:s,7:s
+0:k,3:k,6:k,9:k,9:s,10:h,10:k,13:k,14:h
+0:s,2:k,9:s,13:s,17:s,18:h,18:s ###"
+soul groove acoustic ->," None
+None
+None
+0:k,2:k
+4:s,6:h,7:h,9:h
+0:h,4:k,12:s,12:k,14:h,15:h,16:k,20:h,28:s,28:h,30:l ###"
+soul groove dark hybrid ->," None
+None
+2:a
+0:k,4:a
+0:a,4:s,7:a,9:a
+12:s,15:a,28:s ###"
+soul groove big room layered ->," None
+None
+None
+0:k,2:k,4:s
+6:h,7:h,9:h
+0:h,4:k,12:k,14:h,15:h,16:k,20:h,28:h,30:l ###"
+soul groove deep daft ->," None
+None
+None
+0:k,2:k
+4:s,6:h,7:h,9:h
+0:h,4:k,12:s,12:k,14:h,15:h,16:k,20:h,28:s,28:h,30:a ###"
+funk groove acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:h,1:k,2:h,3:h,3:k,4:h,4:z,5:h,6:k,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"
+funk groove dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:k,1:a,2:a,3:k,3:a,4:z,4:a,5:a,6:a,7:a,7:s,8:a,9:a,9:s,10:k,10:a,11:a,12:a,12:s,13:k,13:a,14:a,15:s,15:a ###"
+funk groove 808 simple ->," None
+None
+None
+None
+None
+0:h,0:k,1:h,1:k,2:h,3:h,3:k,4:s,4:h,5:h,6:k,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"
+hiphop groove acoustic ->," None
+None
+None
+2:k
+0:k,3:h,3:k,4:s,4:k,5:h,7:h,7:k,8:k,9:h,9:k,10:k
+0:h,1:h,6:k,11:h,12:s,12:k,13:h,13:k,14:k,15:h,15:k,16:k,17:k,21:s,22:h,28:k,30:k ###"
+hiphop groove dark hybrid ->," None
+None
+None
+0:a,1:a,2:a
+0:k,3:k,3:a,4:s,4:a,5:a,6:a,7:k,7:a,9:k,10:k
+11:a,12:s,12:a,13:k,13:a,14:a,15:k,15:a,21:s,28:k,30:k ###"
+pop groove acoustic ->," None
+None
+None
+None
+0:h,2:h,4:h,4:k,6:h
+0:k,4:z,8:h,8:k,10:h,12:h,12:s,14:h,17:k,20:s ###"
+pop groove dark hybrid ->," None
+None
+None
+None
+0:a,2:a,4:k,4:a,6:a
+0:k,4:z,8:k,8:a,10:a,12:a,12:s,14:a,17:k,20:s ###"
+pop groove 808 simple ->," None
+None
+None
+None
+0:h,2:h,4:s,4:h,4:k,6:h
+0:k,8:h,8:k,10:h,12:h,12:s,14:h,17:k ###"
+rock groove acoustic ->," None
+None
+None
+0:k,2:k,4:s
+4:k,6:k,7:k,8:k
+0:h,0:k,12:k,14:k,16:h,27:s,29:l,29:k ###"
+rock groove dark hybrid ->," None
+None
+None
+0:k,0:a,2:a,4:s
+4:a,6:a,7:k
+0:a,12:a,14:a,27:s,29:k,29:a ###"
+rock groove deep daft ->," None
+None
+None
+0:k,2:k,4:s
+4:k,6:k,7:k,8:k
+0:h,0:k,12:k,14:k,16:h,27:s,29:k,29:a ###"
+soul groove acoustic ->," None
+0:h
+None
+None
+0:k,4:s,9:k
+12:s,26:k,28:s ###"
+soul groove dark hybrid ->," None
+0:a
+None
+None
+0:k,4:s,9:k
+12:s,26:k,28:s ###"
+soul groove big room layered ->," None
+0:h
+None
+4:s
+0:k,9:k
+26:k ###"
+funk purdieshuffle acoustic ->," None
+None
+None
+None
+None
+0:k,1:l,1:k,3:s,4:s,5:h,5:h,6:s,7:h,7:k,9:s,9:k,11:h,13:k,14:s,15:h,15:k,15:s ###"
+funk purdieshuffle dark hybrid ->," None
+None
+None
+None
+None
+0:k,1:k,1:a,3:s,4:s,5:a,6:s,7:k,7:a,9:s,9:a,11:a,13:a,14:s,15:a,15:k,15:s ###"
+funk purdieshuffle deep daft ->," None
+None
+None
+None
+None
+0:k,1:k,1:a,3:s,4:s,5:h,5:h,6:s,7:h,7:k,9:s,9:k,11:h,13:k,14:s,15:h,15:k,15:s ###"
+latin samba acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,0:z,1:r,2:r,2:h,2:k,3:z,4:r,4:k,4:z,5:r,6:r,6:h,7:k,7:z,8:r,8:k,8:z,9:r,10:r,10:h,11:k,11:z,12:r,12:k,13:r,14:r,14:h,15:k,15:z ###"
+latin samba dark hybrid ->," None
+None
+None
+None
+None
+0:r,0:k,0:z,1:r,2:r,2:k,2:a,3:z,4:r,4:k,4:z,5:r,6:r,6:a,7:k,7:z,8:r,8:k,8:z,9:r,10:r,10:a,11:k,11:z,12:r,12:k,13:r,14:r,14:a,15:k,15:z ###"
+latin samba 808 simple ->," None
+None
+None
+None
+None
+0:s,0:r,0:k,1:r,2:r,2:h,2:k,3:s,4:s,4:r,4:k,5:r,6:r,6:h,7:s,7:k,8:s,8:r,8:k,9:r,10:r,10:h,11:s,11:k,12:r,12:k,13:r,14:r,14:h,15:s,15:k ###"
+jazz funk acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,0:y,2:r,2:h,3:k,4:r,4:s,5:s,6:r,6:h,7:r,7:s,8:r,9:s,10:r,10:h,10:s,10:k,11:r,11:k,12:r,12:z,13:s,14:r,14:h,15:r,15:s ###"
+jazz funk dark hybrid ->," None
+None
+None
+None
+None
+0:r,0:k,0:y,2:r,2:a,3:k,4:r,4:s,5:s,6:r,6:a,7:r,7:s,8:r,9:s,10:s,10:r,10:k,10:a,11:r,11:k,12:r,12:z,13:s,14:r,14:a,15:r,15:s ###"
+jazz funk big room layered ->," None
+None
+None
+None
+2:h
+0:k,4:r,4:k,4:y,6:r,6:h,7:k,8:r,8:s,9:s,10:r,10:h,11:r,11:s,12:r,13:s,14:r,14:h,14:s,14:k,15:r,15:k,16:r,16:z,17:s,18:r,19:r,19:s ###"
+jazz funk 808 simple ->," None
+None
+None
+None
+None
+0:r,0:k,0:y,2:r,2:h,3:k,4:r,4:s,5:s,6:r,6:h,7:r,7:s,8:r,9:s,10:r,10:h,10:s,10:k,11:r,11:k,12:s,12:r,13:s,14:r,14:h,15:r,15:s ###"
+rock prog acoustic ->," None
+None
+None
+None
+None
+0:k,0:k,2:h,3:h,5:k,6:k,8:s,9:h,11:h,12:k,14:k,15:h,15:k ###"
+rock prog dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,2:a,3:a,5:a,6:k,8:s,9:a,11:a,12:a,14:a,15:k,15:a ###"
+punk acoustic ->," None
+None
+2:k
+0:k,4:h
+0:s,2:s,5:k,8:h,12:k,12:s,14:z
+0:k,6:z,10:z,16:h,20:s,22:s,24:s,26:s ###"
+punk dark hybrid ->," None
+0:a
+None
+0:k
+0:s,2:s,5:k,12:k,12:s,14:z
+6:z,10:z,20:s,22:s,24:s,26:s ###"
+punk 808 simple ->," None
+None
+2:k
+0:k,4:h
+0:s,2:s,5:k,8:h,10:s,12:k,12:s,14:s
+0:k,6:s,16:h,20:s,22:s,24:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:r,0:k,2:r,2:s,4:r,4:k
+6:r,6:k,8:r,10:r,10:s,12:r,14:r ###"
+rock acoustic ->," None
+None
+None
+None
+8:h
+16:h,20:h,28:s,30:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+8:a
+16:a,20:a,28:s,30:a ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,1:s,2:s,3:s,5:s,6:s,8:t,9:t,11:x,12:x
+None ###"
+jazz acoustic ->," None
+None
+2:s
+0:s,1:s
+3:s,12:s,15:s
+5:s,7:s,20:s,22:s,27:s,29:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,0:y,2:z,3:k,3:y,5:s,6:y,7:k,9:s,10:k,10:y,12:s
+None ###"
+rock 808 simple ->," None
+None
+None
+None
+0:k,0:y,2:s,3:k,3:y,5:s,6:y,7:k,9:s,10:k,10:y,12:s
+None ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,12:h,12:k,13:h,14:h,15:k,16:h,16:s,18:h,20:h,20:k,22:h,24:s,24:k,26:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,12:k,12:a,13:a,14:a,15:k,16:a,16:s,18:a,20:k,20:a,22:a,24:a,24:s,26:a ###"
+rock acoustic ->," None
+0:r
+None
+4:s
+0:k,7:s,9:s,10:k,11:k
+14:k ###"
+rock acoustic ->," None
+0:r
+0:k,2:s
+3:s
+None
+None ###"
+funk groove acoustic ->," None
+0:r
+0:h
+2:k,4:s,7:s
+0:k,9:s,11:k
+3:k,17:s ###"
+funk groove dark hybrid ->," None
+0:r
+0:a
+2:k,4:s,7:s
+0:k,9:s,11:k
+3:k,17:s ###"
+soul groove acoustic ->," None
+None
+None
+4:s
+0:k,1:s,2:s,4:k,6:k,8:k,10:k,15:k
+2:k,6:s,8:s,9:s,10:h,10:s,12:l,14:h,16:l,18:h,26:k,28:k,29:s,30:k,31:s ###"
+soul groove dark hybrid ->," None
+None
+2:a
+4:s,4:a
+0:k,1:s,2:s,8:a,10:k,15:k
+6:s,8:s,9:s,10:s,16:a,29:s,31:s ###"
+soul groove deep daft ->," None
+None
+None
+4:s
+0:k,1:s,2:s,4:k,6:k,8:k,10:k,15:k
+2:k,6:s,8:s,9:s,10:h,10:s,12:a,14:h,16:a,18:h,26:k,28:k,29:s,30:k,31:s ###"
+funk groove acoustic ->," None
+None
+None
+0:k,2:s,2:k
+0:k,4:s,6:k,7:k,8:s,9:k,10:k
+2:s,4:k,12:s,12:k,14:k,16:s,17:s,20:l,24:s,26:s,28:l,28:s,30:h,30:h,31:s ###"
+funk groove dark hybrid ->," None
+0:a
+None
+2:s
+0:k,4:s,7:k,8:s,9:k,10:k
+2:s,12:s,16:s,17:s,24:s,26:s,28:s,30:a,31:s ###"
+funk groove big room layered ->," None
+None
+None
+0:k,2:s,2:k,4:s
+0:k,6:k,7:k,8:s,9:k,10:k
+2:s,4:k,12:k,14:k,16:s,17:s,20:l,24:s,26:s,28:l,30:h,30:h,31:s ###"
+funk groove deep daft ->," None
+None
+None
+0:k,2:s,2:k
+0:k,4:s,6:k,7:k,8:s,9:k,10:k
+2:s,4:k,12:s,12:k,14:k,16:s,17:s,20:a,24:s,26:s,28:s,28:a,30:h,30:h,31:s ###"
+soul groove acoustic ->," None
+None
+1:k,2:k
+3:k,4:k,7:k
+0:k,0:k,3:k,7:k,9:k,10:k,12:s,13:k
+2:s,4:s,8:k,10:s,11:s,15:h,17:s,20:z,24:l,26:k,30:s,31:k ###"
+soul groove dark hybrid ->," 0:a
+None
+None
+7:k
+0:k,3:k,9:k,10:k,12:s,13:k
+2:s,4:s,10:s,11:s,17:s,20:z,26:k,30:s ###"
+soul groove 808 simple ->," None
+None
+1:k,2:k
+3:k,4:k,7:k
+0:k,0:k,3:k,7:k,9:k,10:k,12:s,13:k
+2:s,4:s,8:k,10:s,11:s,15:h,17:s,20:s,24:l,26:k,30:s,31:k ###"
+soul groove deep daft ->," None
+None
+1:k,2:k
+3:k,4:k,7:k
+0:k,0:k,3:k,7:k,9:k,10:k,12:s,13:k
+2:s,4:s,8:k,10:s,11:s,15:h,17:s,20:z,24:a,26:k,30:s,31:k ###"
+soul groove acoustic ->," None
+None
+None
+0:k,2:k
+6:k,7:k,9:k,15:l
+4:s,10:s,12:s,14:l,16:h,20:z,28:s,30:k ###"
+soul groove dark hybrid ->," None
+None
+2:a
+0:k,7:a
+9:a
+4:s,10:s,12:s,16:a,20:z,28:s ###"
+soul groove big room layered ->," None
+None
+None
+0:k,2:k
+6:k,7:k,9:k,12:s,15:l
+4:s,10:s,14:l,16:h,20:z,30:k ###"
+soul groove 808 simple ->," None
+None
+None
+0:k,2:k
+4:s,6:k,7:k,9:k,15:l
+10:s,12:s,14:l,16:h,28:s,30:k ###"
+soul groove deep daft ->," None
+None
+None
+0:k,2:k
+6:k,7:k,9:k,15:a
+4:s,10:s,12:s,14:a,16:h,20:z,28:s,30:k ###"
+funk groove acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,0:k,1:s,1:k,2:k,3:h,3:k,4:s,4:s,4:k,5:k,6:k,7:l,7:k,8:l,9:k,10:k,10:k,11:k,12:s,12:l,12:h,12:s,13:k,13:k,14:k,15:k ###"
+funk groove dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:s,1:a,2:a,3:k,3:a,4:s,4:s,4:a,5:a,6:a,7:k,7:a,8:a,9:a,10:k,10:a,11:a,12:s,12:s,12:a,13:k,13:a,14:a,15:a ###"
+funk groove big room layered ->," None
+None
+None
+None
+None
+0:h,0:k,0:k,1:s,1:k,2:k,3:h,3:k,4:s,4:k,5:k,6:k,7:l,7:k,8:l,9:k,10:k,10:k,11:k,12:l,12:h,12:s,13:k,13:k,14:k,15:k ###"
+funk groove deep daft ->," None
+None
+None
+None
+None
+0:h,0:k,0:k,1:s,1:k,2:k,3:h,3:k,4:s,4:s,4:k,5:k,6:k,7:k,7:a,8:a,9:k,10:k,10:k,11:k,12:s,12:s,12:h,12:a,13:k,13:k,14:k,15:k ###"
+hiphop groove acoustic ->," None
+0:k
+None
+None
+0:k,10:k
+4:s,7:k,9:k,12:s,13:k,15:k,18:k,18:s,20:s,21:k,24:k,28:k,30:k ###"
+hiphop groove dark hybrid ->," None
+0:a
+None
+None
+0:k,10:k
+4:s,7:k,9:k,12:s,13:k,15:k,18:k,18:s,20:s,21:k,24:k,28:k,30:k ###"
+hiphop groove big room layered ->," None
+0:k
+None
+None
+0:k,4:s,10:k
+7:k,9:k,12:s,13:k,15:k,18:k,18:s,21:k,24:k,28:k,30:k ###"
+pop groove acoustic ->," None
+None
+None
+4:s,4:k
+0:k,0:k,2:z,7:s,10:h,14:k
+2:k,4:h,6:h,8:k,8:k,10:z,18:h,21:s,22:k,24:l,24:s,26:k,29:s,30:k,31:s ###"
+pop groove dark hybrid ->," None
+0:a
+None
+4:s
+0:k,2:z,7:s
+4:a,8:k,10:z,21:s,24:s,26:k,29:s,30:k,31:s ###"
+pop groove 808 simple ->," None
+None
+None
+4:s,4:k
+0:k,0:k,2:s,7:s,10:h,14:k
+2:k,4:h,6:h,8:k,8:k,10:s,18:h,21:s,22:k,24:l,24:s,26:k,29:s,30:k,31:s ###"
+pop groove deep daft ->," None
+None
+None
+4:s,4:k
+0:k,0:k,2:z,7:s,10:h,14:k
+2:k,4:h,6:h,8:k,8:k,10:z,18:h,21:s,22:k,24:a,24:s,26:k,29:s,30:k,31:s ###"
+rock groove acoustic ->," None
+None
+None
+0:k,0:k,4:s
+2:k,4:k,6:k,7:k,8:k
+0:k,4:s,10:k,12:s,12:k,13:s,14:k,18:s,20:s,21:s,26:h,27:s,29:l,29:k,29:j ###"
+rock groove dark hybrid ->," None
+None
+None
+0:k,0:a,2:a,4:s
+4:a,6:a,7:k,8:k
+0:k,4:s,12:s,12:a,13:s,14:a,18:s,20:s,21:s,27:s,29:k,29:a ###"
+rock groove big room layered ->," None
+None
+None
+0:k,0:k,4:s
+2:k,4:s,4:k,6:k,7:k,8:k
+0:k,10:k,12:s,12:k,13:s,14:k,18:s,21:s,26:h,27:s,29:l,29:k,29:j ###"
+rock groove deep daft ->," None
+None
+None
+0:k,0:k,4:s
+2:k,4:k,6:k,7:k,8:k
+0:k,4:s,10:k,12:s,12:k,13:s,14:k,18:s,20:s,21:s,26:h,27:s,29:k,29:a ###"
+soul groove acoustic ->," None
+None
+0:k
+None
+0:k,2:k,6:k,10:h,10:k,12:s,15:k
+4:s,14:k,20:s,25:s,30:h ###"
+soul groove dark hybrid ->," None
+0:a
+None
+None
+0:k,10:k,12:s,15:k
+4:s,20:s,25:s ###"
+soul groove big room layered ->," None
+None
+0:k
+4:s
+0:k,2:k,6:k,10:h,10:k,15:k
+14:k,25:s,30:h ###"
+latin brazilian-sambareggae acoustic ->," None
+None
+0:k,2:h
+0:t,1:s,2:s
+3:s,4:x,5:s,6:x,7:s,12:u,13:u,14:u,15:u
+11:z,27:s ###"
+latin brazilian-sambareggae dark hybrid ->," None
+None
+0:k,2:a
+0:t,1:s,2:s
+3:s,4:x,5:s,6:x,7:s,12:u,13:u,14:u,15:u
+11:z,27:s ###"
+latin brazilian-sambareggae 808 simple ->," None
+None
+0:k,2:h
+0:t,1:s,2:s
+3:s,4:x,5:s,6:x,7:s,12:u,13:u,14:u,15:u
+11:s,27:s ###"
+latin brazilian-maracatu acoustic ->," None
+None
+0:s,2:h
+2:s,5:s,7:s
+0:k,1:s,3:s,5:s,6:s,17:s
+2:s,6:s,9:k,9:s,11:s,13:k,13:s,14:s,15:k,20:k,21:s,22:k,25:t,27:t,30:x ###"
+latin brazilian-maracatu dark hybrid ->," None
+None
+0:s,2:a
+2:s,5:s,7:s
+0:k,1:s,3:s,5:s,6:s,17:s
+2:s,6:s,9:k,9:s,11:s,13:k,13:s,14:s,15:k,20:k,21:s,22:k,25:t,27:t,30:x ###"
+reggae acoustic ->," None
+None
+None
+0:k
+4:k
+2:h,4:l,6:h,7:s,10:s,12:l,15:k,16:h,19:s,19:k,20:k,23:h,27:z ###"
+reggae dark hybrid ->," None
+None
+None
+None
+0:k,0:a,4:a
+2:a,3:s,6:s,8:a,11:a,12:a,15:a,15:s,19:a,23:z ###"
+reggae 808 simple ->," None
+None
+None
+0:k
+4:k
+2:h,4:l,6:h,7:s,10:s,12:l,15:k,16:h,19:s,19:k,20:k,23:h,27:s ###"
+reggae deep daft ->," None
+None
+None
+0:k
+4:k
+2:h,4:a,6:h,7:s,10:s,12:a,15:k,16:h,19:s,19:k,20:k,23:h,27:z ###"
+funk groove acoustic ->," None
+0:r
+None
+2:k,7:s
+0:k,9:s,11:k,12:s
+4:s,20:s ###"
+funk groove big room layered ->," None
+0:r
+None
+2:k,4:s,7:s
+0:k,9:s,11:k
+None ###"
+soul groove acoustic ->," None
+None
+None
+2:h,4:s,4:k,6:k
+0:k,1:k,7:s,9:s,10:k
+8:h,16:k,24:k ###"
+soul groove dark hybrid ->," None
+None
+1:a
+3:s,3:a
+0:k,6:s,7:a,8:s,9:k
+15:k,15:a ###"
+funk groove acoustic ->," None
+None
+None
+0:h,4:s,6:h
+0:k,2:h,3:k,4:h,7:k,9:k,10:j,12:h
+10:k,12:h,25:k,28:j ###"
+funk groove dark hybrid ->," None
+0:a
+None
+4:s
+0:k,3:k,7:k,9:k,12:a
+10:k,25:k ###"
+funk groove deep daft ->," None
+None
+None
+0:h,4:s,6:h
+0:k,2:h,3:k,4:h,7:k,9:k,10:a,12:h
+10:k,12:h,25:k,28:a ###"
+soul groove acoustic ->," None
+1:h
+2:h
+4:k
+0:k,3:k,7:s,9:k,10:k,12:s,13:k,15:k
+0:k,4:s,8:k,16:h,18:s,20:s,24:h,27:s ###"
+soul groove dark hybrid ->," 0:a
+None
+None
+None
+0:k,3:k,7:s,9:k,10:k,12:s,13:k,15:k
+4:s,18:s,20:s,27:s ###"
+soul groove big room layered ->," None
+1:h
+2:h
+4:s,4:k
+0:k,3:k,7:s,9:k,10:k,13:k,15:k
+0:k,8:k,16:h,18:s,24:h,27:s ###"
+soul groove acoustic ->," None
+None
+None
+None
+0:k,1:h,4:s
+2:k,6:h,7:h,8:h,8:k,10:h,12:s,14:h,15:h,18:h,22:j ###"
+soul groove dark hybrid ->," None
+None
+None
+None
+0:k,1:a,2:a,4:s,6:a
+7:a,8:k,8:a,10:a,12:s,14:a,15:a ###"
+soul groove deep daft ->," None
+None
+None
+None
+0:k,1:h,4:s
+2:k,6:h,7:h,8:h,8:k,10:h,12:s,14:h,15:h,18:h,22:a ###"
+funk groove acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:h,2:h,3:h,3:k,4:h,4:s,5:h,6:h,7:h,7:s,8:h,9:h,10:h,10:k,10:s,11:h,12:h,12:s,13:h,13:k,14:h,15:h ###"
+funk groove dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:a,3:k,3:a,4:a,4:s,5:a,6:a,7:s,7:a,8:a,9:a,10:s,10:k,10:a,11:a,12:a,12:s,13:k,13:a,14:a,15:a ###"
+hiphop groove acoustic ->," None
+None
+None
+None
+0:k,4:k,5:h,6:k,7:h,7:k,8:k,9:h,9:k,10:k,10:k
+4:s,11:h,12:s,12:k,13:h,13:k,14:k,15:h,15:k,16:k,17:h,18:k,19:h,19:k,20:s,28:k,30:k ###"
+hiphop groove dark hybrid ->," None
+None
+None
+None
+0:k,4:a,5:a,6:a,7:k,7:a,8:a,9:k,9:a,10:k,10:a
+4:s,11:a,12:a,12:s,13:k,13:a,14:a,15:k,15:a,16:a,17:a,18:a,19:k,19:a,20:s,28:k,30:k ###"
+hiphop groove big room layered ->," None
+None
+None
+None
+0:k,4:s,4:k,5:h,6:k,7:h,7:k,8:k,9:h,9:k,10:k,10:k
+11:h,12:s,12:k,13:h,13:k,14:k,15:h,15:k,16:k,17:h,18:k,19:h,19:k,28:k,30:k ###"
+pop groove acoustic ->," None
+None
+None
+6:h
+0:k,8:h,10:h,12:h
+0:k,4:h,4:s,8:k,12:k,12:s,16:h,18:h,20:s,20:k,26:k,28:s ###"
+pop groove dark hybrid ->," None
+None
+0:a
+6:a
+0:k,10:a
+4:s,8:k,12:k,12:s,18:a,20:s,26:k,28:s ###"
+pop groove big room layered ->," None
+None
+None
+4:s,6:h
+0:k,8:h,10:h,12:h
+0:k,4:h,8:k,12:k,16:h,18:h,20:k,26:k ###"
+rock groove acoustic ->," None
+None
+None
+None
+0:k,2:h,4:k,5:k,6:h,6:k,10:s
+2:s,4:s,8:k,10:h,12:k,14:h,14:k,18:s,24:h,25:s,27:l ###"
+rock groove dark hybrid ->," None
+None
+None
+None
+0:k,1:k,1:a,3:a,5:s
+5:a,7:a,9:k,9:a,11:a,13:a,13:s,15:a,20:s,22:a ###"
+rock groove big room layered ->," None
+None
+None
+2:s
+0:k,2:h,4:k,5:k,6:h,6:k
+4:s,8:k,10:h,12:k,14:h,14:k,24:h,25:s,27:l ###"
+rock groove deep daft ->," None
+None
+None
+None
+0:k,2:h,4:k,5:k,6:h,6:k,10:s
+2:s,4:s,8:k,10:h,12:k,14:h,14:k,18:s,24:h,25:s,27:a ###"
+soul groove acoustic ->," None
+None
+2:h
+0:k,4:h,4:s
+0:k,10:k,15:k
+None ###"
+soul groove dark hybrid ->," None
+0:a
+None
+4:s
+0:k,10:k,15:k
+None ###"
+hiphop acoustic ->," None
+None
+None
+None
+2:h,2:k,3:h,4:k,15:k
+0:k,0:y,5:h,6:h,6:k,7:h,8:k,8:k,9:h,10:h,11:k,12:s,12:k,13:s,14:h,15:k,16:k,17:h,17:k,21:k,22:k,23:s,24:s,24:s,25:h,25:s,26:s,27:s,28:s,29:t,30:u,31:h ###"
+hiphop dark hybrid ->," None
+None
+None
+None
+2:k,2:a,3:a,4:a,5:a,6:a,9:a,15:k,15:a
+0:k,0:y,6:k,7:a,8:k,8:a,10:a,11:k,12:a,12:s,13:s,14:a,16:a,17:k,17:a,23:s,24:s,24:s,25:s,26:s,27:s,28:s,29:t,30:u ###"
+hiphop big room layered ->," None
+None
+None
+None
+2:h,2:k,3:h,4:k,12:s,15:k
+0:k,0:y,5:h,6:h,6:k,7:h,8:k,8:k,9:h,10:h,11:k,12:k,13:s,14:h,15:k,16:k,17:h,17:k,21:k,22:k,23:s,24:s,25:h,25:s,26:s,27:s,29:t,30:u,31:h ###"
+jazz fusion acoustic ->," None
+1:h
+None
+None
+0:h,0:k,10:h,14:h
+4:h,6:h,8:h,12:h,18:h,20:k,24:k,28:k ###"
+jazz fusion dark hybrid ->," None
+1:a
+0:a
+None
+0:k,10:a,14:a
+6:a,18:a ###"
+jazz fusion acoustic ->," None
+None
+None
+None
+0:h,2:k
+0:h,0:k,3:k,4:s,5:s,7:s,8:t,8:s,9:s,11:z,12:t,13:u,14:k,14:k,15:k,15:y,17:k,19:h,20:h,21:k,22:h,23:h,24:k,25:h,26:k,27:s,28:s,29:k,30:h ###"
+jazz fusion dark hybrid ->," None
+None
+None
+None
+0:a
+0:k,1:k,1:y,2:a,3:a,4:a,5:a,6:a,7:a,8:a,9:a,10:a,11:a,12:a,13:s,14:s,15:a ###"
+jazz fusion 808 simple ->," None
+None
+None
+None
+0:h,2:k,11:s
+0:h,0:k,3:k,4:s,5:s,7:s,8:t,8:s,9:s,12:t,13:u,14:k,14:k,15:k,15:y,17:k,19:h,20:h,21:k,22:h,23:h,24:k,25:h,26:k,28:s,29:k,30:h ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:u,0:k,2:x,4:u,6:u,6:h,6:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:u,0:k,2:x,4:u,6:s,6:u,6:a ###"
+rock acoustic ->," None
+None
+None
+None
+2:h,2:s,4:k,5:s,6:r,6:k,8:k,12:r
+0:r,0:k,4:r,8:r,9:h,10:s,12:k,14:y,14:s,14:k,18:k,18:y,24:r,26:s,26:h,29:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+2:s,2:a,4:k,5:s,6:r,6:k,8:k,12:r
+0:r,0:k,4:r,8:r,9:a,10:s,12:k,14:y,14:s,14:k,18:k,18:y,24:r,26:s,26:a,29:s ###"
+rock big room layered ->," None
+None
+None
+2:s
+2:h,4:k,5:s,6:r,6:k,8:k,12:r
+0:r,0:k,4:r,8:r,9:h,12:k,14:y,14:s,14:k,18:k,18:y,24:r,26:h,29:s ###"
+hiphop acoustic ->," None
+0:k
+3:h
+1:h
+0:k,3:k,4:s,5:h,6:k,9:k
+1:h,1:k,6:h,7:k,11:k,11:s,12:s,14:h,15:h,16:k,26:k,28:s,29:h,30:k ###"
+hiphop dark hybrid ->," None
+0:a
+3:a
+1:a
+0:k,3:k,4:s,5:a,6:k,9:k,14:a
+1:a,6:a,7:a,11:k,11:s,12:s,15:a,16:a,26:k,28:s,29:a ###"
+hiphop big room layered ->," None
+0:k
+3:h
+1:h,4:s
+0:k,3:k,5:h,6:k,9:k
+1:h,1:k,6:h,7:k,11:k,11:s,14:h,15:h,16:k,26:k,29:h,30:k ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,0:k,1:h,2:k,3:h,4:s,5:h,6:k,6:k,7:h,8:h,9:k,9:j,10:k,10:k,11:h,12:s,13:h,14:k,15:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:a,3:a,4:s,5:a,6:k,6:a,7:a,8:a,9:k,9:a,10:k,10:a,11:a,12:s,13:a,14:a,15:a ###"
+rock deep daft ->," None
+None
+None
+None
+None
+0:k,0:k,1:h,2:k,3:h,4:s,5:h,6:k,6:k,7:h,8:h,9:k,9:a,10:k,10:k,11:h,12:s,13:h,14:k,15:h ###"
+rock acoustic ->," None
+None
+None
+None
+5:s,7:s
+0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,10:q,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"
+rock jinglestacks 2nd hi-hat ->," None
+None
+None
+None
+5:s,7:s
+0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,10:h,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"
+rock jazz funk ->," None
+None
+None
+None
+5:s,7:s
+0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,10:b,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:r,0:k,2:a,3:k,4:s,6:k,6:a,7:s,8:a,9:s,10:k,10:a,12:s,13:a,14:a,15:a ###"
+rock big room layered ->," None
+None
+None
+None
+5:s,7:s
+0:k,2:l,4:h,4:s,6:s,8:s,9:t,10:l,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"
+rock super boom layered ->," None
+None
+None
+None
+5:s,7:s
+0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,10:l,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,26:s,27:h,28:k,29:k ###"
+rock nu rnb ->," None
+None
+None
+None
+5:s,7:s,10:s
+0:k,2:l,4:h,4:s,6:s,6:s,8:s,9:t,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:l,24:k,27:h,28:k,29:k ###"
+rock deep daft ->," None
+None
+None
+None
+5:s,7:s
+0:k,2:a,4:h,4:s,6:s,6:s,8:s,9:t,10:l,11:x,12:u,13:u,14:r,14:k,16:h,17:k,18:s,20:k,20:k,22:h,24:k,24:a,26:s,27:h,28:k,29:k ###"
+soul acoustic ->," None
+None
+None
+None
+0:k,2:k,4:k,9:s
+4:s,6:k,7:h,8:h,8:k,10:k,10:k,12:z,14:k,15:h,15:s,16:k,19:h,20:z,21:s,22:h,23:j,23:k,23:k,25:s,25:s,26:s,27:h ###"
+soul dark hybrid ->," None
+None
+None
+None
+0:k,2:a,4:k,6:a,7:a,9:s
+4:s,8:k,8:a,10:k,10:a,12:z,14:a,15:a,15:s,16:a,19:a,20:z,21:s,23:k,23:a,25:s,25:s,26:s,27:a ###"
+soul big room layered ->," None
+None
+None
+None
+0:k,2:k,4:k,9:s
+4:s,6:k,7:h,8:h,8:k,10:k,10:k,12:z,14:k,15:h,15:s,16:k,19:h,20:z,21:s,22:h,23:j,23:k,23:k,25:s,26:s,27:h ###"
+soul 808 simple ->," None
+None
+None
+None
+0:k,2:k,4:s,4:k,9:s
+6:k,7:h,8:h,8:k,10:k,10:k,12:s,14:k,15:h,15:s,16:k,19:h,21:s,22:h,23:j,23:k,23:k,25:s,25:s,26:s,27:h ###"
+soul deep daft ->," None
+None
+None
+None
+0:k,2:k,4:k,9:s
+4:s,6:k,7:h,8:h,8:k,10:k,10:k,12:z,14:k,15:h,15:s,16:k,19:h,20:z,21:s,22:h,23:a,23:k,23:k,25:s,25:s,26:s,27:h ###"
+soul acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,4:s,4:h,4:k,6:s,6:k,7:h,8:k,9:s,10:l,11:h,12:k,12:s,14:s,14:k,15:k ###"
+soul dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:s,2:a,4:s,4:k,4:a,6:a,6:s,7:a,8:k,9:s,10:a,11:a,12:k,12:s,14:a,14:s,15:a ###"
+soul big room layered ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,4:h,4:s,4:k,6:s,6:k,7:h,8:k,9:s,10:l,11:h,12:k,12:s,14:s,14:k,15:k ###"
+soul deep daft ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,4:s,4:h,4:k,6:s,6:k,7:h,8:k,9:s,10:a,11:h,12:k,12:s,14:s,14:k,15:k ###"
+hiphop acoustic ->," None
+None
+3:h
+1:h
+0:k,2:h,3:k,4:s,6:k,8:k,9:k,10:k,12:k,13:h,13:k,15:k
+0:h,4:h,6:k,10:h,12:s,14:h,16:k,20:k,21:h,22:h,25:h,26:k,28:s,30:k ###"
+hiphop dark hybrid ->," None
+0:a
+3:a
+1:a
+0:k,3:k,4:s,6:k,9:k,10:k,13:k,13:a,15:k
+12:s,21:a,25:a,28:s ###"
+hiphop big room layered ->," None
+None
+3:h
+1:h,4:s
+0:k,2:h,3:k,6:k,8:k,9:k,10:k,12:k,13:h,13:k,15:k
+0:h,4:h,6:k,10:h,14:h,16:k,20:k,21:h,22:h,25:h,26:k,30:k ###"
+funk groove acoustic ->," None
+None
+2:h
+0:h,2:k,4:s,7:s
+0:k,4:h,9:s,11:k
+12:h,22:s,28:k ###"
+funk groove dark hybrid ->," None
+0:a
+None
+2:k,4:s,7:s
+0:k,9:s,11:k
+22:s ###"
+soul groove acoustic ->," None
+0:h
+None
+None
+0:k,1:k,4:s,8:s,9:s,10:k,14:k
+9:s,10:s,12:s,23:s,24:s,28:s ###"
+soul groove dark hybrid ->," None
+0:a
+None
+None
+0:k,1:k,4:s,8:s,9:s,10:k,14:k
+9:s,10:s,12:s,23:s,24:s,28:s ###"
+soul groove big room layered ->," None
+0:h
+None
+4:s
+0:k,1:k,8:s,9:s,10:k,14:k
+9:s,10:s,23:s,24:s ###"
+funk groove acoustic ->," None
+None
+None
+6:h
+0:k,2:h,3:k,7:k,8:h,9:k,10:l,10:k,12:h
+0:h,4:s,4:h,12:s,16:k,20:s,20:k,28:s,28:j ###"
+funk groove dark hybrid ->," None
+0:a
+None
+None
+0:k,3:k,7:k,9:k,10:k
+4:s,12:s,20:s,28:s,28:a ###"
+funk groove big room layered ->," None
+None
+None
+4:s,6:h
+0:k,2:h,3:k,7:k,8:h,9:k,10:l,10:k,12:h
+0:h,4:h,16:k,20:k,28:j ###"
+funk groove deep daft ->," None
+None
+None
+6:h
+0:k,2:h,3:k,7:k,8:h,9:k,10:k,10:a,12:h
+0:h,4:s,4:h,12:s,16:k,20:s,20:k,28:s,28:a ###"
+soul groove acoustic ->," 0:h
+None
+None
+None
+0:k,3:k,4:s,7:s,9:k,10:k,12:s,13:k,15:k
+None ###"
+soul groove dark hybrid ->," 0:a
+None
+None
+None
+0:k,3:k,4:s,7:s,9:k,10:k,12:s,13:k,15:k
+None ###"
+soul groove big room layered ->," 0:h
+None
+None
+4:s
+0:k,3:k,7:s,9:k,10:k,13:k,15:k
+None ###"
+soul groove acoustic ->," None
+None
+2:h
+0:k,4:h,4:s,7:h
+0:h,9:h
+None ###"
+soul groove dark hybrid ->," None
+None
+2:a
+0:k,4:s,4:a,7:a
+0:a,9:a
+None ###"
+funk groove acoustic ->," None
+None
+None
+None
+0:h,0:k,3:h,12:s
+0:s,3:s,4:h,6:s,6:k,8:h,9:s,10:s,10:h,12:h,13:s,14:s,14:h,15:s,17:h,18:h,19:k,20:s,20:h,21:h,22:h,23:s,23:h,24:h,25:h,26:h,26:k,27:h,28:h,29:h,29:k,30:h,31:h ###"
+funk groove dark hybrid ->," None
+None
+0:a
+6:a
+0:k,3:a,10:a,12:s
+0:s,3:s,6:s,9:s,10:s,13:s,14:s,15:s,17:a,18:a,19:k,20:s,21:a,23:s,23:a,25:a,26:k,27:a,29:k,29:a,31:a ###"
+funk groove big room layered ->," None
+None
+None
+None
+0:h,0:k,3:h,12:s
+0:s,3:s,4:h,6:s,6:k,8:h,9:s,10:h,10:s,12:h,13:s,14:h,14:s,15:s,17:h,18:h,19:k,20:h,20:s,21:h,22:h,23:h,23:s,24:h,25:h,26:h,26:k,27:h,28:h,29:h,29:k,30:h,31:h ###"
+hiphop groove acoustic ->," None
+None
+None
+None
+0:k,4:h,5:h,6:h,7:h,7:k,8:h,9:k,10:k
+1:k,4:k,4:s,9:h,10:h,11:h,12:s,12:h,13:h,13:k,14:h,15:h,15:k,16:h,17:h,18:h,19:h,19:k,20:s,28:w,28:k,28:s,30:w,30:k ###"
+hiphop groove dark hybrid ->," None
+None
+None
+None
+0:k,4:a,5:a,6:a,7:k,7:a,8:a,9:k,10:k
+1:k,4:k,4:s,9:a,10:a,11:a,12:s,12:a,13:k,13:a,14:a,15:k,15:a,16:a,17:a,18:a,19:k,19:a,20:s,28:w,28:k,28:s,30:w,30:k ###"
+hiphop groove big room layered ->," None
+None
+None
+4:s
+0:k,4:h,5:h,6:h,7:h,7:k,8:h,9:k,10:k
+1:k,4:k,9:h,10:h,11:h,12:h,13:h,13:k,14:h,15:h,15:k,16:h,17:h,18:h,19:h,19:k,28:k,28:l,30:k,30:l ###"
+hiphop groove nu rnb ->," None
+None
+None
+None
+0:k,4:h,5:h,6:h,7:h,7:k,8:h,9:k,10:k
+1:k,4:k,4:s,9:h,10:h,11:h,12:s,12:h,13:h,13:k,14:h,15:h,15:k,16:h,17:h,18:h,19:h,19:k,20:s,28:k,28:z,28:s,30:k,30:z ###"
+pop groove acoustic ->," None
+None
+0:h
+2:h,4:s
+0:k,6:h
+8:k,12:k,26:k,30:h ###"
+pop groove dark hybrid ->," None
+None
+0:a
+2:a,4:s
+0:k,6:a
+8:k,12:k,26:k,30:a ###"
+rock groove acoustic ->," None
+None
+None
+0:h,0:k,2:h,4:s
+4:h,6:h,7:k
+12:h,14:h,27:s,29:l,29:k ###"
+rock groove dark hybrid ->," None
+None
+None
+0:k,0:a,2:a,4:s
+4:a,6:a,7:k
+12:a,14:a,27:s,29:k,29:a ###"
+rock groove deep daft ->," None
+None
+None
+0:h,0:k,2:h,4:s
+4:h,6:h,7:k
+12:h,14:h,27:s,29:k,29:a ###"
+soul groove acoustic ->," None
+0:h
+None
+4:s
+0:k,10:k,15:k
+None ###"
+funk acoustic ->," None
+None
+None
+7:s
+4:k,7:h,8:k,9:s,10:k,12:h,14:s,14:k,15:s
+0:k,0:k,4:s,6:k,10:k,11:s,16:s,17:s,18:l,18:k,20:s,20:h,21:s,22:h,23:s,24:s,26:l,28:s,28:k ###"
+funk dark hybrid ->," None
+None
+None
+4:a,6:a,7:s
+7:a,8:a,9:s,10:k,10:a,14:s,15:s
+0:k,0:a,4:s,11:s,16:s,17:s,18:k,18:a,20:s,20:a,21:s,23:s,24:s,28:a,28:s ###"
+funk big room layered ->," None
+None
+None
+7:s
+4:s,4:k,7:h,8:k,9:s,10:k,12:h,14:s,14:k,15:s
+0:k,0:k,6:k,10:k,11:s,16:s,17:s,18:l,18:k,20:h,21:s,22:h,23:s,24:s,26:l,28:s,28:k ###"
+funk deep daft ->," None
+None
+None
+7:s
+4:k,7:h,8:k,9:s,10:k,12:h,14:s,14:k,15:s
+0:k,0:k,4:s,6:k,10:k,11:s,16:s,17:s,18:k,18:a,20:s,20:h,21:s,22:h,23:s,24:s,26:a,28:s,28:k ###"
+funk acoustic ->," None
+None
+None
+0:k,6:k
+2:k,4:k,7:k,10:l,12:s,12:h
+4:y,16:y,24:y ###"
+funk dark hybrid ->," None
+None
+2:a
+0:k
+4:k,7:k,12:s,12:a
+4:y,16:y,24:y ###"
+funk big room layered ->," None
+None
+None
+0:k,6:k
+2:k,4:k,7:k,10:l,12:h,12:s
+4:y,16:y,24:y ###"
+funk deep daft ->," None
+None
+None
+0:k,6:k
+2:k,4:k,7:k,10:a,12:s,12:h
+4:y,16:y,24:y ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,0:y,12:h
+10:s,11:s,13:t,14:x,20:r,20:s,22:r,22:h,23:s,24:r,24:k,26:r,26:k,28:r,28:s,30:r,30:k ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,0:y,12:a
+10:s,11:s,13:t,14:x,20:r,20:s,22:r,22:a,23:s,24:r,24:k,26:r,26:k,28:r,28:s,30:r,30:k ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,0:y,2:r,4:r,4:s,6:r,7:s,8:h,8:s,9:t,9:z,10:t,11:t,12:h,12:x,13:x,14:x,15:x ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:y,2:r,4:r,4:s,6:r,7:s,8:a,8:s,9:t,9:z,10:t,11:t,12:x,12:a,13:x,14:x,15:x ###"
+rock 808 simple ->," None
+None
+None
+None
+None
+0:k,0:y,2:r,4:r,4:s,6:r,7:s,8:h,8:s,9:s,9:t,10:t,11:t,12:h,12:x,13:x,14:x,15:x ###"
+rock acoustic ->," None
+None
+0:l
+0:k,4:s
+2:k,6:k
+10:k,14:k ###"
+rock dark hybrid ->," None
+None
+0:a
+0:k,4:s
+2:k,6:k
+10:k,14:k ###"
+funk acoustic ->," None
+None
+None
+None
+None
+0:k,0:j,1:h,2:h,2:k,3:h,4:h,4:s,5:h,5:k,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,11:s,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"
+funk dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:k,2:a,3:a,4:s,4:a,5:k,5:a,6:a,7:a,7:s,8:a,9:s,9:a,10:k,10:a,11:s,11:a,12:a,12:s,13:k,13:a,14:a,15:a,15:s ###"
+funk deep daft ->," None
+None
+None
+None
+None
+0:k,0:a,1:h,2:h,2:k,3:h,4:h,4:s,5:h,5:k,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,11:s,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"
+dance disco acoustic ->," None
+None
+0:k
+4:h
+8:h,14:h,15:s
+0:h,0:y,2:l,2:k,4:s,4:h,5:s,6:k,7:s,10:s,10:k,12:s,16:h,18:h,20:s,22:h,26:h,28:z,31:h ###"
+dance disco dark hybrid ->," None
+0:a
+0:k
+None
+15:s
+0:y,2:k,4:s,4:a,5:s,7:s,10:s,12:s,20:s,28:z,31:a ###"
+dance disco big room layered ->," None
+None
+0:k
+4:h
+4:s,8:h,14:h,15:s
+0:h,0:y,2:l,2:k,4:h,5:s,6:k,7:s,10:s,10:k,12:s,16:h,18:h,22:h,26:h,28:z,31:h ###"
+dance disco 808 simple ->," None
+None
+0:k
+4:h
+8:h,14:h,15:s
+0:h,0:y,2:l,2:k,4:s,4:h,5:s,6:k,7:s,10:s,10:k,12:s,16:h,18:h,20:s,22:h,26:h,28:s,31:h ###"
+dance disco deep daft ->," None
+None
+0:k
+4:h
+8:h,14:h,15:s
+0:h,0:y,2:k,2:a,4:s,4:h,5:s,6:k,7:s,10:s,10:k,12:s,16:h,18:h,20:s,22:h,26:h,28:z,31:h ###"
+funk acoustic ->," None
+None
+None
+None
+None
+0:k,0:k,1:s,2:h,2:s,3:h,3:k,4:k,5:s,6:h,7:h,8:k,9:s,10:h,10:k,10:s,11:h,11:k,12:l,12:z,13:s,14:h,14:h,15:h ###"
+funk dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:s,2:s,2:a,3:k,3:a,4:a,5:s,6:a,7:a,8:a,9:s,10:s,10:k,10:a,11:k,11:a,12:z,12:a,13:s,14:a,15:a ###"
+funk 808 simple ->," None
+None
+None
+None
+None
+0:k,0:k,1:s,2:h,2:s,3:h,3:k,4:k,5:s,6:h,7:h,8:k,9:s,10:h,10:k,10:s,11:h,11:k,12:s,12:l,13:s,14:h,14:h,15:h ###"
+funk deep daft ->," None
+None
+None
+None
+None
+0:k,0:k,1:s,2:h,2:s,3:h,3:k,4:k,5:s,6:h,7:h,8:k,9:s,10:h,10:k,10:s,11:h,11:k,12:z,12:a,13:s,14:h,14:h,15:h ###"
+latin brazilian-baiao acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,3:k,4:h,6:s,6:j,7:s,8:h,8:h,8:k,9:h,10:h,11:k,12:h,13:h,14:h,14:z ###"
+latin brazilian-baiao dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:s,2:a,3:k,4:a,6:s,6:a,7:s,8:k,8:a,9:a,10:a,11:k,12:a,13:a,14:z,14:a ###"
+latin brazilian-baiao big room layered ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,3:k,4:h,6:j,6:s,7:s,8:h,8:h,8:k,9:h,10:h,11:k,12:h,13:h,14:h,14:z ###"
+latin brazilian-baiao 808 simple ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,3:k,4:h,6:s,6:j,7:s,8:h,8:h,8:k,9:h,10:h,11:k,12:h,13:h,14:s,14:h ###"
+latin brazilian-baiao deep daft ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,3:k,4:h,6:s,6:a,7:s,8:h,8:h,8:k,9:h,10:h,11:k,12:h,13:h,14:h,14:z ###"
+afrocuban acoustic ->," None
+None
+3:h
+4:h,5:h,6:h
+0:h,9:h,10:h
+0:h,0:k,2:k,8:h,17:h,18:h,24:k ###"
+afrocuban dark hybrid ->," None
+0:a
+3:a
+5:a
+9:a
+0:k,0:a,17:a ###"
+afrocuban acoustic ->," None
+None
+None
+0:k,1:h,1:r,3:r,3:k,3:h,4:r,4:s
+0:s,2:s,5:h,5:r,6:s,7:r,7:h,7:s,8:r
+10:s,13:h,13:r,15:r,15:h,15:s,26:z ###"
+afrocuban dark hybrid ->," None
+None
+None
+0:k,1:r,1:a,3:r,3:k,3:a,4:r,4:s
+0:s,2:s,5:r,5:a,6:s,7:a,7:r,7:s,8:r
+10:s,13:r,13:a,15:s,15:r,15:a,26:z ###"
+afrocuban 808 simple ->," None
+None
+None
+0:k,1:h,1:r,3:r,3:k,3:h,4:r,4:s
+0:s,2:s,5:h,5:r,6:s,7:r,7:h,7:s,8:r
+10:s,13:h,13:r,15:r,15:h,15:s,26:s ###"
+reggae acoustic ->," None
+None
+None
+None
+None
+0:k,2:h,2:k,2:z,4:h,6:h,6:z,8:h,9:z,10:h,10:k,12:l,12:z ###"
+reggae dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:z,0:a,2:a,4:z,4:a,6:a,7:z,8:k,8:a,10:z,10:a ###"
+reggae 808 simple ->," None
+None
+None
+None
+None
+0:k,2:s,2:h,2:k,4:h,6:s,6:h,8:h,9:s,10:h,10:k,12:s,12:l ###"
+reggae deep daft ->," None
+None
+None
+None
+None
+0:k,2:h,2:k,2:z,4:h,6:h,6:z,8:h,9:z,10:h,10:k,12:z,12:a ###"
+reggae slow acoustic ->," None
+None
+None
+None
+None
+0:k,1:h,2:h,2:k,3:h,4:k,5:h,6:h,6:z,7:h,8:h,9:h,9:z,10:k,11:h,12:h,12:z,13:h,13:z ###"
+reggae slow dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:a,3:a,4:z,4:a,5:a,6:a,7:z,7:a,8:k,9:a,10:z,10:a,11:z,11:a ###"
+reggae slow 808 simple ->," None
+None
+None
+None
+None
+0:k,1:h,2:h,2:k,3:h,4:k,5:h,6:s,6:h,7:h,8:h,9:s,9:h,10:k,11:h,12:s,12:h,13:s,13:h ###"
+rock halftime acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,2:h,4:h,6:h,8:s,8:h,10:h,12:k,14:h,14:k ###"
+rock halftime dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,2:a,4:a,6:a,8:s,8:a,10:a,12:a,14:k,14:a ###"
+rock halftime big room layered ->," None
+None
+None
+None
+None
+0:h,0:k,2:h,4:h,6:h,8:h,8:s,10:h,12:k,14:h,14:k ###"
+funk acoustic ->," None
+None
+None
+None
+None
+0:k,1:h,2:k,3:r,3:k,3:y,5:h,6:h,7:h,7:z,8:k,9:h,9:k,10:h,10:s,11:h,11:k,12:h,12:s,13:h,13:k,13:s,14:h,14:k,15:l,15:z,16:s,17:l,18:s ###"
+funk dark hybrid ->," None
+None
+None
+None
+1:a
+0:k,2:k,3:r,3:k,3:y,5:a,6:a,7:z,7:a,8:a,9:a,10:a,10:s,11:a,12:a,12:s,13:a,13:k,13:s,14:k,14:a,15:z,15:a,16:s,18:s ###"
+funk 808 simple ->," None
+None
+None
+None
+None
+0:k,1:h,2:k,3:r,3:k,3:y,5:h,6:h,7:s,7:h,8:k,9:h,9:k,10:h,10:s,11:h,11:k,12:h,12:s,13:h,13:k,13:s,14:h,14:k,15:s,15:l,16:s,17:l,18:s ###"
+funk deep daft ->," None
+None
+None
+None
+None
+0:k,1:h,2:k,3:r,3:k,3:y,5:h,6:h,7:h,7:z,8:k,9:h,9:k,10:h,10:s,11:h,11:k,12:h,12:s,13:h,13:k,13:s,14:h,14:k,15:z,15:a,16:s,17:a,18:s ###"
+jazz acoustic ->," None
+None
+None
+None
+None
+0:k,2:r,2:k,2:y,6:r,6:h,9:r,10:r,14:r,14:h,17:r ###"
+jazz dark hybrid ->," None
+None
+None
+None
+None
+0:k,2:r,2:k,2:y,6:r,6:a,9:r,10:r,14:r,14:a,17:r ###"
+jazz acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,1:k,1:y,5:h,6:r,9:r,10:r,14:r,14:h ###"
+jazz dark hybrid ->," None
+None
+None
+None
+None
+0:r,0:k,1:k,1:y,5:a,6:r,9:r,10:r,14:r,14:a ###"
+jazz funk acoustic ->," None
+None
+None
+None
+None
+22:h,24:s,26:h,27:u,28:u,29:h ###"
+jazz funk dark hybrid ->," None
+None
+None
+None
+None
+22:a,24:s,26:a,27:u,28:u,29:a ###"
+jazz acoustic ->," None
+None
+None
+4:h
+4:h,7:j,8:j
+0:l,12:h,15:h,16:j,27:h,31:j ###"
+jazz dark hybrid ->," None
+None
+0:a
+7:a
+4:a
+12:a,27:a ###"
+jazz deep daft ->," None
+None
+None
+0:a,4:h
+4:h,7:a
+12:h,15:h,27:h,31:a ###"
+rock shuffle acoustic ->," None
+None
+None
+None
+None
+0:k,1:r,1:k,1:y,5:s,5:r,5:h,5:k,8:r,8:s,9:r,9:k,12:s,13:r,13:h,13:s,13:k,16:r,16:s ###"
+rock shuffle dark hybrid ->," None
+None
+None
+None
+None
+0:k,1:r,1:k,1:y,5:s,5:r,5:k,5:a,8:r,8:s,9:r,9:k,12:s,13:a,13:r,13:k,13:s,16:r,16:s ###"
+jazz acoustic ->," None
+None
+0:r
+4:h,7:r
+None
+0:k,0:y,16:h ###"
+jazz dark hybrid ->," None
+None
+0:r
+4:a,7:r
+None
+0:k,0:y,16:a ###"
+jazz acoustic ->," None
+None
+None
+None
+0:h
+0:k,3:k,7:s,8:h,9:s,10:s,11:s,13:s,14:k,17:k,19:u ###"
+jazz dark hybrid ->," None
+None
+None
+None
+0:a
+0:k,3:k,7:s,8:a,9:s,10:s,11:s,13:s,14:k,17:k,19:u ###"
+jazz mediumfast acoustic ->," None
+None
+None
+4:r,4:h
+2:s,6:r,7:s,8:r
+3:s,14:r,16:r,27:s,28:s,31:r ###"
+jazz mediumfast dark hybrid ->," None
+None
+None
+4:r,4:a
+2:s,6:r,7:s,8:r
+3:s,14:r,16:r,27:s,28:s,31:r ###"
+jazz mediumfast acoustic ->," None
+None
+None
+None
+None
+0:k,1:r,1:s,5:r,5:h,9:r,13:r,13:h ###"
+jazz mediumfast dark hybrid ->," None
+None
+None
+None
+None
+0:k,1:r,1:s,5:r,5:a,9:r,13:r,13:a ###"
+jazz fast acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,0:y ###"
+latin reggaeton acoustic ->," None
+None
+None
+None
+0:k
+2:z,4:k,4:k,5:s,6:h,7:s,8:h,8:k,10:h,10:k,10:s,12:h,12:k,14:h,15:s,16:h,18:h,18:s ###"
+latin reggaeton dark hybrid ->," None
+None
+None
+None
+0:k
+2:z,4:k,4:a,5:s,6:a,7:s,8:k,8:a,10:a,10:k,10:s,12:k,12:a,14:a,15:s,16:a,18:a,18:s ###"
+latin reggaeton 808 simple ->," None
+None
+None
+None
+0:k
+2:s,4:k,4:k,5:s,6:h,7:s,8:h,8:k,10:h,10:k,10:s,12:h,12:k,14:h,15:s,16:h,18:h,18:s ###"
+dance breakbeat acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,0:s,2:h,4:h,4:s,6:h,7:s,8:h,8:k,9:k,10:h,10:s,12:h,14:h,15:s ###"
+dance breakbeat dark hybrid ->," None
+None
+None
+None
+None
+0:a,0:k,0:s,2:a,4:s,4:a,6:a,7:s,8:k,8:a,9:k,10:a,10:s,12:a,14:a,15:s ###"
+dance breakbeat acoustic ->," None
+None
+None
+0:k,6:h,7:h
+0:h,2:k,3:h,4:s,10:s,12:h,13:h
+1:h,5:h,8:h,9:k,11:h,17:k,21:k,24:k,25:h,27:k ###"
+dance breakbeat dark hybrid ->," None
+1:a
+None
+0:k,0:a,6:a
+2:a,4:s,10:s,12:a
+None ###"
+neworleans funk acoustic ->," None
+None
+None
+None
+4:h
+0:l,0:k,3:s,4:s,5:k,6:k,6:y,7:k,8:k,9:k,10:s,11:k,13:k,14:k,15:k,16:h,17:k,18:s,20:s,21:h ###"
+neworleans funk dark hybrid ->," None
+None
+None
+None
+0:a,4:a
+0:k,3:s,4:s,5:k,6:k,6:y,7:a,8:a,9:k,10:s,11:k,13:a,14:k,15:a,17:k,18:s,20:s,21:a ###"
+neworleans funk big room layered ->," None
+None
+None
+None
+4:h,4:s
+0:l,0:k,3:s,5:k,6:k,6:y,7:k,8:k,9:k,10:s,11:k,13:k,14:k,15:k,16:h,17:k,18:s,21:h ###"
+neworleans funk deep daft ->," None
+None
+None
+None
+4:h
+0:k,0:a,3:s,4:s,5:k,6:k,6:y,7:k,8:k,9:k,10:s,11:k,13:k,14:k,15:k,16:h,17:k,18:s,20:s,21:h ###"
+country acoustic ->," 0:s
+None
+0:k
+None
+None
+None ###"
+afrocuban bembe acoustic ->," None
+None
+None
+None
+None
+11:s,12:s,16:r,16:h,18:r,21:r,22:r,24:h,25:r,28:r,31:r ###"
+afrocuban bembe dark hybrid ->," None
+None
+None
+None
+None
+11:s,12:s,16:r,16:a,18:r,21:r,22:r,24:a,25:r,28:r,31:r ###"
+afrocuban rhumba acoustic ->," None
+None
+0:z
+5:z,7:z
+1:z,3:z,10:z
+None ###"
+afrocuban rhumba 808 simple ->," None
+None
+0:s
+5:s,7:s
+1:s,3:s,10:s
+None ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,0:y,1:k,3:h,4:s,4:h,5:h,7:h,8:h,8:k,9:h,11:h,12:s,12:h,13:h,15:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:r,0:k,0:y,1:a,3:a,4:s,4:a,5:a,7:a,8:k,8:a,9:a,11:a,12:s,12:a,13:a,15:a ###"
+rock big room layered ->," None
+None
+None
+None
+None
+0:r,0:k,0:y,1:k,3:h,4:h,4:s,5:h,7:h,8:h,8:k,9:h,11:h,12:h,12:s,13:h,15:h ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,1:s,2:s,4:l,5:h,5:k,6:k,8:k,9:s,9:h,9:k,12:h,12:k,13:k,14:k,15:k,17:s,17:k,17:k,19:k,20:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+4:a
+0:k,1:s,2:s,5:k,5:a,6:a,8:k,9:s,9:k,9:a,12:k,12:a,13:k,14:a,15:k,17:s,17:k,17:a,19:k ###"
+rock big room layered ->," None
+None
+None
+None
+1:s
+0:k,2:s,4:l,5:h,5:k,6:k,8:k,9:h,9:k,9:s,12:h,12:k,13:k,14:k,15:k,17:k,17:k,19:k,20:h ###"
+rock deep daft ->," None
+None
+None
+None
+None
+0:k,1:s,2:s,4:a,5:h,5:k,6:k,8:k,9:s,9:h,9:k,12:h,12:k,13:k,14:k,15:k,17:s,17:k,17:k,19:k,20:h ###"
+latin chacarera acoustic ->," None
+None
+None
+None
+4:h,4:z,5:h,5:k,8:h,8:z,9:h,11:h,11:k
+0:s,0:k,2:h,2:k,6:h,12:h,12:z,13:h,13:k,15:h,16:h,16:z,17:h,19:h,19:k,23:h ###"
+latin chacarera dark hybrid ->," None
+None
+None
+None
+2:z,2:a,3:k,3:a,6:z,6:a,7:a,9:k,9:a
+0:k,0:a,4:a,10:z,10:a,11:k,11:a,13:a,14:z,14:a,15:a,17:k,17:a,21:a ###"
+latin chacarera 808 simple ->," None
+None
+None
+0:s
+4:s,4:h,5:h,5:k,8:h,9:h,11:h,11:k
+0:k,2:h,2:k,6:h,12:s,12:h,13:h,13:k,15:h,16:h,17:h,19:h,19:k,23:h ###"
+latin chacarera acoustic ->," None
+None
+None
+None
+2:h,2:z,3:k
+0:h,0:k,3:h,5:h,6:h,6:z,7:h,8:k,9:h,10:h,10:z,11:h,11:k,12:h,14:h,14:z,15:h,17:h,17:k,19:k,22:t,22:h,23:t,24:t,25:t,25:h ###"
+latin chacarera dark hybrid ->," None
+None
+None
+None
+2:z,2:a,3:k,3:a,6:a,9:a
+0:k,0:a,5:a,6:z,7:a,8:k,10:z,10:a,11:k,11:a,12:a,14:z,14:a,15:a,17:k,17:a,22:t,23:t,24:t,25:t ###"
+latin chacarera 808 simple ->," None
+None
+None
+None
+2:s,2:h,3:k
+0:h,0:k,3:h,5:h,6:s,6:h,7:h,8:k,9:h,10:s,10:h,11:h,11:k,12:h,14:s,14:h,15:h,17:h,17:k,19:k,22:t,22:h,23:t,24:t,25:t,25:h ###"
+punk acoustic ->," None
+None
+None
+None
+0:k,4:k
+5:u,6:u,7:u,8:u,9:u,10:u,12:k,14:s,16:s,18:s,20:s,22:z,24:k,25:k,26:s ###"
+punk 808 simple ->," None
+None
+None
+None
+0:k,4:k
+5:u,6:u,7:u,8:u,9:u,10:u,12:k,14:s,16:s,18:s,20:s,22:s,24:k,25:k,26:s ###"
+punk acoustic ->," None
+None
+0:k
+1:u,2:k
+1:z,3:u,5:u,6:k,7:u
+5:t,9:z,11:u,13:t,13:u,14:k,15:u,21:w,29:s,29:r ###"
+punk big room layered ->," None
+None
+0:k
+1:u,2:k
+1:z,3:u,5:u,6:k,7:u
+5:t,9:z,11:u,13:t,13:u,14:k,15:u,21:l,29:r,29:s ###"
+punk 808 simple ->," None
+None
+0:k
+1:u,2:k
+1:s,3:u,5:u,6:k,7:u
+5:t,9:s,11:u,13:t,13:u,14:k,15:u,21:w,29:s,29:r ###"
+punk nu rnb ->," None
+None
+0:k
+1:u,2:k
+1:s,3:u,5:u,6:k,7:u
+5:t,9:s,11:u,13:t,13:u,14:k,15:u,21:z,29:s,29:r ###"
+punk acoustic ->," None
+0:k
+None
+1:r,3:r
+5:u,7:r
+1:z,5:r,9:s,13:r,13:s,15:r,17:s,21:z,25:s,29:u,29:z ###"
+punk big room layered ->," None
+0:k
+None
+1:r,3:r
+5:u,7:r,9:s
+1:z,5:r,13:r,13:s,15:r,17:s,21:z,29:u,29:z ###"
+punk 808 simple ->," None
+0:k
+None
+1:r,3:r
+1:s,5:u,7:r
+5:r,9:s,13:r,13:s,15:r,21:s,25:s,29:s,29:u ###"
+punk acoustic ->," None
+0:r
+2:s
+0:k,5:k
+4:k,11:k
+31:s ###"
+punk acoustic ->," None
+None
+None
+None
+0:k,0:k,2:s,2:k,4:k,4:k,5:k,6:l,6:s,7:s,8:h,9:z,10:s,11:s,12:s,13:s,14:s
+None ###"
+punk dark hybrid ->," None
+None
+None
+0:a
+0:k,2:s,2:a,4:k,4:a,5:k,6:a,6:s,7:s,9:z,10:s,11:s,12:s,13:s,14:s
+None ###"
+punk big room layered ->," None
+None
+2:s
+None
+0:k,0:k,2:k,4:k,4:k,5:k,6:l,7:s,8:h,9:z,11:s,12:s,13:s
+None ###"
+punk 808 simple ->," None
+None
+None
+9:s
+0:k,0:k,2:k,4:k,4:k,5:k,6:l,6:s,7:s,8:h,10:s,11:s,12:s,13:s,14:s
+None ###"
+punk deep daft ->," None
+None
+None
+None
+0:k,0:k,2:s,2:k,4:k,4:k,5:k,6:a,6:s,7:s,8:h,9:z,10:s,11:s,12:s,13:s,14:s
+None ###"
+jazz march acoustic ->," None
+None
+None
+None
+0:k,0:s,4:s,5:s,6:s,7:s
+4:s,8:k,11:s,12:k ###"
+jazz march acoustic ->," None
+0:s
+3:s
+None
+0:s,13:s
+20:s,24:s ###"
+funk rock acoustic ->," None
+None
+None
+None
+0:k
+1:s,2:k,2:k,3:s,4:k,4:k,5:s,6:s,7:s,8:s,9:k,10:y,11:s,12:k,12:k,14:s,14:k,17:z ###"
+funk rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:s,2:k,2:a,3:s,4:s,5:s,6:s,7:k,8:y,9:s,10:k,10:a,12:s,12:a,14:a,15:z ###"
+funk rock 808 simple ->," None
+None
+None
+None
+0:k,1:s
+2:k,2:k,3:s,4:k,4:k,5:s,6:s,7:s,8:s,9:k,10:y,11:s,12:k,12:k,14:s,14:k ###"
+rock prog acoustic ->," None
+None
+None
+None
+None
+0:t,0:h,0:k,1:h,1:s,2:t,3:t,4:s,4:h,5:t,5:h,6:t,7:s,8:t,8:h,9:h,9:s,10:t,11:t,12:s,12:h,13:t,13:h,14:t,15:s ###"
+rock prog dark hybrid ->," None
+None
+None
+None
+None
+0:t,0:k,0:a,1:a,1:s,2:t,3:t,4:s,4:a,5:t,5:a,6:t,7:s,8:t,8:a,9:a,9:s,10:t,11:t,12:s,12:a,13:t,13:a,14:t,15:s ###"
+rock prog big room layered ->," None
+None
+None
+None
+None
+0:t,0:h,0:k,1:h,1:s,2:t,3:t,4:h,4:s,5:t,5:h,6:t,7:s,8:t,8:h,9:h,9:s,10:t,11:t,12:h,12:s,13:t,13:h,14:t,15:s ###"
+rock folk acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:j,2:s,3:h,4:h,5:s,6:h,7:k,8:k,12:h,12:s,13:s,14:s,15:s ###"
+rock folk dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:s,3:a,4:a,5:s,6:a,7:k,8:k,12:a,12:s,13:s,14:s,15:s ###"
+rock folk deep daft ->," None
+None
+None
+None
+None
+0:h,0:k,1:a,2:s,3:h,4:h,5:s,6:h,7:k,8:k,12:h,12:s,13:s,14:s,15:s ###"
+afrobeat acoustic ->," None
+None
+None
+None
+None
+0:z,0:k,1:z,2:h,2:k,3:k,4:z,4:k,5:z,6:h,7:h,8:h,8:z,9:z,10:h,10:k,11:h,12:z,12:k,13:z ###"
+afrobeat dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:z,2:a,3:z,4:a,5:a,6:z,6:a,7:z,8:k,8:a,9:a,10:z,10:a,11:z ###"
+afrobeat 808 simple ->," None
+None
+None
+None
+None
+0:s,0:k,1:s,2:h,2:k,3:k,4:s,4:k,5:s,6:h,7:h,8:s,8:h,9:s,10:h,10:k,11:h,12:s,12:k,13:s ###"
+rock acoustic ->," None
+None
+None
+0:k,2:k,4:s,12:s
+None
+None ###"
+funk acoustic ->," None
+None
+None
+None
+1:h,2:h,3:h
+0:k,4:h,5:h,6:h,7:k,8:h,9:h,10:h,11:h,12:h,13:h,14:h,15:h,16:h ###"
+funk dark hybrid ->," 0:a
+None
+None
+None
+None
+None ###"
+afrocuban calypso acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,3:s,4:h,4:k,5:h,6:l,7:s,8:s,8:h,8:h,8:k,9:h,10:k,11:z,12:h,12:k,13:h,14:l,14:z,15:s ###"
+afrocuban calypso dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:s,2:a,3:s,4:k,4:a,5:a,6:a,7:s,8:s,8:k,8:a,9:a,10:a,11:z,12:k,12:a,13:a,14:z,14:a,15:s ###"
+afrocuban calypso 808 simple ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,3:s,4:h,4:k,5:h,6:l,7:s,8:s,8:h,8:h,8:k,9:h,10:k,11:s,12:h,12:k,13:h,14:s,14:l,15:s ###"
+afrocuban calypso deep daft ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,2:k,3:s,4:h,4:k,5:h,6:a,7:s,8:s,8:h,8:h,8:k,9:h,10:k,11:z,12:h,12:k,13:h,14:z,14:a,15:s ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,2:k,4:s,5:s,6:k,8:k,10:k,12:s,12:s,13:s,14:k ###"
+rock big room layered ->," None
+None
+None
+None
+None
+0:k,2:k,4:s,5:s,6:k,8:k,10:k,12:s,13:s,14:k ###"
+jazz swing acoustic ->," None
+None
+None
+None
+None
+0:u,0:k,4:u,4:h,6:u,8:u,8:k,10:u,12:u,12:h ###"
+jazz swing dark hybrid ->," None
+None
+None
+None
+None
+0:u,0:k,4:u,4:a,6:u,8:u,8:k,10:u,12:u,12:a ###"
+rock rockabilly acoustic ->," None
+None
+None
+None
+None
+0:k,3:k,4:s,7:s,8:s,10:s,12:s,14:s ###"
+jazz linear acoustic ->," None
+None
+None
+None
+None
+0:k,1:r,1:k,2:h,3:r,5:r,7:r,7:h,9:r,10:r,11:r,11:h,13:r,13:h,15:r,15:h,16:r ###"
+jazz linear dark hybrid ->," None
+None
+None
+None
+None
+0:k,1:r,1:k,2:a,3:r,5:r,7:r,7:a,9:r,10:r,11:r,11:a,13:r,13:a,15:r,15:a,16:r ###"
+dance disco acoustic ->," None
+None
+None
+None
+None
+0:h,0:h,0:k,2:h,4:s,4:k,6:h,7:k,8:h,8:k,9:h,10:k,11:h,12:k,12:s,13:h,14:h,14:k,15:h ###"
+dance disco dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,2:a,4:s,4:k,6:a,7:a,8:k,8:a,9:a,10:a,11:a,12:k,12:s,13:a,14:k,14:a,15:a ###"
+dance disco big room layered ->," None
+None
+None
+None
+None
+0:h,0:h,0:k,2:h,4:k,4:s,6:h,7:k,8:h,8:k,9:h,10:k,11:h,12:k,12:s,13:h,14:h,14:k,15:h ###"
+dance disco acoustic ->," None
+None
+None
+0:k
+4:k
+7:s,8:s,12:h,12:k,13:h,14:j,15:h,16:h,17:h,18:h,19:h,20:h,21:h,22:h,23:h,24:h,25:h,26:k,27:h ###"
+dance disco dark hybrid ->," None
+None
+None
+0:k
+4:k
+7:s,8:s,12:k,12:a,13:a,14:a,15:a,16:a,17:a,18:a,19:a,20:a,21:a,22:a,23:a,24:a,25:a,26:a,27:a ###"
+dance disco deep daft ->," None
+None
+None
+0:k
+4:k
+7:s,8:s,12:h,12:k,13:h,14:a,15:h,16:h,17:h,18:h,19:h,20:h,21:h,22:h,23:h,24:h,25:h,26:k,27:h ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,0:k,1:k,2:k,3:h,4:k,4:s,5:h,6:k,7:k,8:k,8:k,9:k,10:h,11:h,12:s,13:k,14:k,15:k ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:a,3:a,4:k,4:s,5:a,6:a,7:a,8:k,8:a,9:a,10:a,11:a,12:s,13:a,14:a,15:a ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:h,2:h,3:h,4:k,4:s,5:h,6:h,7:h,8:h,8:k,9:h,10:k,10:k,11:h,12:k,12:s,13:h,14:k,15:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:a,3:a,4:k,4:s,5:a,6:a,7:a,8:k,8:a,9:a,10:k,10:a,11:a,12:k,12:s,13:a,14:a,15:a ###"
+jazz swing acoustic ->," None
+None
+None
+0:k
+4:l
+0:h,3:k,8:h,10:h,12:l,15:h,18:h,23:h,27:h ###"
+jazz swing dark hybrid ->," None
+None
+None
+4:a
+8:a
+1:a,4:a,7:a,12:a,14:a,16:a,19:a,22:a,27:a,31:a ###"
+jazz swing deep daft ->," None
+None
+None
+0:k
+4:a
+0:h,3:k,8:h,10:h,12:a,15:h,18:h,23:h,27:h ###"
+jazz swing acoustic ->," None
+None
+None
+0:k
+None
+None ###"
+jazz swing acoustic ->," None
+None
+None
+7:r
+12:r,12:h
+3:r,3:h,6:r,16:r,20:r,20:h,24:r ###"
+jazz swing dark hybrid ->," None
+None
+None
+7:r
+12:r,12:a
+3:r,3:a,6:r,16:r,20:r,20:a,24:r ###"
+jazz swing acoustic ->," None
+None
+None
+0:h,1:s
+1:k,5:l,5:k,9:k
+0:k,4:k,9:k,12:l,13:l,13:k,17:k,20:l,24:s,27:l ###"
+jazz swing dark hybrid ->," None
+None
+None
+0:a,1:s
+1:a,4:a,5:k,5:a,9:k
+0:k,9:a,12:a,13:k,13:a,17:k,24:s,27:a ###"
+jazz swing deep daft ->," None
+None
+None
+0:h,1:s
+1:k,5:k,5:a,9:k
+0:k,4:k,9:k,12:a,13:k,13:a,17:k,20:a,24:s,27:a ###"
+jazz swing acoustic ->," None
+None
+None
+4:s
+11:h,12:k
+0:k,3:h,4:k,6:l,8:l,8:k,14:l,15:k,16:l,18:h,19:x,22:k,23:y,31:l ###"
+jazz swing dark hybrid ->," None
+None
+None
+4:s
+11:a,12:a
+0:k,3:a,4:a,6:a,8:k,8:a,14:a,15:k,16:a,18:a,19:x,22:k,23:y,31:a ###"
+jazz swing deep daft ->," None
+None
+None
+4:s
+11:h,12:k
+0:k,3:h,4:k,6:a,8:k,8:a,14:a,15:k,16:a,18:h,19:x,22:k,23:y,31:a ###"
+jazz swing acoustic ->," None
+None
+None
+None
+0:s,2:s
+0:k,3:h,4:s,6:s,8:k,8:s,10:s,11:h,12:s,14:s,15:k,18:h,19:s,21:s,23:s ###"
+jazz swing dark hybrid ->," None
+None
+None
+None
+0:s,2:s
+0:k,3:a,4:s,6:s,8:k,8:s,10:s,11:a,12:s,14:s,15:k,18:a,19:s,21:s,23:s ###"
+jazz swing acoustic ->," None
+None
+None
+0:k
+4:h,4:s,4:k
+10:k,12:k,15:k,27:k ###"
+jazz swing dark hybrid ->," None
+None
+None
+None
+None
+0:k,2:a,5:k,6:a,10:s,10:a,14:a,17:k ###"
+jazz swing acoustic ->," None
+None
+None
+None
+0:l,0:k,4:l,4:s
+2:k,7:k,8:l,12:l,12:s,19:k ###"
+jazz swing dark hybrid ->," None
+None
+None
+None
+0:k,0:a,4:s,4:a
+2:k,7:k,8:a,12:a,12:s,19:k ###"
+jazz swing acoustic ->," None
+None
+None
+None
+0:k,2:k,4:s,6:k
+0:s,0:y,1:s,3:k,5:k,8:k,8:k,10:k,12:s,12:k,14:k ###"
+jazz swing dark hybrid ->," None
+None
+None
+None
+0:k,2:a,4:s,6:a
+0:s,0:y,1:s,3:k,5:a,8:k,8:a,10:a,12:a,12:s,14:a ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,8:h,8:k,10:h,12:h,14:h
+1:k,3:h,4:k,5:h,5:s,7:h,12:z,16:k,18:h,19:k,20:h,20:s,22:h,22:k,26:k,28:s,30:k ###"
+rock dark hybrid ->," None
+None
+None
+None
+7:k,7:a,9:a,11:a,13:a
+0:k,2:a,3:k,4:a,4:s,6:a,11:z,15:k,15:a,17:a,18:k,19:a,19:s,21:k,21:a,25:k,27:s,29:k ###"
+rock 808 simple ->," None
+None
+None
+None
+0:k,8:h,8:k,10:h,12:h,14:h
+1:k,3:h,4:k,5:h,5:s,7:h,12:s,16:k,18:h,19:k,20:h,20:s,22:h,22:k,26:k,28:s,30:k ###"
+rock acoustic ->," None
+None
+0:k,2:s,3:s
+None
+4:s,8:s,9:s,13:s
+16:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:r,0:k,2:r,4:r,4:k
+2:s,6:r,6:k,8:r,10:r,10:s,12:r,14:r,18:s ###"
+rock acoustic ->," None
+0:h
+None
+4:s
+0:k,10:k
+1:k,30:k ###"
+rock dark hybrid ->," None
+0:a
+None
+4:s
+0:k,10:k
+1:k,30:k ###"
+jazz acoustic ->," None
+None
+None
+0:k,4:h
+7:h
+15:h,30:h ###"
+jazz dark hybrid ->," None
+None
+0:a
+None
+7:a
+15:a,30:a ###"
+jazz acoustic ->," None
+None
+2:s
+0:k,1:s,4:s
+None
+None ###"
+rock acoustic ->," None
+None
+None
+None
+0:r,0:k,2:r,2:k,4:r,4:s,6:r
+8:r,8:k,12:r,12:s,22:k ###"
+jazz acoustic ->," None
+1:s
+0:s
+2:s
+14:s
+22:s ###"
+rock acoustic ->," None
+None
+2:h
+4:h
+0:k,3:k,4:s,8:h,10:k,14:k
+0:k,6:k,12:s,16:h,17:k,20:k,28:z ###"
+rock dark hybrid ->," None
+0:a
+None
+None
+0:k,3:k,4:s,10:k,14:k
+6:k,12:s,17:k,20:k,28:z ###"
+rock 808 simple ->," None
+None
+2:h
+4:h
+0:k,3:k,4:s,8:h,10:k,14:k
+0:k,6:k,12:s,16:h,17:k,20:k,28:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,0:y
+2:s,4:k,4:y,7:s,8:k,8:y,11:s,12:k,12:y,15:s ###"
+jazz acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,2:t,3:t,5:t,6:w,9:t,11:t,12:w,13:t,14:t ###"
+jazz big room layered ->," None
+None
+None
+None
+None
+0:r,0:k,2:t,3:t,5:t,6:l,9:t,11:t,12:l,13:t,14:t ###"
+jazz nu rnb ->," None
+None
+None
+None
+None
+0:r,0:k,2:t,3:t,5:t,6:z,9:t,11:t,12:z,13:t,14:t ###"
+jazz acoustic ->," None
+None
+None
+3:t,6:t
+0:r,0:k,5:t,9:t
+12:t,15:t,28:w,29:t ###"
+jazz big room layered ->," None
+None
+None
+3:t,6:t
+0:r,0:k,5:t,9:t
+12:t,15:t,28:l,29:t ###"
+jazz nu rnb ->," None
+None
+None
+3:t,6:t
+0:r,0:k,5:t,9:t
+12:t,15:t,28:z,29:t ###"
+jazz acoustic ->," None
+0:t
+0:k
+1:t,3:t
+5:t,7:t
+13:t,15:t ###"
+rock acoustic ->," None
+None
+0:k
+4:s
+0:j,4:j
+8:h,12:j,24:j,28:l ###"
+rock dark hybrid ->," None
+None
+0:k,0:a
+4:s
+None
+None ###"
+rock deep daft ->," None
+None
+0:k
+4:s,4:a
+0:a
+8:h,24:a ###"
+rock acoustic ->," None
+None
+None
+0:s,1:s
+3:s,5:s,6:s,11:t,12:w,13:x,14:x
+None ###"
+rock big room layered ->," None
+None
+None
+0:s,1:s
+3:s,5:s,6:s,11:t,12:l,13:x,14:x
+None ###"
+rock nu rnb ->," None
+None
+None
+0:s,1:s
+3:s,5:s,6:s,11:t,12:z,13:x,14:x
+None ###"
+rock acoustic ->," None
+None
+3:s,12:s
+None
+0:k,4:s,5:s,9:s,13:w
+None ###"
+rock big room layered ->," None
+None
+3:s,12:s
+None
+0:k,4:s,5:s,9:s,13:l
+None ###"
+rock nu rnb ->," None
+None
+3:s,12:s
+None
+0:k,4:s,5:s,9:s,13:z
+None ###"
+rock acoustic ->," None
+None
+None
+None
+1:s,3:s,5:s,7:s,8:z
+None ###"
+rock 808 simple ->," None
+None
+None
+None
+1:s,3:s,5:s,7:s,8:s
+None ###"
+rock acoustic ->," None
+None
+None
+None
+0:s,1:s,2:s,3:t,5:t,7:t,8:x,10:x,11:x,12:u,13:u,14:u
+None ###"
+rock acoustic ->," None
+0:h
+None
+6:k
+0:k,3:k,4:z,10:k,12:s
+None ###"
+rock dark hybrid ->," None
+0:a
+None
+6:k
+0:k,3:k,4:z,10:k,12:s
+None ###"
+rock 808 simple ->," None
+0:h
+None
+6:k
+0:k,3:k,4:s,10:k,12:s
+None ###"
+rock acoustic ->," None
+None
+None
+None
+0:s,1:s,2:s,3:s,4:t,5:t,6:t,7:t,8:x,9:x,10:x,11:x,12:u,13:u,14:u
+None ###"
+jazz acoustic ->," None
+None
+None
+0:s,1:s,2:s,30:s
+3:s,5:s,12:s
+6:s,14:s,22:z ###"
+jazz 808 simple ->," None
+None
+None
+0:s,1:s,2:s,30:s
+3:s,5:s,12:s
+6:s,14:s,22:s ###"
+jazz acoustic ->," None
+None
+0:u,0:k,3:u
+1:u
+5:u
+13:u,28:s,31:z ###"
+jazz 808 simple ->," None
+None
+0:u,0:k,3:u
+1:u
+5:u
+13:u,28:s,31:s ###"
+rock acoustic ->," None
+None
+0:k
+2:j,5:j,6:l
+1:l,4:l,8:j,9:j,11:l
+None ###"
+rock dark hybrid ->," None
+None
+0:k,1:a,2:a
+None
+4:a,8:a,11:a
+None ###"
+rock acoustic ->," None
+None
+0:k
+4:k,5:h,6:k
+8:h,9:k,11:h
+0:k,1:k,2:h,12:k,16:h,17:j,19:h ###"
+rock dark hybrid ->," None
+None
+0:k,0:a,1:a
+6:a
+11:a
+2:a,12:k,19:a ###"
+rock deep daft ->," None
+None
+0:k
+4:k,5:h,6:k
+8:h,9:k,11:h
+0:k,1:k,2:h,12:k,16:h,17:a,19:h ###"
+rock acoustic ->," None
+None
+None
+0:s,10:s
+1:s,3:s,8:s
+None ###"
+rock acoustic ->," None
+None
+None
+None
+0:s,1:s,2:s,3:s,4:t,6:x,7:x,9:u,11:u
+None ###"
+rock acoustic ->," None
+0:r
+None
+3:k
+0:k,4:s,14:k
+10:k,12:s,20:k,25:s,28:s ###"
+rock big room layered ->," None
+0:r
+None
+3:k,4:s
+0:k,14:k
+10:k,20:k,25:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:s,1:s,2:s,3:s,4:t,5:t,6:t,7:t,8:x,9:x,10:x,12:u
+None ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,2:s,3:y,5:s,6:y,16:y,19:k
+6:s,8:k,22:k,24:s,26:k,26:y,28:s,29:k,29:y ###"
+rock acoustic ->," None
+None
+0:k
+0:y
+3:s,4:y,7:s
+5:k,11:s,12:y,15:s,26:s,27:y,28:s,29:k,29:y ###"
+rock acoustic ->," None
+None
+0:k,0:y
+None
+3:s,7:s
+None ###"
+rock acoustic ->," None
+1:s
+None
+None
+None
+None ###"
+rock acoustic ->," None
+None
+None
+None
+17:s
+0:k,0:y,4:k,4:y,7:s,8:k,8:y,13:s,15:s,16:s,19:w,22:x,24:u,27:u ###"
+rock big room layered ->," None
+None
+None
+None
+17:s
+0:k,0:y,4:k,4:y,7:s,8:k,8:y,13:s,15:s,16:s,19:l,22:x,24:u,27:u ###"
+rock nu rnb ->," None
+None
+None
+None
+17:s
+0:k,0:y,4:k,4:y,7:s,8:k,8:y,13:s,15:s,16:s,19:z,22:x,24:u,27:u ###"
+rock acoustic ->," None
+None
+None
+25:s
+0:k,0:y,7:s
+4:k,4:y,8:k,8:y,12:k,12:y,15:s,22:s,24:s,26:t,28:x ###"
+rock acoustic ->," None
+None
+1:s
+4:s,6:s,7:s
+0:s,2:s,3:s
+7:s,9:s,24:s,26:s,27:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,0:y,21:s
+3:s,4:k,4:y,8:k,8:y,11:s,12:k,12:y,20:s,22:s,24:s,25:t,26:w,28:x,29:x ###"
+rock big room layered ->," None
+None
+None
+None
+0:k,0:y,21:s
+3:s,4:k,4:y,8:k,8:y,11:s,12:k,12:y,20:s,22:s,24:s,25:t,26:l,28:x,29:x ###"
+rock nu rnb ->," None
+None
+None
+None
+0:k,0:y,21:s
+3:s,4:k,4:y,8:k,8:y,11:s,12:k,12:y,20:s,22:s,24:s,25:t,26:z,28:x,29:x ###"
+rock acoustic ->," None
+0:s
+3:s
+None
+0:k,9:s,12:k,13:s
+1:s,5:s,6:k,17:z,20:k,21:z,24:k ###"
+rock 808 simple ->," None
+0:s
+3:s
+None
+0:k,9:s,12:k,13:s
+1:s,5:s,6:k,17:s,20:k,21:s,24:k ###"
+jazz acoustic ->," None
+None
+None
+1:r,3:r
+2:r,6:r,7:r,13:r
+0:r,0:k,4:r,4:z,6:r,8:r,15:r,21:r,26:r,30:r ###"
+jazz 808 simple ->," None
+None
+None
+1:r,3:r
+2:r,6:r,7:r,13:r
+0:r,0:k,4:s,4:r,6:r,8:r,15:r,21:r,26:r,30:r ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,2:r,4:r,4:s,6:r,8:r,10:r,10:k,12:r,12:s,14:r,14:k ###"
+rock acoustic ->," None
+0:x
+3:x
+0:k,4:s
+12:k
+20:k ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,2:r,4:r,4:s,6:r,7:s,9:s
+0:r,10:z,11:s,12:t,13:t,14:x,16:y,16:r,24:r,26:r,26:k,27:k,28:r,28:s,30:r ###"
+rock 808 simple ->," None
+None
+None
+None
+0:k,2:r,4:r,4:s,6:r,7:s,9:s
+0:r,10:s,11:s,12:t,13:t,14:x,16:y,16:r,24:r,26:r,26:k,27:k,28:r,28:s,30:r ###"
+rock acoustic ->," None
+0:r
+None
+4:s
+0:h,0:k,7:s,9:s,10:k
+11:k ###"
+rock dark hybrid ->," None
+0:r
+None
+4:s
+0:k,0:a,7:s,9:s,10:k
+11:k ###"
+rock acoustic ->," None
+0:r
+None
+4:s
+0:k,7:s
+9:s,10:k,11:k ###"
+rock acoustic ->," None
+None
+None
+4:r,4:s,6:r
+0:k,7:s,8:r,9:s,10:r,10:k
+0:y,16:r,18:r ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,2:s,4:r
+0:r,2:r,6:k,6:r,8:r,10:r,10:s,12:r,13:s,14:r,15:s,16:r,16:s,18:r,20:k ###"
+rock acoustic ->," None
+0:h
+None
+0:k
+4:k,12:s
+12:k,27:k ###"
+rock dark hybrid ->," None
+0:a
+None
+0:k
+4:k,12:s
+12:k,27:k ###"
+rock acoustic ->," None
+None
+None
+0:h,0:k,4:s,6:h
+2:h,3:k,4:k,7:k
+10:h,11:k,12:k,15:k,26:k,26:j,28:h,28:k,30:k ###"
+rock dark hybrid ->," None
+None
+2:a
+0:k,0:a,4:s
+3:a,4:k,7:a
+11:a,12:k,15:a,26:k,28:a,30:k ###"
+rock deep daft ->," None
+None
+None
+0:h,0:k,4:s,6:h
+2:h,3:k,4:k,7:k
+10:h,11:k,12:k,15:k,26:k,26:a,28:h,28:k,30:k ###"
+rock acoustic ->," None
+None
+0:k,2:h,3:k
+0:h,4:s
+None
+None ###"
+rock dark hybrid ->," None
+None
+0:k,2:a,3:a
+0:a,4:s
+None
+None ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,0:x,2:x,3:x,4:k,4:x,4:s,6:x,7:x,8:k,8:x,10:x,11:x,12:k,12:x,12:s,14:x,15:x ###"
+rock acoustic ->," None
+None
+0:h
+0:k,2:h,4:s
+5:h,6:h
+2:h,7:k,14:h,17:h,22:k,25:h,29:h,30:k,31:h ###"
+rock dark hybrid ->," None
+None
+0:a
+0:k,2:a,4:s
+5:a,6:a
+2:a,7:k,14:a,17:a,22:k,25:a,29:a,30:k,31:a ###"
+rock acoustic ->," None
+None
+None
+0:h,0:k
+1:h,1:k,4:h,5:h,5:s,6:h
+3:h,9:h,9:k,10:h,12:h,12:k,13:h,13:s,14:h,18:h,20:k ###"
+rock dark hybrid ->," None
+None
+None
+0:k,0:a
+1:k,1:a,4:a,5:s,5:a,6:a
+3:a,9:k,9:a,10:a,12:k,12:a,13:s,13:a,14:a,18:a,20:k ###"
+rock acoustic ->," None
+None
+None
+0:k,4:h,4:s
+3:h,6:h,8:h,9:h,13:h
+0:h,3:k,7:h,7:k,11:h,11:k,14:k,15:h,16:k,17:h,18:k,21:h,22:k,26:h,26:k,30:h,30:s ###"
+rock dark hybrid ->," None
+None
+0:a
+0:k,4:s
+3:a,6:a,9:a,13:a
+3:k,7:k,7:a,11:k,11:a,14:k,15:a,17:a,18:k,21:a,22:k,26:k,26:a,30:a,30:s ###"
+rock acoustic ->," None
+None
+0:r,3:k
+1:r,3:r,4:s
+7:r,8:k,21:r
+15:r,16:k,29:r ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,0:y,1:r,3:r,3:k,4:r,4:s,5:r,7:r,7:k,8:r,8:k,11:r,11:k,12:r,12:s,14:r,15:r,15:k ###"
+hiphop acoustic ->," None
+None
+None
+4:h,4:s,6:h
+0:k,2:h,8:h,10:k
+0:y,10:j,12:h,14:k,16:h,26:h,29:k,31:k ###"
+hiphop dark hybrid ->," None
+None
+2:a
+4:s,4:a
+0:k,8:a,10:k
+0:y,12:a,14:k,16:a,29:k,31:k ###"
+hiphop deep daft ->," None
+None
+None
+4:h,4:s,6:h
+0:k,2:h,8:h,10:k
+0:y,10:a,12:h,14:k,16:h,26:h,29:k,31:k ###"
+jazz acoustic ->," None
+None
+1:r
+4:r,10:r
+7:r,8:r
+0:r,0:k,4:s,12:s,14:r,16:r,22:r,27:r ###"
+rock acoustic ->," None
+None
+None
+None
+4:x,9:u,12:u
+0:t,2:t,3:t,5:x,7:x,8:t,8:u,11:u,12:x,13:u,14:u,16:r,16:y,17:r,20:r,21:r,22:r,24:r,25:r,26:r,28:r,29:r,30:r ###"
+rock acoustic ->," None
+None
+None
+None
+0:r,0:k
+4:t,5:t,7:t,8:x,9:x,10:x,12:u,13:u,15:u,16:y,20:r,22:r,23:r,24:r,25:r,27:r,28:r,29:r,31:r ###"
+rock acoustic ->," None
+None
+None
+0:k,4:z,5:h,7:h
+0:h,2:h,4:k,8:k,9:h,12:w,12:h,15:k
+0:z,2:h,4:z,10:h,19:h,20:w,23:k,27:l,27:k,28:h ###"
+rock dark hybrid ->," None
+None
+0:a
+0:k,4:z,5:a,7:a
+2:a,9:a,12:w,15:k
+0:z,2:a,4:z,10:a,19:a,20:w,23:k,27:k,27:a,28:a ###"
+rock big room layered ->," None
+None
+None
+0:k,4:z,5:h,7:h
+0:h,2:h,4:k,8:k,9:h,12:h,12:l,15:k
+0:z,2:h,4:z,10:h,19:h,20:l,23:k,27:l,27:k,28:h ###"
+rock 808 simple ->," None
+None
+None
+0:k,4:s,5:h,7:h
+0:h,2:h,4:k,8:k,9:h,12:w,12:h,15:k
+0:s,2:h,4:s,10:h,19:h,20:w,23:k,27:l,27:k,28:h ###"
+rock nu rnb ->," None
+None
+None
+0:k,4:s,5:h,7:h
+0:h,2:h,4:k,8:k,9:h,12:h,12:z,15:k
+0:s,2:h,4:s,10:h,19:h,20:z,23:k,27:l,27:k,28:h ###"
+rock deep daft ->," None
+None
+None
+0:k,4:z,5:h,7:h
+0:h,2:h,4:k,8:k,9:h,12:w,12:h,15:k
+0:z,2:h,4:z,10:h,19:h,20:w,23:k,27:k,27:a,28:h ###"
+hiphop acoustic ->," None
+None
+None
+4:s
+0:k,2:h,6:h,7:h,8:h,9:k,10:l,10:k,12:h,15:k
+0:h,1:h,3:k,5:k,13:k,14:h,16:y,19:h,21:h,29:h,30:k ###"
+hiphop dark hybrid ->," None
+None
+2:a
+4:s,5:a,7:a
+0:k,3:a,8:a,9:a,10:k,12:a
+0:a,1:a,16:y ###"
+hiphop deep daft ->," None
+None
+None
+4:s
+0:k,2:h,6:h,7:h,8:h,9:k,10:k,10:a,12:h,15:k
+0:h,1:h,3:k,5:k,13:k,14:h,16:y,19:h,21:h,29:h,30:k ###"
+hiphop acoustic ->," None
+None
+None
+None
+0:k,2:h,2:k,6:h,8:h,9:h,10:h,11:k,12:h,13:k,15:k
+0:k,2:h,4:h,14:k,16:l,18:j,20:s,20:k,30:s ###"
+hiphop dark hybrid ->," None
+None
+0:a
+2:a
+0:k,2:k,2:a,6:a,9:a,11:a,13:a,15:a
+14:a,20:s,30:s ###"
+hiphop deep daft ->," None
+None
+None
+None
+0:k,2:h,2:k,6:h,8:h,9:h,10:h,11:k,12:h,13:k,15:k
+0:k,2:h,4:h,14:k,16:a,18:a,20:s,20:k,30:s ###"
+hiphop acoustic ->," None
+None
+None
+4:s
+0:l,0:k,2:h,4:k,6:h,9:h,10:h
+8:h,11:k,13:k,14:k,15:k,18:k,18:y,24:k,27:h,29:h ###"
+hiphop dark hybrid ->," None
+None
+25:a
+0:a,4:s
+0:k,4:a,11:a
+9:a,13:a,15:a,18:k,18:y,26:a ###"
+hiphop deep daft ->," None
+None
+None
+4:s
+0:k,0:a,2:h,4:k,6:h,9:h,10:h
+8:h,11:k,13:k,14:k,15:k,18:k,18:y,24:k,27:h,29:h ###"
+rock acoustic ->," None
+None
+0:r
+0:k,2:r
+10:s,11:s,14:r,14:s
+1:k,4:s,18:s,19:s,20:k,22:r,22:s,28:k ###"
+rock acoustic ->," None
+None
+None
+25:s
+0:r,0:k,2:r,3:s,4:r,6:s
+4:k,6:r,8:r,8:k,10:r,11:s,12:r,12:k,14:r,14:s,21:s,23:s,24:s,26:t,27:t,28:x,29:x,30:u ###"
+rock acoustic ->," None
+None
+None
+0:k,2:s
+0:r,3:s,6:s
+0:y,2:r,4:r,6:r,8:r,10:r,11:s,12:r,12:k,18:s,20:s,21:k,25:s,27:t,28:x,29:u,30:u ###"
+rock acoustic ->," None
+None
+None
+0:k,1:h,4:s
+3:h,4:h,5:h,7:h,7:k,8:h
+0:y,11:h,12:h,13:h,15:h,15:k,16:h,26:h,28:j ###"
+rock dark hybrid ->," None
+None
+None
+0:k,1:a,4:a,4:s
+3:a,5:a,7:k,7:a,8:a
+0:y,11:a,13:a,15:k,15:a,16:a,26:a ###"
+rock deep daft ->," None
+None
+None
+0:k,1:h,4:s
+3:h,4:h,5:h,7:h,7:k,8:h
+0:y,11:h,12:h,13:h,15:h,15:k,16:h,26:h,28:a ###"
+rock acoustic ->," None
+0:t
+0:k,3:t
+4:s
+None
+11:y ###"
+hiphop acoustic ->," None
+None
+0:h
+2:h,3:k
+0:k,5:k,6:h,6:s,9:k
+14:h,28:s,30:k,30:j ###"
+hiphop dark hybrid ->," None
+0:a
+None
+3:k
+0:k,5:k,6:s,9:k
+28:s,30:k ###"
+hiphop deep daft ->," None
+None
+0:h
+2:h,3:k
+0:k,5:k,6:h,6:s,9:k
+14:h,28:s,30:k,30:a ###"
+hiphop acoustic ->," None
+None
+1:h
+None
+0:k
+3:h,11:h,15:k ###"
+hiphop dark hybrid ->," None
+None
+0:a
+None
+6:a,11:a
+2:a,14:a,26:a ###"
+rock acoustic ->," None
+None
+None
+0:k
+None
+1:h,3:k,4:h,5:k,7:h,10:h,11:h,12:h,13:h,15:h,17:k,19:h,20:k,21:h,23:k ###"
+rock dark hybrid ->," None
+None
+0:a
+1:a
+5:a,7:a,11:a
+2:a,14:a,15:a,19:a ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,1:s,2:s,4:s ###"
+rock acoustic ->," None
+None
+2:r
+4:r,4:s
+6:k,8:r,8:k
+0:k,0:y,0:y,16:r,18:k ###"
+rock acoustic ->," None
+None
+None
+0:r
+0:k,2:r,2:k,4:r,6:r,6:s
+10:r,12:r,12:s,14:r,24:k ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:u,0:k,2:u,3:u,4:u,4:k,4:s,6:u,7:u,8:u,8:k,10:u,11:u,12:u,12:k,12:s,14:u,15:u ###"
+rock acoustic ->," None
+None
+None
+0:k,4:h,4:s,6:h
+2:h,3:k,8:h
+0:k,10:h,12:k,16:h,26:k,26:j,28:h ###"
+rock dark hybrid ->," None
+0:a
+None
+0:k,4:s
+3:k
+12:k,26:k,28:a ###"
+rock deep daft ->," None
+None
+None
+0:k,4:h,4:s,6:h
+2:h,3:k,8:h
+0:k,10:h,12:k,16:h,26:k,26:a,28:h ###"
+rock acoustic ->," None
+None
+2:h
+0:k,4:s
+3:k,4:h,8:h
+1:k,12:h,16:k,17:h,28:k ###"
+rock dark hybrid ->," None
+0:a
+None
+0:k,4:s
+3:k
+1:k,17:a ###"
+rock acoustic ->," None
+None
+None
+0:k,4:s,6:h
+0:h,2:h,4:h
+2:h,3:k,8:k,10:h,10:k,12:h,12:h,17:k,19:h,24:h,28:k ###"
+rock dark hybrid ->," None
+None
+0:a
+0:k,4:s,6:a
+2:a
+2:a,3:k,10:k,10:a,12:a,17:k,19:a ###"
+rock acoustic ->," None
+None
+None
+4:k
+0:k,1:k,2:k,8:k,10:h,10:s
+2:s,6:k,8:k,10:k,14:s,14:k,15:h,15:k,19:k,20:s,21:k,22:l,22:k,22:s,24:l,24:h,26:l ###"
+rock dark hybrid ->," None
+None
+None
+1:a,3:a
+0:k,5:a,7:k,7:a,9:s,9:a
+1:s,13:s,13:a,14:k,14:a,15:a,18:k,19:s,20:k,21:k,21:s,23:a ###"
+rock deep daft ->," None
+None
+None
+4:k
+0:k,1:k,2:k,8:k,10:h,10:s
+2:s,6:k,8:k,10:k,14:s,14:k,15:h,15:k,19:k,20:s,21:k,22:a,22:k,22:s,24:h,24:a,26:a ###"
+jazz klezmer acoustic ->," None
+None
+None
+None
+0:s,0:k,0:y,4:k,6:k,6:s,6:q,10:k,12:s
+12:k,12:q,27:k,28:x,31:s,31:k ###"
+jazz klezmer jinglestacks 2nd hi-hat ->," None
+None
+None
+None
+0:s,0:k,0:y,4:k,6:h,6:k,6:s,10:k,12:s
+12:h,12:k,27:k,28:x,31:s,31:k ###"
+jazz klezmer jazz funk ->," None
+None
+None
+None
+0:s,0:k,0:y,4:k,6:b,6:k,6:s,10:k,12:s
+12:b,12:k,27:k,28:x,31:s,31:k ###"
+jazz klezmer big room layered ->," None
+None
+None
+None
+0:k,0:s,0:y,4:k,6:k,6:s,6:l,10:k,12:s
+12:k,12:l,27:k,28:x,31:k,31:s ###"
+jazz klezmer super boom layered ->," None
+None
+None
+None
+0:s,0:k,0:y,4:k,6:k,6:s,6:l,10:k,12:s
+12:k,12:l,27:k,28:x,31:s,31:k ###"
+jazz klezmer nu rnb ->," None
+None
+None
+None
+0:s,0:k,0:y,4:k,6:k,6:s,10:k,12:s,22:s
+12:k,12:s,27:k,28:x,31:s,31:k ###"
+jazz klezmer compact lite w/ tambourine hh ->," None
+None
+None
+None
+0:s,0:k,0:y,4:k,6:s,6:k,6:a,10:k,12:s
+12:k,12:a,27:k,28:x,31:s,31:k ###"
+latin brazilian acoustic ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:k,16:q,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian jinglestacks 2nd hi-hat ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:h,16:k,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian jazz funk ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:b,16:k,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian dark hybrid ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:k,16:q,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:s,25:a,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian big room layered ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s,16:k
+0:s,1:k,1:s,3:u,3:k,5:k,5:s,7:k,7:s,9:u,9:k,10:k,10:z,12:u,14:u,14:k,16:l,18:s,20:k,20:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian super boom layered ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:k,16:l,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian west coast funk ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:b,0:s,1:b,1:s,1:k,3:u,3:k,5:b,5:s,5:k,7:b,7:s,7:k,9:u,9:k,10:b,10:z,12:u,14:u,14:k,16:h,16:k,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian 808 simple ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:s,10:v,12:u,14:u,14:k,16:k,16:q,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian nu rnb ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:s,0:l,1:s,1:k,1:l,3:u,3:k,5:s,5:k,5:l,7:s,7:k,7:l,9:u,9:k,10:s,10:l,12:u,14:u,14:k,16:k,16:s,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian ele-drum ->," None
+None
+None
+None
+0:k,0:l,3:s,9:s,12:k,12:s,14:s
+0:s,1:s,1:k,1:l,3:u,3:k,5:s,5:k,5:l,7:s,7:k,7:l,9:u,9:k,10:s,10:l,12:u,14:u,14:k,16:k,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:h,25:s,26:s,27:s,29:s,30:s,31:s ###"
+latin brazilian compact lite w/ tambourine hh ->," None
+None
+None
+None
+0:k,3:s,9:s,12:k,12:s,14:s
+0:s,0:v,1:s,1:v,1:k,3:u,3:k,5:s,5:v,5:k,7:s,7:v,7:k,9:u,9:k,10:v,10:z,12:u,14:u,14:k,16:k,16:a,18:s,20:k,20:s,22:s,22:s,24:k,24:s,25:s,25:a,26:s,27:s,29:s,30:s,31:s ###"
+blues shuffle acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,3:k,4:s,4:y,7:k,7:s,8:k,8:r,8:s,10:k,11:r,12:s,12:r,14:k,14:s,14:y,15:s ###"
+blues shuffle big room layered ->," None
+None
+None
+None
+None
+0:r,0:k,3:k,4:s,4:y,7:k,7:s,8:k,8:r,8:s,10:k,11:r,12:r,12:s,14:k,14:s,14:y,15:s ###"
+blues shuffle acoustic ->," None
+None
+None
+4:r,4:s,7:s
+8:r,8:k,8:s,14:s,15:s,24:s
+0:k,3:k,4:v,4:s,7:k,7:r,8:s,10:r,11:k,14:y,15:k,15:s,16:s,18:r,18:k,18:s,22:r,22:k,22:s,23:s,24:s,26:r,26:k,30:r,30:k ###"
+blues shuffle big room layered ->," None
+None
+None
+4:r,4:s,7:s
+8:r,8:k,8:s,14:s,15:s,24:s
+0:k,3:k,4:k,4:s,7:k,7:r,8:s,10:r,11:k,14:y,15:k,15:s,16:s,18:r,18:k,18:s,22:r,22:k,22:s,23:s,24:s,26:r,26:k,30:r,30:k ###"
+blues shuffle west coast funk ->," None
+None
+None
+4:r,4:s,7:s
+8:r,8:k,8:s,14:s,15:s,24:s
+0:k,3:k,4:b,4:s,7:k,7:r,8:s,10:r,11:k,14:y,15:k,15:s,16:s,18:r,18:k,18:s,22:r,22:k,22:s,23:s,24:s,26:r,26:k,30:r,30:k ###"
+blues shuffle nu rnb ->," None
+None
+None
+4:r,4:s,7:s
+8:r,8:k,8:s,14:s,15:s,24:s
+0:k,3:k,4:s,4:l,7:k,7:r,8:s,10:r,11:k,14:y,15:k,15:s,16:s,18:r,18:k,18:s,22:r,22:k,22:s,23:s,24:s,26:r,26:k,30:r,30:k ###"
+blues shuffle acoustic ->," None
+None
+None
+0:s,3:s
+7:k,7:s,9:s
+0:u,0:k,1:k,2:u,2:s,3:u,3:k,4:u,4:k,4:s,5:u,5:k,5:s,7:u,8:u,8:k,9:u,10:k,11:u,11:k,12:u,12:s,13:u,13:k,13:s,15:y,15:s,15:k,18:k,19:y,22:s,23:r,24:s,25:r,25:k,27:r,30:r ###"
+latin merengue acoustic ->," None
+None
+None
+7:k
+3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t
+0:k,4:s,12:k,13:t,15:t,16:q,19:s,27:k,28:t,30:t,31:q ###"
+latin merengue jinglestacks 2nd hi-hat ->," None
+None
+None
+7:k
+3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t
+0:k,4:s,12:k,13:t,15:t,16:h,19:s,27:k,28:t,30:t,31:h ###"
+latin merengue jazz funk ->," None
+None
+None
+7:k
+3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t
+0:k,4:s,12:k,13:t,15:t,16:b,19:s,27:k,28:t,30:t,31:b ###"
+latin merengue big room layered ->," None
+None
+None
+7:k
+3:s,4:k,6:s,7:s,8:s,10:s,12:l,14:t
+0:k,4:s,12:k,13:t,15:t,16:l,19:s,27:k,28:t,30:t,31:l ###"
+latin merengue super boom layered ->," None
+None
+None
+7:k
+3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t
+0:k,4:s,12:k,13:t,15:t,16:l,19:s,27:k,28:t,30:t,31:l ###"
+latin merengue nu rnb ->," None
+None
+None
+7:k
+3:s,4:k,6:s,7:s,8:s,10:s,12:z,14:t
+0:k,4:s,12:k,13:t,15:t,16:s,19:s,27:k,28:t,30:t,31:s ###"
+latin merengue ele-drum ->," None
+None
+None
+7:k
+3:s,4:k,6:s,7:s,8:s,10:s,12:z,14:t
+0:k,4:s,12:k,13:t,15:t,16:l,19:s,27:k,28:t,30:t,31:l ###"
+latin merengue compact lite w/ tambourine hh ->," None
+None
+None
+7:k
+3:s,4:k,6:s,7:s,8:s,10:s,12:w,14:t
+0:k,4:s,12:k,13:t,15:t,16:a,19:s,27:k,28:t,30:t,31:a ###"
+latin brazilian-bossa acoustic ->," None
+None
+None
+0:k,4:h,6:k,6:k
+8:k,12:k
+2:h,4:l,4:z,4:s,6:k,9:k,10:k,10:s,10:q,16:k,18:z,18:k,20:k,26:l,26:z ###"
+latin brazilian-bossa jinglestacks 2nd hi-hat ->," None
+None
+None
+0:k,4:h,6:k,6:k
+8:k,12:k
+2:h,4:l,4:z,4:s,6:k,9:k,10:h,10:s,10:k,16:k,18:z,18:k,20:k,26:l,26:z ###"
+latin brazilian-bossa jazz funk ->," None
+None
+None
+0:k,4:h,6:k,6:k
+8:k,12:k
+2:h,4:l,4:z,4:s,6:k,9:k,10:b,10:s,10:k,16:k,18:z,18:k,20:k,26:l,26:z ###"
+latin brazilian-bossa dark hybrid ->," None
+None
+2:a
+0:k,4:a,6:k,12:a
+8:a
+4:z,4:s,6:k,9:k,10:s,10:q,16:a,18:z,26:z ###"
+latin brazilian-bossa big room layered ->," None
+None
+None
+0:k,4:h,6:k,6:k
+8:k,12:k
+2:h,4:l,4:z,4:s,6:k,9:k,10:k,10:s,10:l,16:k,18:z,18:k,20:k,26:l,26:z ###"
+latin brazilian-bossa 808 simple ->," None
+None
+None
+0:k,4:h,6:k,6:k
+8:k,12:k
+2:h,4:s,4:l,4:s,6:k,9:k,10:k,10:s,10:q,16:k,18:s,18:k,20:k,26:s,26:l ###"
+latin brazilian-bossa nu rnb ->," None
+None
+None
+0:k,4:h,6:k,6:k
+8:k,12:k
+2:h,4:s,4:l,4:s,6:k,9:k,10:s,10:k,16:k,18:s,18:k,20:k,26:s,26:l ###"
+latin brazilian-bossa ele-drum ->," None
+None
+None
+0:k,4:h,6:k,6:k
+8:k,12:k
+2:h,4:s,4:l,4:s,6:k,9:k,10:k,10:s,10:l,16:k,18:s,18:k,20:k,26:s,26:l ###"
+latin brazilian-bossa compact lite w/ tambourine hh ->," None
+None
+2:a
+0:k,4:a,6:k,12:a
+8:a
+4:z,4:s,6:k,9:k,10:a,10:s,16:a,18:z,26:z ###"
+latin brazilian-bossa deep daft ->," None
+None
+None
+0:k,4:h,6:k,6:k
+8:k,12:k
+2:h,4:a,4:z,4:s,6:k,9:k,10:k,10:s,10:l,16:k,18:z,18:k,20:k,26:z,26:a ###"
+latin brazilian-sambareggae acoustic ->," None
+None
+None
+0:k,2:h
+3:s,4:t,4:k,5:s,6:h,6:s,8:u,8:k,9:u,10:u,11:u,20:k
+0:k,0:x,1:s,2:x,7:s,12:t,12:k,14:h,14:s,16:u,18:u,23:z ###"
+latin brazilian-sambareggae dark hybrid ->," None
+None
+None
+0:k,2:a
+3:s,4:t,4:k,5:s,6:s,6:a,8:u,8:k,9:u,10:u,11:u,20:k
+0:k,0:x,1:s,2:x,7:s,12:t,12:k,14:s,14:a,16:u,18:u,23:z ###"
+latin brazilian-sambareggae 808 simple ->," None
+None
+None
+0:k,2:h
+3:s,4:t,4:k,5:s,6:h,6:s,8:u,8:k,9:u,10:u,11:u,20:k
+0:k,0:x,1:s,2:x,7:s,12:t,12:k,14:h,14:s,16:u,18:u,23:s ###"
+afrocuban calypso acoustic ->," None
+None
+0:k
+3:s,6:h
+0:r,1:s,4:r,4:k,10:h,14:z
+0:s,6:z,8:r,9:z,12:r,18:r,18:h,22:s,24:k,25:s,26:h,28:k ###"
+afrocuban calypso dark hybrid ->," None
+None
+0:k
+3:s,6:a
+0:r,1:s,4:r,4:k,10:a,14:z
+0:s,6:z,8:r,9:z,12:r,18:r,18:a,22:s,24:a,25:s,26:a,28:a ###"
+afrocuban calypso 808 simple ->," None
+None
+0:k
+3:s,6:s,6:h
+0:r,1:s,4:r,4:k,10:h
+0:s,8:r,9:s,12:r,18:r,18:h,24:k,25:s,26:h,28:k ###"
+latin brazilian-songo acoustic ->," None
+None
+None
+3:k,3:s,4:k,6:k
+0:l,6:k,8:k,10:k,13:s,15:z
+0:h,0:k,1:k,2:h,9:s,12:h,14:k,17:s,18:h,18:k,21:s,23:s,25:z,30:h ###"
+latin brazilian-songo dark hybrid ->," None
+0:a
+None
+3:k,3:s,6:k
+13:s,15:z
+0:k,0:a,1:k,9:s,12:a,17:s,18:a,21:s,23:s,25:z ###"
+latin brazilian-songo 808 simple ->," None
+None
+None
+3:k,3:s,4:k,6:k
+0:l,6:k,8:k,10:k,13:s,15:s
+0:h,0:k,1:k,2:h,9:s,12:h,14:k,17:s,18:h,18:k,21:s,23:s,25:s,30:h ###"
+latin brazilian-songo deep daft ->," None
+None
+None
+3:k,3:s,4:k,6:k
+0:a,6:k,8:k,10:k,13:s,15:z
+0:h,0:k,1:k,2:h,9:s,12:h,14:k,17:s,18:h,18:k,21:s,23:s,25:z,30:h ###"
+funk acoustic ->," None
+None
+None
+None
+0:k,4:s,6:k,8:l,8:h,10:h,10:k,10:s,12:l,12:h,15:k
+1:k,1:z,2:k,4:l,4:h,4:s,12:s,14:h,16:k,17:s,18:h,20:k,25:s,27:k,28:z,29:s,30:k ###"
+funk dark hybrid ->," None
+None
+2:a
+4:a
+0:k,4:s,8:a,10:k,10:s,12:a,15:k,24:a
+1:k,1:z,4:s,4:a,12:s,16:a,17:s,25:s,27:k,28:z,29:s ###"
+funk 808 simple ->," None
+None
+None
+None
+0:k,4:s,6:k,8:l,8:h,10:h,10:k,10:s,12:l,12:h,15:k
+1:s,1:k,2:k,4:l,4:h,4:s,12:s,14:h,16:k,17:s,18:h,20:k,25:s,27:k,28:s,29:s,30:k ###"
+funk deep daft ->," None
+None
+None
+None
+0:k,4:s,6:k,8:h,8:a,10:h,10:k,10:s,12:h,12:a,15:k
+1:k,1:z,2:k,4:s,4:h,4:a,12:s,14:h,16:k,17:s,18:h,20:k,25:s,27:k,28:z,29:s,30:k ###"
+rock acoustic ->," None
+None
+None
+4:r,4:h
+0:k,6:r,8:r,8:h,10:r,10:k,12:s
+0:y,1:k,4:s,7:s,8:k,14:r,15:s,16:r,16:h,16:k,18:r,20:s,22:k,23:k,25:s,26:k,30:s,31:s ###"
+rock dark hybrid ->," None
+None
+None
+4:r,4:a
+0:k,6:r,8:r,8:a,10:r,10:k,12:s
+0:y,1:k,4:s,7:s,8:k,14:r,15:s,16:r,16:k,16:a,18:r,20:s,22:k,23:k,25:s,26:k,30:s,31:s ###"
+rock big room layered ->," None
+None
+None
+4:r,4:h,4:s
+0:k,6:r,8:r,8:h,10:r,10:k,15:s
+0:y,1:k,7:s,8:k,14:r,16:r,16:h,16:k,18:r,22:k,23:k,25:s,26:k,30:s ###"
+blues shuffle acoustic ->," None
+None
+None
+0:k,3:k,6:k
+2:k,4:k,6:k,7:k,10:h,10:k
+1:s,3:s,7:l,7:s,9:s,11:s,12:k,14:k,15:k,15:k,19:z,22:s,23:k,26:s,27:s,28:h,28:k,29:k ###"
+blues shuffle dark hybrid ->," None
+None
+None
+0:a
+0:k,1:k,1:a,2:a,4:k,4:a,5:a,6:a
+1:s,3:s,5:s,8:k,9:k,9:a,10:a,12:a,13:z,13:a,14:a,16:s,20:s,21:s,22:k,23:k ###"
+blues shuffle big room layered ->," None
+None
+None
+0:k,3:k,6:k
+2:k,4:k,6:k,7:k,10:h,10:k,11:s
+1:s,3:s,7:l,7:s,9:s,12:k,14:k,15:k,15:k,19:z,22:s,23:k,26:s,28:h,28:k,29:k ###"
+blues shuffle 808 simple ->," None
+None
+None
+0:k,3:k,6:k
+2:k,4:k,6:k,7:k,10:h,10:k
+1:s,3:s,7:l,7:s,9:s,11:s,12:k,14:k,15:k,15:k,19:s,22:s,23:k,26:s,27:s,28:h,28:k,29:k ###"
+blues shuffle deep daft ->," None
+None
+None
+0:k,3:k,6:k
+2:k,4:k,6:k,7:k,10:h,10:k
+1:s,3:s,7:a,7:s,9:s,11:s,12:k,14:k,15:k,15:k,19:z,22:s,23:k,26:s,27:s,28:h,28:k,29:k ###"
+afrocuban acoustic ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:q ###"
+afrocuban jinglestacks 2nd hi-hat ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:h ###"
+afrocuban jazz funk ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:b ###"
+afrocuban dark hybrid ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:a,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:q ###"
+afrocuban big room layered ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:k,27:l ###"
+afrocuban super boom layered ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:l ###"
+afrocuban west coast funk ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:b,27:h ###"
+afrocuban nu rnb ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:l,27:s ###"
+afrocuban ele-drum ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:h,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:l,27:l ###"
+afrocuban compact lite w/ tambourine hh ->," None
+None
+None
+None
+0:k,1:s,5:s,7:s,10:s
+0:r,2:r,2:s,4:r,6:r,9:t,9:a,11:t,12:s,13:t,14:s,15:t,17:k,18:t,20:t,22:x,23:r,25:v,27:a ###"
+middleeastern acoustic ->," None
+None
+None
+0:k
+2:k,4:k,6:k,8:k,10:h,12:z
+0:l,2:s,6:h,7:z,12:l,12:h,14:k,15:s,16:k,18:z,22:k,28:s,28:k,30:h ###"
+middleeastern dark hybrid ->," None
+0:a
+None
+0:k
+6:k,12:z
+2:s,7:z,12:a,15:s,18:z,28:s ###"
+middleeastern 808 simple ->," None
+None
+None
+0:k
+2:k,4:k,6:k,8:k,10:h,12:s
+0:l,2:s,6:h,7:s,12:l,12:h,14:k,15:s,16:k,18:s,22:k,28:s,28:k,30:h ###"
+middleeastern deep daft ->," None
+None
+None
+0:k
+2:k,4:k,6:k,8:k,10:h,12:z
+0:a,2:s,6:h,7:z,12:h,12:a,14:k,15:s,16:k,18:z,22:k,28:s,28:k,30:h ###"
+latin brazilian-bossa acoustic ->," None
+None
+None
+2:k,6:k
+0:k,4:h,6:k,8:k,10:s,12:k,14:k,24:k
+4:l,8:h,10:s,11:h,11:s,12:s,13:s,13:k,14:s,15:h,16:k,18:s,20:k,22:k,24:k,28:h,30:k ###"
+latin brazilian-bossa dark hybrid ->," None
+None
+None
+0:k
+0:a,2:k,2:a,4:a,4:s,6:a,8:k,18:k
+4:s,5:a,5:s,6:s,7:a,7:s,8:s,9:a,10:k,10:a,12:s,12:a,14:a,16:k,22:a,24:a ###"
+latin brazilian-bossa deep daft ->," None
+None
+None
+2:k,6:k
+0:k,4:h,6:k,8:k,10:s,12:k,14:k,24:k
+4:a,8:h,10:s,11:h,11:s,12:s,13:s,13:k,14:s,15:h,16:k,18:s,20:k,22:k,24:k,28:h,30:k ###"
+latin brazilian-baiao acoustic ->," None
+0:r
+2:h
+0:k,3:k,5:r
+0:k,1:r,4:s,6:s
+1:k,3:s,4:s,8:s,9:r,11:s,12:s,14:s,20:k,25:k,25:z,28:z,29:s,31:z ###"
+latin brazilian-baiao dark hybrid ->," None
+0:r
+2:a
+0:k,3:k,5:r
+0:k,1:r,4:s,6:s
+1:k,3:s,4:s,8:s,9:r,11:s,12:s,14:s,20:k,25:k,25:z,28:z,29:s,31:z ###"
+latin brazilian-baiao 808 simple ->," None
+0:r
+2:h
+0:k,3:k,5:r
+0:k,1:r,4:s,6:s
+1:k,3:s,4:s,8:s,9:r,11:s,12:s,14:s,20:k,25:s,25:k,28:s,29:s,31:s ###"
+latin brazilian-samba acoustic ->," None
+None
+0:k,1:s,2:h,2:s,3:k
+3:s,4:u
+0:s,1:s,7:s,16:s,17:s
+2:s,15:s,24:s,27:k,31:z ###"
+latin brazilian-samba dark hybrid ->," None
+None
+0:k,1:s,2:s,2:a,3:k
+3:s,4:u
+0:s,1:s,7:s,16:s,17:s
+2:s,15:s,24:s,27:k,31:z ###"
+latin brazilian-samba 808 simple ->," None
+None
+0:k,1:s,2:h,2:s,3:k
+3:s,4:u
+0:s,1:s,7:s,16:s,17:s
+2:s,15:s,24:s,27:k,31:s ###"
+latin brazilian-samba acoustic ->," None
+None
+0:k,2:h,2:s,3:k
+0:s,4:u
+1:s,3:s,13:s
+7:s,8:s,9:s,11:s,13:s,15:s,16:s,21:s,23:z,25:s,27:z,31:z ###"
+latin brazilian-samba dark hybrid ->," None
+None
+0:k,2:s,2:a,3:k
+0:s,4:u
+1:s,3:s,13:s
+7:s,8:s,9:s,11:s,13:s,15:s,16:s,21:s,23:z,25:s,27:z,31:z ###"
+latin brazilian-samba big room layered ->," None
+None
+0:k,2:h,2:s,3:k
+0:s,1:s,4:u
+3:s,13:s
+7:s,8:s,9:s,11:s,13:s,15:s,16:s,21:s,23:z,27:z,31:z ###"
+latin brazilian-samba 808 simple ->," None
+None
+0:k,2:h,2:s,3:k
+0:s,4:u
+1:s,3:s,13:s
+7:s,8:s,9:s,11:s,13:s,15:s,16:s,21:s,23:s,25:s,27:s,31:s ###"
+latin brazilian-maracatu acoustic ->," None
+None
+None
+None
+None
+0:k,0:s,1:s,1:k,1:h,3:s,4:h,4:z,5:s,6:s,7:s,8:h,8:z,9:k,9:s,10:z,11:k,11:s,12:h,12:z,12:k,13:s,14:s,15:s ###"
+latin brazilian-maracatu dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:s,1:s,1:k,1:a,3:s,4:z,4:a,5:s,6:s,7:s,8:z,8:a,9:k,9:s,10:z,11:k,11:s,12:k,12:z,12:a,13:s,14:s,15:s ###"
+latin brazilian-maracatu 808 simple ->," None
+None
+None
+None
+None
+0:k,0:s,1:s,1:k,1:h,3:s,4:s,4:h,5:s,6:s,7:s,8:s,8:h,9:k,9:s,10:s,11:k,11:s,12:s,12:h,12:k,13:s,14:s,15:s ###"
+latin dominican-merengue acoustic ->," None
+None
+0:k,2:h
+None
+3:s,4:k,6:s,8:k,10:s,14:t,15:t
+13:w,16:t,20:s,23:s,29:t ###"
+latin dominican-merengue dark hybrid ->," None
+None
+0:k,2:a
+None
+3:s,4:a,6:s,8:a,10:s,14:t,15:t
+13:w,16:t,20:s,23:s,29:t ###"
+latin dominican-merengue big room layered ->," None
+None
+0:k,2:h
+None
+3:s,4:k,6:s,8:k,10:s,14:t,15:t
+13:l,16:t,20:s,23:s,29:t ###"
+latin dominican-merengue nu rnb ->," None
+None
+0:k,2:h
+None
+3:s,4:k,6:s,8:k,10:s,14:t,15:t
+13:z,16:t,20:s,23:s,29:t ###"
+latin venezuelan-sangueo acoustic ->," None
+None
+None
+1:k,3:k,7:s
+0:l,0:k,1:s,12:z,12:k,14:h
+0:s,2:k,4:s,4:h,4:k,5:k,6:k,7:k,7:h,8:k,10:k,14:l,17:s,18:l,20:s,20:l,21:s,22:l,22:h,24:l,24:k,25:s,26:h,26:s,28:h,30:k,31:h ###"
+latin venezuelan-sangueo dark hybrid ->," None
+0:a
+None
+1:k,3:k,7:s
+0:k,1:s,12:z,14:a
+0:s,4:s,4:a,5:k,7:k,7:a,17:s,20:s,21:s,22:a,24:k,25:s,26:s,28:a,31:a ###"
+latin venezuelan-sangueo big room layered ->," None
+None
+None
+1:k,3:k,7:s
+0:l,0:k,1:s,4:s,12:z,12:k,14:h
+0:s,2:k,4:h,4:k,5:k,6:k,7:k,7:h,8:k,10:k,14:l,17:s,18:l,20:l,21:s,22:l,22:h,24:l,24:k,25:s,26:h,26:s,28:h,30:k,31:h ###"
+latin venezuelan-sangueo 808 simple ->," None
+None
+None
+1:k,3:k,7:s
+0:l,0:k,1:s,12:s,12:k,14:h
+0:s,2:k,4:s,4:h,4:k,5:k,6:k,7:k,7:h,8:k,10:k,14:l,17:s,18:l,20:s,20:l,21:s,22:l,22:h,24:l,24:k,25:s,26:h,26:s,28:h,30:k,31:h ###"
+latin venezuelan-sangueo deep daft ->," None
+None
+None
+1:k,3:k,7:s
+0:k,0:a,1:s,12:z,12:k,14:h
+0:s,2:k,4:s,4:h,4:k,5:k,6:k,7:k,7:h,8:k,10:k,14:a,17:s,18:a,20:s,20:a,21:s,22:h,22:a,24:k,24:a,25:s,26:h,26:s,28:h,30:k,31:h ###"
+neworleans funk acoustic ->," None
+None
+0:k
+0:k,2:k
+4:s,6:h,7:s,10:k,14:k
+6:l,12:s,13:s,15:s,17:s,22:k,29:k ###"
+neworleans funk dark hybrid ->," None
+0:a
+None
+0:k
+4:s,6:a,7:s,10:k
+12:s,13:s,15:s,17:s,29:a ###"
+neworleans funk deep daft ->," None
+None
+0:k
+0:k,2:k
+4:s,6:h,7:s,10:k,14:k
+6:a,12:s,13:s,15:s,17:s,22:k,29:k ###"
+soul acoustic ->," None
+None
+0:k
+6:k
+0:k,2:k,12:s,15:k
+0:k,1:s,4:s,9:s,10:h,10:s,20:z,26:k,26:k ###"
+soul dark hybrid ->," None
+0:a
+None
+None
+0:k,12:s,15:k
+0:k,1:s,4:s,9:s,10:s,20:z,26:k ###"
+soul 808 simple ->," None
+None
+0:k
+6:k
+0:k,2:k,4:s,12:s,15:k
+0:k,1:s,9:s,10:h,10:s,26:k,26:k ###"
+rock acoustic ->," None
+None
+0:k
+None
+0:k,1:s,7:s,10:k,12:s,12:h
+0:k,1:k,2:s,4:s,6:k,8:h,10:h,11:k,14:h,15:k,16:s,18:h,20:s,22:l,22:k,25:s,26:s,26:k,29:s,30:k,31:s ###"
+rock dark hybrid ->," None
+None
+0:a
+6:a
+0:k,1:s,7:s,10:k,10:a,12:s,12:a
+0:k,1:k,2:s,4:s,8:a,11:k,15:k,16:s,18:a,20:s,22:k,25:s,26:s,29:s,31:s ###"
+rock big room layered ->," None
+None
+0:k
+4:s
+0:k,1:s,7:s,10:k,12:h
+0:k,1:k,2:s,6:k,8:h,10:h,11:k,14:h,15:k,16:s,18:h,22:l,22:k,25:s,26:s,26:k,29:s,30:k,31:s ###"
+rock deep daft ->," None
+None
+0:k
+None
+0:k,1:s,7:s,10:k,12:s,12:h
+0:k,1:k,2:s,4:s,6:k,8:h,10:h,11:k,14:h,15:k,16:s,18:h,20:s,22:k,22:a,25:s,26:s,26:k,29:s,30:k,31:s ###"
+rock acoustic ->," None
+None
+None
+0:k
+10:k
+0:k,2:k,3:l,4:l,6:l,7:h,11:s,12:s,13:h,14:k,14:k,15:k,17:k,18:h,19:k,20:k,22:s,23:k,27:k,28:h ###"
+rock dark hybrid ->," None
+None
+None
+0:a,2:a
+3:a,4:a,7:a
+0:k,6:a,11:s,12:s,13:a,14:k,14:a,15:a,17:k,22:s,27:a,28:a ###"
+rock deep daft ->," None
+None
+None
+0:k
+10:k
+0:k,2:k,3:a,4:a,6:a,7:h,11:s,12:s,13:h,14:k,14:k,15:k,17:k,18:h,19:k,20:k,22:s,23:k,27:k,28:h ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,0:k,1:k,3:k,7:k
+0:k,1:k,6:k,8:s,10:k,11:k,12:k,13:k,15:h,19:k,20:k,21:k,24:k,27:s,30:l ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,0:a,1:a,3:a,7:a
+0:k,1:k,6:a,8:s,10:a,11:a,12:a,13:a,15:a,19:k,20:a,21:a,24:a,27:s,30:a ###"
+rock deep daft ->," None
+None
+None
+None
+0:k,0:k,1:k,3:k,7:k
+0:k,1:k,6:k,8:s,10:k,11:k,12:k,13:k,15:h,19:k,20:k,21:k,24:k,27:s,30:a ###"
+latin brazilian-samba acoustic ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:v,6:r,6:h,7:k,7:q,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:h,15:k ###"
+latin brazilian-samba jinglestacks 2nd hi-hat ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:v,6:r,6:h,7:h,7:k,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:h,15:k ###"
+latin brazilian-samba jazz funk ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:v,6:r,6:h,7:b,7:k,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:h,15:k ###"
+latin brazilian-samba dark hybrid ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:s,2:r,2:a,3:k,3:r,4:k,4:r,5:v,6:r,6:a,7:k,7:q,8:k,8:r,9:s,10:r,10:a,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:a,15:k ###"
+latin brazilian-samba big room layered ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:k,6:r,6:h,7:k,7:l,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:k,12:r,14:u,14:r,14:h,15:k ###"
+latin brazilian-samba super boom layered ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:v,6:r,6:h,7:k,7:l,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:h,15:k ###"
+latin brazilian-samba west coast funk ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:b,6:r,6:h,7:h,7:k,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:b,12:k,12:r,14:u,14:r,14:h,15:k ###"
+latin brazilian-samba nu rnb ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:l,6:r,6:h,7:k,7:s,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:k,12:r,12:l,14:u,14:r,14:h,15:k ###"
+latin brazilian-samba ele-drum ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:h,2:r,2:s,3:k,3:r,4:k,4:r,5:l,6:r,6:h,7:k,7:l,8:k,8:r,9:s,10:r,10:h,11:k,11:r,12:k,12:r,12:l,14:u,14:r,14:h,15:k ###"
+latin brazilian-samba compact lite w/ tambourine hh ->," None
+None
+None
+None
+None
+0:x,0:k,0:r,1:k,2:s,2:r,2:a,3:k,3:r,4:k,4:r,5:v,6:r,6:a,7:k,7:a,8:k,8:r,9:s,10:r,10:a,11:k,11:r,12:v,12:k,12:r,14:u,14:r,14:a,15:k ###"
+latin brazilian-ijexa acoustic ->," None
+None
+None
+0:k,0:h,2:k,2:r
+0:r,4:h,4:r,5:r,7:r,9:r
+12:h,12:r,14:r,18:k ###"
+latin brazilian-ijexa dark hybrid ->," None
+None
+None
+0:k,0:a,2:k,2:r
+0:r,4:r,4:a,5:r,7:r,9:r
+12:r,12:a,14:r,18:k ###"
+latin brazilian acoustic ->," None
+None
+0:k
+3:s,4:k
+6:k,12:s,13:s,13:k,14:h,15:s,22:k,29:s
+1:s,2:h,5:s,6:l,8:s,9:s,10:k,12:s,13:k,17:h,17:s,18:k,20:s,22:h,24:z,26:h,28:k,29:s,31:s ###"
+latin brazilian dark hybrid ->," None
+None
+None
+0:k,0:a,2:a
+2:k,4:a,6:a,7:s,8:s,9:s,9:a,11:s,18:k,25:s
+1:s,4:s,5:s,8:s,9:k,12:a,13:a,13:s,14:a,15:s,16:s,20:z,24:k,25:s,27:s ###"
+latin brazilian big room layered ->," None
+None
+0:k
+3:s,4:k
+1:s,6:k,12:s,13:s,13:k,14:h,15:s,22:k,29:s
+2:h,5:s,6:l,8:s,9:s,10:k,12:s,13:k,17:h,18:k,20:s,22:h,24:z,26:h,28:k,29:s,31:s ###"
+latin brazilian 808 simple ->," None
+None
+0:k
+3:s,4:k
+6:k,8:s,12:s,13:s,13:k,14:h,15:s,22:k,29:s
+1:s,2:h,5:s,6:l,9:s,10:k,12:s,13:k,17:h,17:s,18:k,20:s,22:h,26:h,28:k,29:s,31:s ###"
+latin brazilian deep daft ->," None
+None
+0:k
+3:s,4:k
+6:k,12:s,13:s,13:k,14:h,15:s,22:k,29:s
+1:s,2:h,5:s,6:a,8:s,9:s,10:k,12:s,13:k,17:h,17:s,18:k,20:s,22:h,24:z,26:h,28:k,29:s,31:s ###"
+latin brazilian-ijexa acoustic ->," None
+None
+0:k
+2:h,4:k,5:s
+1:k,6:k,6:s,6:k,8:s,9:s,11:s,12:s,13:s,13:k,14:h,15:s
+3:z,5:k,9:k,13:k,14:s,16:s,19:s,22:h,23:k,25:l ###"
+latin brazilian-ijexa dark hybrid ->," None
+None
+None
+0:k,0:a,1:s,2:a
+2:k,2:s,4:s,4:a,5:s,5:a,6:a,7:s,8:s,9:a,9:s,11:s
+1:k,9:k,10:s,12:a,12:s,13:a,14:a,15:s,18:a,19:k ###"
+latin brazilian-ijexa 808 simple ->," None
+None
+0:k
+2:h,4:k,5:s
+1:k,6:k,6:s,6:k,8:s,9:s,11:s,12:s,13:s,13:k,14:h,15:s
+3:s,5:k,9:k,13:k,14:s,16:s,19:s,22:h,23:k,25:l ###"
+latin brazilian-ijexa deep daft ->," None
+None
+0:k
+2:h,4:k,5:s
+1:k,6:k,6:s,6:k,8:s,9:s,11:s,12:s,13:s,13:k,14:h,15:s
+3:z,5:k,9:k,13:k,14:s,16:s,19:s,22:h,23:k,25:a ###"
+latin brazilian-ijexa acoustic ->," None
+None
+1:s
+3:s,4:k,4:k
+0:k,4:k,5:s,5:k,6:h,7:s,10:h,14:k,30:k
+0:z,1:k,2:h,8:k,9:s,9:k,14:h,14:s,16:s,17:j,18:h,24:h,26:h,29:s,30:k,30:k ###"
+latin brazilian-ijexa dark hybrid ->," None
+None
+None
+0:k,0:a,1:s,2:a
+0:k,1:a,1:s,3:s,4:a,5:s,6:a,7:s,10:k,26:k
+5:s,5:a,10:s,12:s,12:a,13:a,13:s,14:a,15:s,22:a,25:s,26:k ###"
+latin brazilian-ijexa 808 simple ->," None
+None
+1:s
+3:s,4:k,4:k
+0:s,0:k,4:k,5:s,5:k,6:h,7:s,10:h,14:k,30:k
+1:k,2:h,8:k,9:s,9:k,14:h,14:s,17:j,18:h,24:h,26:h,29:s,30:k,30:k ###"
+latin brazilian-ijexa deep daft ->," None
+None
+1:s
+3:s,4:k,4:k
+0:k,4:k,5:s,5:k,6:h,7:s,10:h,14:k,30:k
+0:z,1:k,2:h,8:k,9:s,9:k,14:h,14:s,16:s,17:a,18:h,24:h,26:h,29:s,30:k,30:k ###"
+latin brazilian-songo acoustic ->," None
+None
+0:s
+3:k,3:s,5:s,6:s
+1:s,9:s,12:z,15:s
+0:k,0:z,1:s,2:h,4:z,6:h,6:z,7:z,13:s,20:y,20:h,22:s,23:s,25:z,26:s,27:s,28:h,30:s,31:z ###"
+latin brazilian-songo dark hybrid ->," None
+None
+0:s
+3:k,3:s,5:s,6:s
+1:s,9:s,12:z,15:s
+0:k,0:z,1:s,2:a,4:z,6:z,6:a,7:z,13:s,20:y,20:a,22:s,23:s,25:z,26:s,27:s,28:a,30:s,31:z ###"
+latin brazilian-songo big room layered ->," None
+None
+0:s,1:s
+3:k,3:s,6:s
+12:z,15:s
+0:k,0:z,1:s,2:h,4:z,6:h,6:z,7:z,13:s,20:y,20:h,22:s,23:s,25:z,26:s,27:s,28:h,30:s,31:z ###"
+latin brazilian-songo 808 simple ->," None
+None
+0:s
+3:k,3:s,5:s,6:s,7:s
+1:s,9:s,12:s
+0:s,0:k,1:s,2:h,4:s,6:s,6:h,13:s,20:y,20:h,22:s,25:s,26:s,27:s,28:h,30:s,31:s ###"
+latin brazilian-songo acoustic ->," None
+None
+None
+2:s
+0:k,1:s,3:s,4:s,5:s,6:s,7:s,8:s,12:s
+0:k,8:s,9:s,11:s,12:z,12:s,15:s,16:s,18:h,19:k,22:h,25:s,25:z,27:k,27:s,28:h,29:s,30:k,30:s,31:s ###"
+latin brazilian-songo dark hybrid ->," None
+None
+None
+2:s
+0:k,1:s,3:s,4:s,5:s,6:s,7:s,8:s,12:s
+0:a,8:s,9:s,11:s,12:z,12:s,15:s,16:s,18:a,19:k,22:a,25:s,25:z,27:k,27:s,28:a,29:s,30:k,30:s,31:s ###"
+latin brazilian-songo big room layered ->," None
+None
+3:s
+1:s,2:s,4:s
+0:k,5:s,6:s,8:s
+0:k,8:s,12:z,12:s,16:s,18:h,19:k,22:h,25:z,27:k,28:h,29:s,30:k,30:s ###"
+latin brazilian-songo 808 simple ->," None
+None
+None
+2:s
+0:k,1:s,3:s,4:s,5:s,6:s,7:s,8:s,12:s
+0:k,8:s,9:s,11:s,12:s,12:s,15:s,16:s,18:h,19:k,22:h,25:s,27:k,27:s,28:h,29:s,30:k,30:s,31:s ###"
+latin brazilian acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,1:k,1:s,1:y,2:s,3:s,4:l,4:k,5:k,6:k,6:k,8:s,8:r,8:s,10:r,10:h,11:s,12:r,12:h,12:k,13:k,13:s,14:r ###"
+latin brazilian dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:s,1:k,1:s,1:y,2:s,3:s,4:k,4:a,5:k,6:k,6:a,8:s,8:r,8:s,10:r,10:a,11:s,12:r,12:k,12:a,13:k,13:s,14:r ###"
+latin brazilian big room layered ->," None
+None
+None
+None
+None
+0:h,0:k,1:k,1:s,1:y,2:s,3:s,4:l,4:k,5:k,6:k,6:k,8:r,8:s,10:r,10:h,11:s,12:r,12:h,12:k,13:k,13:s,14:r ###"
+latin brazilian deep daft ->," None
+None
+None
+None
+None
+0:h,0:k,1:s,1:k,1:s,1:y,2:s,3:s,4:k,4:a,5:k,6:k,6:k,8:s,8:r,8:s,10:r,10:h,11:s,12:r,12:h,12:k,13:k,13:s,14:r ###"
+reggae acoustic ->," None
+None
+0:k
+2:k
+6:k,8:k,12:k
+0:l,0:h,4:h,8:z,14:l,14:z,16:k,18:s,20:s,20:k,21:s,30:k,31:z ###"
+reggae dark hybrid ->," None
+0:a
+0:k
+None
+None
+0:a,8:z,14:z,18:s,20:s,21:s,31:z ###"
+reggae 808 simple ->," None
+None
+0:k
+2:k
+6:k,8:k,12:k
+0:l,0:h,4:h,8:s,14:s,14:l,16:k,18:s,20:s,20:k,21:s,30:k,31:s ###"
+reggae deep daft ->," None
+None
+0:k
+2:k
+6:k,8:k,12:k
+0:h,0:a,4:h,8:z,14:z,14:a,16:k,18:s,20:s,20:k,21:s,30:k,31:z ###"
+neworleans secondline acoustic ->," None
+None
+None
+5:s
+0:k,1:s,2:h,4:s,5:s,7:s,8:s,14:h,14:s,17:s
+0:s,2:s,3:z,5:z,5:s,6:z,6:s,9:z,10:z,11:s,12:z,15:z,16:k,16:z,18:z,19:s,20:k,22:s,22:h,24:k,25:s,26:h,26:s,27:z,28:s,28:k,31:s ###"
+neworleans secondline dark hybrid ->," None
+None
+None
+5:s
+0:k,1:s,2:a,4:s,5:s,7:s,8:s,14:s,14:a,17:s
+0:s,2:s,3:z,5:z,5:s,6:z,6:s,9:z,10:z,11:s,12:z,15:z,16:k,16:z,18:z,19:s,20:k,22:s,22:a,24:k,25:s,26:s,26:a,27:z,28:s,28:k,31:s ###"
+neworleans secondline big room layered ->," None
+None
+None
+5:s,6:s
+0:k,1:s,2:h,4:s,5:s,7:s,8:s,14:h,17:s
+0:s,2:s,3:z,5:z,5:s,6:z,9:z,10:z,11:s,12:z,15:z,16:k,16:z,18:z,19:s,20:k,22:h,24:k,25:s,26:h,26:s,27:z,28:k,28:s,31:s ###"
+neworleans secondline 808 simple ->," None
+None
+None
+5:s
+0:k,1:s,2:h,3:s,4:s,5:s,6:s,7:s,8:s,9:s,12:s,14:h,14:s,15:s,17:s
+0:s,2:s,5:s,5:s,6:s,10:s,11:s,16:s,16:k,18:s,20:k,22:h,24:k,26:h,26:s,27:s,28:k ###"
+neworleans secondline acoustic ->," None
+None
+0:h
+1:s
+0:k,6:s,8:s,9:s,10:k,12:z,12:s,13:s,14:s,15:s,28:s,29:s,30:s,31:s
+0:z,0:s,6:s,7:s,9:s,13:s,14:s,16:s,17:s,18:s,20:s,22:z,24:s,26:k,26:s,28:s,30:s,31:s ###"
+neworleans secondline dark hybrid ->," None
+None
+0:a
+1:s
+0:k,6:s,8:s,9:s,10:k,12:z,12:s,13:s,14:s,15:s,28:s,29:s,30:s,31:s
+0:z,0:s,6:s,7:s,9:s,13:s,14:s,16:s,17:s,18:s,20:s,22:z,24:s,26:k,26:s,28:s,30:s,31:s ###"
+neworleans secondline big room layered ->," None
+None
+0:h
+0:s,1:s,6:s
+0:k,9:s,10:k,12:z,12:s,13:s,14:s,15:s,28:s,29:s,30:s,31:s
+0:z,6:s,7:s,9:s,13:s,17:s,18:s,20:s,22:z,24:s,26:k,26:s,28:s,31:s ###"
+neworleans secondline 808 simple ->," None
+None
+0:h
+1:s
+0:s,0:k,6:s,8:s,9:s,10:k,12:s,12:s,13:s,14:s,15:s,28:s,29:s,30:s,31:s
+0:s,6:s,7:s,9:s,13:s,14:s,17:s,18:s,20:s,22:s,24:s,26:k,26:s,28:s,30:s,31:s ###"
+neworleans chacha acoustic ->," None
+None
+None
+None
+None
+0:s,0:k,0:s,4:z,4:k,6:h,8:z,8:k,10:h,12:s,12:k,13:s,14:k,14:j ###"
+neworleans chacha dark hybrid ->," None
+None
+None
+None
+None
+0:s,0:k,0:s,4:z,4:a,6:a,8:z,8:a,10:a,12:a,12:s,13:s,14:k,14:a ###"
+neworleans chacha big room layered ->," None
+None
+None
+None
+None
+0:k,0:s,4:z,4:k,6:h,8:z,8:k,10:h,12:s,12:k,13:s,14:k,14:j ###"
+neworleans chacha 808 simple ->," None
+None
+None
+None
+None
+0:s,0:k,0:s,4:s,4:k,6:h,8:s,8:k,10:h,12:s,12:k,13:s,14:k,14:j ###"
+neworleans chacha deep daft ->," None
+None
+None
+None
+None
+0:s,0:k,0:s,4:z,4:k,6:h,8:z,8:k,10:h,12:s,12:k,13:s,14:k,14:a ###"
+neworleans shuffle acoustic ->," None
+1:s
+0:s,2:h
+0:k,3:k,6:k,6:s
+13:s
+1:k,2:s,6:s,9:k,10:s,16:k,17:s,18:z,21:s,24:k,25:s,26:s,31:k ###"
+neworleans shuffle dark hybrid ->," None
+1:s
+0:s,2:a
+0:k,3:k,6:k,6:s
+13:s
+1:k,2:s,6:s,9:k,10:s,16:k,17:s,18:z,21:s,24:k,25:s,26:s,31:k ###"
+neworleans shuffle big room layered ->," None
+1:s
+0:s,2:h
+0:k,3:k,6:k,6:s
+10:s,13:s
+1:k,2:s,6:s,9:k,10:s,16:k,17:s,18:z,21:s,24:k,25:s,31:k ###"
+neworleans shuffle 808 simple ->," None
+1:s
+0:s,2:h
+0:k,3:k,6:k,6:s
+13:s
+1:k,2:s,6:s,9:k,10:s,16:k,17:s,18:s,21:s,24:k,25:s,26:s,31:k ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,0:k,2:k,3:s,4:h,4:s,5:s,6:h,6:k,7:z,8:h,8:k,9:s,10:k,10:k,11:s,12:h,12:s,13:s,14:k,14:s,14:k,15:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,2:a,3:s,4:s,4:a,5:s,6:a,7:z,8:k,8:a,9:s,10:k,10:a,11:s,12:s,12:a,13:s,14:a,14:k,14:s,15:s ###"
+rock 808 simple ->," None
+None
+None
+None
+None
+0:k,0:k,2:k,3:s,4:h,4:s,5:s,6:h,6:k,7:s,8:h,8:k,9:s,10:k,10:k,11:s,12:h,12:s,13:s,14:k,14:s,14:k,15:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:s,1:r
+0:k,3:r,3:k,5:r,5:h,5:z,6:r,7:r,9:r,9:h,9:s,10:r,11:r,12:z,13:r,15:r,15:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:s,1:r
+0:k,3:r,3:k,5:r,5:z,5:a,6:r,7:r,9:a,9:r,9:s,10:r,11:r,12:z,13:r,15:r,15:a ###"
+rock 808 simple ->," None
+None
+None
+None
+0:s,1:r
+0:k,3:r,3:k,5:s,5:r,5:h,6:r,7:r,9:r,9:h,9:s,10:r,11:r,12:s,13:r,15:r,15:h ###"
+rock acoustic ->," None
+None
+None
+None
+1:s,17:s
+0:k,0:s,2:l,2:k,3:s,4:k,6:s,6:k,8:l,9:s,10:l,10:h,12:k,14:s,14:k,15:s,16:l,16:j,17:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+1:s,17:s
+0:k,0:s,2:k,2:a,3:s,4:k,6:s,6:a,8:a,9:s,10:a,12:a,14:s,14:a,15:s,16:a,17:s ###"
+rock deep daft ->," None
+None
+None
+None
+1:s,17:s
+0:k,0:s,2:k,2:a,3:s,4:k,6:s,6:k,8:a,9:s,10:h,10:a,12:k,14:s,14:k,15:s,16:a,17:s ###"
+rock acoustic ->," None
+None
+None
+2:s
+0:k,6:k,8:l,9:l
+0:h,1:h,3:j,4:l,5:j,6:h,6:j,7:k,11:l,12:l,13:l,14:h,14:k,14:k,15:k,17:k,19:k,20:k,21:h,21:k,22:l,23:j,26:h,27:k,28:k,29:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,0:a,1:a,2:a,3:a,4:s,5:a,6:a,7:a
+0:a,8:k,8:a,9:a,10:a,11:a,12:s,13:a,14:a,15:a,20:a ###"
+rock deep daft ->," None
+None
+None
+2:s
+0:k,6:k,6:a,8:a,9:a
+0:h,1:h,3:a,4:a,5:a,6:h,7:k,11:a,12:a,13:a,14:h,14:k,14:k,15:k,17:k,19:k,20:k,21:h,21:k,23:a,26:h,27:k,28:k,29:h ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,0:s,2:r,2:k,2:y,6:s,6:u,6:h,8:u,9:t,10:u,10:k,11:t,12:u,13:k,14:s,14:s,16:u,17:t ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:s,2:r,2:k,2:y,6:s,6:u,6:a,8:u,9:t,10:u,10:k,11:t,12:u,13:k,14:s,14:s,16:u,17:t ###"
+rock big room layered ->," None
+None
+None
+None
+None
+0:k,0:s,2:r,2:k,2:y,6:u,6:h,6:s,8:u,9:t,10:u,10:k,11:t,12:u,13:k,14:s,16:u,17:t ###"
+rock acoustic ->," None
+None
+None
+None
+0:s
+0:k,0:y,2:j,2:s,4:k,5:s,5:k,6:s,7:l,7:s,8:s,9:l,9:k,9:s,10:k,10:s,12:s,12:l,15:l,15:s,16:l,16:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:s
+0:k,0:y,2:a,2:s,4:k,5:s,5:a,6:s,7:s,7:a,8:s,9:s,9:k,9:a,10:k,10:s,12:s,12:a,15:s,15:a,16:a,16:s ###"
+rock big room layered ->," None
+None
+None
+None
+0:s
+0:k,0:y,2:j,2:s,4:k,5:s,5:k,6:s,7:l,7:s,8:s,9:l,9:k,9:s,10:k,10:s,12:l,12:s,15:l,15:s,16:l,16:s ###"
+rock deep daft ->," None
+None
+None
+None
+0:s
+0:k,0:y,2:a,2:s,4:k,5:s,5:k,6:s,7:s,7:a,8:s,9:s,9:k,9:a,10:k,10:s,12:s,12:a,15:s,15:a,16:a,16:s ###"
+rock acoustic ->," None
+None
+2:u
+0:k,3:k,4:s,4:s
+0:u,7:q,9:q,15:t
+1:w,17:t ###"
+rock jinglestacks 2nd hi-hat ->," None
+None
+2:u
+0:k,3:k,4:s,4:s
+0:u,7:h,9:h,15:t
+1:w,17:t ###"
+rock jazz funk ->," None
+None
+2:u
+0:k,3:k,4:s,4:s
+0:u,7:b,9:b,15:t
+1:w,17:t ###"
+rock big room layered ->," None
+None
+2:u
+0:k,3:k,4:s,12:s
+0:u,7:l,9:l,15:t
+1:l,17:t ###"
+rock super boom layered ->," None
+None
+2:u
+0:k,3:k,4:s,4:s
+0:u,7:l,9:l,15:t
+1:w,17:t ###"
+rock nu rnb ->," None
+None
+2:u
+0:k,3:k,4:s,4:s
+0:u,7:s,9:s,15:t
+1:z,17:t ###"
+rock ele-drum ->," None
+None
+2:u
+0:k,3:k,4:s,4:s
+0:u,7:l,9:l,15:t
+1:z,17:t ###"
+rock compact lite w/ tambourine hh ->," None
+None
+2:u
+0:k,3:k,4:s,4:s
+0:u,7:a,9:a,15:t
+1:w,17:t ###"
+rock acoustic ->," None
+None
+None
+None
+0:r,0:k,2:k,4:r,4:s,6:r,6:k
+2:r,8:r,10:r,10:k,12:r,12:s ###"
+rock acoustic ->," None
+0:u
+None
+2:k
+0:k,4:s,6:k
+12:s,16:h,20:h,24:h,26:t,28:h,28:x,30:k,30:x ###"
+rock dark hybrid ->," None
+0:u
+None
+2:k
+0:k,4:s,6:k
+12:s,16:a,20:a,24:a,26:t,28:x,28:a,30:k,30:x ###"
+rock acoustic ->," None
+None
+None
+4:s,4:k
+0:k,8:k,10:h,10:k
+6:s,16:k,30:l ###"
+rock dark hybrid ->," None
+None
+None
+4:s,4:a
+0:k,8:a,10:k,10:a
+6:s,16:a,30:a ###"
+rock deep daft ->," None
+None
+None
+4:s,4:k
+0:k,8:k,10:h,10:k
+6:s,16:k,30:a ###"
+jazz acoustic ->," None
+None
+None
+4:r,4:h
+4:s,8:r,15:r
+12:t,15:t,16:r,28:u,31:u ###"
+jazz dark hybrid ->," None
+None
+None
+4:r,4:a
+4:s,8:r,15:r
+12:t,15:t,16:r,28:u,31:u ###"
+hiphop acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:k,2:k,3:h,4:k,5:k,6:k,7:t,8:h,9:w,10:k,12:s,14:s,15:s,16:s,17:w,17:s,18:s,19:s,20:t,21:x,22:s,23:u,24:u ###"
+hiphop dark hybrid ->," None
+None
+None
+None
+None
+0:a,4:a,7:a,8:a,9:a,10:a,11:a,12:a,13:a,14:t,15:a,16:w,17:a,19:s,21:s,22:s,23:s,24:w,24:s,25:s,26:s,27:t,28:x,29:s,30:u,31:u ###"
+hiphop big room layered ->," None
+None
+None
+None
+None
+0:h,0:k,1:k,2:k,3:h,4:k,5:k,6:k,7:t,8:h,9:l,10:k,12:s,14:s,15:s,16:s,17:s,17:l,18:s,19:s,20:t,21:x,22:s,23:u,24:u ###"
+hiphop nu rnb ->," None
+None
+None
+None
+None
+0:h,0:k,1:k,2:k,3:h,4:k,5:k,6:k,7:t,8:h,9:z,10:k,12:s,14:s,15:s,16:s,17:z,17:s,18:s,19:s,20:t,21:x,22:s,23:u,24:u ###"
+hiphop acoustic ->," None
+None
+0:k
+6:h
+2:k,3:h,5:h,6:k,7:h,8:k,10:h,11:k,12:s,13:s,15:k
+1:k,2:k,9:h,9:k,17:h,18:h,25:k,31:k ###"
+hiphop dark hybrid ->," None
+None
+0:a
+2:a,5:a
+0:k,1:a,3:a,4:k,6:k,6:a,7:a,9:k,10:s,11:s
+7:k,14:a,15:a,29:k ###"
+hiphop acoustic ->," None
+None
+None
+3:h,4:k,6:h
+1:h,2:k,8:k,8:k,9:k,10:k,11:k,12:s,13:s,15:k
+0:k,0:y,2:k,5:h,6:k,7:h,12:k,16:k,18:h,21:k,21:k,23:k ###"
+hiphop dark hybrid ->," None
+None
+2:a,3:a
+1:a,4:a
+2:k,5:a,8:k,8:a,11:k,12:s,13:s
+0:k,0:y,6:k,12:k,16:a,21:k ###"
+hiphop acoustic ->," None
+None
+None
+None
+0:k
+1:k,2:k,3:h,4:h,5:h,6:k,7:h,9:k,10:s,11:s,12:k,13:s,14:h,15:s,17:k,17:s,18:h,19:k,20:k,21:k,21:s,22:h,22:k,23:s,24:s,24:k,25:h ###"
+hiphop dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:s,1:a,2:k,3:a,4:k,4:s,5:k,5:a,6:s,7:s,7:a,8:a ###"
+hiphop acoustic ->," None
+None
+None
+1:s
+2:k,3:s,5:k,7:k,8:k,13:s,14:k,15:s
+0:k,2:h,4:k,6:h,7:s,8:k,10:h,12:z,12:s,16:h,18:k,20:h,21:s,22:k,24:h,26:k,28:s ###"
+hiphop dark hybrid ->," None
+None
+0:a
+None
+0:k,1:s,2:a,3:k,5:k,6:k,6:a,7:s,11:s,13:s
+5:s,10:z,10:s,14:a,15:s,19:s,26:s ###"
+hiphop big room layered ->," None
+None
+None
+1:s
+2:k,3:s,5:k,7:k,8:k,12:s,13:s,14:k,15:s
+0:k,2:h,4:k,6:h,7:s,8:k,10:h,12:z,16:h,18:k,20:h,21:s,22:k,24:h,26:k ###"
+hiphop 808 simple ->," None
+None
+None
+1:s
+2:k,3:s,5:k,7:k,8:k,12:s,13:s,14:k,15:s
+0:k,2:h,4:k,6:h,7:s,8:k,10:h,12:s,16:h,18:k,20:h,21:s,22:k,24:h,26:k ###"
+hiphop acoustic ->," None
+None
+None
+3:s,5:s
+1:s,10:s,12:k
+0:k,2:k,3:k,4:h,5:k,6:k,7:s,8:k,14:h,15:s,16:k,18:h,20:k,22:s,23:k,24:s,25:s ###"
+hiphop dark hybrid ->," None
+None
+None
+3:s,4:a,5:s
+1:s,2:a,10:s
+0:k,3:k,5:k,6:k,7:s,8:a,14:a,15:s,16:a,22:s,23:a,24:s,25:s ###"
+rock acoustic ->," None
+None
+0:k
+5:h,7:h
+0:k,6:h,10:h
+2:h,3:k,11:k,14:h,17:h,19:h,25:h,27:h,28:k ###"
+rock dark hybrid ->," None
+None
+0:a,3:a
+5:a
+0:k,6:a,10:a
+2:a,14:a,17:a,25:a,28:k ###"
+rock acoustic ->," None
+None
+0:k
+2:h,2:k
+0:k,4:s
+0:s,5:s,6:h,7:s,11:k,12:s,13:s,28:s ###"
+rock dark hybrid ->," None
+None
+0:a
+2:k,2:a
+0:k,4:s
+0:s,5:s,6:a,7:s,11:k,12:s,13:s,28:s ###"
+rock big room layered ->," None
+None
+0:k
+2:h,2:k,4:s
+0:k
+0:s,5:s,6:h,7:s,11:k,13:s ###"
+pop acoustic ->," None
+None
+None
+None
+None
+0:k,1:r,2:k,3:r,7:r,11:r ###"
+pop dark hybrid ->," None
+None
+None
+None
+None
+4:a,8:a,12:a,16:r,17:a,18:r,19:a,20:r,21:a,22:r,26:r,30:r ###"
+pop acoustic ->," None
+None
+None
+None
+0:k,4:s,4:k
+0:k,2:k,3:k,8:k,8:k,9:k,9:s,9:k,12:s,12:k,14:k,18:k,21:h ###"
+pop dark hybrid ->," None
+None
+None
+None
+0:a,4:s,4:a
+0:k,2:a,3:k,8:k,8:a,9:a,9:k,9:s,12:s,12:a,14:k,18:k,21:a ###"
+pop acoustic ->," None
+None
+None
+None
+0:k,0:s,2:h,6:s,6:r
+2:k,2:y,6:h,10:h,10:r,10:k,12:k,14:s,14:h,14:r,14:y,18:r,20:k,21:h,24:s ###"
+pop dark hybrid ->," None
+None
+None
+None
+0:k,0:s,2:a,6:s,6:r
+2:k,2:y,6:a,10:k,10:r,10:a,12:k,14:s,14:y,14:r,14:a,18:r,20:k,21:a,24:s ###"
+pop big room layered ->," None
+None
+None
+None
+0:k,0:s,2:h,6:r,6:s
+2:k,2:y,6:h,10:h,10:r,10:k,12:k,14:s,14:h,14:r,14:y,18:r,20:k,21:h,24:s ###"
+pop acoustic ->," None
+None
+None
+None
+0:k,2:h,4:k
+0:k,0:s,6:h,8:k,10:h,12:k,14:h,22:k ###"
+pop dark hybrid ->," None
+None
+None
+None
+0:a,2:a,4:a,6:a
+0:k,0:s,8:a,10:a,12:a,14:a ###"
+soul motown acoustic ->," None
+None
+None
+2:r,4:h
+0:r,0:k,4:r,4:s,6:r
+3:r,6:k,8:r,8:k,12:t,12:r,14:t,14:r,26:u,28:r,28:u,30:k ###"
+soul motown dark hybrid ->," None
+None
+None
+2:r,4:a
+0:r,0:k,4:r,4:s,6:r
+3:r,6:k,8:r,8:k,12:t,12:r,14:t,14:r,26:u,28:r,28:u,30:k ###"
+soul motown acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,4:r,4:h,4:s,6:k,8:r,8:k,10:t,12:t,12:r,12:h ###"
+soul motown dark hybrid ->," None
+None
+None
+None
+None
+0:r,0:k,4:s,4:r,4:a,6:k,8:r,8:k,10:t,12:t,12:r,12:a ###"
+jazz fusion acoustic ->," None
+None
+0:h,1:s,2:r
+None
+0:k,3:s,7:s,8:r,12:r,12:z,15:r
+0:r,4:r,11:r,16:r,20:r,22:k,27:r ###"
+jazz fusion dark hybrid ->," None
+None
+0:a,1:s,2:r
+None
+0:k,3:s,7:s,8:r,12:r,12:z,15:r
+0:r,4:r,11:r,16:r,20:r,22:k,27:r ###"
+jazz fusion 808 simple ->," None
+None
+0:h,1:s,2:r
+None
+0:k,3:s,7:s,8:r,12:s,12:r,15:r
+0:r,4:r,11:r,16:r,20:r,22:k,27:r ###"
+rock acoustic ->," None
+None
+2:s
+0:u,0:k,2:u,3:k,3:s,4:s,5:s,7:k
+4:s,5:s
+5:s ###"
+rock dark hybrid ->," None
+None
+2:s
+0:u,0:k,2:u,3:k,3:s,4:s,5:s,7:a
+4:s,5:s
+5:s ###"
+hiphop acoustic ->," None
+None
+None
+0:k
+2:h,6:h,12:k
+0:k,4:k,5:s,6:k,8:s,12:k,14:h,18:k,20:h,20:k,24:s,26:h,26:k,29:h,30:k ###"
+hiphop dark hybrid ->," None
+None
+0:a
+None
+2:a,6:a
+0:k,5:s,6:k,8:s,12:k,14:a,18:k,20:k,24:s,26:k,26:a,29:a,30:k ###"
+hiphop big room layered ->," None
+None
+None
+0:k
+2:h,6:h,8:s,12:k
+0:k,4:k,5:s,6:k,12:k,14:h,18:k,20:h,20:k,26:h,26:k,29:h,30:k ###"
+rock acoustic ->," None
+None
+None
+0:h
+None
+None ###"
+rock dark hybrid ->," None
+None
+None
+0:a
+None
+None ###"
+rock acoustic ->," None
+None
+0:k
+2:h,2:s,2:y
+4:h,4:s,6:h,6:y,8:y,12:y
+12:s,13:s,14:h,14:y,14:k,15:h,16:y,20:y,20:s,21:s,23:h,29:h ###"
+rock dark hybrid ->," None
+None
+0:k
+2:a,2:y,2:s
+4:a,4:s,6:y,6:a,8:y,12:y
+12:s,13:s,14:y,14:a,14:k,15:a,16:y,20:y,20:s,21:s,23:a,29:a ###"
+rock acoustic ->," None
+None
+None
+0:k
+2:h,9:s
+4:s,5:s,6:s,7:s,8:s,10:k,10:y,12:k,14:s,14:h,14:y,16:y,16:s,17:s,18:y,18:s,20:y,20:k,21:h,22:y,22:s,24:y,24:s,25:h,25:s ###"
+rock dark hybrid ->," None
+None
+None
+0:k
+2:a,9:s
+4:s,5:s,6:s,7:s,8:s,10:k,10:y,12:k,14:s,14:y,14:a,16:y,16:s,17:s,18:y,18:s,20:y,20:k,21:a,22:y,22:s,24:y,24:s,25:a,25:s ###"
+rock big room layered ->," None
+None
+None
+0:k
+2:h,6:s,8:s,9:s
+4:s,5:s,7:s,10:k,10:y,12:k,14:h,14:s,14:y,16:y,16:s,17:s,18:y,18:s,20:y,20:k,21:h,22:y,24:y,25:h,25:s ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,1:k,1:y,5:s,5:k,6:k,7:h,8:h,8:k,9:k,9:k,10:h,11:h,11:s,12:h,13:s,13:k,14:h,15:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:k,1:k,1:y,5:a,5:s,6:a,7:a,8:k,8:a,9:k,9:a,10:a,11:a,11:s,12:a,13:s,13:a,14:a,15:a ###"
+rock acoustic ->," None
+None
+None
+8:s,9:s,10:s
+0:k,1:k,2:s,6:w,7:s,8:s,11:t,12:u
+7:s ###"
+rock big room layered ->," None
+None
+None
+2:s,8:s,9:s
+0:k,1:k,5:s,6:l,7:s,8:s,11:t,12:u
+7:s ###"
+rock nu rnb ->," None
+None
+None
+8:s,9:s,10:s
+0:k,1:k,2:s,6:z,7:s,8:s,11:t,12:u
+7:s ###"
+rock acoustic ->," None
+None
+None
+None
+5:k,7:h,8:h,8:k
+0:k,1:y,1:k,5:h,5:s,6:h,9:k,9:k,10:k,12:h,13:s,13:k,14:h,15:h,16:h,17:k,18:h,19:h,19:s,20:h,21:s,22:s,23:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+5:a,7:a,8:k,8:a
+0:k,1:y,1:k,5:a,5:s,6:a,9:k,9:a,10:a,12:a,13:s,13:a,14:a,15:a,16:a,17:a,18:a,19:s,19:a,20:a,21:s,22:s,23:s ###"
+rock big room layered ->," None
+None
+None
+None
+5:s,5:k,7:h,8:h,8:k
+0:k,1:y,1:k,5:h,6:h,9:k,9:k,10:k,12:h,13:s,13:k,14:h,15:h,16:h,17:k,18:h,19:h,19:s,20:h,22:s,23:s ###"
+rock acoustic ->," None
+None
+3:h
+0:k,5:k
+1:k,2:h,7:k,8:k,9:h,12:k,14:h
+4:s,10:h,16:k,20:s,22:k ###"
+rock dark hybrid ->," None
+None
+None
+0:a
+0:k,1:k,1:a,2:a,4:a,5:a,6:a,7:a
+3:a,9:k,9:a,10:a,11:a,12:a,13:s,14:a,15:a ###"
+rock big room layered ->," None
+None
+3:h
+0:k,5:k
+1:k,2:h,4:s,7:k,8:k,9:h,12:k,14:h
+10:h,16:k,22:k ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,2:k,4:s,5:k,14:k,14:k
+4:k,7:k,9:h,9:k,9:s,12:s,16:k,22:h,24:k,24:k,28:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,9:k,9:a
+2:a,4:a,4:k,4:s,7:s,11:k,11:a,13:a,15:s,17:a,19:k,19:a,23:s ###"
+rock big room layered ->," None
+None
+None
+4:s
+0:k,2:k,5:k,14:k,14:k
+4:k,7:k,9:h,9:k,9:s,16:k,22:h,24:k,24:k ###"
+rock acoustic ->," None
+None
+None
+None
+8:u,10:u
+0:k,1:k,2:s,3:s,4:t,5:t,6:x,7:x,9:u,11:u,12:k,12:y,16:h,20:u,24:h,24:s,26:k ###"
+rock dark hybrid ->," None
+None
+None
+None
+8:u,10:u
+0:k,1:k,2:s,3:s,4:t,5:t,6:x,7:x,9:u,11:u,12:k,12:y,16:a,20:u,24:s,24:a,26:k ###"
+rock acoustic ->," None
+None
+None
+0:k,2:s
+4:k,6:k,12:k
+3:k,6:h,9:s,14:k,14:k,16:k,22:k,24:k,28:k ###"
+rock dark hybrid ->," None
+None
+None
+None
+1:a,3:k,3:a,5:a,7:s,9:k
+0:k,6:s,11:k,11:a,13:k,13:a,15:s,21:k,25:a ###"
+rock acoustic ->," None
+None
+None
+2:h,4:k
+0:k,6:k,10:u,10:s
+0:u,2:s,4:u,6:t,8:u,8:k,12:t,14:u,18:u,18:s,20:s,22:u,24:t ###"
+rock dark hybrid ->," None
+None
+None
+2:a,4:k
+0:k,6:k,10:u,10:s
+0:u,2:s,4:u,6:t,8:u,8:k,12:t,14:u,18:u,18:s,20:s,22:u,24:t ###"
+rock big room layered ->," None
+None
+None
+2:h,2:s,4:k
+0:k,6:k,10:u
+0:u,4:u,6:t,8:u,8:k,12:t,14:u,18:u,20:s,22:u,24:t ###"
+rock acoustic ->," None
+None
+0:k
+0:k,2:k
+10:h,12:s,13:s
+None ###"
+rock dark hybrid ->," None
+None
+0:a
+0:k,2:k
+10:a,12:s,13:s
+None ###"
+soul motown acoustic ->," None
+None
+0:s,0:k
+None
+6:k,10:h,10:k,14:k
+0:k,2:k,6:k,14:h,18:h ###"
+soul motown dark hybrid ->," None
+None
+0:s,0:a
+2:a
+6:a,10:k,14:k
+0:k,6:k,14:a ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,0:k,2:k,4:s,4:k,6:k,13:s
+2:k,8:k,10:k,10:k,12:s,12:k,14:k,14:k,18:s,22:k,23:s,24:w,25:s,26:s,27:t,28:x,30:u,31:k,31:k ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,0:a,2:a,4:s,4:a,6:k,13:s
+2:k,8:a,10:k,10:a,12:a,12:s,14:k,14:a,18:s,22:a,23:s,24:w,25:s,26:s,27:t,28:x,30:u,31:k,31:a ###"
+rock big room layered ->," None
+None
+None
+None
+0:k,0:k,2:k,4:s,4:k,6:k,13:s
+2:k,8:k,10:k,10:k,12:s,12:k,14:k,14:k,18:s,22:k,23:s,24:l,25:s,26:s,27:t,28:x,30:u,31:k,31:k ###"
+rock nu rnb ->," None
+None
+None
+None
+0:k,0:k,2:k,4:s,4:k,6:k,13:s
+2:k,8:k,10:k,10:k,12:s,12:k,14:k,14:k,18:s,22:k,23:s,24:z,25:s,26:s,27:t,28:x,30:u,31:k,31:k ###"
+soul motown acoustic ->," None
+None
+None
+None
+11:s
+0:k,2:s,4:k,6:s,8:k,12:h,13:k,14:h,15:s,16:h,17:k,19:s,21:k,23:s,25:k,29:h ###"
+soul motown dark hybrid ->," None
+None
+None
+None
+1:a,12:s,14:a
+3:s,5:a,7:s,9:a,13:a,15:a,16:s,18:a,20:s,22:a,24:s,26:a ###"
+rock acoustic ->," None
+None
+0:k
+None
+6:k,12:s,14:h
+0:k,2:k,4:s,6:k,7:s,10:k,14:k,18:h,18:k,20:s,24:k,26:h ###"
+rock dark hybrid ->," None
+None
+0:a
+2:a
+6:k,12:s,14:a
+0:k,4:s,6:a,7:s,14:k,18:k,20:s,24:k ###"
+rock big room layered ->," None
+None
+0:k
+4:s
+6:k,14:h
+0:k,2:k,6:k,7:s,10:k,14:k,18:h,18:k,24:k,26:h ###"
+rock acoustic ->," None
+None
+None
+None
+4:h,12:u,13:u,14:u
+6:s,7:s,8:t,9:t,10:x,11:x,22:t,23:t,24:x,25:x,26:u,27:u,31:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+4:a,12:u,13:u,14:u
+6:s,7:s,8:t,9:t,10:x,11:x,22:t,23:t,24:x,25:x,26:u,27:u,31:s ###"
+funk acoustic ->," None
+None
+1:s
+2:l,2:k,4:h,4:k,7:s
+0:k,0:k,6:h,15:h
+4:s,7:k,8:h,12:s,14:k,20:s,23:h,24:k,28:s,30:h ###"
+funk dark hybrid ->," None
+0:a
+1:s
+2:k,4:a,7:a,7:s
+0:k
+4:s,12:s,20:s,28:s ###"
+funk big room layered ->," None
+None
+1:s
+2:l,2:k,4:h,4:s,4:k,7:s
+0:k,0:k,6:h,15:h
+7:k,8:h,14:k,23:h,24:k,30:h ###"
+funk deep daft ->," None
+None
+1:s
+2:k,2:a,4:h,4:k,7:s
+0:k,0:k,6:h,15:h
+4:s,7:k,8:h,12:s,14:k,20:s,23:h,24:k,28:s,30:h ###"
+funk acoustic ->," None
+None
+2:k
+8:k
+0:k,24:s,26:s,27:s
+0:l,1:j,2:h,2:s,6:s,8:k,9:s,12:k,17:s,18:k,20:s,20:k,22:s,23:k,27:k ###"
+funk dark hybrid ->," None
+0:a
+None
+None
+0:k,24:s,26:s,27:s
+1:a,2:s,2:a,6:s,8:k,9:s,17:s,18:k,20:s,22:s,23:k,27:k ###"
+funk big room layered ->," None
+None
+2:k
+6:s,8:k
+0:k,24:s,27:s
+0:l,1:j,2:h,8:k,9:s,12:k,17:s,18:k,20:s,20:k,23:k,26:s,27:k ###"
+funk deep daft ->," None
+None
+2:k
+8:k
+0:k,24:s,26:s,27:s
+0:a,1:a,2:h,2:s,6:s,8:k,9:s,12:k,17:s,18:k,20:s,20:k,22:s,23:k,27:k ###"
+funk acoustic ->," None
+None
+None
+0:k,1:s,7:s
+2:k,4:k,6:k,10:k,12:s
+2:l,4:h,4:s,5:s,7:k,10:k,11:k,12:l,12:h,14:k,15:h,16:k,18:k,20:s,22:s,24:k,28:k,29:s,31:k ###"
+funk dark hybrid ->," None
+None
+None
+0:a,2:a,5:s
+0:k,4:a,6:a,7:s,10:s
+2:a,2:s,3:s,5:a,8:k,9:k,10:a,12:a,13:a,14:k,14:a,15:s,18:s,20:s,22:k,27:s,29:k ###"
+funk big room layered ->," None
+None
+None
+0:k,1:s,4:s,7:s
+2:k,4:k,6:k,10:k
+2:l,4:h,5:s,7:k,10:k,11:k,12:l,12:h,14:k,15:h,16:k,18:k,22:s,24:k,28:k,29:s,31:k ###"
+funk deep daft ->," None
+None
+None
+0:k,1:s,7:s
+2:k,4:k,6:k,10:k,12:s
+2:a,4:h,4:s,5:s,7:k,10:k,11:k,12:h,12:a,14:k,15:h,16:k,18:k,20:s,22:s,24:k,28:k,29:s,31:k ###"
+funk acoustic ->," None
+None
+2:k
+None
+0:h,0:k,4:s,24:k
+1:s,5:s,7:s,9:k,9:s,11:s,12:h,13:s,15:s,20:k,22:s,24:h,26:s ###"
+funk dark hybrid ->," None
+None
+2:a
+None
+0:k,0:a,4:s,24:k
+1:s,5:s,7:s,9:k,9:s,11:s,12:a,13:s,15:s,20:a,22:s,24:a,26:s ###"
+funk big room layered ->," None
+None
+2:k
+None
+0:h,0:k,4:s,22:s,24:k,26:s
+1:s,5:s,7:s,9:k,9:s,12:h,13:s,20:k,24:h ###"
+funk acoustic ->," None
+None
+None
+1:s,2:k,4:h,4:s,4:k,6:h,7:h,7:s
+0:k,2:j,13:s
+0:k,6:s,8:k,10:k,16:h,21:s,24:h,26:j ###"
+funk dark hybrid ->," None
+0:a
+None
+1:s,2:k,4:s,4:a,7:s,7:a
+0:k,13:s
+6:s,21:s ###"
+funk deep daft ->," None
+None
+None
+1:s,2:k,4:h,4:s,4:k,6:h,7:h,7:s
+0:k,2:a,13:s
+0:k,6:s,8:k,10:k,16:h,21:s,24:h,26:a ###"
+country acoustic ->," None
+None
+2:k
+1:s,4:s,7:s
+0:k
+15:s ###"
+country dark hybrid ->," None
+None
+2:a
+1:s,4:s,7:s
+0:k
+15:s ###"
+hiphop acoustic ->," None
+None
+3:h
+5:h,6:h
+3:k,6:k,8:h,9:h,9:k,10:h,10:k,12:h
+0:k,1:k,2:k,4:h,4:s,12:s,16:h,16:k,17:h,18:h,20:s,20:k,28:s ###"
+hiphop dark hybrid ->," None
+None
+0:a
+1:a,2:a,3:a
+0:k,3:k,5:a,6:k,6:a,7:k,7:a
+1:s,9:s,13:k,13:a,14:a,15:a,17:s,25:s ###"
+hiphop big room layered ->," None
+None
+3:h
+4:s,5:h,6:h
+3:k,6:k,8:h,9:h,9:k,10:h,10:k,12:h
+0:k,1:k,2:k,4:h,16:h,16:k,17:h,18:h,20:k ###"
+hiphop acoustic ->," None
+None
+None
+0:k,1:h,1:k,2:k,3:h
+4:k,5:h,6:h,6:k,7:h,10:s,11:k,21:h
+0:h,2:s,2:k,4:k,7:h,8:h,12:k,13:h,13:k,14:k,14:k,15:h,18:s,20:h,21:h,23:k,28:l,28:k ###"
+hiphop dark hybrid ->," None
+None
+None
+0:k,0:a,1:a,2:a,3:a
+4:a,5:a,6:a,7:a,9:s,10:k,20:a,21:a
+1:s,1:k,3:k,6:a,7:a,12:k,12:a,13:k,13:a,14:a,15:a,17:s,19:a,20:a,22:k,27:k ###"
+hiphop big room layered ->," None
+None
+None
+0:k,1:h,1:k,2:s,2:k,3:h
+4:k,5:h,6:h,6:k,7:h,11:k,21:h
+0:h,2:k,4:k,7:h,8:h,12:k,13:h,13:k,14:k,14:k,15:h,20:h,21:h,23:k,28:l,28:k ###"
+hiphop deep daft ->," None
+None
+None
+0:k,1:h,1:k,2:k,3:h
+4:k,5:h,6:h,6:k,7:h,10:s,11:k,21:h
+0:h,2:s,2:k,4:k,7:h,8:h,12:k,13:h,13:k,14:k,14:k,15:h,18:s,20:h,21:h,23:k,28:k,28:a ###"
+pop acoustic ->," None
+None
+None
+None
+10:h
+0:k,1:h,2:t,3:k,4:s,6:s,6:s,8:k,8:x,10:u,12:k,14:k,14:y ###"
+pop dark hybrid ->," None
+None
+None
+None
+10:a
+0:k,1:a,2:t,3:k,4:s,6:s,6:s,8:k,8:x,10:u,12:k,14:k,14:y ###"
+pop big room layered ->," None
+None
+None
+None
+10:h
+0:k,1:h,2:t,3:k,4:s,6:s,8:k,8:x,10:u,12:k,14:k,14:y ###"
+rock acoustic ->," None
+0:h
+3:h
+1:h
+0:k,3:k,5:h,9:k,10:k,12:s,13:k,15:k
+4:z,13:h,20:s ###"
+rock dark hybrid ->," None
+0:a
+3:a
+1:a
+0:k,3:k,5:a,9:k,10:k,12:s,13:k,15:k
+4:z,13:a,20:s ###"
+rock 808 simple ->," None
+0:h
+3:h
+1:h
+0:k,3:k,5:h,9:k,10:k,12:s,13:k,15:k
+4:s,13:h,20:s ###"
+rock acoustic ->," None
+None
+1:h
+2:h,3:h
+0:k,3:k,4:s,6:k,7:h,7:k,8:h,9:k,14:h
+0:k,4:k,5:k,11:k,12:s,12:h,15:h,15:k,16:h,20:h,26:k,28:z,28:k,31:l ###"
+rock dark hybrid ->," 0:a
+None
+None
+None
+0:k,3:k,4:s,7:k,9:k
+5:k,11:k,12:s,15:k,26:k,28:z ###"
+rock big room layered ->," None
+None
+1:h
+2:h,3:h
+0:k,3:k,4:s,6:k,7:h,7:k,8:h,9:k,14:h
+0:k,4:k,5:k,11:k,12:h,12:s,15:h,15:k,16:h,20:h,26:k,28:z,28:k,31:l ###"
+rock 808 simple ->," None
+None
+1:h
+2:h,3:h
+0:k,3:k,4:s,6:k,7:h,7:k,8:h,9:k,12:s,14:h
+0:k,4:k,5:k,11:k,12:h,15:h,15:k,16:h,20:h,26:k,28:k,31:l ###"
+rock deep daft ->," None
+None
+1:h
+2:h,3:h
+0:k,3:k,4:s,6:k,7:h,7:k,8:h,9:k,14:h
+0:k,4:k,5:k,11:k,12:s,12:h,15:h,15:k,16:h,20:h,26:k,28:z,28:k,31:a ###"
+hiphop acoustic ->," None
+None
+0:l
+2:l,3:j
+0:k,3:k,4:s,5:j,6:l,6:k,7:j,9:k,9:j,10:k
+0:h,1:l,12:s,13:k,13:j,14:l,15:l,15:k,17:j,28:k,28:s,29:s,30:k,30:s,30:y,31:s ###"
+hiphop dark hybrid ->," None
+None
+0:a
+1:a,2:a,3:a
+0:k,3:k,4:s,5:a,6:k,6:a,7:a,9:k,10:k
+0:a,12:s,13:k,13:a,14:a,15:k,15:a,28:k,28:s,29:s,30:k,30:s,30:y,31:s ###"
+hiphop big room layered ->," None
+None
+0:l
+2:l,3:j,4:s
+0:k,3:k,5:j,6:l,6:k,7:j,9:k,9:j,10:k
+0:h,1:l,13:k,13:j,14:l,15:l,15:k,17:j,28:k,29:s,30:k,30:s,30:y,31:s ###"
+hiphop deep daft ->," None
+None
+0:a
+1:a,2:a,3:a
+0:k,3:k,4:s,5:a,6:k,6:a,7:a,9:k,10:k
+0:h,12:s,13:k,13:a,14:a,15:k,15:a,28:k,28:s,29:s,30:k,30:s,30:y,31:s ###"
+rock acoustic ->," None
+None
+None
+0:h,2:k
+0:k,3:k,6:k,6:k,9:s
+0:h,1:s,4:s,10:k,12:s,13:h,14:k,15:k,17:h,20:s,23:h,23:s,27:s,28:s,28:h,29:t,30:u,31:k,31:y ###"
+rock dark hybrid ->," None
+None
+None
+0:a,2:a
+0:k,3:k,6:k,6:a,9:s
+0:a,1:s,4:s,10:k,12:s,13:a,14:a,15:a,17:a,20:s,23:a,23:s,27:s,28:s,28:a,29:t,30:u,31:k,31:y ###"
+rock big room layered ->," None
+None
+None
+0:h,2:k,4:s
+0:k,3:k,6:k,6:k,9:s
+0:h,1:s,10:k,13:h,14:k,15:k,17:h,23:h,23:s,27:s,28:h,29:t,30:u,31:k,31:y ###"
+rock acoustic ->," None
+None
+1:h
+3:h,4:s
+0:k,3:k,6:k,6:k,7:h,8:h,10:k,10:k
+0:k,2:h,14:k,15:h,16:h,18:k,30:l ###"
+rock dark hybrid ->," None
+None
+1:a,2:a
+0:a,3:a,4:s
+0:k,3:k,6:k,7:a,10:k
+15:a ###"
+rock deep daft ->," None
+None
+1:h
+3:h,4:s
+0:k,3:k,6:k,6:k,7:h,8:h,10:k,10:k
+0:k,2:h,14:k,15:h,16:h,18:k,30:a ###"
+rock acoustic ->," None
+None
+None
+2:r
+0:k,3:k,3:k,4:r,5:h,6:r,6:k,7:h,8:r,9:k,12:s
+0:r,11:r,12:r,13:s,14:r,15:h,16:r,17:h,27:r,29:r,30:s,31:s ###"
+rock dark hybrid ->," None
+None
+None
+2:r
+0:k,3:k,3:a,4:r,5:a,6:r,6:k,7:a,8:r,9:a,12:s
+0:r,11:r,12:r,13:s,14:r,15:a,16:r,17:a,27:r,29:r,30:s,31:s ###"
+rock acoustic ->," None
+None
+2:r
+7:h
+0:k,5:h,6:k,8:r,9:k,11:r,12:s,13:s
+0:r,1:k,3:k,4:r,12:r,16:u,16:r,16:z,17:h,19:h,19:k,20:r,28:r ###"
+rock dark hybrid ->," None
+None
+2:r
+1:a,7:a
+0:k,3:a,5:a,6:k,8:r,11:r,12:s,13:s
+0:r,4:r,12:r,16:u,16:r,16:z,19:k,20:r,28:r ###"
+rock 808 simple ->," None
+None
+2:r
+7:h
+0:k,5:h,6:k,8:r,9:k,11:r,12:s,13:s
+0:r,1:k,3:k,4:r,12:r,16:s,16:u,16:r,17:h,19:h,19:k,20:r,28:r ###"
+soul acoustic ->," None
+None
+None
+4:k,7:s
+0:k,6:h,9:s,15:h
+0:h,2:j,4:h,4:z,5:s,7:h,7:k,8:k,10:k,10:k,12:s,12:h,13:s,14:k,16:k,17:s,18:k,18:k,19:h,20:s,23:k,25:l,25:k,27:h,27:z,30:h ###"
+soul dark hybrid ->," None
+None
+None
+4:a,6:a,7:s,7:a
+0:k,0:a,2:a,9:s
+4:z,4:a,5:s,7:k,8:a,10:k,10:a,12:s,12:a,13:s,17:s,18:k,19:a,20:s,23:a,25:k,25:a,27:z,27:a ###"
+soul big room layered ->," None
+None
+None
+4:k,7:s
+0:k,6:h,9:s,15:h
+0:h,2:j,4:h,4:z,5:s,7:h,7:k,8:k,10:k,10:k,12:h,12:s,13:s,14:k,16:k,17:s,18:k,18:k,19:h,20:s,23:k,25:l,25:k,27:h,27:z,30:h ###"
+soul 808 simple ->," None
+None
+None
+4:k,7:s
+0:k,6:h,9:s,15:h
+0:h,2:j,4:s,4:h,5:s,7:h,7:k,8:k,10:k,10:k,12:s,12:h,13:s,14:k,16:k,17:s,18:k,18:k,19:h,20:s,23:k,25:l,25:k,27:s,27:h,30:h ###"
+soul deep daft ->," None
+None
+None
+4:k,7:s
+0:k,6:h,9:s,15:h
+0:h,2:a,4:h,4:z,5:s,7:h,7:k,8:k,10:k,10:k,12:s,12:h,13:s,14:k,16:k,17:s,18:k,18:k,19:h,20:s,23:k,25:k,25:a,27:h,27:z,30:h ###"
+soul acoustic ->," None
+None
+None
+7:s
+0:k,2:l,4:s,12:h
+0:h,0:y,4:h,4:k,6:h,8:h,8:k,9:s,10:l,12:k,12:s,14:k,15:s,16:k,17:s,18:k,19:h,22:k,22:j,23:h,29:s,30:s ###"
+soul dark hybrid ->," None
+None
+None
+7:s
+0:k,0:a,2:a,4:s,6:a,12:a
+0:y,4:k,4:a,8:k,8:a,9:s,10:a,12:k,12:s,14:a,15:s,17:s,18:k,19:a,22:k,23:a,29:s,30:s ###"
+soul deep daft ->," None
+None
+None
+7:s
+0:k,2:a,4:s,12:h
+0:h,0:y,4:h,4:k,6:h,8:h,8:k,9:s,10:a,12:k,12:s,14:k,15:s,16:k,17:s,18:k,19:h,22:k,22:a,23:h,29:s,30:s ###"
+soul acoustic ->," None
+None
+None
+None
+None
+0:k,0:y,1:s,2:l,4:s,4:h,4:k,6:s,6:k,7:h,8:k,8:k,9:s,10:l,12:s,12:h,12:k,14:s,14:k,15:h ###"
+soul dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:y,1:s,2:a,4:s,4:k,4:a,6:s,6:a,7:a,8:k,8:a,9:s,10:a,12:s,12:k,12:a,14:a,14:s,15:a ###"
+soul deep daft ->," None
+None
+None
+None
+None
+0:k,0:y,1:s,2:a,4:s,4:h,4:k,6:s,6:k,7:h,8:k,8:k,9:s,10:a,12:s,12:h,12:k,14:s,14:k,15:h ###"
+soul acoustic ->," None
+None
+None
+None
+None
+0:k,0:y,2:u,2:r,2:s,4:s,4:h,6:k,7:s,8:k,8:k,9:s,10:k,12:s,12:k,14:k ###"
+soul dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:y,2:u,2:r,2:s,4:s,4:a,6:a,7:s,8:k,8:a,9:s,10:a,12:s,12:k,14:a ###"
+soul big room layered ->," None
+None
+None
+None
+None
+0:k,0:y,2:u,2:r,2:s,4:h,4:s,6:k,7:s,8:k,8:k,9:s,10:k,12:k,12:s,14:k ###"
+pop soft acoustic ->," None
+None
+None
+None
+None
+0:k,1:t,2:s,3:s,4:t,5:u,6:r,6:k,10:h,10:s,12:k,12:y,14:h,16:r,16:s,18:s,18:r,18:h,20:r,21:r ###"
+pop soft dark hybrid ->," None
+None
+None
+None
+None
+0:k,1:t,2:s,3:s,4:t,5:u,6:r,6:k,10:s,10:a,12:k,12:y,14:a,16:r,16:s,18:s,18:r,18:a,20:r,21:r ###"
+pop soft big room layered ->," None
+None
+None
+None
+2:s
+0:k,1:t,3:s,4:t,5:u,6:r,6:k,10:h,10:s,12:k,12:y,14:h,16:r,16:s,18:r,18:h,20:r,21:r ###"
+hiphop acoustic ->," None
+None
+None
+None
+None
+0:h,0:h,0:k,1:h,2:h,3:h,3:k,4:s,4:k,5:h,6:h,6:k,7:h,8:h,9:h,9:k,10:h,10:k,11:h,12:s,12:k,13:h,13:k,14:k,15:h,15:k ###"
+hiphop dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:a,3:k,3:a,4:a,4:s,5:a,6:k,6:a,7:a,8:a,9:k,9:a,10:k,10:a,11:a,12:s,12:a,13:k,13:a,14:a,15:k,15:a ###"
+rock indie acoustic ->," 0:h
+None
+None
+None
+0:k,3:k,5:k,7:k,12:s
+4:z,8:k,11:k,15:k,20:s,25:k,26:k,29:k,30:k ###"
+rock indie dark hybrid ->," 0:a
+None
+None
+None
+0:k,3:k,5:k,7:k,12:s
+4:z,8:k,11:k,15:k,20:s,25:k,26:k,29:k,30:k ###"
+rock indie 808 simple ->," 0:h
+None
+None
+None
+0:k,3:k,5:k,7:k,12:s
+4:s,8:k,11:k,15:k,20:s,25:k,26:k,29:k,30:k ###"
+rock indie acoustic ->," None
+0:r
+0:h,1:r
+4:s,6:h
+0:k,3:k,9:k,10:h,10:k,11:r,13:k,15:r,15:k
+18:h,19:r,23:r,28:s ###"
+rock indie dark hybrid ->," None
+0:r
+0:a,1:r
+4:s,6:a
+0:k,3:k,9:k,10:k,10:a,11:r,13:k,15:r,15:k
+18:a,19:r,23:r,28:s ###"
+funk acoustic ->," None
+None
+0:h
+2:k,6:h,7:s
+0:k,2:h,9:s,10:j,12:h,12:s
+4:s,20:z ###"
+funk dark hybrid ->," None
+0:a
+None
+2:k,7:s
+0:k,9:s,12:s,12:a
+4:s,20:z ###"
+funk 808 simple ->," None
+None
+0:h
+2:k,6:h,7:s
+0:k,2:h,9:s,10:j,12:h,12:s
+4:s,20:s ###"
+funk deep daft ->," None
+None
+0:h
+2:k,6:h,7:s
+0:k,2:h,9:s,10:a,12:h,12:s
+4:s,20:z ###"
+funk acoustic ->," None
+None
+None
+2:h
+4:s,4:k,6:h,7:s,8:k,10:k,14:s
+0:k,0:k,8:s,12:h,16:h,17:s,18:k,25:s,27:s,28:s,29:s,31:s ###"
+funk dark hybrid ->," None
+None
+None
+0:a,2:a
+4:s,4:a,6:a,7:s,10:k,14:s
+0:k,8:s,12:a,17:s,18:k,25:s,27:s,28:s,29:s,31:s ###"
+funk acoustic ->," None
+None
+None
+0:s,2:h,3:s
+0:k,4:h,5:s,6:k,6:j,8:h,8:h
+12:h,12:k,14:k,14:j,16:h ###"
+funk dark hybrid ->," None
+None
+None
+None
+0:k,0:a,2:a,2:s,4:a,5:s,18:a
+6:k,6:a,8:k,8:a,10:s,10:a,12:a,13:s,14:a,15:s ###"
+funk deep daft ->," None
+None
+None
+0:s,2:h,3:s
+0:k,4:h,5:s,6:k,6:a,8:h,8:h
+12:h,12:k,14:k,14:a,16:h ###"
+funk acoustic ->," None
+None
+None
+None
+0:s
+0:k,1:y,3:k,3:j,5:h,5:h,5:s,6:s,7:h,8:h,8:s,9:h,10:s,11:k,11:j,13:h,13:s,13:k,15:h ###"
+funk dark hybrid ->," None
+None
+None
+None
+0:s
+0:k,1:y,3:k,3:a,5:s,5:a,6:s,7:a,8:s,8:a,9:a,10:s,11:k,11:a,13:s,13:a,15:a ###"
+funk deep daft ->," None
+None
+None
+None
+0:s
+0:k,1:y,3:k,3:a,5:h,5:h,5:s,6:s,7:h,8:h,8:s,9:h,10:s,11:k,11:a,13:h,13:s,13:k,15:h ###"
+funk acoustic ->," None
+None
+None
+0:h,2:k,4:h,4:s,6:h,7:s
+0:k,2:j,9:s,12:h
+4:h,7:h,10:j,20:k,26:h ###"
+funk dark hybrid ->," None
+0:a
+None
+2:k,4:s,4:a,7:s
+0:k,9:s
+7:a ###"
+funk deep daft ->," None
+None
+None
+0:h,2:k,4:h,4:s,6:h,7:s
+0:k,2:a,9:s,12:h
+4:h,7:h,10:a,20:k,26:h ###"
+neworleans funk acoustic ->," None
+None
+2:s
+3:s,4:s,5:s,6:h
+0:k,2:h,2:s,4:k,7:s,8:s,9:s,11:k
+8:k,10:h,14:k,16:s,23:k,25:h,30:s,31:s ###"
+neworleans funk dark hybrid ->," None
+None
+2:s
+3:s,4:s,5:s,6:a
+0:k,2:a,2:s,4:k,7:s,8:s,9:s,11:k
+8:k,10:a,14:k,16:s,23:k,25:a,30:s,31:s ###"
+neworleans funk acoustic ->," None
+None
+None
+None
+0:s,1:s,2:h,2:s,3:s,4:s,6:s,6:h,6:s,6:k,7:s,22:s,23:s
+0:k,0:s,1:s,2:s,3:k,8:k,8:s,9:s,10:s,10:h,10:s,11:s,12:k,12:s,13:h,13:s,14:s,15:k,15:s,18:s,20:k,21:s ###"
+neworleans funk dark hybrid ->," None
+None
+None
+None
+0:s,1:s,2:s,2:a,3:s,4:s,6:s,6:s,6:k,6:a,7:s,22:s,23:s
+0:k,0:s,1:s,2:s,3:k,8:k,8:s,9:s,10:s,10:s,10:a,11:s,12:k,12:s,13:a,13:s,14:s,15:k,15:s,18:s,20:k,21:s ###"
+neworleans funk big room layered ->," None
+None
+None
+None
+0:s,1:s,2:h,2:s,3:s,4:s,6:h,6:s,6:k,7:s,18:s,22:s,23:s
+0:k,0:s,1:s,3:k,6:s,8:k,8:s,9:s,10:h,10:s,11:s,12:k,12:s,13:h,13:s,14:s,15:k,15:s,20:k,21:s,22:s ###"
+funk acoustic ->," None
+None
+None
+0:k,4:s
+0:h,2:h,4:k,6:h,12:h
+8:k,10:l,12:h,14:h,19:k,21:k,23:k,24:h,26:j,28:k,30:k ###"
+funk dark hybrid ->," None
+0:a
+None
+0:k,4:s
+12:a
+19:k,21:k,23:k ###"
+funk deep daft ->," None
+None
+None
+0:k,4:s
+0:h,2:h,4:k,6:h,10:a,12:h
+8:k,12:h,14:h,19:k,21:k,23:k,24:h,28:k,30:k ###"
+neworleans funk acoustic ->," None
+None
+None
+0:k,1:h,2:k,3:k
+0:s,3:h,3:s,4:k,5:h,5:k,6:k,7:k,8:k,9:s,14:l
+0:k,6:s,7:h,12:s,12:l,16:l,16:h,22:s,27:h,28:k,28:k,29:s ###"
+neworleans funk dark hybrid ->," None
+0:a
+None
+0:k,1:a,3:k
+0:s,3:a,3:s,5:k,5:a,7:k,9:s
+6:s,7:a,12:s,16:a,22:s,27:a,28:k,29:s ###"
+neworleans funk big room layered ->," None
+None
+None
+0:k,1:h,2:k,3:k
+0:s,3:h,3:s,4:k,5:h,5:k,6:s,6:k,7:k,8:k,9:s,14:l
+0:k,7:h,12:l,12:s,16:l,16:h,27:h,28:k,28:k,29:s ###"
+neworleans funk deep daft ->," None
+None
+None
+0:k,1:h,2:k,3:k
+0:s,3:h,3:s,4:k,5:h,5:k,6:k,7:k,8:k,9:s,14:a
+0:k,6:s,7:h,12:s,12:a,16:h,16:a,22:s,27:h,28:k,28:k,29:s ###"
+latin acoustic ->," None
+None
+None
+4:h
+0:r,0:k,5:r,12:r
+2:r,4:z,6:r,6:x,8:s,9:r,10:z,10:s,13:r,14:u,17:s,19:r,19:z,20:s,23:r,23:x,25:s,26:r,27:z,27:s,30:r,31:u ###"
+latin dark hybrid ->," None
+None
+None
+4:a
+0:r,0:k,5:r,12:r
+2:r,4:z,6:r,6:x,8:s,9:r,10:z,10:s,13:r,14:u,17:s,19:r,19:z,20:s,23:r,23:x,25:s,26:r,27:z,27:s,30:r,31:u ###"
+latin 808 simple ->," None
+None
+None
+4:h
+0:r,0:k,5:r,12:r
+2:r,4:s,6:r,6:x,8:s,9:r,10:s,10:s,13:r,14:u,17:s,19:s,19:r,20:s,23:r,23:x,25:s,26:r,27:s,27:s,30:r,31:u ###"
+latin acoustic ->," None
+None
+None
+4:h
+0:r,0:k,4:z,5:r,9:r,12:r,14:u
+3:r,7:r,7:x,11:z,13:r,18:r,22:r,22:x,26:z,30:r ###"
+latin dark hybrid ->," None
+None
+None
+4:a
+0:r,0:k,4:z,5:r,9:r,12:r,14:u
+3:r,7:r,7:x,11:z,13:r,18:r,22:r,22:x,26:z,30:r ###"
+latin 808 simple ->," None
+None
+None
+4:h
+0:r,0:k,4:s,5:r,9:r,12:r,14:u
+3:r,7:r,7:x,11:s,13:r,18:r,22:r,22:x,26:s,30:r ###"
+hiphop acoustic ->," None
+None
+None
+0:k
+4:s,4:k,7:s,9:s
+0:k,2:h,6:s,6:k,7:s,10:k,10:k,12:h,14:s,14:k,18:k,24:k,26:h,27:s,28:k,28:k,29:s,30:h,31:s ###"
+hiphop dark hybrid ->," None
+None
+0:a
+None
+4:s,7:s,9:s,10:a,14:a
+0:k,2:a,6:a,6:s,7:s,10:k,14:s,18:k,24:k,27:s,28:k,29:s,31:s ###"
+hiphop acoustic ->," None
+None
+None
+2:h
+0:k,4:s,6:s,7:s,8:h,8:k,9:s
+0:y,0:k,4:h,6:h,7:s,8:s,10:k,12:h,14:s,14:k,18:k,20:k,22:k,28:k,28:k,29:s,30:h,31:s ###"
+hiphop dark hybrid ->," None
+0:a
+None
+None
+4:s,6:s,7:s,8:k,9:s
+0:y,0:k,7:s,8:s,10:k,14:s,18:k,28:k,29:s,31:s ###"
+afrobeat acoustic ->," None
+None
+0:k
+4:l,6:h,6:k
+0:k,2:h,3:s,6:s,9:k,10:k
+8:k,11:s,14:s,24:h,25:y,26:s,30:s ###"
+afrobeat dark hybrid ->," None
+0:a
+0:k
+6:a
+3:s,6:s,9:k
+11:s,14:s,25:y,26:s,30:s ###"
+afrobeat big room layered ->," None
+None
+0:k
+4:l,6:h,6:s,6:k
+0:k,2:h,3:s,9:k,10:k
+8:k,11:s,24:h,25:y,26:s ###"
+afrobeat deep daft ->," None
+None
+0:k
+4:a,6:h,6:k
+0:k,2:h,3:s,6:s,9:k,10:k
+8:k,11:s,14:s,24:h,25:y,26:s,30:s ###"
+funk acoustic ->," None
+None
+None
+0:k,4:k
+4:s,6:k,10:l,12:h
+0:k,2:h,8:k,12:s,14:h,16:h,18:k,19:k,21:k,23:k,24:h,28:s,30:k ###"
+funk dark hybrid ->," None
+0:a
+None
+0:k
+4:s,12:a
+12:s,19:k,21:k,23:k,28:s ###"
+funk big room layered ->," None
+None
+None
+0:k,4:s,4:k
+6:k,10:l,12:h
+0:k,2:h,8:k,14:h,16:h,18:k,19:k,21:k,23:k,24:h,30:k ###"
+funk deep daft ->," None
+None
+None
+0:k,4:k
+4:s,6:k,10:a,12:h
+0:k,2:h,8:k,12:s,14:h,16:h,18:k,19:k,21:k,23:k,24:h,28:s,30:k ###"
+rock shuffle acoustic ->," None
+None
+0:k
+None
+5:h,6:k,15:l
+0:h,3:k,4:s,9:k,12:s,12:k,16:h,16:k,18:h,20:s,25:h,27:s,28:l ###"
+rock shuffle dark hybrid ->," None
+None
+0:k
+None
+0:a,5:a,6:a,9:a,12:a,15:a
+3:a,4:s,12:s,16:a,18:a,20:s,27:s ###"
+rock shuffle big room layered ->," None
+None
+0:k
+None
+4:s,5:h,6:k,15:l
+0:h,3:k,9:k,12:s,12:k,16:h,16:k,18:h,25:h,27:s,28:l ###"
+rock shuffle deep daft ->," None
+None
+0:k
+None
+5:h,6:k,15:a
+0:h,3:k,4:s,9:k,12:s,12:k,16:h,16:k,18:h,20:s,25:h,27:s,28:a ###"
+rock shuffle acoustic ->," None
+None
+0:k
+None
+2:h,4:s,9:h,12:l
+0:y,0:h,6:h,10:s,12:s,14:j,14:s,15:h,16:k,21:h,22:k,26:s,31:l ###"
+rock shuffle dark hybrid ->," None
+None
+0:k
+None
+0:a,2:a,4:s,6:a,9:a,12:a,15:a
+0:y,10:s,12:s,14:a,14:s,21:a,26:s ###"
+rock shuffle big room layered ->," None
+None
+0:k
+None
+2:h,4:s,9:h,10:s,12:l
+0:y,0:h,6:h,12:s,14:j,14:s,15:h,16:k,21:h,22:k,31:l ###"
+rock shuffle deep daft ->," None
+None
+0:k
+None
+2:h,4:s,9:h,12:a
+0:y,0:h,6:h,10:s,12:s,14:a,14:s,15:h,16:k,21:h,22:k,26:s,31:a ###"
+funk acoustic ->," None
+None
+None
+None
+4:k,10:k
+0:k,0:k,2:h,6:s,6:k,8:h,10:h,12:h,14:s,14:k,17:s,18:k,18:k,20:s,23:s,24:k,24:k,25:s,26:k,28:s,28:k,29:k,30:s,31:s ###"
+funk dark hybrid ->," None
+None
+None
+2:a,4:a
+8:a,10:k
+0:k,0:a,6:a,6:s,14:s,14:a,17:s,18:k,20:s,23:s,24:k,25:s,28:s,29:k,30:s,31:s ###"
+funk big room layered ->," None
+None
+None
+None
+4:k,10:k,14:s
+0:k,0:k,2:h,6:s,6:k,8:h,10:h,12:h,14:k,17:s,18:k,18:k,20:s,23:s,24:k,24:k,25:s,26:k,28:s,28:k,29:k,31:s ###"
+hiphop acoustic ->," None
+None
+None
+None
+0:k,1:k,3:h,5:s,7:h
+9:y,9:k,11:h,13:s,15:h,15:k,17:y,19:k ###"
+hiphop dark hybrid ->," None
+None
+None
+None
+0:k,1:k,3:a,5:s,7:a
+9:y,9:k,11:a,13:s,15:k,15:a,17:y,19:k ###"
+funk latin acoustic ->," None
+None
+None
+2:h,4:s,4:k
+0:h,0:k,5:k,7:k,8:k
+4:k,6:h,14:h,18:k,22:k,30:k ###"
+funk latin dark hybrid ->," None
+0:a
+None
+4:s
+0:k,5:k,7:k
+4:k,18:k ###"
+funk latin acoustic ->," None
+None
+None
+4:s,4:k
+0:k,5:k,7:k,8:k
+0:h,2:h,6:h,10:h,14:h,16:k,18:k,18:k,22:k,26:k ###"
+funk latin dark hybrid ->," None
+None
+0:a
+2:a,4:s
+0:k,5:k,6:a,7:k
+14:a,18:k ###"
+afrobeat acoustic ->," None
+0:r
+2:h,2:s
+0:k,7:s
+3:k,5:s,6:s,9:r,11:s,12:k,13:r,13:k,15:k,21:s
+0:s,7:s,8:s,11:s,20:s ###"
+afrobeat dark hybrid ->," None
+0:r
+2:a,2:s
+0:k,7:s
+3:k,5:s,6:s,9:r,11:s,12:k,13:r,13:k,15:k,21:s
+0:s,7:s,8:s,11:s,20:s ###"
+latin acoustic ->," None
+None
+0:k,0:z,2:h
+2:z,5:z,7:z
+3:t,6:t,8:u,9:u,11:x,14:u
+16:t,17:t,18:t ###"
+latin dark hybrid ->," None
+None
+0:k,0:z,2:a
+2:z,5:z,7:z
+3:t,6:t,8:u,9:u,11:x,14:u
+16:t,17:t,18:t ###"
+latin 808 simple ->," None
+None
+0:s,0:k,2:h
+2:s,5:s,7:s
+3:t,6:t,8:u,9:u,11:x,14:u
+16:t,17:t,18:t ###"
+rock acoustic ->," None
+None
+0:k
+2:h
+6:h,8:h
+4:s,12:s,14:h,16:h,20:h,20:s,24:y,24:r,28:s,30:l ###"
+rock dark hybrid ->," None
+None
+0:k,2:a
+None
+8:a
+4:s,12:s,16:a,20:a,20:s,24:y,24:r,28:s ###"
+rock big room layered ->," None
+None
+0:k
+2:h,4:s
+6:h,8:h
+14:h,16:h,20:h,24:y,24:r,30:l ###"
+rock deep daft ->," None
+None
+0:k
+2:h
+6:h,8:h
+4:s,12:s,14:h,16:h,20:h,20:s,24:y,24:r,28:s,30:a ###"
+hiphop acoustic ->," None
+None
+None
+4:k,6:l,6:k
+0:k,2:k,3:k,5:k,8:h,9:h,10:l,12:h,12:s,13:h
+0:l,2:h,3:k,4:z,5:k,8:h,16:h,16:k,17:h,18:l,20:h,20:s,21:h,24:k ###"
+hiphop dark hybrid ->," None
+0:a
+None
+5:a,6:k
+0:k,2:k,3:k,5:k,8:a,9:a,12:s,12:a
+3:a,4:z,16:a,17:a,20:a,20:s ###"
+hiphop 808 simple ->," None
+None
+None
+4:k,6:l,6:k
+0:k,2:k,3:k,5:k,8:h,9:h,10:l,12:h,12:s,13:h
+0:l,2:h,3:k,4:s,5:k,8:h,16:h,16:k,17:h,18:l,20:h,20:s,21:h,24:k ###"
+hiphop deep daft ->," None
+None
+None
+4:k,6:k,6:a
+0:k,2:k,3:k,5:k,8:h,9:h,10:a,12:h,12:s,13:h
+0:a,2:h,3:k,4:z,5:k,8:h,16:h,16:k,17:h,18:a,20:h,20:s,21:h,24:k ###"
+hiphop acoustic ->," None
+None
+None
+4:k,6:l,6:k
+0:k,0:k,2:k,3:k,4:s,5:k,8:h,9:h,10:l,12:h
+2:k,3:h,12:s,16:h,17:h,18:l,18:h,20:h,21:h,24:k,28:s,29:h ###"
+hiphop dark hybrid ->," None
+0:a
+None
+6:k
+0:k,2:k,3:k,4:s,5:k,9:a,12:a
+3:a,12:s,16:a,17:a,18:a,20:a,21:a,24:a,28:s,29:a ###"
+hiphop big room layered ->," None
+None
+None
+4:s,4:k,6:l,6:k
+0:k,0:k,2:k,3:k,5:k,8:h,9:h,10:l,12:h
+2:k,3:h,16:h,17:h,18:l,18:h,20:h,21:h,24:k,29:h ###"
+hiphop deep daft ->," None
+None
+None
+4:k,6:k,6:a
+0:k,0:k,2:k,3:k,4:s,5:k,8:h,9:h,10:a,12:h
+2:k,3:h,12:s,16:h,17:h,18:h,18:a,20:h,21:h,24:k,28:s,29:h ###"
+hiphop acoustic ->," None
+None
+None
+4:k,6:l,6:k
+0:k,2:k,3:k,5:k,8:l,8:h,10:l,12:h
+0:h,2:h,3:k,4:s,5:h,9:k,12:s,13:k,16:h,16:k,17:k,18:l,20:s,20:h,21:k,25:h,28:s,29:h ###"
+hiphop dark hybrid ->," None
+0:a
+None
+5:a,6:k
+0:k,2:k,3:k,5:k,8:a,9:a,12:a
+3:a,4:s,12:s,16:a,17:a,20:s,20:a,28:s ###"
+hiphop big room layered ->," None
+None
+None
+4:s,4:k,6:l,6:k
+0:k,2:k,3:k,5:k,8:l,8:h,10:l,12:h
+0:h,2:h,3:k,5:h,9:k,13:k,16:h,16:k,17:k,18:l,20:h,21:k,25:h,29:h ###"
+hiphop deep daft ->," None
+None
+None
+4:k,6:k,6:a
+0:k,2:k,3:k,5:k,8:h,8:a,10:a,12:h
+0:h,2:h,3:k,4:s,5:h,9:k,12:s,13:k,16:h,16:k,17:k,18:a,20:s,20:h,21:k,25:h,28:s,29:h ###"
+funk acoustic ->," None
+None
+1:h
+2:k,3:h,4:k
+0:k,4:s,6:k,7:s,7:h,8:k,9:k,10:k,13:k,14:l,14:s
+0:h,11:s,16:h,16:k,18:k,27:s ###"
+funk dark hybrid ->," None
+0:a
+1:a
+3:a
+0:k,4:s,7:s,7:a,9:k,10:k,13:k,14:s
+11:s,16:a,18:k,27:s ###"
+funk big room layered ->," None
+None
+1:h
+2:k,3:h,4:k
+0:k,4:s,6:k,7:h,7:s,8:k,9:k,10:k,11:s,13:k,14:l,14:s
+0:h,16:h,16:k,18:k ###"
+funk deep daft ->," None
+None
+1:h
+2:k,3:h,4:k
+0:k,4:s,6:k,7:s,7:h,8:k,9:k,10:k,13:k,14:s,14:a
+0:h,11:s,16:h,16:k,18:k,27:s ###"
+funk acoustic ->," None
+None
+None
+1:h,2:k,4:k
+0:k,3:h,6:k,7:s,7:k,8:k,9:k,10:k,13:h,13:k,14:s,14:l
+0:h,2:h,4:s,5:k,11:s,11:k,16:h,16:k,18:k,20:s,23:s,27:h,27:s ###"
+funk dark hybrid ->," None
+0:a
+None
+1:a,2:k,3:a
+0:k,7:s,7:a,9:k,13:k,13:a,14:s
+4:s,5:a,11:s,16:a,20:s,23:s,27:s ###"
+funk big room layered ->," None
+None
+None
+1:h,2:k,4:k
+0:k,3:h,4:s,6:k,7:s,7:k,8:k,9:k,10:k,11:s,13:h,13:k,14:l,14:s
+0:h,2:h,5:k,11:k,16:h,16:k,18:k,23:s,27:h ###"
+funk deep daft ->," None
+None
+None
+1:h,2:k,4:k
+0:k,3:h,6:k,7:s,7:k,8:k,9:k,10:k,13:h,13:k,14:s,14:a
+0:h,2:h,4:s,5:k,11:s,11:k,16:h,16:k,18:k,20:s,23:s,27:h,27:s ###"
+funk acoustic ->," None
+None
+2:k
+0:k
+0:y,4:y,4:k
+8:y,12:s,16:r,23:k,28:s ###"
+funk dark hybrid ->," None
+None
+2:a
+0:k
+0:y,4:y,4:k
+8:y,12:s,16:r,23:k,28:s ###"
+funk big room layered ->," None
+None
+2:k
+0:k
+0:y,4:y,4:k,12:s
+8:y,16:r,23:k ###"
+rock acoustic ->," None
+None
+None
+2:k,4:s
+0:k,4:k,6:k,8:h,10:k
+0:y,8:k,12:l,12:h,14:k,14:k,16:k,19:k,20:h,24:l,28:k,30:l ###"
+rock dark hybrid ->," None
+None
+2:a
+4:s,4:a
+0:k,8:a,10:k,24:a
+0:y,12:a,14:k,16:a,19:a,20:a ###"
+rock deep daft ->," None
+None
+None
+2:k,4:s
+0:k,4:k,6:k,8:h,10:k
+0:y,8:k,12:h,12:a,14:k,14:k,16:k,19:k,20:h,24:a,28:k,30:a ###"
+rock acoustic ->," None
+None
+None
+0:k,2:k
+2:s,8:k,12:k
+0:k,4:k,6:k,10:s,12:k,14:k,14:k,20:l,20:k,22:l,22:h,26:h,26:s,27:s,29:k ###"
+rock dark hybrid ->," None
+None
+0:a
+2:a
+2:s,6:a,8:k
+0:k,10:s,12:k,14:k,14:a,20:k,22:a,26:a,26:s,27:s,29:k ###"
+rock big room layered ->," None
+None
+None
+0:k,2:s,2:k
+8:k,12:k
+0:k,4:k,6:k,12:k,14:k,14:k,20:l,20:k,22:l,22:h,26:h,27:s,29:k ###"
+rock deep daft ->," None
+None
+None
+0:k,2:k
+2:s,8:k,12:k
+0:k,4:k,6:k,10:s,12:k,14:k,14:k,20:k,20:a,22:h,22:a,26:h,26:s,27:s,29:k ###"
+rock acoustic ->," None
+None
+1:r
+None
+7:r,11:r,11:s
+0:k,1:r,3:s,3:r,4:r,7:k,13:k,15:r,15:k,18:k,19:r,19:s,20:s,22:s,24:k,25:s,26:s,27:k,28:k,30:k ###"
+rock big room layered ->," None
+None
+1:r
+3:s
+7:r,11:r
+0:k,1:r,3:r,4:r,7:k,13:k,15:r,15:k,18:k,19:r,20:s,22:s,24:k,25:s,26:s,27:k,28:k,30:k ###"
+rock acoustic ->," None
+None
+2:r
+0:k,4:s
+2:h,4:r,7:s,8:r,9:s,14:k
+0:r,6:k,7:s,9:s,11:k,12:r,16:r,22:h,26:k,28:r,30:h ###"
+rock dark hybrid ->," None
+None
+2:r
+0:k,4:s
+2:a,4:r,7:s,8:r,9:s,14:k
+0:r,6:k,7:s,9:s,11:k,12:r,16:r,22:a,26:k,28:r,30:a ###"
+rock acoustic ->," None
+None
+0:k,2:s
+0:k,2:k
+12:k
+4:k,6:l,6:h,14:l,16:h,19:k,22:k,31:s ###"
+rock dark hybrid ->," None
+None
+0:k,2:s
+0:a,2:a
+6:a,12:a
+4:a,6:a,14:a,16:a,19:a,31:s ###"
+rock deep daft ->," None
+None
+0:k,2:s
+0:k,2:k
+12:k
+4:k,6:h,6:a,14:a,16:h,19:k,22:k,31:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:l,0:k,4:l,4:s,6:j
+8:l,8:k,10:j,12:l,12:s,14:j,15:s,16:s,17:s,18:k,18:j,21:k,23:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,0:a,4:a,4:s,6:a
+8:k,8:a,10:a,12:s,12:a,14:a,15:s,16:s,17:s,18:k,18:a,21:k,23:s ###"
+rock acoustic ->," None
+None
+1:k
+3:l,3:s
+1:j,7:l,7:s
+0:k,2:k,9:l,10:k,15:s,15:y,20:s,21:l,21:s,22:k,23:s,24:s,25:s,27:s,29:l ###"
+rock dark hybrid ->," None
+None
+1:k
+3:a,3:s
+1:a,7:s,7:a
+0:k,2:k,9:a,10:k,15:s,15:y,20:s,21:a,21:s,22:k,23:s,24:s,25:s,27:s,29:a ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:k,1:x,2:x,3:k,4:u,5:v,6:k,7:s,8:s,9:k,10:t,11:t,12:k,13:x,14:x,15:k,16:u,17:v,18:k,19:s,20:s,21:k,22:t,23:t,24:k,25:x,26:x,27:k,28:u,29:u,30:k ###"
+rock big room layered ->," None
+None
+None
+None
+5:k
+0:k,1:x,2:x,3:k,4:u,6:k,7:s,8:s,9:k,10:t,11:t,12:k,13:x,14:x,15:k,16:u,17:k,18:k,19:s,20:s,22:t,23:t,24:k,25:x,26:x,27:k,28:u,29:u,30:k ###"
+rock west coast funk ->," None
+None
+None
+None
+None
+0:k,1:x,2:x,3:k,4:u,5:b,6:k,7:s,8:s,9:k,10:t,11:t,12:k,13:x,14:x,15:k,16:u,17:b,18:k,19:s,20:s,21:k,22:t,23:t,24:k,25:x,26:x,27:k,28:u,29:u,30:k ###"
+rock nu rnb ->," None
+None
+None
+None
+None
+0:k,1:x,2:x,3:k,4:u,5:l,6:k,7:s,8:s,9:k,10:t,11:t,12:k,13:x,14:x,15:k,16:u,17:l,18:k,19:s,20:s,21:k,22:t,23:t,24:k,25:x,26:x,27:k,28:u,29:u,30:k ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:u,0:k,2:u,3:t,4:u,4:k,6:x,8:u,8:k,9:u,10:u,12:t,12:u,12:k,14:u,15:t ###"
+rock big room layered ->," None
+None
+None
+None
+None
+0:k,1:u,1:k,3:u,4:t,5:u,5:k,7:x,9:u,9:k,10:u,11:u,13:t,13:u,13:k,15:u,16:t ###"
+rock acoustic ->," None
+None
+None
+None
+6:k,12:r
+0:k,1:t,2:t,3:k,4:x,5:x,7:u,8:u,10:r,10:k,14:r,14:k,18:r,18:s,22:r,24:r,24:k,26:r,26:s,27:k,29:k ###"
+rock acoustic ->," None
+None
+None
+0:k,2:k,4:s
+0:k,4:k,10:k,12:h,14:k,14:k
+3:h,6:l,6:h,7:s,8:k,12:l,22:k,24:h,28:k ###"
+rock dark hybrid ->," None
+0:a
+None
+4:s
+0:k,10:k,12:a,14:k
+3:a,6:a,7:s,8:k,24:a ###"
+rock deep daft ->," None
+None
+None
+0:k,2:k,4:s
+0:k,4:k,10:k,12:h,14:k,14:k
+3:h,6:h,6:a,7:s,8:k,12:a,22:k,24:h,28:k ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,4:r,4:h,4:s,7:r,8:r,8:k,11:r,12:s,12:r,12:k,12:h,15:r ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:r,0:k,4:a,4:r,4:s,7:r,8:r,8:k,11:r,12:s,12:r,12:k,12:a,15:r ###"
+rock acoustic ->," None
+None
+None
+0:k,1:l
+5:l,12:k,28:k
+1:s,3:k,5:k,9:s,13:l,13:s,15:k,17:s,20:k,21:s,24:k,25:s,26:j ###"
+rock dark hybrid ->," None
+None
+None
+0:k,1:a
+5:a,12:k,28:k
+1:s,3:k,5:k,9:s,13:a,13:s,15:k,17:s,20:k,21:s,24:k,25:s,26:a ###"
+rock big room layered ->," None
+None
+None
+0:k,1:l,1:s
+5:l,12:k,28:k
+3:k,5:k,13:l,13:s,15:k,20:k,21:s,24:k,26:j ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,2:r,4:r,4:s,6:r,7:k,8:r,10:k,12:r,12:s,14:r ###"
+rock acoustic ->," None
+None
+None
+0:s,0:k
+4:k,4:k
+5:k,10:k,12:k,12:k,14:h,18:h,18:k,22:h,26:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,0:a,4:s,4:a
+1:k,6:k,8:k,8:a,10:a,12:a,12:s,14:k,14:a,18:a,22:a ###"
+rock acoustic ->," None
+None
+None
+4:k,6:k
+0:k,8:k,10:k,12:s,14:k
+0:y,2:k,4:s,8:k,10:k,16:l,18:l,18:h,20:s,22:k,25:k,27:k ###"
+rock dark hybrid ->," None
+None
+2:a
+4:a
+0:k,8:a,12:s,14:k
+0:y,4:s,8:k,10:k,16:a,18:a,20:s,22:k,25:k,27:k ###"
+rock big room layered ->," None
+None
+None
+4:s,4:k,6:k
+0:k,8:k,10:k,14:k
+0:y,2:k,8:k,10:k,16:l,18:l,18:h,22:k,25:k,27:k ###"
+rock deep daft ->," None
+None
+None
+4:k,6:k
+0:k,8:k,10:k,12:s,14:k
+0:y,2:k,4:s,8:k,10:k,16:a,18:h,18:a,20:s,22:k,25:k,27:k ###"
+rock acoustic ->," None
+None
+None
+None
+0:r,0:k,2:r,4:r,6:r,7:s,9:s
+4:h,4:s,6:h,8:r,8:k,10:r,10:k,10:h,12:s,12:r,14:r,14:k,17:s,19:k,20:s,21:s,22:k,23:s,24:r,24:s,25:u,26:s,27:s,28:z,28:s,29:s,30:t,30:s,31:t ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:r,0:k,2:r,4:r,6:r,7:s,9:s
+4:a,4:s,6:a,8:r,8:k,10:r,10:k,10:a,12:s,12:r,14:r,14:k,17:s,19:k,20:s,21:s,22:k,23:s,24:r,24:s,25:u,26:s,27:s,28:z,28:s,29:s,30:t,30:s,31:t ###"
+rock big room layered ->," None
+None
+None
+4:s
+0:r,0:k,2:r,4:r,6:r,7:s,9:s
+4:h,6:h,8:r,8:k,10:r,10:k,10:h,12:r,14:r,14:k,17:s,19:k,21:s,22:k,23:s,24:r,24:s,25:u,26:s,27:s,28:z,29:s,30:t,30:s,31:t ###"
+rock 808 simple ->," None
+None
+None
+None
+0:r,0:k,2:r,4:r,6:r,7:s,9:s,12:s
+4:h,4:s,6:h,8:r,8:k,10:r,10:k,10:h,12:r,14:r,14:k,17:s,19:k,20:s,21:s,22:k,23:s,24:r,24:s,25:u,26:s,27:s,28:s,29:s,30:t,30:s,31:t ###"
+rock acoustic ->," None
+None
+None
+None
+2:s,7:s,8:k
+0:k,2:r,5:k,6:s,6:r,8:r,9:k,10:s,11:k,12:t,13:k,14:y,15:k,18:s,22:s,23:s,24:t,25:t,26:t,26:k,27:x,28:x,29:x ###"
+rock big room layered ->," None
+None
+None
+None
+2:s,6:s,7:s,8:k
+0:k,2:r,5:k,6:r,8:r,9:k,10:s,11:k,12:t,13:k,14:y,15:k,18:s,22:s,23:s,24:t,25:t,26:t,26:k,27:x,28:x,29:x ###"
+rock acoustic ->," None
+None
+2:r
+0:k,4:r,7:r
+8:r,10:h,10:s,11:r,14:h,14:s
+0:r,2:k,4:s,16:r,18:h,18:s,19:r,20:k,22:h,22:s,28:k ###"
+rock dark hybrid ->," None
+None
+2:r
+0:k,4:r,7:r
+8:r,10:s,10:a,11:r,14:s,14:a
+0:r,2:k,4:s,16:r,18:a,18:s,19:r,20:k,22:a,22:s,28:k ###"
+rock acoustic ->," None
+None
+None
+0:k,1:s,2:h
+2:r,2:k,3:s,3:r,4:r,4:k,6:r,6:k,6:h,7:r
+0:v,1:s,4:v,5:s,6:s,7:s,8:r,8:s,10:r,10:k,11:s,11:r,12:r,12:k,14:s,14:r,14:h,15:r,16:r,18:s,22:s,23:s,24:r,26:s,27:s ###"
+rock dark hybrid ->," None
+None
+None
+0:k,1:s,2:a
+2:r,2:k,3:s,3:r,4:r,4:k,6:r,6:k,6:a,7:r
+0:v,1:s,4:v,5:s,6:s,7:s,8:r,8:s,10:r,10:k,11:s,11:r,12:r,12:k,14:s,14:r,14:a,15:r,16:r,18:s,22:s,23:s,24:r,26:s,27:s ###"
+rock big room layered ->," None
+None
+None
+0:k,1:s,2:h,3:s
+2:r,2:k,3:r,4:r,4:k,6:r,6:k,6:s,6:h,7:r,7:s
+0:k,1:s,4:k,5:s,8:r,8:s,10:r,10:k,11:r,12:r,12:k,14:r,14:h,14:s,15:r,16:r,18:s,24:r,26:s ###"
+rock west coast funk ->," None
+None
+None
+0:k,1:s,2:h
+2:r,2:k,3:s,3:r,4:r,4:k,6:r,6:k,6:h,7:r
+0:b,1:s,4:b,5:s,6:s,7:s,8:r,8:s,10:r,10:k,11:s,11:r,12:r,12:k,14:s,14:r,14:h,15:r,16:r,18:s,22:s,23:s,24:r,26:s,27:s ###"
+rock nu rnb ->," None
+None
+None
+0:k,1:s,2:h
+2:r,2:k,3:s,3:r,4:r,4:k,6:r,6:k,6:h,7:r
+0:l,1:s,4:l,5:s,6:s,7:s,8:r,8:s,10:r,10:k,11:s,11:r,12:r,12:k,14:s,14:r,14:h,15:r,16:r,18:s,22:s,23:s,24:r,26:s,27:s ###"
+rock acoustic ->," None
+None
+0:k,2:h,3:r
+0:r,2:r,6:k
+6:s,6:r,10:k,12:r,13:s,14:r
+2:s,4:r,10:s,15:s,18:k,18:s,20:r,21:r,25:r,26:s,31:s ###"
+rock dark hybrid ->," None
+None
+0:k,2:a,3:r
+0:r,2:r,6:k
+6:s,6:r,10:k,12:r,13:s,14:r
+2:s,4:r,10:s,15:s,18:k,18:s,20:r,21:r,25:r,26:s,31:s ###"
+rock big room layered ->," None
+None
+0:k,2:h,3:r
+0:r,2:r,2:s,6:k
+6:r,6:s,10:k,12:r,13:s,14:r,15:s
+4:r,18:k,20:r,21:r,25:r ###"
+rock acoustic ->," None
+None
+0:k,3:k
+0:k,1:k,2:k,4:s
+6:k,10:k
+5:l,12:h,13:l,14:k,18:k,21:k,29:k,30:l ###"
+rock dark hybrid ->," 0:a
+None
+None
+0:k,4:s
+10:k
+12:a,18:k ###"
+rock deep daft ->," None
+None
+0:k,3:k
+0:k,1:k,2:k,4:s
+6:k,10:k
+5:a,12:h,13:a,14:k,18:k,21:k,29:k,30:a ###"
+rock acoustic ->," None
+0:r
+None
+4:s
+2:k,4:h,8:k,14:k
+0:k,6:h,7:s,8:s,10:k,16:h,22:k ###"
+rock dark hybrid ->," None
+0:r
+None
+4:s
+2:k,4:a,8:k,14:k
+0:k,6:a,7:s,8:s,10:k,16:a,22:k ###"
+rock acoustic ->," None
+0:r
+None
+0:k,4:s
+9:r,10:h
+11:r,14:k,17:r,18:h,20:h,21:r,22:h,28:h,29:r ###"
+rock dark hybrid ->," None
+0:r
+None
+0:k,4:s
+9:r,10:a
+11:r,14:k,17:r,18:a,20:a,21:r,22:a,28:a,29:r ###"
+rock acoustic ->," None
+None
+None
+4:s
+2:k,4:k,6:k
+0:s,0:k,2:k,4:k,7:k,8:s,8:l,10:l,10:k,11:s,12:h,13:s,14:t,15:t,16:h,16:k,16:y,19:k,22:k,23:s,24:s,24:k,25:s,26:k,27:k,28:k,29:k,30:k,31:s ###"
+rock dark hybrid ->," None
+None
+None
+0:a,2:s,2:a
+4:a,6:a
+0:k,2:k,5:k,6:s,8:k,9:s,11:s,12:t,13:t,14:k,14:a,14:y,17:k,20:k,21:s,22:s,23:s,25:k,27:k,28:a,29:s ###"
+rock big room layered ->," None
+None
+None
+4:s
+2:k,4:k,6:k,8:s
+0:s,0:k,2:k,4:k,7:k,8:l,10:l,10:k,11:s,12:h,13:s,14:t,15:t,16:h,16:k,16:y,19:k,22:k,23:s,24:s,24:k,25:s,26:k,27:k,28:k,29:k,30:k,31:s ###"
+rock deep daft ->," None
+None
+None
+4:s
+2:k,4:k,6:k
+0:s,0:k,2:k,4:k,7:k,8:s,8:a,10:k,10:a,11:s,12:h,13:s,14:t,15:t,16:h,16:k,16:y,19:k,22:k,23:s,24:s,24:k,25:s,26:k,27:k,28:k,29:k,30:k,31:s ###"
+rock acoustic ->," None
+None
+2:k
+0:k,4:k
+8:k,10:k
+0:h,0:y,4:s,12:s,14:k,16:k,20:s,23:s,28:s,29:k,31:s ###"
+rock dark hybrid ->," None
+0:a
+None
+0:k
+10:k
+0:y,4:s,12:s,14:k,20:s,23:s,28:s,29:k,31:s ###"
+rock big room layered ->," None
+None
+2:k
+0:k,4:s,4:k
+8:k,10:k
+0:h,0:y,14:k,16:k,23:s,29:k,31:s ###"
+funk fast acoustic ->," None
+None
+None
+None
+2:s,18:s
+0:k,3:l,3:k,3:s,4:s,5:j,5:k,5:s,7:l,7:h,7:k,9:s,10:k,10:j,11:h,11:h,12:s,13:h,13:k,14:h,15:z,16:h,17:h,18:s ###"
+funk fast dark hybrid ->," None
+None
+None
+None
+2:s,18:s
+0:k,3:a,3:k,3:s,4:s,5:a,5:k,5:s,7:k,7:a,9:s,10:k,10:a,11:a,12:s,13:k,13:a,14:a,15:z,16:a,17:a,18:s ###"
+funk fast 808 simple ->," None
+None
+None
+None
+2:s,18:s
+0:k,3:l,3:k,3:s,4:s,5:j,5:k,5:s,7:l,7:h,7:k,9:s,10:k,10:j,11:h,11:h,12:s,13:h,13:k,14:h,15:s,16:h,17:h,18:s ###"
+funk fast deep daft ->," None
+None
+None
+None
+2:s,18:s
+0:k,3:a,3:k,3:s,4:s,5:a,5:k,5:s,7:h,7:a,7:k,9:s,10:k,10:a,11:h,11:h,12:s,13:h,13:k,14:h,15:z,16:h,17:h,18:s ###"
+latin brazilian-baiao acoustic ->," None
+None
+None
+0:k,3:k,4:h,6:z
+3:s,8:h,9:h,10:k,13:h,14:s
+2:h,6:l,6:s,8:h,11:s,14:k,16:h,17:h,18:k,21:h,22:z,22:k,23:s,25:z,30:l ###"
+latin brazilian-baiao dark hybrid ->," None
+None
+2:a
+0:k,3:k,4:a,6:z
+3:s,8:a,9:a,13:a,14:s
+6:s,8:a,11:s,16:a,17:a,21:a,22:z,23:s,25:z ###"
+latin brazilian-baiao 808 simple ->," None
+None
+None
+0:k,3:k,4:h,6:s
+3:s,8:h,9:h,10:k,13:h,14:s
+2:h,6:l,6:s,8:h,11:s,14:k,16:h,17:h,18:k,21:h,22:s,22:k,23:s,25:s,30:l ###"
+latin brazilian-baiao deep daft ->," None
+None
+None
+0:k,3:k,4:h,6:z
+3:s,8:h,9:h,10:k,13:h,14:s
+2:h,6:s,6:a,8:h,11:s,14:k,16:h,17:h,18:k,21:h,22:z,22:k,23:s,25:z,30:a ###"
+funk acoustic ->," None
+None
+None
+None
+None
+0:h,0:k,1:h,2:h,2:k,3:h,4:h,4:z,5:k,5:j,6:h,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"
+funk dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:k,2:a,3:a,4:z,4:a,5:k,5:a,6:a,7:s,7:a,8:a,9:s,9:a,10:k,10:a,11:a,12:a,12:s,13:k,13:a,14:a,15:a,15:s ###"
+funk 808 simple ->," None
+None
+None
+None
+None
+0:h,0:k,1:h,2:h,2:k,3:h,4:s,4:h,5:k,5:j,6:h,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"
+funk deep daft ->," None
+None
+None
+None
+None
+0:h,0:k,1:h,2:h,2:k,3:h,4:h,4:z,5:k,5:a,6:h,6:h,7:h,7:s,8:h,9:h,9:s,10:h,10:k,11:h,12:h,12:s,13:h,13:k,14:h,15:h,15:s ###"
+latin samba acoustic ->," None
+0:r
+0:k,1:r,2:h
+3:k
+7:k,11:s,15:s
+15:k,16:s,17:s,18:s,19:s,23:s,24:s,25:s,30:k ###"
+latin samba dark hybrid ->," None
+0:r
+0:k,1:r,2:a
+3:k
+7:k,11:s,15:s
+15:k,16:s,17:s,18:s,19:s,23:s,24:s,25:s,30:k ###"
+gospel acoustic ->," None
+None
+None
+None
+None
+0:l,0:k,2:s,2:h,2:k,3:s,4:h,4:k,6:h,6:z,8:h,8:k,10:h,10:z,12:h,12:k,14:h,14:z ###"
+gospel dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,2:s,2:a,3:s,4:k,4:a,6:z,6:a,8:k,8:a,10:z,10:a,12:k,12:a,14:z,14:a ###"
+gospel big room layered ->," None
+None
+None
+None
+None
+0:l,0:k,2:h,2:s,2:k,3:s,4:h,4:k,6:h,6:z,8:h,8:k,10:h,10:z,12:h,12:k,14:h,14:z ###"
+gospel 808 simple ->," None
+None
+None
+None
+None
+0:l,0:k,2:s,2:h,2:k,3:s,4:h,4:k,6:s,6:h,8:h,8:k,10:s,10:h,12:h,12:k,14:s,14:h ###"
+gospel deep daft ->," None
+None
+None
+None
+None
+0:k,0:a,2:s,2:h,2:k,3:s,4:h,4:k,6:h,6:z,8:h,8:k,10:h,10:z,12:h,12:k,14:h,14:z ###"
+punk acoustic ->," None
+None
+None
+None
+None
+0:k,4:s,4:u,7:s,8:u,8:k,12:s,12:u ###"
+punk big room layered ->," None
+None
+None
+None
+None
+0:k,4:u,4:s,7:s,8:u,8:k,12:u,12:s ###"
+latin bomba acoustic ->," None
+None
+None
+None
+None
+0:k,0:z,0:h,1:s,2:z,3:t,3:z,4:h,5:t,5:z,6:t,6:z,8:k,8:z,8:h,10:z,11:t,11:z,12:h,13:t,13:h,13:z,14:t,14:z ###"
+latin bomba dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:z,0:a,1:s,2:z,3:t,3:z,4:a,5:t,5:z,6:t,6:z,8:k,8:z,8:a,10:z,11:t,11:z,12:a,13:t,13:z,13:a,14:t,14:z ###"
+latin bomba 808 simple ->," None
+None
+None
+None
+None
+0:s,0:k,0:h,1:s,2:s,3:t,3:s,4:h,5:s,5:t,6:t,6:s,8:s,8:k,8:h,10:s,11:s,11:t,12:h,13:s,13:t,13:h,14:t,14:s ###"
+rock acoustic ->," None
+0:u
+0:k,2:t
+0:t
+4:w,12:t
+None ###"
+rock big room layered ->," None
+0:u
+0:k,2:t
+0:t
+4:l,12:t
+None ###"
+rock nu rnb ->," None
+0:u
+0:k,2:t
+0:t
+4:z,12:t
+None ###"
+funk acoustic ->," 0:h
+None
+None
+None
+None
+None ###"
+jazz acoustic ->," None
+None
+None
+None
+0:r,4:r
+6:r,8:r,12:r,15:r,23:r,25:s,26:r,27:r ###"
+rock acoustic ->," None
+None
+None
+None
+0:s,1:s,3:z,4:t,6:x,7:x,9:u,10:u
+None ###"
+rock 808 simple ->," None
+None
+None
+None
+0:s,1:s,3:s,4:t,6:x,7:x,9:u,10:u
+None ###"
+jazz acoustic ->," None
+None
+None
+0:s,1:s,6:s
+3:s,5:s,10:s,15:s
+12:s,28:s ###"
+jazz big room layered ->," None
+None
+None
+0:s,1:s,6:s
+3:s,5:s,10:s,12:s,15:s
+None ###"
+rock acoustic ->," None
+None
+None
+None
+0:s,1:s,2:s,3:s,4:t,6:t,7:w,9:x,10:x,12:u
+None ###"
+rock big room layered ->," None
+None
+None
+None
+0:s,1:s,2:s,3:s,4:t,6:t,7:l,9:x,10:x,12:u
+None ###"
+rock nu rnb ->," None
+None
+None
+None
+0:s,1:s,2:s,3:s,4:t,6:t,7:z,9:x,10:x,12:u
+None ###"
+rock acoustic ->," None
+None
+None
+1:s,2:l
+3:j,4:j,5:j,7:j
+0:k,6:l,7:k,8:l,11:l,12:k,13:k,14:j,15:l,16:j,22:j,24:k,27:j,28:l ###"
+rock dark hybrid ->," None
+None
+None
+1:s,2:a,3:a,4:a
+5:a,6:a,7:a
+0:k,7:k,8:a,13:k,14:a,15:a,16:a,24:k ###"
+rock deep daft ->," None
+None
+None
+1:s,2:a,3:a
+4:a,5:a,6:a,7:a
+0:k,7:k,8:a,12:k,13:k,14:a,15:a,16:a,24:k,28:a ###"
+hiphop acoustic ->," None
+None
+None
+0:h
+0:k,2:h,4:s,6:h,10:k
+1:h,3:k,5:h,10:k,12:s,13:k,14:h,19:h,26:l,28:h,29:s ###"
+hiphop dark hybrid ->," None
+None
+None
+0:a,2:a
+0:k,4:s,6:a,10:k
+1:a,3:k,5:a,12:s,13:k,14:a,19:a,28:a,29:s ###"
+hiphop deep daft ->," None
+None
+None
+0:h
+0:k,2:h,4:s,6:h,10:k
+1:h,3:k,5:h,10:k,12:s,13:k,14:h,19:h,26:a,28:h,29:s ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:t,0:k,2:t,3:t,4:t,4:k,4:s,6:t,7:t,8:t,8:k,10:t,11:t,12:t,12:k,12:s,14:t,15:t ###"
+jazz acoustic ->," None
+None
+None
+None
+None
+0:l,0:k,2:h,2:s,4:k,4:k,6:s,8:l,8:k,10:s,11:k,12:l,14:s,15:l,15:k ###"
+jazz dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,2:s,2:a,4:k,4:a,6:s,8:k,8:a,10:s,11:k,12:a,14:s,15:k,15:a ###"
+jazz deep daft ->," None
+None
+None
+None
+None
+0:k,0:a,2:h,2:s,4:k,4:k,6:s,8:k,8:a,10:s,11:k,12:a,14:s,15:k,15:a ###"
+latin brazilian acoustic ->," None
+None
+None
+None
+0:k
+0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:q,16:t,17:t,18:t,19:t,20:x,22:x ###"
+latin brazilian jinglestacks 2nd hi-hat ->," None
+None
+None
+None
+0:k
+0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:h,16:t,17:t,18:t,19:t,20:x,22:x ###"
+latin brazilian jazz funk ->," None
+None
+None
+None
+0:k
+0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:b,16:t,17:t,18:t,19:t,20:x,22:x ###"
+latin brazilian big room layered ->," None
+None
+None
+None
+0:k
+0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:l,16:t,17:t,18:t,19:t,20:x,22:x ###"
+latin brazilian nu rnb ->," None
+None
+None
+None
+0:k
+0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:s,16:t,17:t,18:t,19:t,20:x,22:x ###"
+latin brazilian compact lite w/ tambourine hh ->," None
+None
+None
+None
+0:k
+0:s,4:s,7:t,7:k,8:t,9:t,10:t,11:x,13:a,16:t,17:t,18:t,19:t,20:x,22:x ###"
+latin brazilian-sambareggae acoustic ->," None
+None
+0:k,2:h
+0:t,1:s,2:s
+3:s,5:s,7:s,12:u,13:u,14:u
+4:x,6:x,11:z,12:k,15:u,16:k,20:u,22:u,27:s,31:v ###"
+latin brazilian-sambareggae dark hybrid ->," None
+None
+0:k,2:a
+0:t,1:s,2:s
+3:s,5:s,7:s,12:u,13:u,14:u
+4:x,6:x,11:z,12:k,15:u,16:k,20:u,22:u,27:s,31:v ###"
+latin brazilian-sambareggae big room layered ->," None
+None
+0:k,2:h
+0:t,1:s,2:s
+3:s,5:s,7:s,12:u,13:u,14:u
+4:x,6:x,11:z,12:k,15:u,16:k,20:u,22:u,27:s,31:k ###"
+latin brazilian-sambareggae west coast funk ->," None
+None
+0:k,2:h
+0:t,1:s,2:s
+3:s,5:s,7:s,12:u,13:u,14:u
+4:x,6:x,11:z,12:k,15:u,16:k,20:u,22:u,27:s,31:b ###"
+latin brazilian-sambareggae 808 simple ->," None
+None
+0:k,2:h
+0:t,1:s,2:s
+3:s,5:s,7:s,12:u,13:u,14:u
+4:x,6:x,11:s,12:k,15:u,16:k,20:u,22:u,27:s,31:v ###"
+latin brazilian-sambareggae nu rnb ->," None
+None
+0:k,2:h
+0:t,1:s,2:s
+3:s,5:s,7:s,12:u,13:u,14:u
+4:x,6:x,11:s,12:k,15:u,16:k,20:u,22:u,27:s,31:l ###"
+latin brazilian-samba acoustic ->," None
+None
+1:s,2:h,2:s
+0:k,0:s,3:k,7:s
+1:s,4:s,12:u
+3:z,4:s,5:s,6:k,11:s,16:s,19:k,19:s,21:z,27:z,29:s ###"
+latin brazilian-samba dark hybrid ->," None
+None
+1:s,2:s,2:a
+0:k,0:s,3:k,7:s
+1:s,4:s,12:u
+3:z,4:s,5:s,6:k,11:s,16:s,19:k,19:s,21:z,27:z,29:s ###"
+latin brazilian-samba 808 simple ->," None
+None
+1:s,2:h,2:s
+0:k,0:s,3:k,7:s
+1:s,4:s,12:u
+3:s,4:s,5:s,6:k,11:s,16:s,19:k,19:s,21:s,27:s,29:s ###"
+latin venezuelan-joropo acoustic ->," None
+0:k
+0:k,1:k
+None
+0:k,3:k,3:k,7:k,9:k,12:k,13:k,19:k
+1:k,5:k,7:k,7:k,9:k,11:k,11:k,15:k,15:k,17:h,20:k,22:k,22:k,26:h,26:k,27:h,30:k,30:k,31:h ###"
+latin venezuelan-joropo dark hybrid ->," 0:a
+None
+0:k
+1:a,3:a
+0:k,3:k,12:k,13:a
+5:a,7:k,7:a,9:a,11:k,15:k,15:a,20:a,22:k,22:a,26:k,26:a,27:a,30:k,30:a ###"
+latin brazilian-samba acoustic ->," None
+None
+None
+None
+None
+0:k,0:s,1:s,2:h,2:s,3:s,3:k,4:s,5:s,6:h,6:z,7:s,8:s,8:k,9:s,10:h,10:s,11:k,11:z,12:k,12:s,13:s,13:h,13:z,14:s,15:k,15:s ###"
+latin brazilian-samba dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:s,1:s,2:a,2:s,3:s,3:k,4:s,5:s,6:z,6:a,7:s,8:s,8:k,9:s,10:s,10:a,11:k,11:z,12:k,12:s,13:s,13:z,13:a,14:s,15:k,15:s ###"
+latin brazilian-samba big room layered ->," None
+None
+None
+None
+None
+0:k,0:s,1:s,2:h,2:s,3:k,3:s,4:s,5:s,6:h,6:z,7:s,8:k,8:s,9:s,10:h,10:s,11:k,11:z,12:k,12:s,13:h,13:z,13:s,14:s,15:k,15:s ###"
+latin brazilian-samba 808 simple ->," None
+None
+None
+None
+None
+0:k,0:s,1:s,2:h,2:s,3:s,3:k,4:s,5:s,6:s,6:h,7:s,8:s,8:k,9:s,10:h,10:s,11:s,11:k,12:k,12:s,13:s,13:h,14:s,15:k,15:s ###"
+latin brazilian-frevo acoustic ->," None
+None
+0:k
+0:s,2:s,5:s,7:s
+2:h,3:s,6:s,9:s,11:h,12:s,13:s,14:h,14:s,15:h,15:s,30:s
+1:k,1:s,4:s,4:h,6:h,8:h,10:h,12:s,16:s,19:h,20:s,21:h,23:h,25:h,27:s,28:s ###"
+latin brazilian-frevo dark hybrid ->," None
+None
+0:k
+0:s,2:s,5:s,7:s
+2:a,3:s,6:s,9:s,11:a,12:s,13:s,14:s,14:a,15:s,15:a,30:s
+1:k,1:s,4:s,4:a,6:a,8:a,10:a,12:s,16:s,19:a,20:s,21:a,23:a,25:a,27:s,28:s ###"
+latin brazilian-frevo big room layered ->," None
+0:s
+0:k
+5:s,7:s
+2:h,3:s,9:s,11:h,12:s,13:s,14:h,14:s,15:h,15:s
+1:k,1:s,4:h,6:h,8:h,10:h,16:s,19:h,21:h,23:h,25:h,27:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:l,0:k,3:k
+0:s,2:h,4:s,4:k,5:h,6:s,7:l,8:h,9:s,10:k,12:s,12:k,14:l,14:k,14:j,15:s,17:s,18:j,19:s,20:s,20:l,22:j,23:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,0:a,2:a,3:k,4:a
+0:s,4:s,5:a,6:s,7:a,8:a,9:s,10:a,12:s,12:a,14:k,14:a,15:s,17:s,19:s,20:s,22:a,23:s ###"
+rock big room layered ->," None
+None
+None
+None
+0:l,0:k,3:k,4:s
+0:s,2:h,4:k,5:h,6:s,7:l,8:h,9:s,10:k,12:s,12:k,14:l,14:k,14:j,15:s,17:s,18:j,19:s,20:l,22:j,23:s ###"
+rock deep daft ->," None
+None
+None
+None
+0:k,0:a,3:k
+0:s,2:h,4:s,4:k,5:h,6:s,7:a,8:h,9:s,10:k,12:s,12:k,14:k,14:a,15:s,17:s,18:a,19:s,20:s,20:a,22:a,23:s ###"
+rock acoustic ->," None
+None
+None
+None
+0:k,2:s,4:k
+2:s,4:y,6:l,8:k,10:s,10:l,12:l,14:l,14:k,18:l ###"
+rock dark hybrid ->," None
+None
+None
+None
+0:k,2:s,4:k
+2:s,4:y,6:a,8:k,10:s,10:a,12:a,14:k,14:a,18:a ###"
+rock big room layered ->," None
+None
+None
+None
+0:k,2:s,4:k
+2:s,4:y,6:l,8:k,10:l,10:s,12:l,14:l,14:k,18:l ###"
+rock acoustic ->," None
+None
+None
+None
+4:l,8:l,14:k
+0:k,12:s,12:k,14:y,17:l,19:k,20:s,24:k,28:l,28:s,31:s ###"
+rock dark hybrid ->," None
+None
+None
+None
+2:k
+0:s,0:k,2:y,5:a,7:k,8:s,8:a,12:k,12:a,16:s,16:a,19:s ###"
+rock big room layered ->," None
+None
+None
+None
+4:l,8:l,12:s,14:k
+0:k,12:k,14:y,17:l,19:k,20:s,24:k,28:l,31:s ###"
+rock deep daft ->," None
+None
+None
+None
+4:a,8:a,14:k
+0:k,12:s,12:k,14:y,17:a,19:k,20:s,24:k,28:s,28:a,31:s ###"
+funk acoustic ->," None
+None
+None
+None
+0:k
+0:k,1:k,2:s,3:k,3:k,4:j,4:k,4:s,5:h,5:s,5:k,6:s,7:h,8:s,8:k,9:k,10:s,11:h,11:k,12:k,12:j,13:h,13:s,13:k,14:s,15:h,16:s ###"
+funk dark hybrid ->," None
+None
+None
+None
+0:a
+0:k,1:a,2:s,3:k,3:a,4:a,4:k,4:s,5:s,5:a,6:s,7:a,8:a,8:s,9:a,10:s,11:k,11:a,12:k,12:a,13:s,13:a,14:s,15:a,16:s ###"
+funk deep daft ->," None
+None
+None
+None
+0:k
+0:k,1:k,2:s,3:k,3:k,4:a,4:k,4:s,5:h,5:s,5:k,6:s,7:h,8:s,8:k,9:k,10:s,11:h,11:k,12:k,12:a,13:h,13:s,13:k,14:s,15:h,16:s ###"
+jazz acoustic ->," None
+None
+None
+4:h
+8:r,12:r,15:r,15:s
+16:r,19:s,20:r,26:s ###"
+jazz dark hybrid ->," None
+None
+None
+4:a
+8:r,12:r,15:r,15:s
+16:r,19:s,20:r,26:s ###"
+pop acoustic ->," None
+None
+None
+None
+None
+0:k,1:k,2:u,3:s,4:s,5:s,6:s,7:s,8:s,9:s,10:k,10:y,18:h ###"
+pop dark hybrid ->," None
+None
+None
+None
+None
+0:k,1:k,2:u,3:s,4:s,5:s,6:s,7:s,8:s,9:s,10:k,10:y,18:a ###"
+pop acoustic ->," None
+None
+None
+None
+0:k,2:k,4:h,6:k,7:k
+0:s,2:k,6:s,7:k,9:s,10:k,11:h,11:k,14:s,14:k,20:k,22:s ###"
+pop dark hybrid ->," None
+None
+None
+None
+0:k,2:a,4:a,6:a,7:a
+0:s,2:k,6:s,7:k,9:s,10:a,11:k,11:a,14:s,14:a,20:k,22:s ###"
+pop big room layered ->," None
+None
+None
+None
+0:k,2:k,4:h,6:s,6:k,7:k
+0:s,2:k,7:k,9:s,10:k,11:h,11:k,14:s,14:k,20:k ###"
+jazz fusion acoustic ->," None
+None
+None
+None
+None
+0:k,0:k,1:h,2:h,3:s,4:h,5:h,6:h,6:k,7:h,8:k,9:h,10:h,11:h,12:k,13:h,14:s,15:h ###"
+jazz fusion dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,1:a,2:a,3:s,4:a,5:a,6:k,6:a,7:a,8:a,9:a,10:a,11:a,12:a,13:a,14:s,15:a ###"
+rock acoustic ->," None
+None
+0:k
+None
+0:k,9:s,10:k,11:k,12:s,15:s,31:s
+0:k,4:h,4:s,7:s,15:s,18:k,22:s,29:s,31:s ###"
+rock dark hybrid ->," None
+None
+0:a
+None
+0:k,9:s,10:k,11:k,12:s,15:s,31:s
+0:k,4:a,4:s,7:s,15:s,18:k,22:s,29:s,31:s ###"
+rock acoustic ->," None
+None
+0:y
+None
+0:k,4:h,4:s,7:s
+10:k,14:s,18:k,24:k,28:h,28:s,30:k,31:s ###"
+rock dark hybrid ->," None
+None
+0:y
+None
+0:k,4:a,4:s,7:s
+10:k,14:s,18:k,24:k,28:s,28:a,30:k,31:s ###"
+rock acoustic ->," None
+None
+3:h
+0:k,1:h,2:h
+0:k,4:k,7:k,8:h,12:s,14:h
+4:s,5:h,6:h,12:h,13:k,15:k,20:s,22:k,28:k,29:h ###"
+rock dark hybrid ->," None
+0:a
+3:a
+0:k,1:a
+7:k,12:s,13:a
+4:s,5:a,15:k,20:s ###"
+rock big room layered ->," None
+None
+3:h
+0:k,1:h,2:h,4:s
+0:k,4:k,7:k,8:h,14:h
+5:h,6:h,12:h,13:k,15:k,22:k,28:k,29:h ###"
+rock acoustic ->," None
+None
+None
+None
+None
+0:r,0:k,2:r,2:k,4:r,4:h,4:s,6:r,6:k,8:r,8:h,10:r,10:k,10:s,12:r,12:h,12:s,14:r,14:k,15:h ###"
+rock dark hybrid ->," None
+None
+None
+None
+None
+0:r,0:k,2:r,2:k,4:s,4:r,4:a,6:r,6:k,8:r,8:a,10:r,10:k,10:s,12:s,12:r,12:a,14:r,14:k,15:a ###"
+rock acoustic ->," None
+None
+None
+0:k,2:k
+1:k,6:k,8:h,10:s
+1:s,5:s,14:k,14:k,16:k,18:s,28:h,29:s ###"
+rock dark hybrid ->," None
+None
+None
+0:k,2:a
+1:k,6:a,8:a,10:s
+1:s,5:s,14:k,14:a,16:a,18:s,28:a,29:s ###"
+pop acoustic ->," None
+None
+None
+3:k,3:k
+7:k,7:k,9:h,13:h
+0:k,15:k,15:k,17:h ###"
+pop dark hybrid ->," None
+None
+None
+0:k,0:a
+4:k,4:a,6:a,10:a
+12:k,12:a,14:a ###"
+pop soft acoustic ->," None
+None
+0:h
+4:z
+0:k,6:k,10:h
+2:h,14:h,22:h,30:j ###"
+pop soft dark hybrid ->," None
+None
+0:a
+4:z
+0:k,6:k,10:a,14:a
+2:a,22:a ###"
+pop soft 808 simple ->," None
+None
+0:h
+4:s
+0:k,6:k,10:h
+2:h,14:h,22:h,30:j ###"
+pop soft deep daft ->," None
+None
+0:h
+4:z
+0:k,6:k,10:h
+2:h,14:h,22:h,30:a ###"
+pop soft acoustic ->," None
+None
+None
+None
+None
+0:k,2:r,2:h,4:r,6:s,6:r,6:h ###"
+pop soft dark hybrid ->," None
+None
+None
+None
+None
+0:k,2:r,2:a,4:r,6:s,6:r,6:a ###"
+pop soft big room layered ->," None
+None
+None
+None
+None
+0:k,2:r,2:h,4:r,6:r,6:h,6:s ###"
+afrobeat acoustic ->," None
+None
+0:k
+4:l,6:h
+3:s,8:h,9:k,14:s
+0:h,6:s,10:h,11:s,16:k,18:h,22:s,26:s ###"
+afrobeat dark hybrid ->," None
+None
+0:k,0:a
+6:a
+3:s,9:k,14:s
+6:s,10:a,11:s,18:a,22:s,26:s ###"
+afrobeat big room layered ->," None
+None
+0:k
+4:l,6:h,6:s
+3:s,8:h,9:k
+0:h,10:h,11:s,16:k,18:h,26:s ###"
+afrobeat deep daft ->," None
+None
+0:k
+4:a,6:h
+3:s,8:h,9:k,14:s
+0:h,6:s,10:h,11:s,16:k,18:h,22:s,26:s ###"
+funk acoustic ->," None
+None
+None
+0:k
+4:k
+16:k,20:s,22:h,23:s,25:s,26:l,26:k,28:h,30:s,30:k ###"
+funk dark hybrid ->," None
+None
+None
+None
+None
+0:k,0:a,4:a,4:s,6:a,7:s,8:a,9:s,10:k,10:a,12:a,14:a,14:s ###"
+funk deep daft ->," None
+None
+None
+0:k
+4:k
+16:k,20:s,22:h,23:s,25:s,26:k,26:a,28:h,30:s,30:k ###"
+rock acoustic ->," None
+None
+None
+2:k,4:s,4:k
+6:k,8:k,8:k,10:k,14:k
+0:k,0:y,12:h,14:l,16:h,16:k,18:k,23:s,30:k ###"
+rock dark hybrid ->," None
+None
+2:a
+4:s,4:a
+8:k,8:a,10:k,14:k
+0:k,0:y,12:a,16:a,18:k,23:s ###"
+rock deep daft ->," None
+None
+None
+2:k,4:s,4:k
+6:k,8:k,8:k,10:k,14:k
+0:k,0:y,12:h,14:a,16:h,16:k,18:k,23:s,30:k ###"

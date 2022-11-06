@@ -4,13 +4,18 @@ from tqdm import tqdm
 from pydub.playback import play
 import os
 from mappings import mappings, replacements
+from matrix2text import periods_text_to_linear_text
 
 def bpm_to_ms(bpm):
     return 60000 / 2 / bpm
 
-def text_to_audio(text, bpm):
+def text_to_audio(text, bpm, periodic=False):
     buffer_length = bpm_to_ms(bpm)
     audio = AudioSegment.silent(duration=0)
+
+    if periodic:
+        text = periods_text_to_linear_text(text)
+        print(text)
 
     notes_list = text.split(" ")
     for i in range(len(notes_list)):
@@ -71,9 +76,16 @@ if __name__=="__main__":
     #     audio = text_to_audio(row["note_text"], row["bpm"])
     #     audio.export(output_path, format="wav")
 
-    test_text = "yrk n kr n hrs n hr s hr sh kr n hrs n hr s hrk n hkr n hsr n hr s hr s khr k shr n hr"
+    # test_text = "yrk n kr n hrs n hr s hr sh kr n hrs n hr s hrk n hkr n hsr n hr s hr s khr k shr n hr"
+    test_text = """None
+        0:r
+        None
+        2:k,4:h,6:h,7:s
+        0:k,4:s,8:h,9:s
+        0:y,9:h,12:s,16:h,18:h,26:h,27:k,28:s,31:s
+    """
     # test_text = "kl n kh k ks k kl n h h l n ksh h kl n kh h kl k ksh kh kl n kh h l n ksh h kl n"
-    audio = text_to_audio(test_text, 135)
+    audio = text_to_audio(test_text, 135, periodic=True)
     play(audio)
 
     # import pandas as pd

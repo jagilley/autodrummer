@@ -29,6 +29,18 @@ def matrix_to_notes_reduce(matrix, truncate=32):
             notes_reduce.append(notes[i])
         else:
             notes_reduce.append([])
+
+    # remove all elements in the array before the first occurrence of an element that includes any of 36, 22, or 35
+
+    # find first occurrence of 36, 22, or 35
+    first_occurrence = None
+    for i, note in enumerate(notes_reduce):
+        if 36 in note or 22 in note or 35 in note:
+            first_occurrence = i
+            break
+    
+    if first_occurrence is not None:
+        notes_reduce = notes_reduce[first_occurrence:]
     
     return notes_reduce
 
@@ -100,19 +112,23 @@ def periods_text_to_linear_text(periods_text):
     length = 32
     linear_array = [[] for _ in range(length)] # change hardcoded 32
 
-    print(periods)
+    # print(periods)
 
     for i, period in enumerate(periods):
         multiplier = 2 ** i
         nth_note = f"1/{2 ** (4 - i)}th note"
         for note in period:
-            if note[0].strip() != "None" and note[0].strip() != "":
+            if len(note) == 1:
+                note_strip = [note[0].strip()]
+            else:
+                note_strip = (note[0].strip(), note[1].strip())
+            if note_strip[0] != "None" and note_strip[0] != "":
                 # print("adding", note[1], "every" , nth_note, "offset", note[0].strip())
-                indices_to_add = [int(note[0].strip()) + j * multiplier for j in range(length // multiplier)]
+                indices_to_add = [int(note_strip[0]) + j * multiplier for j in range(length // multiplier)]
                 for idx in indices_to_add:
-                    linear_array[idx].append(note[1])
+                    linear_array[idx].append(note_strip[1])
     
-    print(linear_array)
+    # print(linear_array)
     return notes_reduce_to_text(linear_array, ints_to_notes=False)
 
 def notes_reduce_to_text(notes_reduce, truncate=32, ints_to_notes=True):
@@ -124,10 +140,12 @@ def notes_reduce_to_text(notes_reduce, truncate=32, ints_to_notes=True):
         notes_reduce = ["".join([inverse_mapping[value] if value in inverse_mapping.keys() else "l" for value in values]) if len(values) > 0 else "n" for values in notes_reduce]
     
     # remove all elements in the array before the first occurrence of an element that includes the letter 'k'
-    try: # POTENTIAL PROBLEM: we've already truncated to 32 if periodic
-        notes_reduce = notes_reduce[notes_reduce.index(next(filter(lambda x: "k" in x, notes_reduce))):]
-    except StopIteration:
-        pass
+    # try:
+    #     notes_reduce = notes_reduce[notes_reduce.index(next(filter(lambda x: "k" in x, notes_reduce))):]
+    # except StopIteration:
+    #     pass
+
+    print(notes_reduce)
 
     # remove all duplicate characters in each note
     notes_reduce = ["".join(set(note)) for note in notes_reduce]
@@ -135,6 +153,9 @@ def notes_reduce_to_text(notes_reduce, truncate=32, ints_to_notes=True):
     order_list = list(inverse_mapping.values())
     # order the notes according to order_list
     notes_reduce = ["".join(sorted(note, key=lambda x: order_list.index(x))) for note in notes_reduce]
+
+    # replace all instances of '' with 'n'
+    notes_reduce = [note if note != "" else "n" for note in notes_reduce]
 
     notes_reduce_string = " ".join(notes_reduce[:truncate])
 
@@ -161,7 +182,7 @@ if __name__=="__main__":
 
     matrix_df['q_matrices'] = matrix_df['q_matrices'].progress_apply(eval_to_list)
 
-    matrix_df['note_text'] = matrix_df.progress_apply(lambda row: matrix_to_period_text(row['q_matrices']), axis=1)
+    matrix_df['note_text'] = matrix_df.progress_apply(lambda row: matrix_to_linear_text(row['q_matrices']), axis=1)
 
     # deduplicate by note_text column
     matrix_df = matrix_df.drop_duplicates(subset=['note_text'])
