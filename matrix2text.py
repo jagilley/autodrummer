@@ -5,10 +5,13 @@ from mappings import inverse_mapping, replacement_chars
 
 tqdm.pandas()
 
-def matrix_to_text(matrix, truncate=32):
+def matrix_to_notes_reduce(matrix, truncate=32):
     if matrix is None:
         return None
     length = int(matrix[-1][1] * 4)
+
+    # only keep notes such that notes[1] < truncate // 4
+    matrix = [note for note in matrix if len(note) > 0 and note[1] < truncate // 4]
 
     notes_reduce = [] * length
 
@@ -26,6 +29,58 @@ def matrix_to_text(matrix, truncate=32):
             notes_reduce.append(notes[i])
         else:
             notes_reduce.append([])
+    
+    return notes_reduce
+
+def matrix_to_periods(matrix, truncate=32):
+    if matrix is None:
+        return None
+    
+    notes_reduce = matrix_to_notes_reduce(matrix, truncate=truncate)
+    
+    notes_reduce = notes_reduce[:truncate]
+
+    periods = [None] * 6
+    # periods[0] = all notes repeating every 1/16th note
+    # periods[1] = all notes repeating every 1/8th note
+    # periods[2] = all notes repeating every 1/4th note
+    # periods[3] = all notes repeating every 1/2th note
+    # periods[4] = all notes repeating every bar
+    # periods[5] = all notes repeating every 2 bars
+
+    for i in range(6):
+        period = []
+        for j in range(len(notes_reduce)):
+            candidate = []
+            for k in range(0, len(notes_reduce), 2 ** i):
+                idx = (j + k) % len(notes_reduce)
+                candidate.append(notes_reduce[idx])
+            # get all values occurring in every value in period
+            # print(i, j, period)
+            # period = all values common to every value in period
+            candidate = list(set.intersection(*map(set, candidate)))
+            if candidate != [] and candidate != [[]]:
+                print(i, j, candidate)
+                for note in candidate:
+                    if note != []:
+                        period.append((j, inverse_mapping[note]))
+            # for every value in period, remove it from every 2**i value in notes_reduce
+            for note in candidate:
+                for k in range(0, len(notes_reduce), 2 ** i):
+                    idx = (j + k) % len(notes_reduce)
+                    if note in notes_reduce[idx]:
+                        notes_reduce[idx].remove(note)
+        periods[i] = period
+
+    pdb.set_trace()
+    
+    return periods
+
+
+def matrix_to_text(matrix, truncate=32):
+    if matrix is None:
+        return None
+    notes_reduce = matrix_to_notes_reduce(matrix, truncate=truncate)
     
     # notes_reduce = [min(i) if len(i) > 0 else -1 for i in notes_reduce]
 
@@ -46,10 +101,9 @@ def matrix_to_text(matrix, truncate=32):
     # order the notes according to order_list
     notes_reduce = ["".join(sorted(note, key=lambda x: order_list.index(x))) for note in notes_reduce]
 
-
-    notes_reduce_string = " ".join(notes_reduce[:(truncate)])
-    for old, new in replacement_chars.items():
-        notes_reduce_string = notes_reduce_string.replace(old, new)
+    notes_reduce_string = " ".join(notes_reduce[:truncate])
+    # for old, new in replacement_chars.items():
+    #     notes_reduce_string = notes_reduce_string.replace(old, new)
 
     return notes_reduce_string
 

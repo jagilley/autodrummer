@@ -47,13 +47,14 @@ inverse_mapping = {
     49: 'c', # crash
     51: 'r', # ride
     59: 'r', # ride_2
+    53: 'r', # ride_bell
     39: 'l', # clap
     56: 'b', # cowbell
     37: 'z', # shaker
     54: 'a', # tambourine
     81: 'i', # triangle
     49: 'y', # cymbal
-    55: 'p', # splash cymbal
+    55: 'y', # splash cymbal
     46: 'j', # hihat_open
     44: 'h', # hihat_pedal
     43: 'u', # tom_high_floor
@@ -61,7 +62,6 @@ inverse_mapping = {
     45: 'x', # tom_low
     47: 'q', # tom_low_mid
     58: 'v', # vibraslap
-    53: 'd', # ride_bell
     0: 'n', # none
     -1: 'n', # none
 }
