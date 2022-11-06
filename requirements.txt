@@ -1,0 +1,8 @@
+pydub
+torch
+pandas
+numpy
+openai
+autokeras
+tqdm
+scikit-learn
