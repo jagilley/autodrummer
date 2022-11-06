@@ -1,4 +1,3 @@
-
 inverse_mapping_old = {
     36: 'kick',
     38: 'snr', # snare
@@ -35,7 +34,6 @@ inverse_mapping_old = {
     47: 'tom_low_mid',
 }
 
-
 inverse_mapping = {
     36: 'k', # kick
     22: 'k', # VERIFY
@@ -44,17 +42,20 @@ inverse_mapping = {
     40: 's', # snare_rimshot
     42: 'h', # hihat
     48: 't', # tom
-    49: 'c', # crash
     51: 'r', # ride
     59: 'r', # ride_2
     53: 'r', # ride_bell
     39: 'l', # clap
+    26: 'l', # VERIFY
     56: 'b', # cowbell
     37: 'z', # shaker
     54: 'a', # tambourine
     81: 'i', # triangle
+    49: 'y', # crash
     49: 'y', # cymbal
     55: 'y', # splash cymbal
+    52: 'y', # chinese cymbal
+    57: 'y', # crash_2
     46: 'j', # hihat_open
     44: 'h', # hihat_pedal
     43: 'u', # tom_high_floor
